@@ -29,4 +29,6 @@ Ce type de parole est recommandé lors d'un brain storming, où le but est d'avo
 
 ![popcorn](http://t1.gstatic.com/images?q=tbn:ANd9GcQNxIcTuwz2DyQQWRpJVGMZCynOJ8IdQVeA-kqj0y3F_OX03E5F)
 
-Fiche compilée par François Wuidard. 
+##Source : 
+
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
