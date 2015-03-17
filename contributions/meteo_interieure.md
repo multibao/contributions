@@ -44,4 +44,6 @@ Quand un participant exprime sa météo, celui ci s'exprime jusqu'au bout sans �
 
 Il est préférable que l'animateur/facilitateur ne s'exprime pas en premier pour faire sa propre météo mais plutôt en dernier. En effet, si il s'exprime en premier il y a de grandes chances que cela influence la météo des partcipants. En outre, en s'exprimant en dernier, il aura la possibilité de rebondir sur les propros des participants pour introduire la prochaine activité, le cadre ou pour conclure l'animation/formation.
 
-Fiche compilée par François Wuidard. 
+##Source : 
+
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
