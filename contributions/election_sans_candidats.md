@@ -68,3 +68,4 @@ Gouvernance partagée et fonctionnement des Organisations en Cercle - Dimitri Bi
 
 Fiche compilée sur Multibao.org par François Wuidard. 
 
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
