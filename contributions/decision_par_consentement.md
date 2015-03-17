@@ -72,7 +72,7 @@ Pffffff... Quand ça fonctionne, qu'est-ce que c'est bon!!!
 
 Gouvernance partagée et fonctionnement des Organisations en Cercle - Dimitri Biot - Avril 2014 Document inspiré de la Sociocratie, de l'Holacratie™ et des travaux de l'Université du Nous
 
-Fiche compilée sur multibao.org par François Wuidard. 
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
 
 
 
