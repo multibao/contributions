@@ -93,4 +93,6 @@ C’est quand les membres d’un groupe décident d’exclure un/des membre(s) d
 •	Une période de test de la personne exclue peut prendre place (à son insu ou non, avec son consentement ou non). Cette période peut se compter en temps (jour, semaines, etc.) ou en nombre d’activité que la personne réalise. 
 
 
-Fiche compilée par François Wuidard. 
+##Source : 
+
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
