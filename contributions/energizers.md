@@ -67,7 +67,9 @@ Pour dynamiser une réunion/formation et empêcher que les gens ne s'assoupissen
 
 Avant le changement de place, il faut également préciser aux participants qu'ils changeront de perspectives de vue dans le groupe. La salade de fruit peut être aussi principalement utilisée à cet effet. 
 
-Fiche compilée par François Wuidard. 
+##Source de la fiche : 
+
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
 
 
 
