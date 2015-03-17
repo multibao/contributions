@@ -77,4 +77,8 @@ On utilise ce geste quand on sent que les discussions se répètent ou tournent 
 **Précaution d'usage très importante** : l'utilisation de ce geste est à utiliser avec des pincettes et seulement dans des situations exceptionnelles, avec des participants qui ne chercheraient pas à nuire à d'autres participants. En effet, si lors d'une réunion, à chaque fois qu'un participants en particulier prend la parole et que plusieurs personnes effectuent ce geste systématiquement, au bout d'un certain temps, la personne ne s'exprimera plus du tout dû au feed back négatif constant. Donc, introduire l'utilisation de ce geste est risquée dans les pratiques d'intélligence collective (où idéalement la totalité des participants est amenée à s'exprimer).
 
 
-Modèle François Wuidard. Fiche compilée par François Wuidard. 
+##Source : 
+
+Modèle : François Wuidard. 
+
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
