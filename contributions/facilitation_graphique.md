@@ -2,6 +2,9 @@
 
 La facilitation graphique est une méthode qui permet d’accompagner un processus de communication. Au lieu de laisser les paroles, les mots, les idées s’échapper dans l’air, le facilitateur graphique les saisit au vol et les transcrit sur du papier.
 
+![atelier facilitation graphique](https://framapic.org/bIwPeia8Sxlc/WsFWu7pr)
+Un atelier de facilitation graphique, by Jenni Bailey sous licence Creative Commons BY-ND-NC
+
 ## Pourquoi saisir les idées sur un papier?
 
 1. Pour que les participants puissent voir « concrètement » et en temps réel l’avancée de leur travail, le nombre d’idées produites, les sujets qui ont été évoqués.
