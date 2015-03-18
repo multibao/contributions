@@ -46,3 +46,5 @@ Si vous voulez tester vos capacités de facilitateur graphique, il y a un bon MO
 #Sources
 
 * [Julie BOIVEAU](https://julieboiveau.wordpress.com), selon les termes de la licence Creative Commons BY-SA
+
+![julie boiveau](http://static9.viadeo-static.com/servlet/photo?memberId=002j9kq4fngomup&height=185&width=140&ts=1397902765000)
