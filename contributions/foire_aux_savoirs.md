@@ -1,12 +1,14 @@
 # Foire aux savoirs
 
-![échanges](http://upload.wikimedia.org/wikipedia/commons/3/36/Roumics_2014_Lille.JPG). Un échange de savoirs lors des Roumics à Lille, une photo par [Lamiot](http://commons.wikimedia.org/wiki/File:Roumics_2014_Lille.JPG) sous licence Creative Commons BY-SA.
+![échanges](http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Roumics_2014_Lille.JPG/640px-Roumics_2014_Lille.JPG)
+Un échange de savoirs lors des Roumics à Lille, une photo par [Lamiot](http://commons.wikimedia.org/wiki/File:Roumics_2014_Lille.JPG) sous licence Creative Commons BY-SA.
 
 Informelle, ouverte, souple et de nature non hiérarchique, la foire des connaissances (appelée aussi "foire aux savoirs") met en exposition les activités et les communautés liées au savoir et les rend concrètement accessibles à une partie du personnel, parfois même aux partenaires et aux clients.
 
 Les participants peuvent observer ce qui se passe, ce que les autres font et nouer des relations entre eux. On y retrouve les caractéristiques d’une foire médiévale, où des personnes d’origine et de couche sociale différentes se mêlent dans une mosaïque d’interactions.
 
-![un lieu de rencontre](http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Dominic_Grifo_and_Gabriel_Mugar_in_discussion%2C_2011-01-05.jpg/640px-Dominic_Grifo_and_Gabriel_Mugar_in_discussion%2C_2011-01-05.jpg). Photo par Ragesoss sous licence Creative Commons BY.
+![un lieu de rencontre](http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Dominic_Grifo_and_Gabriel_Mugar_in_discussion%2C_2011-01-05.jpg/640px-Dominic_Grifo_and_Gabriel_Mugar_in_discussion%2C_2011-01-05.jpg)
+Photo par Ragesoss sous licence Creative Commons BY.
 
 Une foire aux savoirs, à la différence d’une conférence ou d’un séminaire, est un lieu de rencontre et d’échange dynamique qui repose sur la mobilisation sociale et la participation. C’est un lieu où s’alternent des sessions planifiées et des échanges informels. Ces rencontres sont appelées « foires aux savoirs » car le but est d’offrir un espace où tous, hommes et femmes venus d’horizons divers, ont la possibilité de partager leurs expériences, leurs connaissances, et d’échanger ce qu’ils ont appris au cours de la mise en œuvre de projets et d’activité. 
 
