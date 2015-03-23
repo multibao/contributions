@@ -1,6 +1,6 @@
 #Gestes facilitateurs de discussion : 
 
-Ces gestes ont chacun leur signification et permettent une gestion de la parole plus fluide et harmonieuse. Leur utilisation est la bienvenue dans toutes réunions et dans les pratiques de parole au centre (vous pouvez en savoir plus sur la pratique de la parole au centre sur la fiche "gestion de parole". Il est toujours préférable de rappeler ces gestes et la consigne qui va avec chacun d’eux au début d’une réunion quand on pose le cadre pour éviter une mauvaise utilisation. 
+Ces gestes ont chacun leur signification et permettent une gestion de la parole plus fluide et harmonieuse. Leur utilisation est la bienvenue dans toutes réunions et dans les pratiques de parole au centre (vous pouvez en savoir plus sur la pratique de la parole au centre sur la fiche "gestion de parole"). Il est toujours préférable de rappeler ces gestes et la consigne qui va avec chacun d’eux au début d’une réunion quand on pose le cadre pour éviter une mauvaise utilisation. 
 
 Lors d'une réunion/formation/animation, il est toujours utile d'avoir un support écrit visible par tous reprenant ces signes et leur signification. En outre, ces signes sont utilisable à la fois "en direct" (avec présence physique), ou lors de communication skype ou d'autres vidéo-conférences. 
 
@@ -42,7 +42,7 @@ Lors d'une réunion skype, l'équivalent de ce signe est un "Y" en majuscule dan
 
 ##Le "je désapprouve et ne partage pas cette penséeé : 
 
-Les mains sont de part et d’autres du torse, ventre ou cuisses. Les doigts sont étendus vers le haut et décollés les uns des autres. On effectue des petites rotations avec les mains dans cette position quand on désapprouve ce qu’une personne est en train d’exprimer et qu’on ne partage pas son avis.
+Les mains sont de part et d’autres du torse, ventre ou cuisses. Les doigts sont étendus vers le bas et décollés les uns des autres. On effectue des petites rotations avec les mains dans cette position quand on désapprouve ce qu’une personne est en train d’exprimer et qu’on ne partage pas son avis.
 
 ![imagedésapprouve](https://lh3.googleusercontent.com/90R6TNJks5IVbjOV_QD_NKcTeSozFYyiX5pZwolJ1Q=w276-h207-p-no)
 
