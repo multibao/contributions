@@ -11,7 +11,7 @@ Moi c'est [Thomas](mailto:thomas.wolff@cpcoop.fr), j'assure la liaison entre l'�
  * vous aussi, vous pouvez contribuer, c'est expliqué comment [ici](http://www.multibao.org/pages/multibao/contributions/contribuer)
  * pour les curieux, nous avions déjà compilé [plus de 200 fiches autour des démarches participatives](https://www.dropbox.com/sh/vryv33xp4bwwhx0/AAAGx_8JJZO_Gtipmg4GMFIKa), une des plus grosses boîte à outils de démarches participatives d'Europe.
 
-## ça marche avec une technologie d'interconnexion: c'est une multi boîte à outils
+## ce n'est pas une simple boîte à outils; grâce à la technologie c'est une multi boîte à outils
  * au premier abord, cette technologie n'est pas visible sur le site
  * c'est participatif: vous aussi vous pouvez contribuer
   * en rédigeant des fiches méthodes sur multiBàO.org. En attendant la publication de la document sur "comment faire", merci de rejoindre la [liste de discussion](http://lists.imaginationforpeople.org/cgi-bin/mailman/listinfo/multibao ). Ces fiches peuvent être stockées sur multiBàO.org ou fonctionner grâce à un dépot distant (github, dropbox) que vous aurez choisi. 
