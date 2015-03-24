@@ -1,8 +1,10 @@
 # une multi Boîte à Outils (multiBàO)
 
-bienvenue sur une multi Boîte à outils dédiée à l'organisation en collectif et la gestion de projet. Conçue sur mesure pour les animateurs de réseaux / groupes, vous trouverez ici des ressources que vous pourrez, récupérer, enrichir, connecter à vos sites, propager... 
+bienvenue sur une multi Boîte à outils dédiée à l'organisation en collectif et la gestion de projet. Conçue sur mesure pour les animateurs de réseaux / groupes, vous trouverez ici des ressources que vous pourrez, récupérer, enrichir, connecter à vos sites, propager...
 
-Moi c'est [Thomas](mailto:thomas.wolff@cpcoop.fr), j'assure la liaison entre l'équipe de développement et la communauté d'animateurs de réseaux qui utilisent les fiches. Plutôt que de vous raconter l'histoire de cette multi Boîte à outils, je vous propose de la découvrir en quelques clics.
+Moi c'est [Thomas](mailto:thomas.wolff@cpcoop.fr), j'assure la liaison entre l'équipe de développement et la communauté d'animateurs de réseaux qui utilisent les fiches. La multiBàO en est à sa version 0.2, nous passons bientôt à la 0.3.
+
+Plutôt que de vous raconter l'histoire de cette multi Boîte à outils, je vous propose de la découvrir en quelques clics.
 
 ## les fiches outils/méthodes > présentées sur la partie droite du site
  * beaucoup de contributeurs différents : ces ressources proviennent des "4 coins du web"
