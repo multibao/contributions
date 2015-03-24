@@ -21,10 +21,22 @@ Moi c'est [Thomas](mailto:thomas.wolff@cpcoop.fr), j'assure la liaison entre l'�
 
 ## pour rencontrer des multiBàOteurs/euses 
 
-* vous pouvez vous inscrire sur la liste de discussion pour [se tenir informé ou participer aux ateliers](http://lists.imaginationforpeople.org/cgi-bin/mailman/listinfo/multibao )
+* vous pouvez vous inscrire sur la liste de discussion pour [vous tenir informés ou participer aux ateliers ou ...](http://lists.imaginationforpeople.org/cgi-bin/mailman/listinfo/multibao )
 * vous pouvez [m'écrire un mail](mailto:thomas.wolff@cpcoop.fr) ou me téléphoner (0642459781)
 
 ## version actuelle de la multiBàO
 
 * la multiBàO est publiée sous sa version 0.2 
 * le code source de la plateforme, vous permettant de réutiliser cette technologie pour vous autres projets, est accessible [ici](https://github.com/scopyleft/multibao/tree/dev)
+
+## ce qui nous est précieux 
+
+* vos retours, n'hésitez pas à [nous écrire](maito:thomas.wolff@cpcoop.fr) pour nous faire part de vos observations, remarques, idées :)
+
+Bonne utilisation ! 
+
+Thomas
+
+## Sources
+
+MultiBàO.org, publié selon les termes de la [licence Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/3.0/fr/)
