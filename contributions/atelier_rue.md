@@ -5,6 +5,16 @@ Un atelier de rue est une façon d'échanger autour d'un thème, avec les habita
 
 ![atelier de rue](http://upload.wikimedia.org/wikipedia/commons/thumb/1/11/People_engaging_in_conversation.jpg/640px-People_engaging_in_conversation.jpg)
 
+Une photo de [Alectrevelyan006](http://commons.wikimedia.org/wiki/File:People_engaging_in_conversation.jpg), sous licence Creative Commons BY-SA
+
+
+
+
+
+
+
+
+
 
 ## A quoi ça sert ?
 
