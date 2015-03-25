@@ -3,6 +3,8 @@
 ## En une phrase  
 Un atelier de rue est une façon d'échanger autour d'un thème, avec les habitants, passants ou usagers du lieu dans lequel il s'installe.
 
+![atelier de rue](http://upload.wikimedia.org/wikipedia/commons/thumb/1/11/People_engaging_in_conversation.jpg/640px-People_engaging_in_conversation.jpg)
+
 
 ## A quoi ça sert ?
 
