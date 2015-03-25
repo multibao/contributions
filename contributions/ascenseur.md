@@ -26,8 +26,6 @@ Nous vous présentons ici une procédure de la technique de l'ascenseur **(1)**
 
 **Lors du Congrès CNEI du jeudi 13 novembre 2014, par Thomas Wolff, un des facilitateurs présents** **(2)**
 
-![CNEI](http://media4.finances.woopic.com/8/f/520x250/fd/1/p/latribune-actu-articles%7Cb26%7Ccae%7Cb362abe012d5403b678f0c98af/congres-du-cnei-410757.jpg)
-
 Lors de cet évènement, nous étions 6 facilitateurs à tenter de trouver une manière de rendre un débat avec expert convivial et surtout participatif. En sachant que nous avions des contraintes importantes fixées par les organisateurs du congrès, que ce soit du point de vue du temps (50 mn), du fond (ce dont quoi parleraient les experts), que de la forme (autrement dit droit de regard sur la forme de l'évènement participatif!). 
 
 ### Trame version linéaire 
