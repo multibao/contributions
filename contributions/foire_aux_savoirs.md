@@ -1,4 +1,4 @@
-# Yo Foire aux savoirs
+# Foire aux savoirs
 
 ![échanges](http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Roumics_2014_Lille.JPG/640px-Roumics_2014_Lille.JPG)
 
