@@ -74,6 +74,8 @@ Ces dernières sont souples et ont vocation à instaurer un climat de confiance,
 
 Les participants se réunissent en groupes de 4 ou 5 personnes (nombre maximum recommandé afin de créer une interaction entre les participants tout en leur assurant un temps de parole suffisant à chacun) autour de petites tables avec pour objectif de débattre du thème et de faire émerger des idées, des propositions. Les participants disposent de matériel afin d’écrire leurs propositions (papiers, stylos…). Chaque idée/proposition énoncée autour de la table doit être notée (ex. : faire l’objet d’un papier spécifique). Lors de la séance de discussion, ils sont invités à faire part de leurs perspectives individuelles.
 
+Le porteur du projet intervient dans la première session afin de bien préciser le sujet et si besoin de le reformuler. **(4)** 
+
 Au bout d’un temps précis défini (entre 15 et 30 minutes maximum), tous les participants sont invités à changer de table sauf l’hôte. Il s’agit de compléter les idées des uns avec des apports nouveaux. Au travers des différents avis, les idées vont « mûrir » et gagner en potentiel, chaque changement de table permet la « pollinisation » des idées et pousse la conversation plus loin pour aboutir à des idées souvent innovantes.
 
 En général, 3 séances de discussions de 15 à 30 minutes sont organisées pour permettre la « pollinisation ».
@@ -160,4 +162,5 @@ Afin de poursuivre les dynamiques et les échanges entre acteurs créés par le 
 * **(1)** [Fondation Nicolas Hulot](www.fondation-nicolas-hulot.org), sous licence Creative Commons BY-NC-SA
 * **(2)** Thomas Wolff, [association Centre des pratiques de la coopération](http://cpcoop.fr), sous licence Creative Commons BY-SA
 * **(3)** [Co-creative recipes](http://www.co-creative-recipes.cc), sous licence Creative Commons BY-SA
+* **(4)** Bertrand Fritsch, sous licence Creative Commons BY-SA
 * [Bilan national des journées de la restauration collective responsable, Fondation Nicolas Hulot.](http://www.fondation-nicolas-hulot.org/sites/default/files/pdf/publications/Bilan_national_journees_RCR.pdf)
