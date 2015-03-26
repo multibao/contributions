@@ -4,6 +4,10 @@
 
 le sprint d'écriture est un dispositif qui permet la co-rédaction d'un texte (ou un livre), selon un principe d'unité de temps et de lieu, et avec une méthode d'animation structurée.
 
+!(sprint)(https://pbs.twimg.com/media/CBBGAKUWoAArGX6.jpg)
+
+Photo prise lors des rencontres [moustic 2015](http://moustic.info), par Thomas Wolff sous licence Creative Commons BY-SA
+
 ##A quoi ça sert?
 
    • à mettre ses idées en commun et à les structurer pour produire un texte collaboratif
