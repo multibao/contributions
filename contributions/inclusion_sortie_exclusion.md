@@ -36,7 +36,9 @@ C’est quand un nouveau membre fait une tentative de rejoindre un groupe.
 
 •	Le nouvel arrivant doit signer un contrat écrit qui reprend ses obligations en tant que membres (le groupe doit alors rédiger ce contrat en fonction des critères de son choix). 
 
-•	Le nouvel arrivant doit assister à une première réunion sans prendre la parole et juste observer comment cela se passe puis il est admis dans le groupe
+•	Le nouvel arrivant doit assister à une première réunion sans prendre la parole et juste observer comment cela se passe puis il est admis dans le groupe. 
+
+* Par un système de séances ouvertes (une séance ouverte ayant lieu toute les X réunion) où les nouveaux participants peuvent venir observer. 
 
 •	Le nouvel arrivant doit assister à une première réunion sans prendre la parole et juste observer comment cela se passe, et à une deuxième réunion il pourra se présenter, et dire dans quels projets il aurait envie de prendre part. 
 
@@ -69,6 +71,8 @@ Attention : une sortie qui n'est pas gérer peut aboutir à plusieurs autres sor
 •	Le membre fait part de son choix au responsable (ou animateur/facilitateur) du groupe. Qui apportera la question du départ à la prochaine réunion pour en discuter avec les autres membres du groupe. 
 
 •	En réunion, le membre voulant sortir explique les raisons de son choix.
+
+* Par un système de séances ouvertes (une séance ouverte ayant lieu toute les X réunion) où les membres qui le souhaitent annoncent leur décision de quitter le groupe. 
 
 •	Après les explications, les membres du cercle peuvent avoir comme règle de ne pas réagir et la sortie est confirmé (ce point n’est pas conseillé). 
 
