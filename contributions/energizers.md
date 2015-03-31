@@ -560,3 +560,156 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 • Técnicas Participativas para La Educación Popular II VARGAS VARGAS, LAURA - BUSTILLOS, GRACIELA Reimpresión 2009, 1era. Edición 1988, IMDEC Servicios Jurídicos y Sociales S.C.
 
 Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA
+
+#LE TAPE CHAISE
+
+##A partir de :
+
+8 ans
+
+##Effectif +/- :	
+
+5
+
+##Durée :
+
+15 mn
+
+##Lieu :
+
+Salle de taille moyenne
+
+##Intérêts :
+
+Apprendre les prénoms des membres du groupe,
+
+Réagir immédiatement à une situation imprévue
+
+##Matériel :
+
+Une chaise par joueur
+
+##Déroulement / Règles :
+
+**but du jeu** : deux joueurs se trouvent en concurrence pour occuper la même chaise laissée vide par un précédent 
+joueur.
+    
+Le groupe s'assoit en cercle sur des chaises. On désigne un joueur A pour venir au centre.
+
+Le joueur B, celui qui se trouve avec une place libre à sa gauche, doit taper sur cette chaise en criant le prénom d'un joueur C qui se trouve quelque part dans le cercle.
+    
+Le concurrent C se précipite pour occuper la chaise vide sur laquelle on vient de taper.
+
+Le joueur A, au centre, doit alors se dépêcher d'aller s'asseoir sur la chaise libérée par C, avant que le joueur D, situé à gauche de la chaise, ne tape dessus en criant le prénom de quelqu'un. Si le joueur A n'y parvient pas, il reste au milieu du cercle et tente sa chance au tour suivant. 
+
+##Sources : 
+
+Cet exercice vient du site [Association Service Jeunnese](http://www.servicejeunesse.asso.fr/index.htm), Tél. : 06 222 78 666 - Fax : 09 57 80 45 73   Contact : contact@servicejeunesse.asso.fr Webmaster et responsable de la publication : Renaud HOCHART
+
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
+
+#COURSE DE CHEVAUX
+
+##A partir de :
+
+8 ans
+
+##Effectif +/- :
+
+5
+
+##Durée :
+
+5 à 10 mn
+
+##Lieu :
+
+Salle
+
+##Intérêts :
+
+Se concentrer sur l'attention auditive.
+
+Exécuter rapidement une consigne verbale.
+
+Conseils sécurité :
+
+##Matériel :
+
+Aucun
+
+##Déroulement / Règles :
+
+  but du jeu : imiter les gestes présentés par le meneur de jeu.
+
+ Les joueurs s'assoient autour de la table ronde de préférence.
+
+Au signal, le meneur de jeu commence à frapper doucement sur la table avec les mains pour imiter le bruit d'une course de chevaux. L'ensemble du groupe suit son exemple.
+
+Puis le meneur crie un changement de situation accompagné d'un geste qui doit être repris par les joueurs :
+
+« Saut d'obstacle » : se lever et se rasseoir, « applaudissements » : applaudir avec les mains ; « au galop » : frapper le sol avec les pieds ;    « virage à droite, à gauche » : se pencher sur le côté indiqué ; « tribune » : regarder avec les mains en forme de jumelles…
+
+À chaque fois, le meneur de jeu donne l'exemple du mouvement à exécuter. Pour marquer la fin du mouvement, le meneur crie « en course » et on reprend la frappe des mains initiale.
+
+**Variante** : Le meneur de jeu montre une première fois les gestes correspondant aux différentes situations. Durant le jeu, il se limite à l'indication des consignes, sans refaire les mouvements. Les joueurs qui tardent à les exécuter ou se trompent sont éliminés.
+
+##Sources : 
+
+Cet exercice vient du site [Association Service Jeunnese](http://www.servicejeunesse.asso.fr/index.htm), Tél. : 06 222 78 666 - Fax : 09 57 80 45 73   Contact : contact@servicejeunesse.asso.fr Webmaster et responsable de la publication : Renaud HOCHART
+
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
+
+#Enlacé
+
+##A partir de :
+
+7 ans
+
+##Effectif +/- :
+
+5 au minium
+
+##Durée :
+
+12 min
+
+##Lieu :
+
+Intérieur / extérieur
+
+##Intérêts : 
+
+Mettre en conditions les joueurs pour développer ensuite les jeux coopératifs - se repérer - s'entre-aider - 
+mémoriser...
+
+##Conseils sécurité :	
+
+La ficelle ne doit pas être trop fine, ni trop épaisse pour éviter coupures et/ou brûlures. On ne passera jamais la 
+ficelle autour du cou.
+
+##Matériel : 
+
+Une bobine de ficelle assez importante en fonction du nombre de joueurs
+
+##But du jeu :
+
+Remettre la ficelle en bobine après l'avoir déroulée.
+
+##Déroulement / Règles :	
+
+Le meneur attache un bout de ficelle au pied droit d'un des participants, le premier. Il lui donne ensuite la bobine entière. Celui-ci a pour consigne de passer dans la ficelle une partie de son corps (Tout sauf le cou). Un bras, épaule, tailles, bassin, pied, main...
+
+Une fois que c'est fait il passe la bobine à un autre joueur qui en fait autant et ainsi de suite. une fois la ficelle déroulée entièrement. Le meneur peut alors demander au groupe d'effectuer des tâches simples. Se déplacer, déplacer un objet, se passer un ballon...
+
+Après cela le meneur demande aux participants de se libérer en ayant pour objectif de rembobiner la ficelle exactement comme au départ.
+
+**Conseil** :
+
+Attention au déplacement, ils doivent être lents.
+
+##Sources : 
+
+Cet exercice vient du site [Association Service Jeunnese](http://www.servicejeunesse.asso.fr/index.htm), Tél. : 06 222 78 666 - Fax : 09 57 80 45 73   Contact : contact@servicejeunesse.asso.fr Webmaster et responsable de la publication : Renaud HOCHART
+
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
