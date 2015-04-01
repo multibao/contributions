@@ -40,13 +40,13 @@ Il s’agit de la forme d’applaudissement qu’utilisent les personnes malente
 
 Lors d'une réunion skype, l'équivalent de ce signe est un "Y" en majuscule dans la barre de conversation. Dans la situation où le facilitateur de la réunion demande si il y a une objection, on peut répondre par la lettre "N" dans la barre de discussion pour signifier qu'il n'y en a pas. 
 
-##Le "je désapprouve et ne partage pas cette penséeé : 
+##Le "je désapprouve et ne partage pas cette pensée : 
 
 Les mains sont de part et d’autres du torse, ventre ou cuisses. Les doigts sont étendus vers le bas et décollés les uns des autres. On effectue des petites rotations avec les mains dans cette position quand on désapprouve ce qu’une personne est en train d’exprimer et qu’on ne partage pas son avis.
 
 ![imagedésapprouve](https://lh3.googleusercontent.com/90R6TNJks5IVbjOV_QD_NKcTeSozFYyiX5pZwolJ1Q=w276-h207-p-no)
 
-**Précaution d'usage très importante** : l'utilisation de ce geste est à utiliser avec des pincettes et seulement dans des situations exceptionnelles, avec des participants qui ne chercheraient pas à nuire à d'autres participants. En effet, si lors d'une réunion, à chaque fois qu'un participants en particulier prend la parole et que plusieurs personnes effectuent ce geste systématiquement, au bout d'un certain temps, la personne ne s'exprimera plus du tout dû au feed back négatif constant. Donc, introduire l'utilisation de ce geste est risquée dans les pratiques d'intélligence collective (où idéalement la totalité des participants est amenée à s'exprimer). 
+**Précaution d'usage très importante** : l'utilisation de ce geste est à utiliser avec des pincettes et seulement dans des situations exceptionnelles, avec des participants qui ne chercheraient pas à nuire à d'autres participants. En effet, si lors d'une réunion, à chaque fois qu'un participants en particulier prend la parole et que plusieurs personnes effectuent ce geste systématiquement, au bout d'un certain temps, la personne ne s'exprimera plus du tout dû au feed back négatif constant. Donc, introduire l'utilisation de ce geste est risqué dans les pratiques d'intélligence collective (où idéalement la totalité des participants est amenée à s'exprimer). 
 
 ## Le « augmente le volume » : 
 
@@ -74,7 +74,7 @@ On utilise ce geste quand on sent que les discussions se répètent ou tournent 
 
 ![moulinet](https://lh3.googleusercontent.com/1Yj-Z_YQ3yAgsAWnaOuzhSXj2mDWNoMvUJ7z0hMdiw=w276-h207-p-no)
 
-**Précaution d'usage très importante** : l'utilisation de ce geste est à utiliser avec des pincettes et seulement dans des situations exceptionnelles, avec des participants qui ne chercheraient pas à nuire à d'autres participants. En effet, si lors d'une réunion, à chaque fois qu'un participants en particulier prend la parole et que plusieurs personnes effectuent ce geste systématiquement, au bout d'un certain temps, la personne ne s'exprimera plus du tout dû au feed back négatif constant. Donc, introduire l'utilisation de ce geste est risquée dans les pratiques d'intélligence collective (où idéalement la totalité des participants est amenée à s'exprimer).
+**Précaution d'usage très importante** : l'utilisation de ce geste est à utiliser avec des pincettes et seulement dans des situations exceptionnelles, avec des participants qui ne chercheraient pas à nuire à d'autres participants. En effet, si lors d'une réunion, à chaque fois qu'un participants en particulier prend la parole et que plusieurs personnes effectuent ce geste systématiquement, au bout d'un certain temps, la personne ne s'exprimera plus du tout dû au feed back négatif constant. Donc, introduire l'utilisation de ce geste est risqué dans les pratiques d'intélligence collective (où idéalement la totalité des participants est amenée à s'exprimer).
 
 
 ##Source : 
