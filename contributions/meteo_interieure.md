@@ -4,7 +4,7 @@
 
 ##En une phrase : 
 
-La météo intérieure est un excercice où l'on demande aux participants d'une réunion/animation/formation comment ils se sentent ici et maintenant. 
+La météo intérieure est un exercice où l'on demande aux participants d'une réunion/animation/formation comment ils se sentent ici et maintenant. 
 
 ##Informations pratiques
 
@@ -12,15 +12,15 @@ Nombre de participants : pas de nombre minimum mais il ne faut pas dépasser 20 
 
 Durée préparation : nulle
 
-Durée évènement : de cinq de minute à une vingtaine de minutes (cela dépend de la taille du groupe avec lequel on réalise cet excercice mais il convient que la météo ne prenne pas trop de temps pour laisser de la place aux autres activités)
+Durée évènement : de cinq de minute à une vingtaine de minutes (cela dépend de la taille du groupe avec lequel on réalise cet exercice mais il convient que la météo ne prenne pas trop de temps pour laisser de la place aux autres activités)
 
 Coût :  nul
 
 ##Présentation : 
 
-Dans l'excercice, chacun va s'exprimer sur son ressenti intérieur, ses sentiments sur le fait d'être ici et maintenant, et/ou ses attentes par rapport aux activités qui suivront. La météo intérieure est généralement utilisé après un moment de centrage (où l'on prend du temps pour se mettre en contact avec son corps, ses émtions et ses pensées, en silence les yeux fermés chacun pour soi). 
+Dans l'excercice, chacun va s'exprimer sur son ressenti intérieur, ses sentiments sur le fait d'être ici et maintenant, et/ou ses attentes par rapport aux activités qui suivront. La météo intérieure est généralement utilisé après un moment de centrage (où l'on prend du temps pour se mettre en contact avec son corps, ses émotions et ses pensées, en silence les yeux fermés chacun pour soi). 
 
-Il est préférable d'employer cet excercice en début de journée/réunion et à la fin de la journée/animation pour cloturer. 
+Il est préférable d'employer cet excercice en début de journée/réunion et à la fin de la journée/animation pour clôturer. 
 
 On peut dans la consignes demander aux participants d'employer des métaphores par rapport à la météo climatique. Exemple : "Pour moi, aujourd'hui c'est soleil" ou encore "Ce matin à la maison, il y a eu de l'orage mais maintenant que je suis ici le temps commence à se calmer". 
 
@@ -42,7 +42,7 @@ Quand un participant exprime sa météo, celui ci s'exprime jusqu'au bout sans �
 
 ##Précaution : 
 
-Il est préférable que l'animateur/facilitateur ne s'exprime pas en premier pour faire sa propre météo mais plutôt en dernier. En effet, si il s'exprime en premier il y a de grandes chances que cela influence la météo des partcipants. En outre, en s'exprimant en dernier, il aura la possibilité de rebondir sur les propros des participants pour introduire la prochaine activité, le cadre ou pour conclure l'animation/formation.
+Il est préférable que l'animateur/facilitateur ne s'exprime pas en premier sa météo mais plutôt en dernier. En effet, s'il s'exprime en premier il y a de grandes chances que cela influence la météo des partcipants. En outre, en s'exprimant en dernier, il aura la possibilité de rebondir sur les propros des participants pour introduire la prochaine activité, le cadre ou pour conclure l'animation/formation.
 
 ##Source : 
 
