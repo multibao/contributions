@@ -124,4 +124,4 @@ Quand ? En semaine, pendant une longue pause déjeuner
 
 Extrait de la formation de deux jours  "lancer ou développer une initiative de Transition" organisée par le [Réseau de transition Wallonie-Bruxelles](http://www.reseautransition.be/)
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
