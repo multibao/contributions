@@ -20,4 +20,4 @@ Bref, si vous récoltez une majorité de 1 et 2 pour vos réunions, réagissez !
 
 Ce document est issu des pratiques de l'équipe de support du [Réseau de transition Wallonie-Bruxelles](http://www.reseautransition.be/) (Belgique). 
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
