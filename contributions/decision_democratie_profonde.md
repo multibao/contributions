@@ -110,5 +110,5 @@ Tout le monde est d'accord :o)
 
 Le wiki Ekopédia, sa fiche sur la [démocratie profonde](http://fr.ekopedia.org/D%C3%A9mocratie_profonde)
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
 
