@@ -31,6 +31,7 @@ Une part fait 3-4 minute (mais cela peut être beaucoup plus longs si les partic
 ##**Sources** :
 Cet exercice nous a été transmis par Fabian Féraux de la société « Les petits Mondes » et formateur, entre autres, en permaculture et en Holacratie : http://www.petitsmondes.be/
 
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
 
 # Le clap ou zap : 
 
@@ -61,6 +62,10 @@ Cet excercice existe sous d'autres nom en théatre et dans les jeux des mouvemen
 
 Exemple de règle complémentaire : *"Celui qui aura le "zap/clap" a maintenant la possibilité de dire le mot "Bombe", quand le mot "Bombe" sera prononcer, tous les particpants devront courrir dans le centre du cercle en criant avant d'aller se replacer dans le cercle à un endroit différents de celui où il étaient"*
 
+##Sources : 
+
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
+
 #La Salade de Fruits : 
 
 Pour dynamiser une réunion/formation et empêcher que les gens ne s'assoupissent, on peut demander, qu'après une pause lors de la reprise, les personnes présentes changent de place entre eux (de préférence pour aller vers une place à laquelle ils n'ont pas encore été assis). 
@@ -69,7 +74,7 @@ Avant le changement de place, il faut également préciser aux participants qu'i
 
 ##Source de la fiche : 
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
 
 # Le double cercle : 
 
@@ -105,7 +110,7 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 • Técnicas Participativas para La Educación Popular II VARGAS VARGAS, LAURA - BUSTILLOS, GRACIELA Reimpresión 2009, 1era. Edición 1988, IMDEC Servicios Jurídicos y Sociales S.C.
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
 #Expression corporelle 
 
@@ -133,7 +138,7 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 • Técnicas Participativas para La Educación Popular II VARGAS VARGAS, LAURA - BUSTILLOS, GRACIELA Reimpresión 2009, 1era. Edición 1988, IMDEC Servicios Jurídicos y Sociales S.C.
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
 #L’assassin 
 
@@ -170,7 +175,7 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 • Técnicas Participativas para La Educación Popular II VARGAS VARGAS, LAURA - BUSTILLOS, GRACIELA Reimpresión 2009, 1era. Edición 1988, IMDEC Servicios Jurídicos y Sociales S.C.
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
 #Le chaos 
 
@@ -204,7 +209,7 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 • Técnicas Participativas para La Educación Popular II VARGAS VARGAS, LAURA - BUSTILLOS, GRACIELA Reimpresión 2009, 1era. Edición 1988, IMDEC Servicios Jurídicos y Sociales S.C.
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
 #Prise de foulards 
 
@@ -233,7 +238,7 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 • Técnicas Participativas para La Educación Popular II VARGAS VARGAS, LAURA - BUSTILLOS, GRACIELA Reimpresión 2009, 1era. Edición 1988, IMDEC Servicios Jurídicos y Sociales S.C.
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
 #Pauvre petit chat 
 
@@ -246,6 +251,16 @@ Animation
 Tous les participants s’assoient en cercle. Un des joueurs devra être le chat. Il marche à quatre pattes et fait le tour jusqu’à s’arrêter devant l’un des participants. Il fait des grimaces et miaule trois fois. Chaque fois qu’il miaule, le joueur devant lequel il s’est arrêté, doit lui caresser la tête et lui dire «Pauvre petit chat» sans rire.
 
 Celui qui rit perd et reçoit un gage, sort du jeu ou doit faire le chat. Il faut établir une des trois règles avant de commencer le jeu.
+
+#Sources : 
+
+Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le manuel "Education Populaire : Manuel de techniques participatives "  sur base des ouvrages:
+
+• Técnicas Participativas de Educación Popular I VARGAS VARGAS, LAURA,  BUSTILLOS, GRACIELA, 1era edicion, 1987, IMDEC Servicios Jurídicos y Sociales S.C. 
+
+• Técnicas Participativas para La Educación Popular II VARGAS VARGAS, LAURA - BUSTILLOS, GRACIELA Reimpresión 2009, 1era. Edición 1988, IMDEC Servicios Jurídicos y Sociales S.C.
+
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
 
 #Mer - Terre 
 
@@ -268,7 +283,7 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 • Técnicas Participativas para La Educación Popular II VARGAS VARGAS, LAURA - BUSTILLOS, GRACIELA Reimpresión 2009, 1era. Edición 1988, IMDEC Servicios Jurídicos y Sociales S.C.
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
 #Le court-circuit 
 
@@ -292,7 +307,7 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 • Técnicas Participativas para La Educación Popular II VARGAS VARGAS, LAURA - BUSTILLOS, GRACIELA Reimpresión 2009, 1era. Edición 1988, IMDEC Servicios Jurídicos y Sociales S.C.
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
 #Ça passe ou ça casse… 
 
@@ -326,7 +341,7 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 • Técnicas Participativas para La Educación Popular II VARGAS VARGAS, LAURA - BUSTILLOS, GRACIELA Reimpresión 2009, 1era. Edición 1988, IMDEC Servicios Jurídicos y Sociales S.C.
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
 #Les clins d’œil 
 
@@ -358,7 +373,7 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 • Técnicas Participativas para La Educación Popular II VARGAS VARGAS, LAURA - BUSTILLOS, GRACIELA Reimpresión 2009, 1era. Edición 1988, IMDEC Servicios Jurídicos y Sociales S.C.
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
 #Le chef d’orchestre 
 
@@ -395,7 +410,7 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 • Técnicas Participativas para La Educación Popular II VARGAS VARGAS, LAURA - BUSTILLOS, GRACIELA Reimpresión 2009, 1era. Edición 1988, IMDEC Servicios Jurídicos y Sociales S.C.
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
 #Debout – assis ! 
 
@@ -423,7 +438,7 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 • Técnicas Participativas para La Educación Popular II VARGAS VARGAS, LAURA - BUSTILLOS, GRACIELA Reimpresión 2009, 1era. Edición 1988, IMDEC Servicios Jurídicos y Sociales S.C.
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
 #BOUM! 
 
@@ -453,7 +468,7 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 • Técnicas Participativas para La Educación Popular II VARGAS VARGAS, LAURA - BUSTILLOS, GRACIELA Reimpresión 2009, 1era. Edición 1988, IMDEC Servicios Jurídicos y Sociales S.C.
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
 #Jacques a dit… 
 
@@ -486,7 +501,7 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 • Técnicas Participativas para La Educación Popular II VARGAS VARGAS, LAURA - BUSTILLOS, GRACIELA Reimpresión 2009, 1era. Edición 1988, IMDEC Servicios Jurídicos y Sociales S.C.
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
 #Le conte animé 
 
@@ -512,7 +527,7 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 • Técnicas Participativas para La Educación Popular II VARGAS VARGAS, LAURA - BUSTILLOS, GRACIELA Reimpresión 2009, 1era. Edición 1988, IMDEC Servicios Jurídicos y Sociales S.C.
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
 #L’entre-deux 
 
@@ -537,7 +552,7 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 • Técnicas Participativas para La Educación Popular II VARGAS VARGAS, LAURA - BUSTILLOS, GRACIELA Reimpresión 2009, 1era. Edición 1988, IMDEC Servicios Jurídicos y Sociales S.C.
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
 #Girafes et éléphants 
 
@@ -559,7 +574,7 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 • Técnicas Participativas para La Educación Popular II VARGAS VARGAS, LAURA - BUSTILLOS, GRACIELA Reimpresión 2009, 1era. Edición 1988, IMDEC Servicios Jurídicos y Sociales S.C.
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
 #LE TAPE CHAISE
 
@@ -606,7 +621,7 @@ Le joueur A, au centre, doit alors se dépêcher d'aller s'asseoir sur la chaise
 
 Cet exercice vient du site [Association Service Jeunnese](http://www.servicejeunesse.asso.fr/index.htm), Tél. : 06 222 78 666 - Fax : 09 57 80 45 73   Contact : contact@servicejeunesse.asso.fr Webmaster et responsable de la publication : Renaud HOCHART
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
 
 #COURSE DE CHEVAUX
 
@@ -658,7 +673,7 @@ Puis le meneur crie un changement de situation accompagné d'un geste qui doit �
 
 Cet exercice vient du site [Association Service Jeunnese](http://www.servicejeunesse.asso.fr/index.htm), Tél. : 06 222 78 666 - Fax : 09 57 80 45 73   Contact : contact@servicejeunesse.asso.fr Webmaster et responsable de la publication : Renaud HOCHART
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
 
 #Enlacé
 
@@ -712,4 +727,4 @@ Attention au déplacement, ils doivent être lents.
 
 Cet exercice vient du site [Association Service Jeunnese](http://www.servicejeunesse.asso.fr/index.htm), Tél. : 06 222 78 666 - Fax : 09 57 80 45 73   Contact : contact@servicejeunesse.asso.fr Webmaster et responsable de la publication : Renaud HOCHART
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
