@@ -52,7 +52,7 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 • Técnicas Participativas para La Educación Popular II VARGAS VARGAS, LAURA - BUSTILLOS, GRACIELA Reimpresión 2009, 1era. Edición 1988, IMDEC Servicios Jurídicos y Sociales S.C.
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
 
 #**L’ami secret** 
 
@@ -88,7 +88,7 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 • Técnicas Participativas para La Educación Popular II VARGAS VARGAS, LAURA - BUSTILLOS, GRACIELA Reimpresión 2009, 1era. Edición 1988, IMDEC Servicios Jurídicos y Sociales S.C.
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
 
 #**Danse de présentation** 
 
@@ -128,7 +128,7 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 • Técnicas Participativas para La Educación Popular II VARGAS VARGAS, LAURA - BUSTILLOS, GRACIELA Reimpresión 2009, 1era. Edición 1988, IMDEC Servicios Jurídicos y Sociales S.C.
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
 
 #**Secouez le panier !**
 
@@ -164,7 +164,7 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 • Técnicas Participativas para La Educación Popular II VARGAS VARGAS, LAURA - BUSTILLOS, GRACIELA Reimpresión 2009, 1era. Edición 1988, IMDEC Servicios Jurídicos y Sociales S.C.
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
 
 #**La toile d’araignée ]]
 
@@ -196,7 +196,7 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 • Técnicas Participativas para La Educación Popular II VARGAS VARGAS, LAURA - BUSTILLOS, GRACIELA Reimpresión 2009, 1era. Edición 1988, IMDEC Servicios Jurídicos y Sociales S.C.
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
 
 #**Les proverbes 
 
@@ -230,7 +230,7 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 • Técnicas Participativas para La Educación Popular II VARGAS VARGAS, LAURA - BUSTILLOS, GRACIELA Reimpresión 2009, 1era. Edición 1988, IMDEC Servicios Jurídicos y Sociales S.C.
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
 
 #**Les prénoms écrits**
 
@@ -264,5 +264,5 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 • Técnicas Participativas para La Educación Popular II VARGAS VARGAS, LAURA - BUSTILLOS, GRACIELA Reimpresión 2009, 1era. Edición 1988, IMDEC Servicios Jurídicos y Sociales S.C.
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-SA. 
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
 
