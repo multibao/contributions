@@ -91,8 +91,8 @@ budget qui serait investi). Au total, 46 propositions ont été faites pour le b
 
 ## Sources
 
-* **(1)** [Fondation Nicolas Hulot](www.fondation-nicolas-hulot.org). 
-* **(2)** Thomas WOLFF,[association Centre des pratiques de la coopération](http://cpcoop.fr)
+* **(1)** [Fondation Nicolas Hulot](www.fondation-nicolas-hulot.org), selon les termes de la licence Creative Commons BY-NC-SA 
+* **(2)** Thomas WOLFF,[association Centre des pratiques de la coopération](http://cpcoop.fr), selon les termes de la licence Creative Commons BY-SA
 * **(3)** [Démocratie participative.net](http://www.democratie-participative.net/) sous licence Creative Commons BY
 * [Direction du Développement et de la Coopération, 2003. Numéro 7 sur le budget participatif comme outil de démocratie participative](http://nccr-ns.epfl.ch/autres_rech/UrbaNews/Urbanews7/UrbaNews_7_fr.pdf)
 * [France Qualité Publique. Bonne pratiques : La ville de Grigny et son expérience en matière d’élaboration du budget participatif](http://www.qualite-publique.org/La-ville-de-Grigny-et-son.html?id_rubrique=7)
