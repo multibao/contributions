@@ -2,22 +2,22 @@
 
 ## En une phrase  
 
-Le Forum ouvert est une structure de parole permettant à un nombre non limité de participants d’explorer leurs propres sujets autour d’un thème central **(2)**, favorisant ainsi une émulation **(3)**.
+Le Forum ouvert est une structure de parole permettant à un nombre non limité de participants d’explorer leurs propres sujets autour d’un thème central **[2](#note)**, favorisant ainsi une émulation **[3](#note)**.
 
-![Forum ouvert](http://i0.wp.com/transitionculture.org/wp-content/uploads/totnesopenspace.jpg?resize=300%2C225)**(4)**
+![Forum ouvert](http://i0.wp.com/transitionculture.org/wp-content/uploads/totnesopenspace.jpg?resize=300%2C225)**[4](#note)**
 
 ## À quoi ça sert ?
 
 * Reproduire les échanges informel d'une pause café
-* Permet la génération d'idées **(2)**
-* Favoriser une véritable émulation **(3)**
+* Permet la génération d'idées **[2](#note)**
+* Favoriser une véritable émulation **[3](#note)**
 
 ## Informations pratiques
 
 * **Nombre de participants**  10 personnes et +
 * **Durée préparation** très variable
 * **Durée évènement** quelques heures à 1 semaine
-* **Coût** très variable  **(2)**
+* **Coût** très variable  **[2](#note)**
 
 ## Présentation 
 
@@ -30,7 +30,7 @@ Le Forum ouvert, tout comme le World café (cf http://www.multibao.org/worldcafe
 
 Le Forum ouvert est conçu comme un processus permettant à des groupes de se réunir afin de créer une dynamique de réflexion profonde sur des questions simples ou complexes. Le Forum ouvert permet de faire travailler ensemble un grand nombre de personnes, d’une dizaine à plusieurs centaines, autour d’un thème commun tout en laissant une grande liberté aux participants. Cette méthodologie est basée sur l’auto-organisation, la créativité et la liberté d’expression, l’objectif est de créer un climat favorisant l’initiative et l’apprentissage. En apparence, le Forum ouvert est une méthodologie qui paraît désorganisée et spontanée dont les résultats sont imprévisibles, pourtant les règles sont nombreuses et l’encadrement est primordial.
 
-Cette méthode a été largement développée dans le reste du monde : 125 pays ont recours aux Forums ouverts. **(1)** 
+Cette méthode a été largement développée dans le reste du monde : 125 pays ont recours aux Forums ouverts. **[1](#note)** 
 
 ## Procédure 
 
@@ -155,13 +155,13 @@ Pendant ces deux journées, il était frappant de voir à quel point l’enthous
 * Le Forum ouvert est bien adapté à la gestion d’un grand nombre de participants et permet de rendre compte de résultats de façon assez rapide.
 * Le concept de liberté est au centre de la méthodologie et dans ce cadre, liberté d’expression, liberté d’organisation, égalité, temps informel et franchise des échanges se traduisent souvent par un gain de créativité de la part des citoyens.
 * Liberté de choix des participants, autonomie.
-* Processus de rencontre et d’échange qui permet de faire émerger l’intelligence collective et la co-construction de propositions grâce à la mise en valeur de la créativité. **(1)** 
-* Favoriser une véritable émulation : les participants choississent eux-mêmes le sous-groupe, l'atelier où ils vont se rendre. **(3)**
+* Processus de rencontre et d’échange qui permet de faire émerger l’intelligence collective et la co-construction de propositions grâce à la mise en valeur de la créativité. **[1](#note)** 
+* Favoriser une véritable émulation : les participants choississent eux-mêmes le sous-groupe, l'atelier où ils vont se rendre. **[3](#note)**
 
 ### Limites 
 * Une des limites majeures de ce type d’organisation réside aussi dans ses qualités : le manque d’organisation et de figure de « leader » afin de gérer le débat et en extraire des éléments clairs.
-* Risque de manque de neutralité des secrétaires. **(1)** 
-* Le suivi est indispensable. Le rôle de la structure animatrice est très important dans le suivi. **(3)**
+* Risque de manque de neutralité des secrétaires. **[1](#note)** 
+* Le suivi est indispensable. Le rôle de la structure animatrice est très important dans le suivi. **[3](#note)**
 
 ## Compilation, traduction et présentation
 
@@ -170,7 +170,9 @@ Pendant ces deux journées, il était frappant de voir à quel point l’enthous
 
 ## Sources
 
-* **(1)** [Fondation Nicolas Hulot](www.fondation-nicolas-hulot.org), sous licence Creative Commons BY-NC-SA
-* **(2)** Guillaume DEPREZ, [Université de Bordeaux Segalen](www.univ-bordeauxsegalen.fr), sous licence Creative Commons BY-SA
-* **(3)** Thomas WOLFF, [association Centre des pratiques de la coopération](http://cpcoop.fr), sous licence Creative Commons BY-SA
-* **(4)** [Montreuil en transition](http://montreuilentransition.fr/forum-ouvert/), sous licence Creative Commons BY-SA 
+<a id="note">
+
+* **[1](#note)** [Fondation Nicolas Hulot](www.fondation-nicolas-hulot.org), sous licence Creative Commons BY-NC-SA
+* **[2](#note)** Guillaume DEPREZ, [Université de Bordeaux Segalen](www.univ-bordeauxsegalen.fr), sous licence Creative Commons BY-SA
+* **[3](#note)** Thomas WOLFF, [association Centre des pratiques de la coopération](http://cpcoop.fr), sous licence Creative Commons BY-SA
+* **[4](#note)** [Montreuil en transition](http://montreuilentransition.fr/forum-ouvert/), sous licence Creative Commons BY-SA 
