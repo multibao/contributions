@@ -2,18 +2,18 @@
 
 ## En une phrase  
 
-Démarche permettant aux citoyens de rédiger une partie ou la totalité de la constitution d'un pays, définissant ainsi les orientations politiques d'un pays. **(2)**
+Démarche permettant aux citoyens de rédiger une partie ou la totalité de la constitution d'un pays, définissant ainsi les orientations politiques d'un pays. **[2](#note)**
 
 ![assemblée](http://www.pcf.fr/sites/default/files/imagecache/image/06-constituante.jpg)
 
 ## A quoi ça sert ?
 
-* Revoir l'organisation politique d'un pays **(2)**
-* Concertation citoyenne **(2)**
+* Revoir l'organisation politique d'un pays **[2](#note)**
+* Concertation citoyenne **[2](#note)**
 
 ## Présentation 
 
-**(1)** L'assemblée constituante composée de citoyens est un processus de démocratie participative. En effet, elle donne le pouvoir aux citoyens de rédiger eux-mêmes tout ou une partie de la Constitution d’un pays.
+**[1](#note)** L'assemblée constituante composée de citoyens est un processus de démocratie participative. En effet, elle donne le pouvoir aux citoyens de rédiger eux-mêmes tout ou une partie de la Constitution d’un pays.
 La Constitution est le texte fondateur de l'organisation politique d'une nation, elle définit les droits et libertés fondamentaux, les institutions composant l’État et l’organisation des pouvoirs. En France, la Constitution de 1958 fondant la Ve République est la norme suprême et tous les textes juridiques (lois, décrets…) doivent la respecter. Une Constitution peut avoir vocation à évoluer au fil du temps pour être remplacée par une nouvelle constitution ou plus simplement être révisée. En démocratie, il existe deux processus d’élaboration ou de révision de la Constitution :
 - Soit par les organes du pouvoir exécutif, par exemple le gouvernement en France, qui rédigent un texte constitutionnel.
 - Soit sa rédaction est confiée à une assemblée constituante désignée ou élue. Cette assemblée, spécialement créée pour la révision ou la rédaction d’une constitution, peut être composée d’experts et de membres d’organes institutionnels (comme par exemple la Commission Coppens chargée en 2002 de rédiger la Charte de l’environnement, qui a ensuite été intégrée à la Constitution française) ou être composée de citoyens « ordinaires ».
@@ -91,6 +91,9 @@ Le résultat du référendum n’amène donc pas directement à une adoption de 
 * Limite de reproduction d’une telle expérience à grande échelle. L’Islande compte environ 300 000 habitants, la même procédure serait-elle envisageable dans un pays de plusieurs millions d’habitants ?
 * Le blocage du texte par le pouvoir politique. Malgré tous les travaux engagés par les citoyens, la nouvelle constitution est entre les mains des décideurs politiques qui pourraient décider de ne jamais faire entrer en vigueur ce texte.ux. 
 
-## Sources:
-* **(1)** Fondation Nicolas Hulot, sous licence Creative Commons BY-NC-SA
-* **(2)** Thomas Wolff. Centre des pratiques de la coopération. Creative Commons BY-SA.
+## Sources
+
+<a id="note">
+
+* **[1](#note)** Fondation Nicolas Hulot, sous licence Creative Commons BY-NC-SA
+* **[2](#note)** Thomas Wolff. Centre des pratiques de la coopération. Creative Commons BY-SA.
