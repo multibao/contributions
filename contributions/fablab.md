@@ -6,9 +6,9 @@
 
  
 
-La notion de fab lab (contraction de l'anglais fabricationlaboratory, pouvant se traduire par laboratoire de fabrication) désigne un lieu ouvert à tous où il est mis à disposition du public toutes sortes d'outils pour la conception et la réalisation d'objets, notamment des machines-outils pilotées par ordinateur. **(1)**
+La notion de fab lab (contraction de l'anglais fabricationlaboratory, pouvant se traduire par laboratoire de fabrication) désigne un lieu ouvert à tous où il est mis à disposition du public toutes sortes d'outils pour la conception et la réalisation d'objets, notamment des machines-outils pilotées par ordinateur. **[1](#note)**
 
-![Fablab](http://upload.wikimedia.org/wikipedia/commons/d/d7/Amsterdam_Fab_Lab_at_The_Waag_Society.JPG) **(2)**
+![Fablab](http://upload.wikimedia.org/wikipedia/commons/d/d7/Amsterdam_Fab_Lab_at_The_Waag_Society.JPG) **[2](#note)**
 
  
 
@@ -19,7 +19,7 @@ La notion de fab lab (contraction de l'anglais fabricationlaboratory, pouvant se
 * Fabrication d'objets uniques
 * Rencontre conviviale et créative 
 * Liens intergénérationnels (parfois) 
-* Mutualisation de matériel et de compétences **(1)**
+* Mutualisation de matériel et de compétences **[1](#note)**
 
  
 
@@ -39,7 +39,7 @@ Deux manières principales de mettre en place un FabLab ont été identifiées:
 
  
 
-On pourrait les qualifier de ‘top-down’ ou ‘bottom-up’. Ces deux approches peuvent bien sûr se compléter, chacune ayant ses avantages et inconvénients.  **(1)**
+On pourrait les qualifier de ‘top-down’ ou ‘bottom-up’. Ces deux approches peuvent bien sûr se compléter, chacune ayant ses avantages et inconvénients.  **[1](#note)**
 
  
 
@@ -79,7 +79,7 @@ Voici les étapes simplifiées et résumées en français :
 
 11. Mettez votre site à jour.
 
-12. Faites une ouverture officielle (avec des snacks / boissons / stars locales). **(1)**
+12. Faites une ouverture officielle (avec des snacks / boissons / stars locales). **[1](#note)**
 
  
 
@@ -124,7 +124,7 @@ Engagement des sponsors / supporters. Faut-il prévoir un support supplémentair
 
 11. Durabilité
 
-Comment assurer la pérennité du FabLab? Le FabLab est-il dépendant d’évènements extérieurs? **(1)**
+Comment assurer la pérennité du FabLab? Le FabLab est-il dépendant d’évènements extérieurs? **[1](#note)**
 
  
 
@@ -174,7 +174,7 @@ On y trouve:
 
 total : 4,5k€
 
-C’est aussi comme ça qu’a été ouvert le FabLab de Amersfroort (pdf en anglais / FabLab in 7 days). **(1)**
+C’est aussi comme ça qu’a été ouvert le FabLab de Amersfroort (pdf en anglais / FabLab in 7 days). **[1](#note)**
 
  
 
@@ -282,7 +282,7 @@ Il faudra sans doute aussi mettre en place un système de mailing list, de liste
 
 La documentation des projets fait partie de l’ADN des Fablabs, mais se fait de manière différente dans chacun d’eux. Aucun ne semble avoir trouvé une manière optimale de le faire. A vous, donc, de réfléchir et tenter de résoudre cette problématique.
 
-Cette dernière partie reste aujourd’hui à développer, chaque FabLab utilisant pour l’instant une couche logicielle différente. **(1)**
+Cette dernière partie reste aujourd’hui à développer, chaque FabLab utilisant pour l’instant une couche logicielle différente. **[1](#note)**
 
 ## Le réseau des FabLabs francophones
 
@@ -294,18 +294,20 @@ Nous proposons de structurer le réseau autour de 2 axes principaux:
 
 Au Pays-Bas, les FabLabs sont regroupés dans une fondation. Les Fabmanagers des différents FabLabs se réunissent à intervalle régulier. Le principe d’attribution du nom ‘FabLab’ est déclaratif. C’est à dire que les responsables vont dire ‘je suis un FabLab, puis se donner des notes de A à D sur chacun des aspects de la charte du FabLab.
 
-PiNG travaille sur une cartographie des ateliers de fabrication numérique en France et dans les pays francophones, qui sera bientôt disponible. **(1)**
+PiNG travaille sur une cartographie des ateliers de fabrication numérique en France et dans les pays francophones, qui sera bientôt disponible. **[1](#note)**
 
 
 ### Compilation multiBàO
 par *[Quentin ISTACE](mailto:quentin21@orange.fr)*
  
-## Sources:
+## Sources
 
-* **(1)** [Nod-A](http://nod-a.com/2011/08/guide-de-montage-dun-fablab), publié sous licence Creative Commons BY-SA
+<a id="note">
+
+* **[1](#note)** [Nod-A](http://nod-a.com/2011/08/guide-de-montage-dun-fablab), publié sous licence Creative Commons BY-SA
 
 Cet article est basé sur la production d’un groupe de travail, lors de la journée du 23 juin, à la Cité des Sciences. Cette journée, organisée par nod-A dans le cadre du projet FabLab Squared, avait pour objectif de sensibiliser les participants aux enjeux liés à a fabrication numérique et de générer ensemble des pistes de réflexion. nod-A, en s’appuyant sur ses principes de SmartMobs, a organisé cette journée de manière à ce chacun puisse trouver des réponses à ses questions et que soient posées les bases de futures collaborations. Cet article résume ce qui a été produit dans le groupe de travail ‘profession FabLab’. Il est destiné à être nourri et à évoluer, mais surtout, il rejoindra dès que possible le site francophone de la communauté FabLab.
 
 Les profils des participants à la table ronde étaient assez variés, entre ceux qui cherchaient des informations pour monter un FabLab (école Estienne, Cap-Sciences, CERFAV, CCSTI Grenoble, etc.) et ceux qui avaient déjà monté le leur (PiNG, Nybicc, Peter Troxler, etc.). Merci à tous pour leur participation.
 
-* **(2)** Photo publiée par Rory Hyde from Amsterdam, Netherlands, sous licence Creative Commons BY-SA
+* **[2](#note)** Photo publiée par Rory Hyde from Amsterdam, Netherlands, sous licence Creative Commons BY-SA
