@@ -1,5 +1,9 @@
 #Jeu créatif pour imaginer un événement de sensibilisation
 
+##Présentation : 
+
+Ce jeu est à la base utilisé par le réseau de transition Wallonie-Bruxelles dans ces activités de formation. 
+
 Durée : 30 minutes maximum (le peu de temps disponible stimule la créativité)
 
 ##Objectifs :
@@ -16,7 +20,6 @@ Durée : 30 minutes maximum (le peu de temps disponible stimule la créativité)
 (à défaut, vous reconnaîtrez chaque série par son format) ;
 
 - Découpez les petites cartes et mettez-les en 5 tas ou dans 5 petits récipients ;
-
 
 - Formez des groupes de 4 à 6 personnes ;
 
