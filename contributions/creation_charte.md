@@ -1,4 +1,4 @@
-#Création d’une charte de groupe :
+#Création d’une charte de groupe
 
 Dans le milieu associatif et citoyen, beaucoup de groupes doivent poser leur propre fonctionnement en tant qu’équipe. La constitution d’une charte peut aider à atteindre cet objectif. 
 
@@ -104,6 +104,6 @@ Le groupe précise via quel support il communique ; par mail, sur les réseaux s
 
 Le groupe peut également avoir diverse ressources à sa disposition. Ces ressources, qu’elles soient financières, foncière, sociales, ou encore spirituelles peuvent être indiqués dans la charte du groupe. 
 
-##Source : 
+##Source
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
+* Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique](http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
