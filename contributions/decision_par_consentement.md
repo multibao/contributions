@@ -1,4 +1,4 @@
-#**PROCESSUS DE PRISE DE DECISION EN GESTION PAR CONSENTEMENT**
+#Prise de décision par consentement 
 
 ##1. Elaboration de la proposition 
 
@@ -68,11 +68,13 @@ Lorsqu'une nouvelle proposition amendée supprimant toutes les objections est é
 
 Pffffff... Quand ça fonctionne, qu'est-ce que c'est bon!!!
 
-##Source :
+## Lectures
 
 Gouvernance partagée et fonctionnement des Organisations en Cercle - Dimitri Biot - Avril 2014 Document inspiré de la Sociocratie, de l'Holacratie™ et des travaux de l'Université du Nous
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
+## Sources
+
+* Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
 
 
 
