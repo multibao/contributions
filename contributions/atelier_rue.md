@@ -61,8 +61,6 @@ Il est ensuite proposé à la personne de résumer ses idées en une phrase, ave
 ## Sources
 
 * Collectif Chiendent (Antoine CANAZZI, Flore CORRIERE, Corentin SEYFRIED), sous licence Creative Commons BY-SA
-avec 
-
 
 
 
