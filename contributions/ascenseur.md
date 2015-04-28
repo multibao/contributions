@@ -1,14 +1,14 @@
 # Technique de l'Ascenseur 
 
 ## A quoi ça sert ? 
-* explorer de manière conviviale une question **(1)**
-* rebondir sur un thème (ex: expert) **(1)**
-* ice-breaker : favorise le rapprochement **(2)**
-* favorise une écoute accrue **(2)**
+* explorer de manière conviviale une question **[1](#note)**
+* rebondir sur un thème (ex: expert) **[1](#note)**
+* ice-breaker : favorise le rapprochement **[2](#note)**
+* favorise une écoute accrue **[2](#note)**
 
 ![Com](http://photos-e.ak.instagram.com/hphotos-ak-xpf1/10802711_402298783260556_765599718_n.jpg) 
 
-*(2) Lors d'un cours de médiation au Pôle Sup*
+* **[2](#note)** Lors d'un cours de médiation au Pôle Sup*
 
 ## Procédure 
 
@@ -24,7 +24,7 @@ Nous vous présentons ici une procédure de la technique de l'ascenseur **(1)**
 
 ## Retour d'expérience
 
-**Lors du Congrès CNEI du jeudi 13 novembre 2014, par Thomas Wolff, un des facilitateurs présents** **(2)**
+**Lors du Congrès CNEI du jeudi 13 novembre 2014, par Thomas Wolff, un des facilitateurs présents** **[2](#note)**
 
 Lors de cet évènement, nous étions 6 facilitateurs à tenter de trouver une manière de rendre un débat avec expert convivial et surtout participatif. En sachant que nous avions des contraintes importantes fixées par les organisateurs du congrès, que ce soit du point de vue du temps (50 mn), du fond (ce dont quoi parleraient les experts), que de la forme (autrement dit droit de regard sur la forme de l'évènement participatif!). 
 
@@ -64,6 +64,8 @@ Au centre l'expert + 4 personnes pas plus; les autres sont autour. Conversation 
 * parfois difficile de limiter le temps de parole d'un(e) expert, se mettre d'accord avec lui/elle en amont
 
 ## Sources
+
+<a id="note">
 
 * **(1)** *Anna PAULITSCH*, paulitsch.anna@gmail.com, publié sous licence Creative Commons BY-SA
 * **(2)** *Thomas WOLFF*, association [centre des pratiques de la coopération](http://cpcoop.fr), publié sous licence Creative Commons BY-SA
