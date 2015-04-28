@@ -10,17 +10,17 @@ Le Brainstorming est une méthode participative utilisée pour générer des id�
 * Trouver des solutions / résoudre des problèmes **(1)**
 * Favoriser la créativité **(1)**
 
-![Brainstorming](http://www.easytrainingtools.com/blog/wp-content/uploads/2009/12/49915119_47670f570e_b1-300x225.jpg) **(4)**
+![Brainstorming](http://www.easytrainingtools.com/blog/wp-content/uploads/2009/12/49915119_47670f570e_b1-300x225.jpg) **[4](#note)**
 
 ## Informations pratiques
 **Nombre de participants**  à partir de 4 participants (l'animateur est partie prenante), pas de maximum, l'optimum étant 15 participants
 **Durée préparation** très courte
-**Durée évènement** 30 min à 2 heures **([1](#1))**
+**Durée évènement** 30 min à 2 heures 
 **Coût** tout dépend de la technologie que vous allez utiliser. Des post-it, napes blanches avec feutres etc. **(3)**
 
 ## Présentation 
 
-![Brainstorming](http://upload.wikimedia.org/wikipedia/commons/thumb/1/12/GLAMcamp_Amsterdam_-_upload_tool_brainstorming.jpg/400px-GLAMcamp_Amsterdam_-_upload_tool_brainstorming.jpg) **(5)**
+![Brainstorming](http://upload.wikimedia.org/wikipedia/commons/thumb/1/12/GLAMcamp_Amsterdam_-_upload_tool_brainstorming.jpg/400px-GLAMcamp_Amsterdam_-_upload_tool_brainstorming.jpg) **[5](#note)**
 
 Le Brainstorming ou Remue-méninge est une technique de recherche d’idées en groupe, par exemple afin d’identifier ou de résoudre un problème. La principale phase du Brainstorming consiste à émettre spontanément le plus d’idées possible sans retenue et en les notant toutes. 
 
@@ -91,5 +91,5 @@ Caroline PICTON : relecture et vérification des sources
 * <a id="1" />**(1)** [Gestion de projet.pm](http://gestiondeprojet.pm/animer-un-brainstorming/), sous licence Creative Commons BY-NC-SA
 * **(2)** [Article Wikipédia sur le Brainstorming](http://fr.wikipedia.org/wiki/Brainstorming), sous licence Creative Commons BY-SA
 *  **(3)** Thomas Wolff, [association Centre des pratiques de la coopération](http://cpcoop.fr), sous licence Creative Commons BY-SA
-* **(4)** [Easytrainingtools](http://www.easytrainingtools.com/blog/2009/12/16/how-to-evaluate-brainstorming-ideas/), image sous licence Creative Commons jakecaptive
-* **(5)** [Mike Peel](http://commons.wikimedia.org/wiki/File:GLAMcamp_Amsterdam_-_upload_tool_brainstorming.jpg), sous licence Creative Commons BY-SA
+* **[4](#note)** [Easytrainingtools](http://www.easytrainingtools.com/blog/2009/12/16/how-to-evaluate-brainstorming-ideas/), image sous licence Creative Commons jakecaptive
+* **[5](#note)** [Mike Peel](http://commons.wikimedia.org/wiki/File:GLAMcamp_Amsterdam_-_upload_tool_brainstorming.jpg), sous licence Creative Commons BY-SA
