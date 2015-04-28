@@ -1,4 +1,4 @@
-#PROCESSUS D'ELECTION SANS CANDIDAT
+# Processus d'élection sans candidats
 
 ##1. Définir le rôle 
 
@@ -62,8 +62,10 @@ Le Facilitateur conduit une discussion ouverte, au sujet de chaque objection sou
 
 La personne élue fait péter le champagne, ou le jus de carottes, c'est selon...!
 
-##Source : 
+## Lectures
 
 Gouvernance partagée et fonctionnement des Organisations en Cercle - Dimitri Biot - Avril 2014 Document inspiré de la Sociocratie, de l'Holacratie™ et des travaux de l'Université du Nous
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
+## Sources 
+
+* Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
