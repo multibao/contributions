@@ -95,8 +95,8 @@ Alan Trim, association Centre des Pratiques de la Coopération, publié sous lic
 <a id="note">
 
 * **[1](#note)** Wikipedia, publié sous licence Creative Commons BY-SA
-* https://www.youtube.com/watch?v=SsOhq1Q4ltY **[2](#note)**
-* France Université Numérique **[3](#note)**
-* https://www.youtube.com/watch?v=kJSQ_5HPMrU&feature=youtu.be **[4](#note)**
+* A visionner: https://www.youtube.com/watch?v=SsOhq1Q4ltY **[2]**
+* **[3](#note)** [France Université Numérique](www.france-universite-numerique.fr/), via un interview réalisé par Alan Trim, association [Centre des pratiques de la coopération](http://cpcoop.fr), selon les termes de la licence Creative Commons BY-SA 
+* A visionner https://www.youtube.com/watch?v=kJSQ_5HPMrU&feature=youtu.be **[4]**
 
 
