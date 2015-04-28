@@ -1,4 +1,4 @@
-#Les excercices énergisants : 
+#Les excercices énergisants
 
 La liste d'excercices qui suit est une liste de différents excercices énergisants à utiliser lors de réunion/animation/formation. Elle est ,bien entendu, non exhaustive et peut être mis à jour par l'ajout d'excercices énergisants complémentaires à tout moments. 
 
