@@ -2,13 +2,13 @@
 
 ## En une phrase  
 
-Le Brainstorming est une méthode participative utilisée pour générer des idées, reposant sur la base de la non-retenue ; il en existe des centaines de formes différentes. **(3)**
+Le Brainstorming est une méthode participative utilisée pour générer des idées, reposant sur la base de la non-retenue ; il en existe des centaines de formes différentes. **[3](#note)**
 
 ## À quoi ça sert ?
 
-* Générer des idées **(3)**
-* Trouver des solutions / résoudre des problèmes **(1)**
-* Favoriser la créativité **(1)**
+* Générer des idées **[3](#note)**
+* Trouver des solutions / résoudre des problèmes **[1](#note)**
+* Favoriser la créativité **[1](#note)**
 
 ![Brainstorming](http://www.easytrainingtools.com/blog/wp-content/uploads/2009/12/49915119_47670f570e_b1-300x225.jpg) **[4](#note)**
 
@@ -16,7 +16,7 @@ Le Brainstorming est une méthode participative utilisée pour générer des id�
 **Nombre de participants**  à partir de 4 participants (l'animateur est partie prenante), pas de maximum, l'optimum étant 15 participants
 **Durée préparation** très courte
 **Durée évènement** 30 min à 2 heures 
-**Coût** tout dépend de la technologie que vous allez utiliser. Des post-it, napes blanches avec feutres etc. **(3)**
+**Coût** tout dépend de la technologie que vous allez utiliser. Des post-it, napes blanches avec feutres etc. **[3](#note)**
 
 ## Présentation 
 
@@ -34,7 +34,7 @@ Mais au-delà de cette phase de collecte d’idées, il faut auparavant :
 3. (Réaliser le Brainstorming)
 4. Puis sélectionner les meilleures idées ou les solutions applicables.
 
-C’est le travail de l’animateur que d’organiser ce processus **(1)**
+C’est le travail de l’animateur que d’organiser ce processus **[1](#note)**
 
 ## Procédure 
 
@@ -51,7 +51,7 @@ L'idée est de chercher à obtenir le plus grand nombre d'idées possibles sans 
 
 Ainsi, les suggestions absurdes et fantaisistes sont admises durant la phase de production et de stimulation mutuelles. En effet, les participants ayant une certaine réserve peuvent alors être incités à s'exprimer, par la dynamique de la formule et les interventions de l'animateur.
 
-C'est pour amener à cet accouchement en toute quiétude que l'absence de critique, la suggestion d'idées sans aucun fondement réaliste, et le rythme, sont des éléments vitaux pour la réussite du processus. **(2)**
+C'est pour amener à cet accouchement en toute quiétude que l'absence de critique, la suggestion d'idées sans aucun fondement réaliste, et le rythme, sont des éléments vitaux pour la réussite du processus. **[2](#note)**
 
 ### Déroulement
 **1. Préparation, documentation et maturation**
@@ -67,7 +67,7 @@ Préparation d'idées sur le thème pour relancer la dynamique en cas de difficu
 * Ne jamais critiquer les idées des autres, verbalement, non verbalement, explicitement, implicitement.
 
 **4. Exploitation des idées recueillies**
-Reformuler, classer, hiérarchiser les idées sous une forme synthétique comme, par exemple, sous la présentation d'une grille de décision **(2)**
+Reformuler, classer, hiérarchiser les idées sous une forme synthétique comme, par exemple, sous la présentation d'une grille de décision **[2](#note)**
 
 ## Avantages et limites 
 
@@ -75,10 +75,10 @@ Reformuler, classer, hiérarchiser les idées sous une forme synthétique comme,
 * Générer des idées en grande quantité pour résoudre un problème
 * Très simple d'utilisation et de mise en place
 * Peut se pratiquer à partir d'un petit nombre d'individus
-* Favoriser un changement de comportement : écouter et oublier le jugement **(3)**
+* Favoriser un changement de comportement : écouter et oublier le jugement **[3](#note)**
 
 ### Limites 
-* Gaspillage papier (souvent remonté en formation) **(3)** 
+* Gaspillage papier (souvent remonté en formation) **[3](#note)** 
 
 ## Compilation, traduction et présentation
 
@@ -88,8 +88,10 @@ Caroline PICTON : relecture et vérification des sources
 
 ## Sources
 
-* <a id="1" />**(1)** [Gestion de projet.pm](http://gestiondeprojet.pm/animer-un-brainstorming/), sous licence Creative Commons BY-NC-SA
-* **(2)** [Article Wikipédia sur le Brainstorming](http://fr.wikipedia.org/wiki/Brainstorming), sous licence Creative Commons BY-SA
-*  **(3)** Thomas Wolff, [association Centre des pratiques de la coopération](http://cpcoop.fr), sous licence Creative Commons BY-SA
+<a id="note">
+
+* **[1](#note)** [Gestion de projet.pm](http://gestiondeprojet.pm/animer-un-brainstorming/), sous licence Creative Commons BY-NC-SA
+* **[2](#note)** [Article Wikipédia sur le Brainstorming](http://fr.wikipedia.org/wiki/Brainstorming), sous licence Creative Commons BY-SA
+*  **[3](#note)** Thomas Wolff, [association Centre des pratiques de la coopération](http://cpcoop.fr), sous licence Creative Commons BY-SA
 * **[4](#note)** [Easytrainingtools](http://www.easytrainingtools.com/blog/2009/12/16/how-to-evaluate-brainstorming-ideas/), image sous licence Creative Commons jakecaptive
 * **[5](#note)** [Mike Peel](http://commons.wikimedia.org/wiki/File:GLAMcamp_Amsterdam_-_upload_tool_brainstorming.jpg), sous licence Creative Commons BY-SA
