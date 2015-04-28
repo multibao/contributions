@@ -2,7 +2,7 @@
 
 ## En une phrase
 
-L'accélerateur de projet est une méthode faisant intervenir des pairs pour resoudre un probleme donné par un individu lors de la realisation d'un projet. *[1](#note)**
+L'accélerateur de projet est une méthode faisant intervenir des pairs pour resoudre un probleme donné par un individu lors de la realisation d'un projet. **[1](#note)**
 
 ![Lilian](http://ulule.me/presales/5/2/7/8725/imgp9222_JPG_640x860_q85.jpg) **[2](#note)** 
 
