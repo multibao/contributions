@@ -7,15 +7,6 @@ Un atelier de rue est une façon d'échanger autour d'un thème, avec les habita
 
 Une photo de [Alectrevelyan006](http://commons.wikimedia.org/wiki/File:People_engaging_in_conversation.jpg), sous licence Creative Commons BY-SA
 
-
-
-
-
-
-
-
-
-
 ## A quoi ça sert ?
 
 * pour les organisateurs: recueillir des témoignages afin d'enrichir une réflexion citoyenne.
@@ -63,11 +54,15 @@ Il est ensuite proposé à la personne de résumer ses idées en une phrase, ave
 * la neutralité : difficulté de ne pas influencer les réponses des gens par notre façon de parler.
 * difficultés : trouver la meilleure première approche.
 
+## Aller plus loin
+
+* i-PEICC Montpellier, association d'éducation populaire affiliée à peuple et culture.  http://www.ipeicc.fr/citoyennete/universite-du-citoyen/277-animation-de-luc-au-quartier-lemasson.html
+
 ## Sources
 
 * Collectif Chiendent (Antoine CANAZZI, Flore CORRIERE, Corentin SEYFRIED), sous licence Creative Commons BY-SA
 avec 
-* i-PEICC Montpellier, association d'éducation populaire affiliée à peuple et culture.  http://www.ipeicc.fr/citoyennete/universite-du-citoyen/277-animation-de-luc-au-quartier-lemasson.html
+
 
 
 
