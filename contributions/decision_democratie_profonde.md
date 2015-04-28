@@ -106,9 +106,11 @@ Passer une après-midi relax, regarder des films d'action, Pierre sera de son c�
 
 Tout le monde est d'accord :o) 
 
-##Sources : 
+## Lectures
 
 Le wiki Ekopédia, sa fiche sur la [démocratie profonde](http://fr.ekopedia.org/D%C3%A9mocratie_profonde)
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
+## Sources
+
+* Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
 
