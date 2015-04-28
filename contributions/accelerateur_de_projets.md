@@ -21,7 +21,9 @@ Trois rôles devraient être assurés :
 * un animateur - gardien de la méthode : présente rapidement la méthodo, rappelle les règles, assure le bon déroulement.
 * un secrétaire : celui qui prend les notes (fonction partagée sur Etherpad)
 
-## Méthode par étapes **[1](#note)** 
+## Méthode par étapes 
+
+**[1](#note)** 
 
 ### Étape 0 : préparation (5 min.)
 
