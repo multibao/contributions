@@ -2,22 +2,22 @@
 
 ## En une phrase  
 
-Démarche pérenne, souvent annuelle, au cours de laquelle les citoyens peuvent discuter et décider d'un budget public local (lycés, quartiers, villes...) **(2)**
+Démarche pérenne, souvent annuelle, au cours de laquelle les citoyens peuvent discuter et décider d'un budget public local (lycés, quartiers, villes...) **[2](#note)**
 
 ## A quoi ça sert ?
 
-* Discuter et décider d'un budget **(2)**
-* Associer les citoyens aux choix de dépenses de leur ville. **(3)**
+* Discuter et décider d'un budget **[2](#note)**
+* Associer les citoyens aux choix de dépenses de leur ville. **[3](#note)**
 
 
-![Budget participatif](http://www.democratie-participative.net/wp-content/uploads/2013/10/1170737_36181879-300x225.jpg) **(3)**
+![Budget participatif](http://www.democratie-participative.net/wp-content/uploads/2013/10/1170737_36181879-300x225.jpg) **[3](#note)**
 
 ## Informations pratiques
 
 * **Nombre de participants**  tous les individus concernés par le budget 
 * **Durée préparation** importante
 * **Durée évènement** de 1 à plusieurs jours 
-* **Coût** important: demande une logistique conséquentes aussi bien pour l'organisation, la mise en place que le suivi **(2)**
+* **Coût** important: demande une logistique conséquentes aussi bien pour l'organisation, la mise en place que le suivi **[2](#note)**
 
 ## Présentation 
 
@@ -25,7 +25,7 @@ Le budget participatif est né à Porto Alegre au Brésil après les élections 
 
 Le budget participatif est un processus au cours duquel les citoyens peuvent discuter et décider d’un budget public local. Plus précisément, l’attribution d’une partie du budget d’une ville ou d’une municipalité est confiée directement aux citoyens. Le budget participatif permet par ailleurs aux citoyens de discuter et décider de l’orientation des politiques publiques.
 
-À l’échelle internationale, le budget participatif a été expérimenté en premier lieu dans les pays d’Amérique du Sud (Porto Alegre, Belém, Santo André au Brésil, Villa El Salvador au Pérou, Medellin en Colombie) pour ensuite s’exporter vers les pays d’Amérique du Nord (dans la province de l'Ontario au Canada, aux États-unis) et au Japon…. En 2003, les budgets participatifs par communauté se comptaient déjà au nombre de 200 dans le monde. En Europe, la méthode a vu le jour en Espagne (Séville, Malaga), puis en Italie (Bologne), en Belgique, en Allemagne et en France. La méthode a été appliquée en France à l’échelle de lycées mais aussi de villes (Grigny (69), Issy-les-Moulineaux (92), certains arrondissements de Paris…). **(1)**
+À l’échelle internationale, le budget participatif a été expérimenté en premier lieu dans les pays d’Amérique du Sud (Porto Alegre, Belém, Santo André au Brésil, Villa El Salvador au Pérou, Medellin en Colombie) pour ensuite s’exporter vers les pays d’Amérique du Nord (dans la province de l'Ontario au Canada, aux États-unis) et au Japon…. En 2003, les budgets participatifs par communauté se comptaient déjà au nombre de 200 dans le monde. En Europe, la méthode a vu le jour en Espagne (Séville, Malaga), puis en Italie (Bologne), en Belgique, en Allemagne et en France. La méthode a été appliquée en France à l’échelle de lycées mais aussi de villes (Grigny (69), Issy-les-Moulineaux (92), certains arrondissements de Paris…). **[1](#note)**
 
 ## Procédure 
 
@@ -82,7 +82,7 @@ budget qui serait investi). Au total, 46 propositions ont été faites pour le b
 * Outil universel qui permet une appropriation par les citoyens des outils de finance locale.
 
 ### Limites 
-* Alors que dans les pays émergents comme le Brésil, ce sont les couches les plus exclues de la population qui ont tendance à participer d’avantages, en Europe, le résultat est inverse avec une mobilisation majoritaire des plus instruits. Il est important d’éviter la récupération de la participation par des « habitants professionnels » représentants. **(1)**
+* Alors que dans les pays émergents comme le Brésil, ce sont les couches les plus exclues de la population qui ont tendance à participer d’avantages, en Europe, le résultat est inverse avec une mobilisation majoritaire des plus instruits. Il est important d’éviter la récupération de la participation par des « habitants professionnels » représentants. **[1](#note)**
 
 ## Compilation, traduction et présentation
 
@@ -91,9 +91,14 @@ budget qui serait investi). Au total, 46 propositions ont été faites pour le b
 
 ## Sources
 
-* **(1)** [Fondation Nicolas Hulot](www.fondation-nicolas-hulot.org), selon les termes de la licence Creative Commons BY-NC-SA 
-* **(2)** Thomas WOLFF,[association Centre des pratiques de la coopération](http://cpcoop.fr), selon les termes de la licence Creative Commons BY-SA
-* **(3)** [Démocratie participative.net](http://www.democratie-participative.net/) sous licence Creative Commons BY
+<a id="note">
+
+* **[1](#note)** [Fondation Nicolas Hulot](www.fondation-nicolas-hulot.org), selon les termes de la licence Creative Commons BY-NC-SA 
+* **[2](#note)** Thomas WOLFF,[association Centre des pratiques de la coopération](http://cpcoop.fr), selon les termes de la licence Creative Commons BY-SA
+* **[3](#note)** [Démocratie participative.net](http://www.democratie-participative.net/) sous licence Creative Commons BY
+
+##Lectures 
+
 * [Direction du Développement et de la Coopération, 2003. Numéro 7 sur le budget participatif comme outil de démocratie participative](http://nccr-ns.epfl.ch/autres_rech/UrbaNews/Urbanews7/UrbaNews_7_fr.pdf)
 * [France Qualité Publique. Bonne pratiques : La ville de Grigny et son expérience en matière d’élaboration du budget participatif](http://www.qualite-publique.org/La-ville-de-Grigny-et-son.html?id_rubrique=7)
 * [Frères des hommes, 2006. Les budgets participatifs](http://www.freresdeshommes.org/wp-content/uploads/2008/09/budgets-participatifs.pdf)
