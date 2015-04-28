@@ -9,9 +9,6 @@ Démarche pérenne, souvent annuelle, au cours de laquelle les citoyens peuvent 
 * Discuter et décider d'un budget **[2](#note)**
 * Associer les citoyens aux choix de dépenses de leur ville. **[3](#note)**
 
-
-![Budget participatif](http://www.democratie-participative.net/wp-content/uploads/2013/10/1170737_36181879-300x225.jpg) **[3](#note)**
-
 ## Informations pratiques
 
 * **Nombre de participants**  tous les individus concernés par le budget 
