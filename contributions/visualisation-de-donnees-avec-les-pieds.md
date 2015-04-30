@@ -27,7 +27,10 @@ La fin peut se faire de manière festive en demandant à toutes et à tous de se
 
 - http://infolabs.io/
 
-## Contributeurs
-Merci à netalloy et à openclipart https://openclipart.org/detail/154855/green-steps-by-netalloy
+## Sources
+<a id="note">
+* **[1](#note)** [infolabs.io](http://infolabs.io/sites/default/files/files/dataviz_pieds_V1.pdf), selon les termes de la licence Creative Commons BY-NC-SA 
+* **[2](#note)** netalloy et openclipart,[openclipart](https://openclipart.org/detail/154855/green-steps-by-netalloy), selon les termes de la licence Creative Commons BY-NC-SA 
 
-Animation réalisée aux rencontres MOUSTIC 2015 par Vincent Kober.
+## Contributeurs
+Animation réalisée aux rencontres MOUSTIC 2015 par Vincent Kober [kokonet](http://www.kokonet.fr/cv/.
