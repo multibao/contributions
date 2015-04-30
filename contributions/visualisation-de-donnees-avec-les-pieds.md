@@ -29,4 +29,5 @@ La fin peut se faire de manière festive en demandant à toutes et à tous de se
 
 ## Contributeurs
 Merci à netalloy et à openclipart https://openclipart.org/detail/154855/green-steps-by-netalloy
+
 Animation réalisée aux rencontres MOUSTIC 2015 par Vincent Kober.
