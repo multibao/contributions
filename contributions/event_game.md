@@ -2,7 +2,7 @@
 
 ##Présentation : 
 
-Ce jeu est à la base utilisé par le réseau de transition Wallonie-Bruxelles dans ces activités de formation. 
+Ce jeu est à la base utilisé par le réseau de transition Wallonie-Bruxelles dans ces activités de formation. Il sert à ëtre créatif dans la création d'évennements, à inclure des publics variés (et parfois particuliers), à intégré une variété importante d'information et  à changer l'image habituelle des évennements sur le thème de la transition.
 
 Durée : 30 minutes maximum (le peu de temps disponible stimule la créativité)
 
@@ -24,6 +24,9 @@ Durée : 30 minutes maximum (le peu de temps disponible stimule la créativité)
 - Formez des groupes de 4 à 6 personnes ;
 
 - Donnez une grande feuille et des feutres de couleurs à chaque groupe.
+
+- Expliquer aux participants les différentes phases de changements du public cible de l'évennement. Les phases sont : pré contemplation, contemplation, préparation et aller de l'avant. Pour en savoir plus sur les phases du changement vous pouvez aller vous renseigngez sur le [Modèle transthéorique du changement](http://fr.wikipedia.org/wiki/Mod%C3%A8le_transth%C3%A9orique_de_changement).
+
 
 ##Consignes aux participants :
 
@@ -128,3 +131,5 @@ Quand ? En semaine, pendant une longue pause déjeuner
 * Extrait de la formation de deux jours  "lancer ou développer une initiative de Transition" organisée par le [Réseau de transition Wallonie-Bruxelles](http://www.reseautransition.be/)
 
 * Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
+
+* Le site Wikipédia et sa page sur le [Modèle transthéorique du changement](http://fr.wikipedia.org/wiki/Mod%C3%A8le_transth%C3%A9orique_de_changement)
