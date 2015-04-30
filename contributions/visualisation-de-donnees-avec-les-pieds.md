@@ -21,7 +21,7 @@ Pour la deuxième figure, on peut choisir les histogrammes qui, par exemple, peu
 
 Le groupe est invité à se répartir sur une cartographie fictive (NORD-EST-SUD-OUEST) définie dans l'espace, en fonction, par exemple, de son lieu de naissance. Dans un second temps, on lui demande de se répartir sur cette cartographie en fonction de son lieu de travail. On peut aussi commenter les flux migratoires ;-) .
 La fin peut se faire de manière festive en demandant à toutes et à tous de se rejoindre sur le lieu de la manifestation en cours... **[2](#note)**
-![La cartographie des individus](https://framapic.org/9gHZrtHdk0ku/TcPy4xXV)
+![La cartographie des individus](https://framapic.org/129eNvBIRFjB/eaOLbCmL)
 
 ## Aller plus loin
 
