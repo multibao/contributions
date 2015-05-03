@@ -2,7 +2,7 @@
 
 # En une phrase  
 
-Un potluck, parfois appelé «repas-partage», «auberge espagnole», «buffet canadien» ou «souper canadien» (en Suisse romande) est un rassemblement autour d'un repas où chaque convive est censé apporter un plat à partager avec le groupe.  **(1)**
+Un potluck, parfois appelé «repas-partage», «auberge espagnole», «buffet canadien» ou «souper canadien» (en Suisse romande) est un rassemblement autour d'un repas où chaque convive est censé apporter un plat à partager avec le groupe. **[1](#note)** 
 
 
 ![potluck](http://4.bp.blogspot.com/-7X1WZaLD0NA/TZqjKgdVE3I/AAAAAAAAHCk/K1_3OYKL4Aw/s1600/Tofino%2Bpotluck.jpg)
@@ -16,7 +16,7 @@ Un potluck, parfois appelé «repas-partage», «auberge espagnole», «buffet c
 
 ## Présentation 
 Le potluck est une habitude  nord-américaine (États-Unis, Canada). Souvent associé à des groupes religieux, il se répand facilement au-delà de ces communautés, comme chez les étudiants, car le potluck est une manière pratique et peu onéreuse d'inviter du monde à la maison.
-Même s'il lui ressemble, le mot ne viendrait pas du chinookan «Potlash», car la tradition date d'avant la colonisation européenne des Amériques. En français, le mot «potluck» évoque l'expression «à la fortune du pot» (sans être nécessairement lié étymologiquement). Dans le mot potluck, il y a l'idée de simplicité (on met en commun) et celle de hasard (on trouve ce que chacun a amené). **(1)**
+Même s'il lui ressemble, le mot ne viendrait pas du chinookan «Potlash», car la tradition date d'avant la colonisation européenne des Amériques. En français, le mot «potluck» évoque l'expression «à la fortune du pot» (sans être nécessairement lié étymologiquement). Dans le mot potluck, il y a l'idée de simplicité (on met en commun) et celle de hasard (on trouve ce que chacun a amené). **[1](#note)** 
 
 ## Procédure 
 
@@ -28,14 +28,17 @@ Contacter les invités pour les informer de la rencontre, mettre en place une co
 ## Avantages et limites 
 
 ### Avantages 
-Favorise l'echange
-peu coûteux
-convivial
+
+* Favorise l'echange
+* peu coûteux
+* convivial
 
 ### Limites 
 
 ## Sources
 
-* **(1)** : http://fr.wikipedia.org/wiki/Potluck 
-* **(2)** Guillaume DEPREZ (Centre des Pratiques de la coopération) : rédaction & compilation
+<a id="note">
+
+* **[1](#note)**  : http://fr.wikipedia.org/wiki/Potluck, selon les termes de la licence Creative Commons BY-SA
+
 
