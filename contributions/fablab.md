@@ -1,14 +1,12 @@
 # Les FabLabs
 
+![Fablab](http://farm8.staticflickr.com/7217/13532824703_2f030e104c_z.jpg)
 
+Photo par [Muse Fablab](https://www.flickr.com/photos/musefablab/13532824703) sous licence Creative Commons BY-SA
 
 ## En une phrase  
 
 La notion de fab lab (contraction de l'anglais fabricationlaboratory, pouvant se traduire par laboratoire de fabrication) désigne un lieu ouvert à tous où il est mis à disposition du public toutes sortes d'outils pour la conception et la réalisation d'objets, notamment des machines-outils pilotées par ordinateur. **[1](#note)**
-
-![Fablab](http://farm8.staticflickr.com/7217/13532824703_2f030e104c_z.jpg)
-
-Photo par [Muse Fablab](https://www.flickr.com/photos/musefablab/13532824703) sous licence Creative Commons BY-SA
 
 ## A quoi ça sert ?
 
@@ -29,11 +27,7 @@ Deux manières principales de mettre en place un FabLab ont été identifiées:
 
 * une institution existante achetant un certain nombre de machines pour les mettre à la disposition de ses membres / visiteurs / utilisateurs.
 
- 
-
 On pourrait les qualifier de ‘top-down’ ou ‘bottom-up’. Ces deux approches peuvent bien sûr se compléter, chacune ayant ses avantages et inconvénients.  **[1](#note)**
-
- 
 
 ## Procédure 
 
@@ -43,7 +37,6 @@ Photo par [Marc Wathieu](https://www.flickr.com/photos/marcwathieu/8023308560) s
 
 ### L'APPROCHE DIY
 
- 
 
 Le FabLab d'Amersfoort soutient qu'un FabLab peut être réalisé en une semaine. 
 
@@ -86,37 +79,37 @@ Cette liste est issue d’une traduction d’une présentation de Peter Troxler.
 Tout d’abord (de 1 à 5), ce qu’il appelle le ‘life planning process’:
 
 
-1. recherche
+* recherche
 
 les questions à se poser ici sont: Que savons-nous des FabLabs? Comment et où en savoir plus? Que savons-nous des besoins présents et futurs? Quelles ressources avons-nous à disposition? Lire le livre de Neil Gershenfeld ‘Fab’. Définie LE problème pour créer la vision. Documentation: MIT FabLab central,site & portail USFLN, fablab squared
 
-2. Générer de l’intérêt.
+* Générer de l’intérêt.
 
 Identifier et confirmer le Fabmanager. Visiter un FabLab existant. Fabrication laboratory ou FabLab?
 
-3. Justification
+* Justification
 
 Quel est l’objectif de ce FabLab? (éducation, entrepreunariat, social, recherche…) Qui sont les utilisateurs? (groupe d’âge, profession, sexe, populations sous-représentées, intérêts particuliers…) Qui le finance?
 
-4. Planning
+* Planning
 
 vision & mission? Objectifs? Stratégie de sensibilisation? Candidats pour l’équipe FabLab? Staffing: roles et responsabilités? Sponsors? Définition du site: critères et options.
 
-5. Engagement
+* Engagement
 
 Engagement des sponsors / supporters. Faut-il prévoir un support supplémentaire? Comment qualifier & formaliser les engagements internes & externes?
 
-6. Installation
+* Installation
 
-7. Entrainement
+* Entrainement
 
-8. Mise en place
+* Mise en place
 
-9. Amélioration
+* Amélioration
 
-10. Maintenance
+* Maintenance
 
-11. Durabilité
+* Durabilité
 
 Comment assurer la pérennité du FabLab? Le FabLab est-il dépendant d’évènements extérieurs? **[1](#note)**
 
