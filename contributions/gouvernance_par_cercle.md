@@ -1,5 +1,7 @@
 # Gouvernance / organisations en cercle
 
+![Gouvernance](https://s.yimg.com/pw/images/favicon-msapplication-tileimage.png) 
+
 ##1. Pratique du cercle
 
 ##1.1. Pourquoi fonctionner en Cercle? 
