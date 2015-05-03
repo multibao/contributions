@@ -9,8 +9,6 @@ C’est une technique efficace pour examiner sous toutes les coutures telle ou t
 Il s’agit de six chapeaux imaginaires différents que vous mettez ou enlevez à votre gré. Chacun d’une couleur différente représente un différent style de réflexion. Changer de chapeaux, c’est changer de pensée.
 **[1](#note)** 
 
-![6chapeaux](http://upload.wikimedia.org/wikipedia/commons/8/8a/6_chapeaux.jpg)
-
 ## Le processus
 Utilisée à titre personnel la technique des Six Chapeaux pour penser ou lors de réunions pour éviter au possible les confrontations lorsque des personnes réfléchissant différemment discutent du même problème. Chaque chapeau représente un style de réflexion différent :
 **[1](#note)** 
