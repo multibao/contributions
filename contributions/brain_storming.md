@@ -4,6 +4,10 @@
 
 Le Brainstorming est une méthode participative utilisée pour générer des idées, reposant sur la base de la non-retenue ; il en existe des centaines de formes différentes. **[3](#note)**
 
+![Brainstorming](http://farm3.staticflickr.com/2599/3925133885_e46d1b2a50_z.jpg)
+
+Photo par [Juhan Sonin](https://www.flickr.com/photos/juhansonin/3925133885), sous licence Creative Commons BY-SA
+
 ## À quoi ça sert ?
 
 * Générer des idées **[3](#note)**
