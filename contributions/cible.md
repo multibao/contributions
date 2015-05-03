@@ -1,8 +1,8 @@
 #La cible 
 
-![Cible Araignée](http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Spiral_Orb_Webs.jpg/640px-Spiral_Orb_Webs.jpg)
+![Cible](http://farm4.staticflickr.com/3543/3433072925_bdd0ef1c65_z.jpg)
 
-*Distribué par Bjørn Christian Tørrissen - CCA SA 3.0* 
+Une photo par [エン バルドマン](https://www.flickr.com/photos/enggul/3433072925/in/photostream/) en Creative Commons BY-NC
 
 ##I. Objectif :
 
@@ -10,7 +10,8 @@ Cet exercice permet d’évaluer le lien entre  les objectifs, les act
 
 ##II. Matériel :
 
-• Grande feuille de papier ou panneau (50cm x 50cm) • Cartes ou petits papiers
+• Grande feuille de papier ou panneau (50cm x 50cm) 
+• Cartes ou petits papiers
 
 ##III. Déroulement :
 
@@ -40,7 +41,11 @@ On voit si :
 
 ##IV. Application : 
 
-Cette technique est très utile pour les évaluations partielles d’un plan de travail déjà élaboré.
+Cette technique est très utile pour les évaluations partielles d’un plan de travail déjà élaboré. 
+
+![Cible Araignée](http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Spiral_Orb_Webs.jpg/640px-Spiral_Orb_Webs.jpg)
+
+*Distribué par Bjørn Christian Tørrissen - CCA SA 3.0* 
 
 ##V. Suggestion : 
 
