@@ -3,7 +3,7 @@
 ## En une phrase 
 Aussi appelé Creative Solving Problem, cette démarche permet de structurer la pensée d'un groupe afin de résoudre de manière optimale – en collectif ou non – un problème; du point de vue personnel elle peut aussi devenir une habitude pour trouver des solutions. 
 
-![CPS](https://www.flickr.com/photos/35007189@N05/4342132542)
+![CPS](http://farm5.staticflickr.com/4026/4342132542_4314462ebf_z.jpg)
 
 Une photo par [Alexandre Perrachon](https://www.flickr.com/photos/35007189@N05/4342132542) sous licence Creative Commons BY-NC-SA
 
