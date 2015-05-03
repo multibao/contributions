@@ -30,6 +30,11 @@ Mais la pratique du Cercle ouvre également l'espace pour une transformation per
 
 ##2. PRINCIPES DE FONCTIONNEMENT EN CERCLE 
 
+![Photo](http://farm8.staticflickr.com/7211/7222466502_f6849c60b7_z.jpg)
+
+Photo by [LeColab](https://www.flickr.com/photos/lecolab/7222466502) en Creative Commons BY-NC-SA
+
+
 ##2.1. Règles et rituels de base 
 
 Les règles du Cercle constituent un cadre structurant et sécurisant au sein duquel chacun peut s'exprimer librement. Le cadre n'est pas rigide, il peut évoluer et changer au fur et à mesure des besoins émergeant de la réflexion et de l'expérience du Cercle.
