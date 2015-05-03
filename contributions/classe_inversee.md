@@ -1,6 +1,9 @@
 # La classe inversée
 
-![Classeinversée](http://blog.econocom.com/wp-content/uploads/2013/06/Flipped-Classroom-e1371024462225.jpg)
+![Classeinversée](https://s.yimg.com/pw/images/favicon-msapplication-tileimage.png)
+
+Une phtoo par [Frédéric BISSON](https://www.flickr.com/photos/zigazou76/15596812549) sous licence Creative Commons BY
+
 
 ## En une phrase
 
