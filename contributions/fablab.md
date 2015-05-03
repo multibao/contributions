@@ -283,10 +283,6 @@ Au Pays-Bas, les FabLabs sont regroupés dans une fondation. Les Fabmanagers des
 
 PiNG travaille sur une cartographie des ateliers de fabrication numérique en France et dans les pays francophones, qui sera bientôt disponible. **[1](#note)**
 
-
-### Compilation multiBàO
-par *[Quentin ISTACE](mailto:quentin21@orange.fr)*
- 
 ## Sources
 
 <a id="note">
