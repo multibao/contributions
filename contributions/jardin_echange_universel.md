@@ -1,5 +1,9 @@
 # Jardin d’Échange Universel (J.E.U.)
 
+![JEU](https://s.yimg.com/pw/images/favicon-msapplication-tileimage.png)
+
+Photo [Andy WOO](https://www.flickr.com/photos/wooandy/220929743), selon les termes de la licence Creative Commons BY-NC-SA
+
 ## En une phrase 
 Le J.E.U. (Jardin d'Echange Universel) est une monnaie souveraine et autogérée, chaque JEUeur est responsable et garant de son fonctionnement. **[1](#note)** 
 
