@@ -1,35 +1,27 @@
 # Les FabLabs
 
- 
+
 
 ## En une phrase  
 
- 
-
 La notion de fab lab (contraction de l'anglais fabricationlaboratory, pouvant se traduire par laboratoire de fabrication) désigne un lieu ouvert à tous où il est mis à disposition du public toutes sortes d'outils pour la conception et la réalisation d'objets, notamment des machines-outils pilotées par ordinateur. **[1](#note)**
 
-![Fablab](http://upload.wikimedia.org/wikipedia/commons/d/d7/Amsterdam_Fab_Lab_at_The_Waag_Society.JPG) **[2](#note)**
+![Fablab](http://farm8.staticflickr.com/7217/13532824703_2f030e104c_z.jpg)
 
- 
+Photo par [Muse Fablab](https://www.flickr.com/photos/musefablab/13532824703) sous licence Creative Commons BY-SA
 
 ## A quoi ça sert ?
-
- 
 
 * Fabrication d'objets uniques
 * Rencontre conviviale et créative 
 * Liens intergénérationnels (parfois) 
 * Mutualisation de matériel et de compétences **[1](#note)**
 
- 
-
 ## Présentation 
 
- 
+![Fablab](http://upload.wikimedia.org/wikipedia/commons/d/d7/Amsterdam_Fab_Lab_at_The_Waag_Society.JPG) **[2](#note)**
 
 Cet article pose les bases d’une notice de montage d’un FabLab pour 3 budgets: 5k€, 20k€ et 50k€. 
-
- 
 
 Deux manières principales de mettre en place un FabLab ont été identifiées:
 
@@ -45,7 +37,9 @@ On pourrait les qualifier de ‘top-down’ ou ‘bottom-up’. Ces deux approch
 
 ## Procédure 
 
- 
+![Fablab](http://farm9.staticflickr.com/8311/8023308560_7e5802005d_z.jpg)
+
+Photo par [Marc Wathieu](https://www.flickr.com/photos/marcwathieu/8023308560) sous licence Creative Commons BY 
 
 ### L'APPROCHE DIY
 
