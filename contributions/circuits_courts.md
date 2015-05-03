@@ -2,6 +2,10 @@
 
 **Fiche réalisée par la Fédération Nationale d'Agriculture Biologique (FNAB)** **[1](#note)** **[2](#note)**
 
+![Circuits](http://farm4.staticflickr.com/3579/3469033801_f0375893c1_z.jpg)
+
+Courts circuits. Creative Commons BY-NC
+
 
 ##Des valeurs au service du territoire
 Vente directe et circuits courts de proximité en agriculture biologique
