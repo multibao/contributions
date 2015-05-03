@@ -1,28 +1,15 @@
 # Mentions légales
 
-### Informations générales
+Vous trouverez ici les "traditionnelles" mentions légales pour la plateforme web multiBàO.
 
-**Responsable publication**
-Thomas WOLFF : [thomas@multibao.org](mailto:thomas@multibao.org)
-[06 42 45 97 81](tel:33642459781)
+* Informations générales
+ * **Product manager** [Thomas Wolff](mailto:thomas.wolff@cpcoop.fr)
+ * **Référent de publication** [Thomas Wolff](mailto:thomas.wolff@cpcoop.fr)
+ * **Référent du développement** [Stéphane Langlois](mailto:stephane.langlois@scopyleft.fr)  
+ * **Hébergeur** : [Meteor](http://www.meteor.com), Meteor Development Group, 140, 10th Street, San Francisco, CA 94103
+ * **Structure juridique porteuse** multiBàO est un collectif non formel. Si les dépôts distants sont la "propriété" des administrateurs qui les ont créé, le dépôt principal multiBàO et l'architecture du site web sont pour l'instant portés juridiquement par [Thomas Wolff] via l'association [Centre des pratiques de la coopération](http://cpcoop.fr). 
 
-**Facilitation web**
-Stéphane LANGLOIS : [stephane.langlois@scopyleft.fr](mailto:stephane.langlois@scopyleft.fr)  
-[06 11 78 25 63](tel:33611782563)
-
-**Hébergeur**
-[Meteor](http://www.meteor.com)
-Meteor Development Group
-140, 10th Street
-San Francisco, CA 94103
-
-**Structure juridique porteuse**
-BàO est pour l'instant un collectif non formel, avec un comité de pîlotage composé de membres de plusieures associations et universités, financé par l'Europe.
-
-Le temps de la création de sa structure juridique et de sa formalisation, le présent interface est porté par les équipes bénévoles de l'association du Centre des pratiques de la coopération, 12 rue des Pins, 34000 Montpellier, [contact@cpcoop.fr](mailto:contact@cpcoop.fr) -
-[cpcoop.fr](http://cpcoop.fr)
-
-### Conditions générales d’utilisation du site et des services proposés.
+## Conditions générales d’utilisation du site et des services proposés.
 
 L’utilisation du site http://multibao.org implique l’acceptation pleine et entière des conditions générales d’utilisation ci-après décrites. Ces conditions d’utilisation sont susceptibles d’être modifiées ou complétées à tout moment, les utilisateurs du site http://multibao.org sont donc invités à les consulter de manière régulière.
 
