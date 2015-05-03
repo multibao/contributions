@@ -33,7 +33,7 @@ méthodologie) : comités de pilotage, commissions menus, etc.
 ##méthodologie
 **Un projet d'introduction de produits biologiques en restauration collective se construit en plusieurs étapes :**
 
-![Atelir Cuisine]([url=https://flic.kr/p/ebAtV9][img]https://farm9.staticflickr.com/8535/8652530662_58525e0a32_z.jpg[/img][/url][url=https://flic.kr/p/ebAtV9]Atelier gourmand 2013 : Gérard Garrigue et Elsa[/url] by [url=https://www.flickr.com/people/8600713@N05/]museumdetoulouse[/url], on Flickr)
+![Atelir Cuisine](<iframe src="https://www.flickr.com/photos/museumdetoulouse/8652530662/player/" width="640" height="481" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>)
 
 *Distribué par Museum de Toulouse - CC BY-SA 2.0*
 
