@@ -12,6 +12,10 @@
 
 ##III. Déroulement : 
 
+![Facilitateur Champ de force](http://pixabay.com/static/uploads/photo/2015/04/13/10/01/10-01-21-115_640.jpg)
+
+*Partagé par Geralt - CC0*
+
 1. L’animateur explique l’objectif poursuivi dans l’exercice.
 
 Par exemple : «Grâce à cet exercice, nous allons répertorier les éléments négatifs et positifs de la situation économique dans notre coopérative. Sur ce graphique, la ligne centrale représente notre situation actuelle. Les quatre lignes supérieures représentent ce qu’il y a de positif pour l’instant dans notre coopérative. Les «forces» ou lignes inférieures sont les difficultés auxquelles on doit faire face pour l’instant. On donne un numéro correspondant à chaque «force» selon l’importance qu’on lui donne. Plus la force est près de la ligne centrale (la ligne qui représente «aujourd’hui»), plus elle est urgente et importante.»
