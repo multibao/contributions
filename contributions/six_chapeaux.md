@@ -3,13 +3,13 @@
 ## De quoi s’agit-il ?
 C’est une technique efficace pour examiner sous toutes les coutures telle ou telle décision. Elle nous aide à passer de styles de réflexion habituels à une vue plus complète de la situation.
 Il s’agit de six chapeaux imaginaires différents que vous mettez ou enlevez à votre gré. Chacun d’une couleur différente représente un différent style de réflexion. Changer de chapeaux, c’est changer de pensée.
-**(1)**
+**[1](#note)** 
 
 ![6chapeaux](http://upload.wikimedia.org/wikipedia/commons/8/8a/6_chapeaux.jpg)
 
 ## Le processus
 Utilisée à titre personnel la technique des Six Chapeaux pour penser ou lors de réunions pour éviter au possible les confrontations lorsque des personnes réfléchissant différemment discutent du même problème. Chaque chapeau représente un style de réflexion différent :
-**(1)**
+**[1](#note)** 
 
 #### 	Chapeau blanc
 
@@ -61,12 +61,12 @@ Dans la séance des Six Chapeaux Pour Penser, le facilitateur doit :
 * planifier la séquence et la ponctualité de votre pensée ;
 * demander un changement de vitesse ;
 * Gérer les demandes du groupe souhaitant un nouveau mode de réflexion ; et
-* Récapituler périodiquement les idées aux fins de les présenter à l’équipe. **(1)**
+* Récapituler périodiquement les idées aux fins de les présenter à l’équipe. **[1](#note)** 
 
 ## Retour d'expérience
 
 Cette méthode a été utilisée à la foire aux savoirs (Rome, 2011) lors de la cession de KM4DEV afin de faire réfléchir différents petits groupes de travail sur 2 questions clés liés à la gestion des connaissances, aux rôles et aux perspectives de KM4DEV en terme d’animation du réseau notamment. Personne de l’équipe du projet n’avait utilisé cette méthode auparavant mais on a toute de suite pu se rendre compte de l’intérêt de celle-ci. En effet, les échanges sont facilités et il y a une réelle dynamique qui se met facilement en place entre les participant-e-s. Le fait de jouer un rôle qui change régulièrement en échangeant les chapeaux permet de véritablement créer un climat créatif dans lequel se dégage une énergie positive propice aux échanges et à une meilleure communication.
- **(1)**
+**[1](#note)** 
  
 ## Avantages et limites
 
@@ -81,14 +81,16 @@ Voici les principaux avantages de la méthode des six chapeaux pour penser :
 * Cible la pensée ;
 * Mène à une réflexion plus créative ;
 * Intensifie la communication ; et
-* Améliore la prise de décisions. **(1)**
+* Améliore la prise de décisions. **[1](#note)** 
 
 ### Limites
-* Copyrighté **(2)** mais utilisable sous un autre nom
+* Copyrighté **[2](#note)** 
 
 ## Sources
 
-* **(1)** [KStoolkit](http://www.kstoolkit.org/) licensed under a Creative Commons Attribution Share-Alike 3.0 License
-* **(2)** Thomas Wolff, association [Centre des pratiques de la coopération](http://cpcoop.fr), sous licence Creative Commons BY-SA
+<a id="note">
+
+* **[1](#note)** [KStoolkit](http://www.kstoolkit.org/) licensed under a Creative Commons Attribution Share-Alike 3.0 License
+* **[2](#note)**  Thomas Wolff, association [Centre des pratiques de la coopération](http://cpcoop.fr), sous licence Creative Commons BY-SA
 
 
