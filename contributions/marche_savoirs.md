@@ -50,5 +50,5 @@ Peut inciter les élèves à considérer la connaissance comme une marchandise.
 
 ## Sources
 
-* Alan TRIM – Université Montpellier 3 – sous licence Creative Commons BY
+* Alan TRIM – Université Montpellier 3 – sous licence Creative Commons BY-SA
 
