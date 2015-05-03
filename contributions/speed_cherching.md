@@ -1,7 +1,7 @@
 # Speed cherching  
 
 ## En une phrase  
-Susciter la curiosité du public et d’établir un échange personnel entre scientifiques et non scientifiques. **(1)**
+Susciter la curiosité du public et d’établir un échange personnel entre scientifiques et non scientifiques. **[2](#note)** 
 
 ![speed](http://honua.fr/wp-content/uploads/2014/09/DSC_1574light-660x437.jpg)
  
