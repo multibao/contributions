@@ -2,7 +2,7 @@
 
 ## En une phrase  
 
-L’investigation appréciative (AI) est une méthode permettant de définir des orientations grâce aux forces/réussites passées et présente,plutôt que des problèmes. **(1)**
+L’investigation appréciative (AI) est une méthode permettant de définir des orientations grâce aux forces/réussites passées et présente,plutôt que des problèmes. **[1](#note)** 
 
 ![IA](http://business901.com/wp-content/uploads/2012/01/AI-vs-Lean.gif)
 
@@ -17,12 +17,11 @@ L’investigation appréciative (AI) est une méthode permettant de définir des
 
 * **Nombre de participants** >12
 * **Durée préparation** minimum demi-journée
-* **Durée évènement**  de 2 demi-journées à non défini 
-* **Coût** peut être assez important pour la mise en place de la démarche "officielle" **(1)**
+* **Durée évènement**  de 2 demi-journées à non défini  **[1](#note)** 
 
 ## Présentation 
 
-L’investigation appréciative (AI) permet de définir des orientations grâce aux forces/réussites passées et présentes. Appelée également planification stratégique, elle fonctionne par étapes, au cours desquelles les participants vont explorer, en groupe de pilotage et en groupes plus vastes, des thématiques stratégiques. **(1)**
+L’investigation appréciative (AI) permet de définir des orientations grâce aux forces/réussites passées et présentes. Appelée également planification stratégique, elle fonctionne par étapes, au cours desquelles les participants vont explorer, en groupe de pilotage et en groupes plus vastes, des thématiques stratégiques. **[1](#note)** 
 
 ## Procédure 
 
@@ -30,7 +29,7 @@ La méthode étant en TradeMark, il est impossible de livrer la méthode complè
 
 Pour la mise en place d'une démarche certifiée d'Investigation Appréciative, nous vous invitons à prendre contact avec des animateurs certifiés.  
 
-Les étapes de l’Investigation Appréciative sont réalisées soit un groupe restreint pilotant l’opération (l’étape 1 par exemple) ou par un groupe plus vaste(l’étape 2 par exemple). **(1)**
+Les étapes de l’Investigation Appréciative sont réalisées soit un groupe restreint pilotant l’opération (l’étape 1 par exemple) ou par un groupe plus vaste(l’étape 2 par exemple). **[1](#note)** 
 
 Le fait de se réunir et de réfléchir de manière constructive, avec les bons outils, aide à définir avec exactitude des orientations, des solutions, tout en insufflant une dynamique positive. 
 
@@ -46,7 +45,7 @@ Cette approche repose sur l'exploration des expériences réussies et trouve son
 * démarche évolutive grâce à l'apport humain ; les personnes et leurs valeurs sont au coeur du dispositif,
 * démarche économique : le projet reste un projet économique
 
-Si vous faites appel à un consultant en Investigation  Appréciative " I.A ", celui-ci vous accompagnera dans une démarche positive qui vous permettra de mettre à jour le noyau positif de votre organisation, d'évaluer, de repérer et mettre en place des critères de réussite. **(2)**  
+Si vous faites appel à un consultant en Investigation  Appréciative " I.A ", celui-ci vous accompagnera dans une démarche positive qui vous permettra de mettre à jour le noyau positif de votre organisation, d'évaluer, de repérer et mettre en place des critères de réussite. **[2](#note)**  
 
 L’individu est sollicité à chaque étape.
 Si la communication est nécessaire ce sont les collaborateurs qui vont le faire d’eux-même en étant les commanditaires de cette communication.
@@ -67,11 +66,10 @@ L’efficacité n’est pas à démontrer puisque les projets se déroulent dans
 Ce document, publié par l’Initiative du CGIAR pour l’apprentissage et le changement institutionnel (ILAC), offre aux lecteurs une synthèse actualisée de la méthode de l’investigation appréciative Il définit les concepts de base et décrit les différentes étapes du processus. Il comprend également le récit d’un exemple d’application de cette méthode.   http://www.neo-coaching.com/entreprise/investigation-appreciative.html (en francais)
 * http://www.employment-studies.co.uk/pdflibrary/mp53.pdf  (livre de l'investigation appréciative) **(3)** 
 
-## Compilation, traduction et présentation
+## Sources
 
-* Thomas WOLFF ([association Centre des pratiques de la coopération](http://cpcoop.fr))
+<a id="note">
 
-## Sources:
-* **(1)** Thomas Wolff, [association Centre des pratiques de la coopération](http://cpcoop.fr), sous licence Creative Commons BY-SA
-* **(2)**  [KStools](http://kstools.com), diffusé sous licence creative Commons BY-SA
-* **(3)**  [Carnicelli](http://carnicelli.eu), diffusé sous licence Creative Commons BY-NC-SA
+* **[1](#note)**  Thomas Wolff, [association Centre des pratiques de la coopération](http://cpcoop.fr), sous licence Creative Commons BY-SA
+* **[2](#note)**   [KStools](http:3//kstools.com), diffusé sous licence creative Commons BY-SA
+* **[3](#note)**   [Carnicelli](http://carnicelli.eu), diffusé sous licence Creative Commons BY-NC-SA
