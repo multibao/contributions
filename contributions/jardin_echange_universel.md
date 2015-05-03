@@ -1,6 +1,6 @@
 # Jardin d’Échange Universel (J.E.U.)
 
-![JEU](https://www.flickr.com/photos/62376842@N04/galleries/72157629414394617)
+![JEU](http://farm1.staticflickr.com/93/220929743_228ed8e12f_z.jpg?zz=1)
 
 Photo [Andy WOO](https://www.flickr.com/photos/wooandy/220929743), selon les termes de la licence Creative Commons BY-NC-SA
 
