@@ -43,6 +43,9 @@ Le tout est de réussir à capter les passants, à ce qu'il comprennent tout de 
 Une fois le but de notre intervention clarifié, nous pouvons commencer la discussion autour du thème proposé avec à l'appui des questions plus précises visant à "faire parler" ou engager la discussion.
 Il est ensuite proposé à la personne de résumer ses idées en une phrase, avec ses propres mot. Elle est ensuite retranscrite sur une grande feuille de couleur et accrochée avec les autres témoignages.
 
+![Discussion Rue](http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Occupy_Wall_Street_Group_Discussion_2011_Shankbone.JPG/640px-Occupy_Wall_Street_Group_Discussion_2011_Shankbone.JPG)
+
+*Distribué par David Shakbone - Licence Atribution CC3 Unported*
 ## Avantages et limites 
 
 ### Avantages 
