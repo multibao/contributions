@@ -1,5 +1,7 @@
 #Signaler et garantir l’origine des produits sur les marchés
 
+![marché](http://farm6.staticflickr.com/5500/10398108323_f794896562_z.jpg)
+
 ##En une phrase
 Mise en place d'un système d’étiquetage de l’origine des produits alimentaire sur un marché hebdomadaire local.
 ##Présentation
