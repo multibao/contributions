@@ -4,7 +4,9 @@
 
 L’investigation appréciative (AI) est une méthode permettant de définir des orientations grâce aux forces/réussites passées et présente,plutôt que des problèmes. **[1](#note)** 
 
-![IA](http://business901.com/wp-content/uploads/2012/01/AI-vs-Lean.gif)
+![IA](http://farm9.staticflickr.com/8131/8750597428_d45d57f787_z.jpg)
+
+Une photo par [Noema Pérez](https://www.flickr.com/photos/intercultura/8750597428), sous licence Creative Commons BY-NC-SA
 
 ## A quoi ça sert ?
 
