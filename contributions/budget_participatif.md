@@ -6,6 +6,9 @@ Démarche pérenne, souvent annuelle, au cours de laquelle les citoyens peuvent 
 
 ## A quoi ça sert ?
 
+![A quoi ça sert ?](http://pixabay.com/static/uploads/photo/2014/11/30/18/52/dollar-551932_640.jpg)
+Distribué par Geralt sous licence CC0 
+
 * Discuter et décider d'un budget **[2](#note)**
 * Associer les citoyens aux choix de dépenses de leur ville. **[3](#note)**
 
