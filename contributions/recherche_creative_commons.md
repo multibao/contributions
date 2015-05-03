@@ -4,13 +4,13 @@
 
 ## En une phrase
 
-L’appellation Creative commons désigne des licences qui élargissent sous certaines conditions, le droit de réutilisation et/ou de distribution d’œuvres diffusées sur internet telles que des ouvrages, des images ou des publications scientifiques. (1)
+L’appellation Creative commons désigne des licences qui élargissent sous certaines conditions, le droit de réutilisation et/ou de distribution d’œuvres diffusées sur internet telles que des ouvrages, des images ou des publications scientifiques. **[1](#note)** 
 
 ## A quoi ça sert ?
 
 * Permettre à tout le monde d’accéder aux contenus des recherches scientifiques gratuitement et librement.
-* Proposer une solution alternative légale aux personnes souhaitant libérer leurs œuvres des droits de propriété intellectuelle standards de leur pays, jugés trop restrictifs. (1)
-* Favoriser les universités des pays émergents à se développer grâce à un plus grand accès aux travaux de recherche. (2)
+* Proposer une solution alternative légale aux personnes souhaitant libérer leurs œuvres des droits de propriété intellectuelle standards de leur pays, jugés trop restrictifs.**[1](#note)** 
+* Favoriser les universités des pays émergents à se développer grâce à un plus grand accès aux travaux de recherche. **[2](#note)** 
 
 ## Présentation
 
@@ -22,7 +22,7 @@ Il existe deux types de libre accès avec de nombreuses variations.
 
 Dans la publication en libre accès, également connue comme la voie en « or » du libre accès, les revues rendent leurs articles directement et immédiatement accessibles au public. Ces publications s'appellent des « revues en accès ouvert» (« Open access journals »). Un exemple de publications en libre accès est la revue Public Library of Science, qui utilise le modèle de financement dit "auteur-payeur".
 
-En ce qui concerne le libre accès par auto-archivage, aussi appelée la voie « verte » du libre accès, les auteurs déposent des copies de leurs articles sur une page personnelle ou une archive ouverte. Un des principaux partisans de la « voie verte » est Steven Harnad, et cela depuis 1994. (2)
+En ce qui concerne le libre accès par auto-archivage, aussi appelée la voie « verte » du libre accès, les auteurs déposent des copies de leurs articles sur une page personnelle ou une archive ouverte. Un des principaux partisans de la « voie verte » est Steven Harnad, et cela depuis 1994.**[2](#note)** 
 
 Creative Commons (CC) est une organisation à but non lucratif dont le but est de proposer une solution alternative légale aux personnes souhaitant libérer leurs œuvres des droits de propriété intellectuelle standards de leur pays, jugés trop restrictifs. L’organisation a créé plusieurs licences, connues sous le nom de licences Creative Commons. Ces licences, selon leur choix, restreignent seulement quelques droits (ou aucun) des travaux, le droit d'auteur (ou « copyright » dans les pays du Commonwealth et aux États-Unis) étant plus restrictif. 
 
@@ -38,10 +38,10 @@ Toute personne qui a créé une œuvre (texte, musique, vidéo, site Web, photog
 ![creativecommons](https://libres-savoirs.regioncentre.fr/joomla/images/stories/2011/1106_TableauCC.jpg)
 
 Dès leurs apparitions au xviiie siècle, copyright et droit d'auteur ont été sujet à de vives critiques, qui n'ont cessé de s'intensifier avec le développement des technologies facilitant la copie et le partage d'informations.
-Certaines personnes voient les licences libres, dont certaines licences Creative Commons, comme un moyen d'abolir ces notions de propriété intellectuelle en les retournant contre elles-mêmes. (1)
+Certaines personnes voient les licences libres, dont certaines licences Creative Commons, comme un moyen d'abolir ces notions de propriété intellectuelle en les retournant contre elles-mêmes. **[1](#note)** 
 
 Le libre accès est actuellement à l'origine de beaucoup de discussions entre universitaires, bibliothécaires, administrateurs d'universités, éditeurs scientifiques et politiques. Il existe un désaccord substantiel sur le concept de libre accès, avec un grand débat autour de sa rémunération économique.
-En France, plusieurs initiatives d'accès ouvert se sont développées, couvrant les stratégies dites « vertes » (dépôt par l'auteur) et « dorée » (mise en ligne en accès ouvert par l'éditeur). L'archive HAL est la plus importante, car elle regroupe, dans une optique nationale, de nombreux organismes et universités. (2)
+En France, plusieurs initiatives d'accès ouvert se sont développées, couvrant les stratégies dites « vertes » (dépôt par l'auteur) et « dorée » (mise en ligne en accès ouvert par l'éditeur). L'archive HAL est la plus importante, car elle regroupe, dans une optique nationale, de nombreux organismes et universités. **[2](#note)** 
 
 Or, même si les scientifiques ont été très actifs à pousser vers l'adoption générale d'un modèle d'Open Access, il semble que les chercheurs soient dans les faits réticents à accorder au public quasiment tous les droits sur leurs publications.
 En effet, la revue Nature a publié des statistiques issues de son propre service de publications en Open Access, Scientific Reports, qui laisse aux scientifiques le choix de la licence Creative Commons qu'ils souhaitent associer à leur publication. Il en ressort qu'entre le 8 novembre 2012 et le 21 janvier 2012, sur 273 articles acceptés sur la plateforme, seulement 5 % étaient sous la licence CC-BY, qui est la plus permissive de toutes (elle autorise quiconque à faire ce qu'il veut de la publication, à condition simplement de citer les auteurs). 83 % des publications étaient sous la licence CC BY-NC-ND, la plus restrictive de toutes, qui demande au public de ne pas faire d'utilisation commerciale de la publication, et de ne pas en faire de travail dérivé, par exemple pour l'enrichir ou la citer en longueurs dans un autre article.
@@ -49,7 +49,7 @@ En effet, la revue Nature a publié des statistiques issues de son propre servic
 Les statistiques montrent que le choix est largement influencé par l'ordre dans lequel sont présentées les licences au moment où le chercheur doit faire son choix, ce qui montre que les chercheurs ne font pas un choix mûrement réfléchi. La licence la plus restrictive est en effet passée de 58 % d'utilisation entre juillet et novembre 2012, à 83 %, lorsque Scientific Reports a décidé de la mettre en tête des options. En revanche, lorsqu'il n'y avait le choix qu'entre deux licences, d'abord CC BY-NC-SA (qui accepte les travaux dérivés mais en les partageant sous les mêmes termes), puis CC BY-NC-ND, cette dernière ne représentait que 25 % des choix.
 Interrogés par Nature, des militants de l'Open Access estiment qu'il ne faut pas donner le choix aux chercheurs, et imposer la licence la plus permissive. D'abord parce que les chercheurs ne comprendraient pas vraiment les différences entre les licences, ni surtout les implications pratiques du choix de l'une ou l'autre. Par exemple, réserver les droits commerciaux empêche non seulement un éditeur d'imprimer la publication dans un livre ou une revue payante, mais aussi un blog de le faire s'il a le malheur d'avoir une bannière publicitaire d'affichée.
 
-Tous types de contenus confondus, les statistiques de Creative Commons montrent que la licence la plus utilisée serait la BY-NC-SA (29 %), devant la BY-NC-ND (18 %). La plus permissive, la licence BY, ne serait utilisée que sur 10 % des œuvres. (3)
+Tous types de contenus confondus, les statistiques de Creative Commons montrent que la licence la plus utilisée serait la BY-NC-SA (29 %), devant la BY-NC-ND (18 %). La plus permissive, la licence BY, ne serait utilisée que sur 10 % des œuvres. **[3](#note)** 
 
 ![photo](https://www.mysciencework.com/bundles/mswblog/images/Gallery/2014/07/53cfcf1106c2b.jpeg?20140724122330)
 
@@ -69,7 +69,7 @@ Les propositions les plus simples de la part de Creative Commons, CC-BY et CC0, 
 
 Puneet Kishor insiste sur le fait qu'une licence ouverte vous permet déjà d'atteindre ce que vous cherchez, alors qu'une option moins ouverte ne vous laisse probablement pas faire ce que vous pensez. Lorsqu'on commence à faire des combinaisons de licences avec différents niveaux de restriction, les choses deviennent très compliquées.
 
-Concrètement, Creative Commons veut que les chercheurs s'occupent de science, pas des méandres du droit de la propriété intellectuelle. Les chercheurs seront sans aucun doute d'accord avec ça. Au nom de la productivité et du progrès, « Allez toujours au plus simple » suggère Puneet Kishor, « et retournez à vos travaux scientifiques. » (4)
+Concrètement, Creative Commons veut que les chercheurs s'occupent de science, pas des méandres du droit de la propriété intellectuelle. Les chercheurs seront sans aucun doute d'accord avec ça. Au nom de la productivité et du progrès, « Allez toujours au plus simple » suggère Puneet Kishor, « et retournez à vos travaux scientifiques. » **[4](#note)** 
 
 ![licences](https://www.mysciencework.com/bundles/mswblog/images/Gallery/2014/07/53cfcea91b285.jpeg?20140722211158)
 
@@ -79,7 +79,7 @@ Concrètement, Creative Commons veut que les chercheurs s'occupent de science, p
 
 En 2013, deux très puissantes organisations britanniques de financement de travaux de recherche médicale et scientifique : le Wellcome Trust et le Research Councils UK (RCUK) ont exigé que les travaux qu’elles ont financé en tout ou partie fassent l’objet de publications de type Open Access, qui garantissent la gratuité d’accès et un certain niveau de liberté de réutilisation des données.
 
-Les deux fonds doivent débloquer de l'argent pour permettre aux chercheurs de payer les frais exigés par les revues scientifiques prestigieuses, qui fondent une partie de leur modèle économique sur la facturation d'un "droit de publication" auprès des chercheurs (avec une fourchette de prix qui peut aller d'environ 1000 à 15 000 selon les titres). A horizon 2017, le RCUK espère ainsi réussir à publier 75 % des travaux qu'il finance dans les revues à publication payante, dites "Gold Open Access", le reliquat étant publié sur des archives publiques gratuites, dites "Green Open Access". En contrepartie, les deux organisations exigent que les travaux soient publiés en Open Access, avec les droits les plus permissifs possibles accordés au public. (3)
+Les deux fonds doivent débloquer de l'argent pour permettre aux chercheurs de payer les frais exigés par les revues scientifiques prestigieuses, qui fondent une partie de leur modèle économique sur la facturation d'un "droit de publication" auprès des chercheurs (avec une fourchette de prix qui peut aller d'environ 1000 à 15 000 selon les titres). A horizon 2017, le RCUK espère ainsi réussir à publier 75 % des travaux qu'il finance dans les revues à publication payante, dites "Gold Open Access", le reliquat étant publié sur des archives publiques gratuites, dites "Green Open Access". En contrepartie, les deux organisations exigent que les travaux soient publiés en Open Access, avec les droits les plus permissifs possibles accordés au public. **[3](#note)** 
 
 ## Avantages/Limites
 
@@ -90,12 +90,11 @@ Les deux fonds doivent débloquer de l'argent pour permettre aux chercheurs de p
 
 ### Limites
 
-## Compilation, traduction et synthèse
-
-
 ## Sources
 
-* (1) Wikipédia, publié selon les termes de la licence Creative commons BY-SA 
-* (2) Wikipédia – Libre accès (édition scientifique), selon les termes de la licence Creative Commons BY-SA
-* (3) Alan Trim – Université de Montpellier 3, publié selon les termes de la licence Creative Commons BY-SA
-* le-guide-creative-commons-du-partage-scientifique (4)
+<a id="note">
+
+* **[1](#note)**  Wikipédia, publié selon les termes de la licence Creative commons BY-SA 
+* **[2](#note)**  Wikipédia – Libre accès (édition scientifique), selon les termes de la licence Creative Commons BY-SA
+* **[4](#note)**  Alan Trim – Université de Montpellier 3, publié selon les termes de la licence Creative Commons BY-SA
+* le-guide-creative-commons-du-partage-scientifique **[4](#note)** 
