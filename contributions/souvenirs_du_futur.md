@@ -2,6 +2,10 @@
 
 Un extrait du blog de [Lilian](http://www.lilianricaud.com/travail-en-reseau/minga-de-brest-co-creation-dun-kit-de-co-creation-de-biens-communs/), en Creative Commons BY-SA
 
+![souvenirs](http://farm1.staticflickr.com/33/98427151_9c58050ab7_z.jpg)
+
+Photo par [Mario Klingemann](https://www.flickr.com/photos/quasimondo/98427151), sous licence Creative Commons BY-NC
+
 ## Procédure
 
 J’avais déjà des idées sur la mise en œuvre de la fabrication du kit Minga.Mais plutôt que d’imposer quelque chose et de faire travailler les participants sur mes idées j’ai trouvé plus intéressant d’utiliser un format de réflexion collective qui servirait à la fois à imaginer à quoi ressemblerait ce kit et comment il serait utilisé, mais aussi à créer une vision partagée.
@@ -19,8 +23,6 @@ En racontant des histoires au passé ont fait sortir quelque chose de tangible e
 La aussi la diversité des individus enrichit le groupe, chaque personne amenant un angle plus ou moins personnel, technique, théorique ou pratique, mais toutes les pistes sont intéressantes, menant à une sorte de mini cahier des charges de ce que devrait être ce kit de Minga.
 
 J’ai donné 5-10 minutes aux participants pour noter des idées sur papier. Certains ont réfléchis seuls, d’autres en petit groupes. Ensuite chacun est venu présenter ses « souvenirs » au groupe et les marquer au tableau.
-
-![image](http://www.lilianricaud.com/travail-en-reseau/wp-content/uploads/2014/07/tableau-minga-brest.jpg)
 
 Notez que ce format peut être aussi mis en œuvre en utilisant des post-it, qui peuvent être collés sur un mur et reclassés au fur et a mesure ou encore un logiciel de mindmapping projeté sur un écran qui permet la aussi de rendre visible, réorganiser, mais aussi de conserver au format électronique.
 
