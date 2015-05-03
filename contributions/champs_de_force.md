@@ -12,9 +12,9 @@
 
 ##III. Déroulement : 
 
-![Facilitateur Champ de force](http://pixabay.com/static/uploads/photo/2015/04/13/10/01/10-01-21-115_640.jpg)
+![Facilitateur Champ de force](http://farm6.staticflickr.com/5209/5369646057_466f889213_z.jpg)
 
-*Partagé par Geralt - CC0*
+La force est en toi. Une photo by [Pedro Vezini](https://www.flickr.com/photos/pedrovezini/5369646057/in/photolist-rPM8Lu-iv3uXZ-9SxTRv-9SxYmv-aqTND5-qGyPLo-af7HPV-f75Tyd-55Ry2c-mou7g4-bWtyGs-6HAzD1-rYTK1h-5ttJFk-hRfdfp-DLWk2-8G9p3m-phXGFn-9buQGr-ctSMNJ-oYcoD-4yC3im-83p4Js-dmqNn4-dTsgQo-e81BFU-qGyQfu-8DpjX3-rnDSCz-r3rR5V-4zjnfc-awscDY-q39eCL-6iRKWp-9xzF7n-9D4eBh-nQuLcu-jZ7DKe-7Egt3A-4SjZgd-au7QNC-6rPb7t-gybqGD-c9Z9W-fXw4qD-iEzKAx-aj12LP-5nibK5-9kV6CX-9xzERZ) sous licence Creative Commons BY-NC-SA
 
 1. L’animateur explique l’objectif poursuivi dans l’exercice.
 
