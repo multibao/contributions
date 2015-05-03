@@ -33,6 +33,10 @@ méthodologie) : comités de pilotage, commissions menus, etc.
 ##méthodologie
 **Un projet d'introduction de produits biologiques en restauration collective se construit en plusieurs étapes :**
 
+![Atelir Cuisine](<a href="https://www.flickr.com/photos/museumdetoulouse/8652530662" title="Atelier gourmand 2013 : Gérard Garrigue et Elsa by Muséum de Toulouse, on Flickr"><img src="https://farm9.staticflickr.com/8535/8652530662_58525e0a32_z.jpg" width="640" height="481" alt="Atelier gourmand 2013 : Gérard Garrigue et Elsa"></a>)
+
+*Distribué par Museum de Toulouse - CC BY-SA 2.0*
+
 ###1 - Réunir tous les acteurs concernés autour d'un projet global
 La participation de tous les acteurs concernés (élus, gestionnaires, cuisiniers, chefs d'établissement, enseignants, infirmières, périscolaire, convives, parents d'élèves, agriculteurs biologiques, structure de développement de l'agriculture biologique, etc.) est un gage d'appropriation du projet par tous.
 
