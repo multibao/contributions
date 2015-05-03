@@ -1,12 +1,18 @@
 #Regardons plus loin… 
 
+![regardons](http://farm4.staticflickr.com/3524/5747037907_b72db54dea_z.jpg)
+
+Photo par [Pedro Vezini](https://www.flickr.com/photos/pedrovezini/5747037907) sous licence Creative Commons BY-NC-SA
+
+
 ## Objectif
 
 Soutenir un groupe pour qu’il s’organise et  réalise des activités concrètes
 
 ## Matériel 
 
-• Feuilles de papier et crayon (pour chaque participant) • Tableau ou panneau
+• Feuilles de papier et crayon (pour chaque participant) 
+• Tableau ou panneau
 
 ## Déroulement 
 
