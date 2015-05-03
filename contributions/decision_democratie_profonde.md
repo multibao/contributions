@@ -1,8 +1,12 @@
-# Prise de décision en démocratie profonde : 
+# Prise de décision en démocratie profonde
 
 La **démocratie profonde** est un concept, un modèle et une méthode pour faciliter la prise de décisions; elle peut aussi être utilisée pour la résolution de conflits. 
 
-##Le concept :
+##Le concept
+
+![La sagesse c'est chouette](http://farm7.staticflickr.com/6025/6012915752_5c07526892_z.jpg)
+
+Photo par [Greg lilly](https://www.flickr.com/photos/22104733@N06/6012915752), sous licence Creative Commons BY-NC
 
 Il y a de la sagesse dans la perspective de la minorité et en gardant toutes ces perspectives à bord (dans une décision finale), nous rendons cette décision meilleure et plus facile à mettre en place.
 
