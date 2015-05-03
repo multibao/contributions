@@ -2,6 +2,10 @@
 
 Publication de la recette libre pour organiser les  gratos du mois  : une journée autour d’ateliers (Installer son calendrier en ligne, monter une visio-conférence, s’organiser avec freemind...) auto-gérés entre participants.
 
+![Gratos](http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Panneau_randonnee_promenade_gratuit.jpg/360px-Panneau_randonnee_promenade_gratuit.jpg)
+
+Photo par [Copyleft](http://commons.wikimedia.org/wiki/File:Panneau_randonnee_promenade_gratuit.jpg), sous Creative Commons BY-SA
+
 ## Historique 
 
 Il était une fois dans un petit village Cévenol un chapelier qui, au lieu de se faire connaître par les voies classiques de la publicité décida d’ouvrir régulièrement son atelier au public : chacun pouvait ainsi utiliser les machines et se faire conseiller pour réaliser lui-même le couvre-chef de ses rêves. Une salariée d’Outils Réseaux habitait dans le coin et raconta l’histoire à ses collègues qui s’approprièrent l’idée en l’accommodant à leur sauce... C’est ainsi que naquirent les « gratos du mois » d’Outils Réseaux à Montpellier...
