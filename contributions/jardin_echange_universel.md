@@ -10,11 +10,18 @@ Le J.E.U. (Jardin d'Echange Universel) est une monnaie souveraine et autogérée
 Le J.E.U. (Jardin d'Echange Universel) est un réseau d'échange décentralisé (à la différence du SEL (Système d'Echange Local) qui est centré dans un lieu géographie ; à part ça, le principe est le même). **[2](#note)** 
 
 ## En vidéo 
-http://www.dailymotion.com/video/xem8pk_conference-mado-1_webcam
-http://www.dailymotion.com/video/xem782_conference-mado-2_webcam
+
+* http://www.dailymotion.com/video/xem8pk_conference-mado-1_webcam
+* http://www.dailymotion.com/video/xem782_conference-mado-2_webcam
 
 ## Historique 
+
+![Tof](http://farm4.staticflickr.com/3941/15508813887_0e2497e07a_z.jpg)
+
+Photo par [Saarblitz](https://www.flickr.com/photos/saarblitz/15508813887), sous licence Creative Commons BY-SA 
+
 Le troc existe depuis des milliers d'années. Pour faciliter des échanges indirects, divers systèmes ont été mis en place. Le J.E.U. a été créé en 1998 par Daniel Fargeas. Le J.E.U.  permet de favoriser les échanges justes entre les êtres humains, partout sur la planète. **[1](#note)** 
+
 ##Philosophie 
 
 C'est un mode d'échange authentique et bienveillant qui remet l'humain et le coeur au centre. Des rencontres enrichissantes, la valorisation de nos talents, un vrai outil de développement humain. Nous jeu-ons et tout devient possible !**[3](#note)** 
