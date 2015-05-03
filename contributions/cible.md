@@ -1,5 +1,9 @@
 #La cible 
 
+![Cible Araignée](http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Spiral_Orb_Webs.jpg/640px-Spiral_Orb_Webs.jpg)
+
+*Distribué par Bjørn Christian Tørrissen - CCA SA 3.0* 
+
 ##I. Objectif :
 
 Cet exercice permet d’évaluer le lien entre  les objectifs, les actions qu’un groupe s’est  donné de réaliser, et les nécessités concrètes  auxquelles il doit faire face
