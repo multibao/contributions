@@ -1,4 +1,4 @@
-# STORYTELLING GRAPHIQUE
+# Storytelling graphique 
 
 ## En une phrase
 
