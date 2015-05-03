@@ -1,5 +1,9 @@
 # Débat mouvant
 
+![débatmouvant](http://farm6.staticflickr.com/5219/5475638695_2081440b2d_z.jpg)
+
+Une photo par [Zeeuwsebibliotheek](https://www.flickr.com/photos/zeeuwsebibliotheek/5475638695) sous licence Creative Commons BY-NC-SA
+
 ## En une phrase
 Le débat mouvant est une méthode de débat dynamique favorisant l'émulation et la prise de position **[2](#note)**
 
