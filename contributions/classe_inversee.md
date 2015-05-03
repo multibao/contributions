@@ -1,6 +1,6 @@
 # La classe inversée
 
-![Classeinversée](https://s.yimg.com/pw/images/favicon-msapplication-tileimage.png)
+![Classeinversée](http://farm6.staticflickr.com/5606/15596812549_80e5049023_z.jpg)
 
 Une phtoo par [Frédéric BISSON](https://www.flickr.com/photos/zigazou76/15596812549) sous licence Creative Commons BY
 
