@@ -4,7 +4,9 @@
 
 L'audit est une méthode d'enquête axée sur les besoins et intérêts des acteurs; utilisé en concertation territoriale. 
 
-![Audit](http://www.unebookpresqueparfait.fr/wp-content/uploads/2013/02/comment-ecrire-un-dialogue.jpg)
+![Audit](http://farm6.staticflickr.com/5527/13981256424_9658f31715_z.jpg)
+
+Photo par [Heinrich-Böll-Stiftung](https://www.flickr.com/photos/boellstiftung/13981256424) sous licence Creative Commons BY-SA
 
 ## A quoi ça sert ?
 
