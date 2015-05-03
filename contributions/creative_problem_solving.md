@@ -3,7 +3,9 @@
 ## En une phrase 
 Aussi appelé Creative Solving Problem, cette démarche permet de structurer la pensée d'un groupe afin de résoudre de manière optimale – en collectif ou non – un problème; du point de vue personnel elle peut aussi devenir une habitude pour trouver des solutions. 
 
-![CPS](http://www.creativeeducationfoundation.org/~creat155/sites/default/files/images/cps_process.jpg)
+![CPS](https://www.flickr.com/photos/35007189@N05/4342132542)
+
+Une photo par [Alexandre Perrachon](https://www.flickr.com/photos/35007189@N05/4342132542) sous licence Creative Commons BY-NC-SA
 
 ## A quoi ça sert ?
 * Résoudre des problèmes / trouver des solutions de manière constructive
