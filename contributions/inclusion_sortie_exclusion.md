@@ -1,6 +1,8 @@
-#Inclusion sortie et exclusion dans un groupe. 
+#Inclusion sortie et exclusion dans un groupe
 
-##Préambule : 
+![Inclusion](http://farm9.staticflickr.com/8658/15838984763_9495a2a809_z.jpg)
+
+##Préambule
 
 La vie d’un groupe n’est guère un long fleuve tranquille, des vieilles têtes s’en vont, d’autres plus jeunes arrivent (ou l’inverse), et cela n’est pas une mince affaire à gérer ! 
 
@@ -10,7 +12,7 @@ On peut apparenter les inclusions, les sorties et les exclusions d'un groupe à 
 
 L’idée de cette fiche n’est pas de donner une recette de cuisine concernant l’inclusion, l’exclusion et les sorties dans un groupe. Cette fiche vise plutôt à donner une idée de ce qui peut être utilisé comme critère et procédure dans un groupe. Tout les critères et procédures ne peuvent  pas fonctionner partout, il vous appartien d’adapter/de construire vos propres critères et procédures en groupe, en fonction de votre contexte et cadre d’activité. 
 
-##Inclusion : 
+##Inclusion
 
 C’est quand un nouveau membre fait une tentative de rejoindre un groupe. 
 
