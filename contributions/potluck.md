@@ -2,10 +2,11 @@
 
 # En une phrase  
 
+![Potluck](http://farm3.staticflickr.com/2482/4007649104_e99cbe3d34_z.jpg)
+
+Photo par [Ryan Joy](https://www.flickr.com/photos/atxryan/4007649104), sous licence Creative Commons BY-NC-SA 
+
 Un potluck, parfois appelé «repas-partage», «auberge espagnole», «buffet canadien» ou «souper canadien» (en Suisse romande) est un rassemblement autour d'un repas où chaque convive est censé apporter un plat à partager avec le groupe. **[1](#note)** 
-
-
-![potluck](http://4.bp.blogspot.com/-7X1WZaLD0NA/TZqjKgdVE3I/AAAAAAAAHCk/K1_3OYKL4Aw/s1600/Tofino%2Bpotluck.jpg)
 
 ##  A quoi ça sert ?
 
