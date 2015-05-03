@@ -1,14 +1,14 @@
 #Regardons plus loin… 
 
-I. Objectif
+## Objectif
 
 Soutenir un groupe pour qu’il s’organise et  réalise des activités concrètes
 
-II. Matériel 
+## Matériel 
 
 • Feuilles de papier et crayon (pour chaque participant) • Tableau ou panneau
 
-III. Déroulement 
+## Déroulement 
 
 1. Chaque participant répond par écrit à une question sur le groupe ou le projet qui a été préparée à l’avance par l’animateur.
 
@@ -28,19 +28,15 @@ On détaille les activités à réaliser : • actions à mener • contrôles �
 On peut utiliser le modèle suivant : • Que va-t-on faire? • Pourquoi va-t-on le faire? • Comment ? • Qui ? • Avec quels moyens ? • Quand ? • Où ? • Délais ?
 On peut discuter de ces différents points en groupes pour pouvoir faire une mise en commun plus tard.
 
-IV. Application
+## Application
+
 Cette technique est très utile à appliquer dans des groupes qui ont besoin de trouver une méthode de travail et de planifier des actions concrètes.
 
-V. Recommandations 
+## Recommandations 
 
 Pour appliquer cette technique, il faut avoir du temps. On peut diviser cette technique en plusieurs points. Les animateurs doivent juger à quels moments il est préférable et plus utile de travailler en groupes ou tous ensemble.
 
-##Sources : 
+## Sources : 
 
-Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le manuel "Education Populaire : Manuel de techniques participatives "  sur base des ouvrages:
-
-• Técnicas Participativas de Educación Popular I VARGAS VARGAS, LAURA,  BUSTILLOS, GRACIELA, 1era edicion, 1987, IMDEC Servicios Jurídicos y Sociales S.C. 
-
-• Técnicas Participativas para La Educación Popular II VARGAS VARGAS, LAURA - BUSTILLOS, GRACIELA Reimpresión 2009, 1era. Edición 1988, IMDEC Servicios Jurídicos y Sociales S.C.
-
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
+* Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le manuel "Education Populaire : Manuel de techniques participatives "  sur base des ouvrages:  • Técnicas Participativas de Educación Popular I VARGAS VARGAS, LAURA,  BUSTILLOS, GRACIELA, 1era edicion, 1987, IMDEC Servicios Jurídicos y Sociales S.C. / • Técnicas Participativas para La Educación Popular II VARGAS VARGAS, LAURA - BUSTILLOS, GRACIELA Reimpresión 2009, 1era. Edición 1988, IMDEC Servicios Jurídicos y Sociales S.C.
+* Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
