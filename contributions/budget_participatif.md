@@ -85,6 +85,8 @@ budget qui serait investi). Au total, 46 propositions ont été faites pour le b
 ### Limites 
 * Alors que dans les pays émergents comme le Brésil, ce sont les couches les plus exclues de la population qui ont tendance à participer d’avantages, en Europe, le résultat est inverse avec une mobilisation majoritaire des plus instruits. Il est important d’éviter la récupération de la participation par des « habitants professionnels » représentants. **[1](#note)**
 
+![Accord](http://pixabay.com/static/uploads/photo/2014/04/17/05/26/seal-326159_640.jpg)
+*Distribué par Geralt - Licence CC0
 ## Compilation, traduction et présentation
 
 * Issu du Guide démocratie participative de la Fondation Nicolas Hulot, publication sous licence Creative Commons BY-NC-SA 
