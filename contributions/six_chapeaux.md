@@ -1,5 +1,9 @@
 # Six chapeaux pour penser®
 
+![Six](http://farm4.staticflickr.com/3203/3061427692_a34720709d_z.jpg?zz=1)
+
+Photo de [ University of Salford Press Office](https://www.flickr.com/photos/salforduniversity/3061427692/in/photostream/) sous licence Creative Commons BY
+
 ## De quoi s’agit-il ?
 C’est une technique efficace pour examiner sous toutes les coutures telle ou telle décision. Elle nous aide à passer de styles de réflexion habituels à une vue plus complète de la situation.
 Il s’agit de six chapeaux imaginaires différents que vous mettez ou enlevez à votre gré. Chacun d’une couleur différente représente un différent style de réflexion. Changer de chapeaux, c’est changer de pensée.
