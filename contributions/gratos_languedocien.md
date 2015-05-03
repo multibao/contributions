@@ -8,14 +8,14 @@ Il était une fois dans un petit village Cévenol un chapelier qui, au lieu de s
 
 ## Ingrédients (pour 4 à 12 personnes, selon la capacité d’absorption des animateurs) 
 
- *Deux animateurs, bien frais, compétents, disponibles et bénévoles
- *Quelques ordinateurs portables pour ceux qui n’en auraient pas ou auraient oublié le leur
- *Un vidéoprojecteur en bon état de marche.
- *Un accès internet partagé ou un réseau local.
- *Des participants motivés par un projet réseau et prêts à partager leur expérience.
- *Un lieu accueillant et équipé en sources d’énergie.
- *Quelques boissons pour les pauses, repas tiré du sac pour le déjeuner.
- *Le tout réuni le même jour régulièrement, à savoir, pour Outils Réseaux tous les 4è vendredi du mois.
+* Deux animateurs, bien frais, compétents, disponibles et bénévoles
+* Quelques ordinateurs portables pour ceux qui n’en auraient pas ou auraient oublié le leur
+* Un vidéoprojecteur en bon état de marche.
+* Un accès internet partagé ou un réseau local.
+* Des participants motivés par un projet réseau et prêts à partager leur expérience.
+* Un lieu accueillant et équipé en sources d’énergie.
+* Quelques boissons pour les pauses, repas tiré du sac pour le déjeuner.
+* Le tout réuni le même jour régulièrement, à savoir, pour Outils Réseaux tous les 4è vendredi du mois.
 
 
 ## Déroulement
@@ -44,8 +44,8 @@ En fin de journée chacun (animateurs et participants) se retire du four gonflé
 
 Depuis 2011 une vingtaine de gratos ont été servis dans les locaux du parc Magnol à Montpellier (mis à disposition par l’association Terre Nourricière). Les membres d’Outils réseaux se sont relayés aux fourneaux de l’animation pour des tables de 4 à 20 convives, dont plusieurs reviennent, certains régulièrement. le Chef est en attente d’une première étoile...
 
-*Contact : accueil(chez)outils-reseaux.org
-*Auteur de l’article : Michel Elie, amendements par l’équipe d’Outils-Réseaux
+* Contact : accueil(chez)outils-reseaux.org
+* Auteur de l’article : Michel Elie, amendements par l’équipe d’Outils-Réseaux
 
 ##Sources
 
