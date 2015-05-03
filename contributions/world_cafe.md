@@ -2,21 +2,21 @@
 
 ## En une phrase  
 
-Structure de parole interactive permettant de générer des idées par un groupe; sa spécificité est la "pollinisation" ou "montée en intelligence collective" des idées. **(2)**
+Structure de parole interactive permettant de générer des idées par un groupe; sa spécificité est la "pollinisation" ou "montée en intelligence collective" des idées. **[2](#note)** 
 
 ## À quoi ça sert ?
 
-* Explorer une thématique **(2)**
-* Générer une réflexion collective sur un sujet **(2)**
-* Monter en "intelligence collective" sur un sujet : les groupes en s'interconnectant vont favoriser la pollinisation des idées **(2)**
+* Explorer une thématique **[2](#note)** 
+* Générer une réflexion collective sur un sujet **[2](#note)** 
+* Monter en "intelligence collective" sur un sujet : les groupes en s'interconnectant vont favoriser la pollinisation des idées **[2](#note)** 
 
-![Worldcafé](http://www.co-creative-recipes.cc/wp-content/uploads/2014/02/worldCafe.jpg.pagespeed.ce.yIEqCd_mnF.jpg) **(3)**
+![Worldcafé](http://www.co-creative-recipes.cc/wp-content/uploads/2014/02/worldCafe.jpg.pagespeed.ce.yIEqCd_mnF.jpg) **[3](#note)** 
 
 ## Informations pratiques
 * **Nombre de participants** : à partir de 12 personnes
 * **Durée préparation** : très variable
 * **Durée évènement** : de 1 heure 30 à une journée 
-* **Coût** : très variable. Si vous avez déjà tout à disposition faible.  **(2)**
+* **Coût** : très variable. Si vous avez déjà tout à disposition faible.  **[2](#note)** 
 
 ## Présentation 
 
@@ -30,7 +30,7 @@ Plusieurs sessions sont organisées afin de permettre aux participants :
 
 * de changer régulièrement de table,
 * d’échanger les idées d’une table à une autre, 
-* de venir compléter les idées des uns avec celles des autres (principe de pollinisation visant à l’intelligence collective). **(1)**
+* de venir compléter les idées des uns avec celles des autres (principe de pollinisation visant à l’intelligence collective). **[1](#note)** 
 
 ## Procédure 
 
@@ -58,7 +58,7 @@ Organisation en petites tables rondes (4-5 personnes par table) et préparation 
 Afin que la réflexion donne des résultats intéressants et des propositions concrètes, a définition en amont du sujet/de la problématique traité(e) est primordiale. Ce sujet bien délimité par
 les organisateurs, sera ensuite décliné en questions traitées lors des tours de table. Le World café peut être organisé autour d’une ou de plusieurs questions.
 
-La formulation de la question doit être simple et claire pour inviter les participants à réfléchir et à explorer des possibilités. La première session peut amener les participants à réfléchir sur leurs besoins par rapport à la problématique choisie, tandis que la seconde session leur permettra de construire des propositions concrètes en réponse aux besoins qu’ils ont énoncés précédemment. **(1)**
+La formulation de la question doit être simple et claire pour inviter les participants à réfléchir et à explorer des possibilités. La première session peut amener les participants à réfléchir sur leurs besoins par rapport à la problématique choisie, tandis que la seconde session leur permettra de construire des propositions concrètes en réponse aux besoins qu’ils ont énoncés précédemment. **[1](#note)** 
 
 #### Invitations
 Les personnes invitées sont prédéterminées et les plus diversifiées possible. Elles doivent cependant avoir un intérêt commun pour le sujet débattu. Le world café est adapté pour des
@@ -74,7 +74,7 @@ Ces dernières sont souples et ont vocation à instaurer un climat de confiance,
 
 Les participants se réunissent en groupes de 4 ou 5 personnes (nombre maximum recommandé afin de créer une interaction entre les participants tout en leur assurant un temps de parole suffisant à chacun) autour de petites tables avec pour objectif de débattre du thème et de faire émerger des idées, des propositions. Les participants disposent de matériel afin d’écrire leurs propositions (papiers, stylos…). Chaque idée/proposition énoncée autour de la table doit être notée (ex. : faire l’objet d’un papier spécifique). Lors de la séance de discussion, ils sont invités à faire part de leurs perspectives individuelles.
 
-Le porteur du projet intervient dans la première session afin de bien préciser le sujet et si besoin de le reformuler. **(4)** 
+Le porteur du projet intervient dans la première session afin de bien préciser le sujet et si besoin de le reformuler. **[4](#note)** 
 
 Au bout d’un temps précis défini (entre 15 et 30 minutes maximum), tous les participants sont invités à changer de table sauf l’hôte. Il s’agit de compléter les idées des uns avec des apports nouveaux. Au travers des différents avis, les idées vont « mûrir » et gagner en potentiel, chaque changement de table permet la « pollinisation » des idées et pousse la conversation plus loin pour aboutir à des idées souvent innovantes.
 
@@ -87,7 +87,7 @@ Une phase plénière d’échanges autour de l’ensemble des propositions est o
 
 Il est également possible d’aller plus loin en prévoyant une session de vote pour faire émerger un classement des propositions, comme cela a été le cas pour les journées de la restauration collective responsable (cf. expérience ci-dessous). 
 
-Les propositions sont ensuite synthétisées par écrit par les organisateurs et seront envoyées à tous les participants. **(1)**
+Les propositions sont ensuite synthétisées par écrit par les organisateurs et seront envoyées à tous les participants. **[1](#note)** 
 
 ### EXPÉRIENCE
 
@@ -101,7 +101,7 @@ Pour encourager la recherche de solutions communes pour une restauration collect
 
 Ces journées se sont déroulées entre décembre 2011 et janvier 2012 dans trois régions de France (Pays de la Loire, Midi-Pyrénées et Picardie) avec la méthode du World café.
 
-L’objectif était simple : renouer des liens entre les acteurs de l’approvisionnement en les invitant à travailler ensemble à l’amélioration de leurs pratiques. La méthode du World café a été choisie car elle permet à des acteurs aux métiers et aux sensibilités différents d’identifier les blocages et les solutions pour développer l'approvisionnement responsable sur leur territoire. Ainsi élus, acheteurs, cuisiniers, producteurs, transformateurs, grossistes, associations, institutions ont été réunis pour identifier ensemble des pistes d'action. **(1)**
+L’objectif était simple : renouer des liens entre les acteurs de l’approvisionnement en les invitant à travailler ensemble à l’amélioration de leurs pratiques. La méthode du World café a été choisie car elle permet à des acteurs aux métiers et aux sensibilités différents d’identifier les blocages et les solutions pour développer l'approvisionnement responsable sur leur territoire. Ainsi élus, acheteurs, cuisiniers, producteurs, transformateurs, grossistes, associations, institutions ont été réunis pour identifier ensemble des pistes d'action. **[1](#note)** 
 
 #### EN PRATIQUE
 
@@ -136,7 +136,7 @@ Afin de poursuivre les dynamiques et les échanges entre acteurs créés par le 
 -- Écoutez à la fois les points de vue et les questions plus profondes.
 -- Jouez, crayonnez, dessinez.
 -- Écrire sur les feuilles de la « nappe » est encouragé.
--- Amusez-vous !**(1)**
+-- Amusez-vous !**[1](#note)** 
 
 ## Avantages et limites 
 
@@ -146,21 +146,20 @@ Afin de poursuivre les dynamiques et les échanges entre acteurs créés par le 
 * Créativité et stimulation à l'action.
 * Offre la possibilité de faire participer un grand nombre de personnes.
 * Processus simple : les discussions d’une dizaine/vingtaine de minutes permettent de rester actif.
-* La session finale s’axe sur la recherche de solutions concrètes en fonction des besoins discernés ce qui résulte un réel avancement pour la thématique (par exemple dans le cas des journées de la restauration collective responsable, une cartographie et l’idée de créer un label pour favoriser les démarches innovantes ont émergé). **(1)**
+* La session finale s’axe sur la recherche de solutions concrètes en fonction des besoins discernés ce qui résulte un réel avancement pour la thématique (par exemple dans le cas des journées de la restauration collective responsable, une cartographie et l’idée de créer un label pour favoriser les démarches innovantes ont émergé). **[1](#note)** 
 
 ### Limites 
 * L’absence de formation et de séance introductive d’information en amont du World café crée un risque de retrait des personnes les moins informées sur le sujet ou du potentiel ennui des personnes les plus « pointues » sur le sujet. Le rôle de l’animateur et le rappel du règlement du café ont un rôle primordial.
-* Davantage adapté aux problématiques globales ou à l’établissement d’un état des lieux, le World café n’est pas le format le mieux adapté à l’élaboration d’un plan d’action par exemple. **(1)**
-
-## Compilation, traduction et présentation
-
-* Issu du Guide démocratie participative de la Fondation Nicolas Hulot, publication sous licence Creative Commons BY-NC-SA 
-* Guillaume DEPREZ (Université de Bordeaux Segalen) : compilation
+* Davantage adapté aux problématiques globales ou à l’établissement d’un état des lieux, le World café n’est pas le format le mieux adapté à l’élaboration d’un plan d’action par exemple. **[1](#note)** 
 
 ## Sources
 
-* **(1)** [Fondation Nicolas Hulot](www.fondation-nicolas-hulot.org), sous licence Creative Commons BY-NC-SA
-* **(2)** Thomas Wolff, [association Centre des pratiques de la coopération](http://cpcoop.fr), sous licence Creative Commons BY-SA
-* **(3)** [Co-creative recipes](http://www.co-creative-recipes.cc), sous licence Creative Commons BY-SA
-* **(4)** Bertrand Fritsch, sous licence Creative Commons BY-SA
+<a id="note">
+
+* **[1](#note)**  [Fondation Nicolas Hulot](www.fondation-nicolas-hulot.org), sous licence Creative Commons BY-NC-SA
+* **[2](#note)**  Thomas Wolff, [association Centre des pratiques de la coopération](http://cpcoop.fr), sous licence Creative Commons BY-SA
+* **[3](#note)**  [Co-creative recipes](http://www.co-creative-recipes.cc), sous licence Creative Commons BY-SA
+* **[4](#note)**  Bertrand Fritsch, sous licence Creative Commons BY-SA
+
+## Lectures
 * [Bilan national des journées de la restauration collective responsable, Fondation Nicolas Hulot.](http://www.fondation-nicolas-hulot.org/sites/default/files/pdf/publications/Bilan_national_journees_RCR.pdf)
