@@ -49,15 +49,16 @@ Note: ceci est un exemple de déroulé qui peut etre adapté.
 • pas de pré-requis en compétences rédactionnelles
 • expérimentation de l'écriture collaborative
 
- ###Limites
+### Limites
 • obligation d'accepter le compromis (ne convient pas à tout le monde)
 • pas de garantie d'arriver à un texte finalisé
 • soumis aux aléas de connexion internet
 
-##Compilation
+## Sources
 
 * Karine Zufferey, Marc Lanssens, Nicolas Sinoir, Corinne Lamarche, sous licence Creative Commons BY-SA
 
-## Sources pour aller plus loin sur le sprint d'écriture:##
+## Lectures
+
 * [Adam Hyde, créateur de la méthode, parle de "thérapie collaborative"](http://www.booksprints.net/)
 * [Ecriture collaborative: un article de l'Université de Genève](http://edutechwiki.unige.ch/fr/%C3%89criture_collaborative#Outils_en_ligne_pour_l.27.C3.A9criture_collaborative)
