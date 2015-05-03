@@ -12,7 +12,7 @@ Ce format consiste à se projeter dans le futur après qu’un projet ou un év�
 
 Concrètement voici la trame que j’ai donné aux participants:
 
-    Quelques mois ou quelques années ont passé et un kit Minga a été produit. Vous avez utilisé ce kit avec succès et vous l’avez trouvé génial. Pourquoi ? Décrivez ce qui vous a plu en parlant au passé.
+"Quelques mois ou quelques années ont passé et un kit Minga a été produit. Vous avez utilisé ce kit avec succès et vous l’avez trouvé génial. Pourquoi ? Décrivez ce qui vous a plu en parlant au passé."
 
 En racontant des histoires au passé ont fait sortir quelque chose de tangible et on crée une empathie avec le sujet. Il ne s’agit plus simplement de quelque chose d’imaginaire, mais quelque chose de qui devient très réel pour tous.
 
