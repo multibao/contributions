@@ -1,8 +1,8 @@
 # Talk show 
 
- ## En une phrase  
+## En une phrase  
 
-Le talk show est une méthode de conférence (partage de savoirs) inspirée de la méthode du cercle excentrique, qui reprend le thème amusant d'un "Talk show" à l'américaine. **(2)**
+Le talk show est une méthode de conférence (partage de savoirs) inspirée de la méthode du cercle excentrique, qui reprend le thème amusant d'un "Talk show" à l'américaine. **[2](#note)** 
 
 ![format](http://upload.wikimedia.org/wikipedia/commons/thumb/6/62/2008-11-27_Riverboat-Talkshow.jpg/640px-2008-11-27_Riverboat-Talkshow.jpg)
 
@@ -14,7 +14,7 @@ Conférences
 Dynamisme des échanges
 
 ## Présentation 
-**(1)**
+**[1](#note)** 
 Le terme talk-show est employé comme métaphore pour illustrer le climat informel et détendu qui est crée pour stimuler le partage des savoirs. Les efforts de préparation requis des participants sont minimes et cette méthode peut facilement être appliquée dans un atelier où les participants ne se connaissent pas entre eux et ne connaissent pas non plus les organisateurs.
 
 Il s’agit d’une combinaison de la méthode du « fish bowl » et du groupe de discussion. La structure en forme de cercle ouvert du talk-show engendre une plus grande participation que la méthode du « fish bowl » et sa nature informelle est moins intimidante que le panel de discussion traditionnel.
@@ -39,7 +39,7 @@ Posez trois questions à l’invité, en cherchant à faire ressortir les détai
 Invitez le second intervenant et répétez le processus. Les questions posées aux trois invités peuvent être identiques, ou différentes, en fonction de leur propre expérience.
 Après le passage des trois intervenants, invitez l’audience à poser des questions.
 Posez quelques questions sujettes à polémique aux trois invités et stimulez un débat entre eux.
-Si possible, filmez le talk-show. **(1)**
+Si possible, filmez le talk-show. **[1](#note)** 
 
 ### Conseils:
 En présence de grands groupes de 40 à 50 personnes, organisez deux ou trois talk-show en parallèle et laissez les participants choisir celui qui les intéresse le plus.
@@ -48,7 +48,7 @@ Le talk-show produit de meilleurs résultats quand les récits des intervenants 
 Conviez les participants à l’atelier à se porter volontaires pour jouer le rôle d’animateur. Les personnes expressives et dynamiques joueront mieux ce rôle. Laissez à l’animateur au moins 10 minutes pour faire la connaissances de ses invités. Distribuez à chaque volontaire les petites cartes sur lesquelles sont rédigées les questions-type qu’il devra poser à ses invités.
 Encouragez les animateurs à employer des méthodes de facilitation, par exemple en paraphrasant, en incitant les gens à parler et en les stimulant.
 Les animateurs peuvent reformuler les idées en changeant les mots et poser des questions telles que « pourriez-vous en dire plus long à ce sujet … » ou encore « pourriez-vous donner un exemple pour illustrer ce que vous voulez dire par là … ».
-A la fin du show, réservez un moment au partage des idées qui ont émergé du show. Si le groupe est assez petit (entre 10 et 15 personnes), on pourra donner à chaque spectateur et chaque intervenant l’occasion de partager ses pensées et ses idées en organisant un tour de table. Assurez-vous de la présence d’un rapporteur chargé d’inscrire les points importants sur les affiches ; ceux-ci seront plus tard consignés dans les conclusions de l’atelier. **(1)**
+A la fin du show, réservez un moment au partage des idées qui ont émergé du show. Si le groupe est assez petit (entre 10 et 15 personnes), on pourra donner à chaque spectateur et chaque intervenant l’occasion de partager ses pensées et ses idées en organisant un tour de table. Assurez-vous de la présence d’un rapporteur chargé d’inscrire les points importants sur les affiches ; ceux-ci seront plus tard consignés dans les conclusions de l’atelier. **[1](#note)** 
 
 ## Avantages et limites 
 
@@ -60,5 +60,8 @@ Simple, efficace
 Contraintes liées au Cercle excentrique : une disposition particulière de salle peut être nécessaire.
 
 ### Compilation, traduction et présentation
+
+<a id="note">
+
 **(1)** [Kstoolkit](http://www.kstoolkit.org/Le+talk-show), sous licence Creative Commons BY-SA
 **(2)** Guillaume DEPREZ, Université Bordeaux Segalen, sous licence Creative Commons BY-SA
