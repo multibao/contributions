@@ -6,9 +6,9 @@ Le café itinérant est une initiative collective où plusieurs personnes se ras
 
 [En vidéo](https://www.youtube.com/watch?v=1--XI4_fszc)
 
-![Café Sourire](http://pixabay.com/static/uploads/photo/2014/09/16/22/24/person-448873_640.jpg)
+![Café Sourire](https://www.flickr.com/photos/foxypar4/377287812)
 
-*Partagé par Ferrand - CC0*
+Photo par [John Haslam](https://www.flickr.com/photos/foxypar4/377287812) sous licence Creative Commons BY
 
 ## A quoi ça sert ?
 
