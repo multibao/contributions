@@ -4,6 +4,11 @@
 
 Une Coach Clinic est un service mis à disposition des participants de la conférence pour obtenir de l'aide gratuite de la part de coachs expérimentés.
 
+![Coach](http://farm3.staticflickr.com/2207/2107125973_42feb482d9_z.jpg)
+
+Photo par [Ed Uthman](https://www.flickr.com/photos/euthman/2107125973) en licence Creative Commons BY-SA
+
+
 ## A quoi ça sert ? 
 
 * Apprendre de coachs expérimentés (pour les coachés)
