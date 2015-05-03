@@ -2,6 +2,8 @@
 
 ![Inclusion](http://farm9.staticflickr.com/8658/15838984763_9495a2a809_z.jpg)
 
+Une photo par [Build up vc](https://www.flickr.com/photos/124948989@N06/15838984763) sous Creative Commons BY-NC-SA
+
 ##Préambule
 
 La vie d’un groupe n’est guère un long fleuve tranquille, des vieilles têtes s’en vont, d’autres plus jeunes arrivent (ou l’inverse), et cela n’est pas une mince affaire à gérer ! 
