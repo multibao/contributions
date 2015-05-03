@@ -1,5 +1,8 @@
 #« Moi, à ta place, je » : 
 
+![Photo](http://farm4.staticflickr.com/3178/2935942116_44f95372c6_z.jpg)
+
+Photo par [Jean-Pierre Dalbéra](https://www.flickr.com/photos/dalbera/2935942116), sous licence Creative Commons BY
 
 L'**objectif** de cet outil est de se mettre au service d'un projet / d'une problématique / d'une personne / d'une équipe en faisant émerger l'intelligence collective et la créativité.
 
