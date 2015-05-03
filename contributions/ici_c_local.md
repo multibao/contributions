@@ -2,6 +2,8 @@
 
 ![marché](http://farm6.staticflickr.com/5500/10398108323_f794896562_z.jpg)
 
+Un dessin par [Guy MOLL](https://www.flickr.com/photos/guymoll/10398108323/in/photostream/) sous licence Creative Commons BY
+
 ##En une phrase
 Mise en place d'un système d’étiquetage de l’origine des produits alimentaire sur un marché hebdomadaire local.
 ##Présentation
