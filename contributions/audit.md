@@ -29,6 +29,10 @@ L’audit patrimonial, s’il cherche des réponses à travers un questionnaire,
 5. Analyse des données
 6. Les résultats (avec éléments possibles de solutions) sont ensuite donnés aux différents acteurs impliqués.
 
+![Questionnaire](http://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Questionnaire_0001.jpg/640px-Questionnaire_0001.jpg)
+
+*Distribué par Roger mommaert - Licence CCA Share Alike 2.0 Generic*
+
 "Si on veut faire du sur-mesure, il peut être très utile de tester les questions sur un échantillon représentatif et leur demander si les questions semblent pertinentes. Par exemple, lorsque j'imagine que tels ou tels acteurs ont tels ou tels problèmes ou besoins, je ne me contente pas de les lister. Je liste les 3 ou 4 problématiques / besoins qui me semblent majeurs, je rencontre les acteurs (souvent en présentiel ou lors d'un entretien téléphonique), et je vérifie si ce que j'imagine correspond bien au terrain. Assez vite, on arrive à trouver des problématiques "qui parlent" aux interviewés. 
 L'idée de base : cesser d'imaginer : demander et vérifier!
 
