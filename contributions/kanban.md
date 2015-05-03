@@ -1,25 +1,18 @@
 # Kanban simplifié
 
 ## En une phrase
-Outil de planification des tâches mondiallement reconnu et expérimenté, connu pour sa facilité de lecture et sa limitation intelligente de tâches à faire. Aussi le nom d'un système de productivité industrielle utilisé par Toyota. On présente ici une version très simplifiée **(1)**
+Outil de planification des tâches mondiallement reconnu et expérimenté, connu pour sa facilité de lecture et sa limitation intelligente de tâches à faire. Aussi le nom d'un système de productivité industrielle utilisé par Toyota. On présente ici une version très simplifiée **[1](#note)** 
 
 ## À quoi ça sert ?
 * Organiser un grand nombre de tâches
 * Répartir le temps avec intelligente
 * Clarté 
-* Apprendre les fondamentaux de l'organisation **(1)**
+* Apprendre les fondamentaux de l'organisation **[1](#note)** 
 
-![Kanban](https://ayeba.wikispaces.com/file/view/initial_actionboard.png/251121282/300x223/initial_actionboard.png) **(4)**
-
-## Informations pratiques
-
-- **Nombre de participants** non dépendant
-- **Durée préparation** non dépendant
-- **Durée évènement** régulièrement
-- **Coût** faible
+![Kanban](https://ayeba4ispaces.com/file/view/initial_actionboard.png/251121282/300x223/initial_actionboard.png) **[4](#note)** 
 
 ## Présentation
-Le Kanban est un outil très flexible, numérique ou papier/post-its, permettant de connaître l'état d'avancement de tâches, individuellement et/ou en collectif. Très simple d'utilisation, nous vous présentons ici l'outil simplifié. De nombreus outils numériques, payants ou non, sont disponibles. Kanban signifierai en japonais "regarder le tableau" **(1)**
+Le Kanban est un outil très flexible, numérique ou papier/post-its, permettant de connaître l'état d'avancement de tâches, individuellement et/ou en collectif. Très simple d'utilisation, nous vous présentons ici l'outil simplifié. De nombreus outils numériques, payants ou non, sont disponibles. Kanban signifierai en japonais "regarder le tableau" **[1](#note)** 
 
 ## Procédure
 Voir ["Kanban in 4 easy steps" sur SlideShare](http://fr.slideshare.net/kanbantool/kanban-in-4-easy-steps) 
@@ -45,10 +38,6 @@ Après, si vous voulez apprendre les versions plus évoluées, notamment en trav
 
 ![Kanban évolué](http://upload.wikimedia.org/wikipedia/commons/3/33/Lean_Kanban.jpg) 
 
-
-
-*Kanban numérique*
-
 ## Avantages et limites
 
 ### Avantages
@@ -60,12 +49,12 @@ Après, si vous voulez apprendre les versions plus évoluées, notamment en trav
 ### Limites
 * Pas facile à transporter (sauf si numérique ou "de poche")    
 
-## Compilation, traduction et présentation
-Thomas Wolff (Centre des pratiques de la coopération) 
-
 ### Sources
-* **(1)** Thomas Wolff, [association Centre des pratiques de la coopération](http://cpcoop.fr), sous licence Creative Commons BY-SA
-* **(2)** Jeff Iasovski, sous licence Creative Commons BY-SA
-* **(3)** [Rakuten, Inc.](http://commons.wikimedia.org/wiki/File:Lean_Kanban.jpg), sous licence Creative Commons BY-SA
-* **(4)** [Wiki Ayeba](https://ayeba.wikispaces.com/7+%C3%A9tapes+afin+de+construire+un+tableau+Kanban+pour+les+obstacles+de+l'%C3%A9quipe+Scrum), sous licence Creative Commons BY
+
+<a id="note">
+
+* **[1](#note)**  Thomas Wolff, [association Centre des pratiques de la coopération](http://cpcoop.fr), sous licence Creative Commons BY-SA
+* **[2](#note)**  Jeff Iasovski sous licence Creative Commons BY-SA
+* **[3](#note)**  [Rakuten, Inc.](ht2tp://commons.wikimedia.org/wiki/File:Lean_Kanban.jpg), sous licence Creative Commons BY-SA
+* **[4](#note)**  [Wiki Ayeba](https://ayeba.wikispaces.com/7+%C3%A9tapes+afin+de+construire+un+tableau+Kanban+pour+les+obstacles+de+l'%C3%A9quipe+Scrum), sous licence Creative Commons BY
 * [Kanban en 4 étapes sur SlideShare](http://fr.slideshare.net/kanbantool/kanban-in-4-easy-steps)
