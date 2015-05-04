@@ -8,11 +8,11 @@ Une photo par [Build up vc](https://www.flickr.com/photos/124948989@N06/15838984
 
 La vie d’un groupe n’est guère un long fleuve tranquille, des vieilles têtes s’en vont, d’autres plus jeunes arrivent (ou l’inverse), et cela n’est pas une mince affaire à gérer ! 
 
-La fiche ici présente propose différents exemple de ce qui se fait dans différents groupes comme critères et procédures d’inclusions, de sorties, et d’exclusions. Ces trois éléments forment ce qu'on appel la "membrane du groupe", c'est ce qui permet à un groupe de créer ses frontières avec l'extérieur du groupe. 
+La fiche ici présente propose différents exemples de ce qui se fait dans différents groupes comme critères et procédures d’inclusions, de sorties, et d’exclusions. Ces trois éléments forment ce qu'on appel la "membrane du groupe", c'est ce qui permet à un groupe de créer ses frontières avec l'extérieur du groupe. 
 
 On peut apparenter les inclusions, les sorties et les exclusions d'un groupe à des flux d'énergie. Il y a donc un captial d'énergie que le groupe va devoir gérer pour la bonne continuité de ses activités à court, moyen et long terme. Nous incitons les membres d'un groupe à se mettre d'accord sur les différents critères et procédures dans une charte partagée.
 
-L’idée de cette fiche n’est pas de donner une recette de cuisine concernant l’inclusion, l’exclusion et les sorties dans un groupe. Cette fiche vise plutôt à donner une idée de ce qui peut être utilisé comme critère et procédure dans un groupe. Tout les critères et procédures ne peuvent  pas fonctionner partout, il vous appartien d’adapter/de construire vos propres critères et procédures en groupe, en fonction de votre contexte et cadre d’activité. 
+L’idée de cette fiche n’est pas de donner une recette de cuisine concernant l’inclusion, l’exclusion et les sorties dans un groupe. Cette fiche vise plutôt à donner une idée de ce qui peut être utilisé comme critères et procédures dans un groupe. Tout les critères et procédures ne peuvent  pas fonctionner partout, il vous appartien d’adapter/de construire vos propres critères et procédures en groupe, en fonction de votre contexte et cadre d’activité. 
 
 ##Inclusion
 
@@ -20,19 +20,19 @@ C’est quand un nouveau membre fait une tentative de rejoindre un groupe.
 
 *Critères d’inclusion* : 
 
-•	La compétence perçue du nouvel arrivant dans un domaine
+•	La compétence perçue du nouvel arrivant dans un domaine pertinent pour le groupe/l'organisation
 
-•	Un partage de vision 
+•	Un partage de vision sur les projets en cours
 
 •	Le fait que la personne soit expérimentée dans la domaine d’activité et qu’elle puisse apporter des choses positives au groupe. 
 
 •	Une envie de s’impliquer des nouveaux membres reconnue et estimée par les membres du groupe
 
-•	Adhérer à une charte ou à des principes
+•	Adhérer à une charte ou à des principes communs
 
 *L’arrivé peut se faire de plusieurs façon ou procédures différentes* : 
 
-* Il es très important qu'un moment d'acceuil soit prévu pour les nouveaux arrivant d'un groupe. Cela permettra aux anciens membres du groupe et au nouveaux de mieux se connaitre. 
+* Il est très important qu'un moment d'acceuil soit prévu pour les nouveaux arrivant d'un groupe. Cela permettra aux anciens membres du groupe et au nouveaux de mieux se connaitre. 
 
 •	Par un système de parrainage, où un membre plus ancien accompagne un nouveau lors des activités pour créer du lien avec le groupe, et après un certain temps d’accompagnement (qui peut être en jours, semaines, mois, ou encore nombre d’activités). 
 
@@ -44,7 +44,7 @@ C’est quand un nouveau membre fait une tentative de rejoindre un groupe.
 
 * Par un système de séances ouvertes (une séance ouverte ayant lieu toute les X réunion) où les nouveaux participants peuvent venir observer. 
 
-•	Le nouvel arrivant doit assister à une première réunion sans prendre la parole et juste observer comment cela se passe, et à une deuxième réunion il pourra se présenter, et dire dans quels projets il aurait envie de prendre part. 
+•	Le nouvel arrivant doit assister à une première réunion sans prendre la parole et juste observer comment la réunion se déroule, et par la suite, à une deuxième réunion, il pourra se présenter, et dire dans quels projets il aurait envie de prendre part. 
 
 •	Un engagement formel du nouveau participant à respecter la charte de participation (si la présence physique est requise obligatoirement à chaque réunion). 
 
@@ -54,7 +54,7 @@ C’est quand un nouveau membre fait une tentative de rejoindre un groupe.
 
 C’est quand un membre du groupe décide de partir de lui-même du groupe. 
 
-Attention : une sortie qui n'est pas gérer peut aboutir à plusieurs autres sorties brutales dans le groupe. 
+Attention : une sortie qui n'est pas gérer peut aboutir à plusieurs autres sorties brutales dans le groupe. Il convient de créer un espace de régulation entre personnes concernant cette sortie. 
 
 *Critères de sorties* : 
 
