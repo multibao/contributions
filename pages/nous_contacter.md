@@ -1,6 +1,8 @@
 # Nous contacter
 
-Vous pouvez contacter Thomas Wolff, qui assure la médiation entre les différents participant(e)s. 
+* Contacter Thomas Wolff par [mail](mailto:thomas.wolff@cpcoop.fr), skype (thomasboage) ou tel (06 42 45 97 81)
 
-*[thomas.wolff@cpcoop.fr](mailto:thomas.wolff@cpcoop.fr)*
-*ou tél : [06 42 45 97 81](tel:33642459781) (entre 9h et 19h)*
+ou 
+
+* [Questions de dev'](mailto: stephane.langlois@scopyleft.fr)
+* [Contacter un contributeur/trice](https://github.com/orgs/multibao/people)
