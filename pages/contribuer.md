@@ -2,12 +2,6 @@
 
 > http://www.multibao.org
 
-* Les équipes
-* Historique des versions de multiBàO
-* [Documention complète](https://github.com/multibao/documentation/blob/master/README.md)
-* [Liste de discussion](http://lists.imaginationforpeople.org/cgi-bin/mailman/listinfo/multibao)
-* [Mentions légales](http://www.multibao.org/pages/multibao/contributions/mentions_legales)
-
 ## Comment est-ce que je fais pour
 
 * [obtenir ou donner un accès contributeur multiBàO](https://github.com/multibao/documentation/blob/master/fiches/obtenir_donner_acces_contributeur.md)
@@ -19,3 +13,13 @@
 * [créer un nouveau dépôt de fiches pour moi ou mon organisation ?](https://github.com/multibao/documentation/blob/master/fiches/creer_un_depot.md)
 * administrer mon dépôt de fiches?
 * [installer multiBàO sur mon serveur/ordinateur (développeurs)?](https://github.com/multibao/site/blob/master/README.md)
+
+## Informations
+
+* Les équipes
+* Historique des versions de multiBàO
+* [Documention complète](https://github.com/multibao/documentation/blob/master/README.md)
+* [Liste de discussion](http://lists.imaginationforpeople.org/cgi-bin/mailman/listinfo/multibao)
+* [Mentions légales](http://www.multibao.org/pages/multibao/contributions/mentions_legales)
+
+
