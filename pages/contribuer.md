@@ -16,8 +16,8 @@
 
 ## Informations
 
-* Les équipes
 * Historique des versions de multiBàO
+* [Equipes contributeurs](https://github.com/orgs/multibao/people)
 * [Documention complète](https://github.com/multibao/documentation/blob/master/README.md)
 * [Liste de discussion](http://lists.imaginationforpeople.org/cgi-bin/mailman/listinfo/multibao)
 * [Mentions légales](http://www.multibao.org/pages/multibao/contributions/mentions_legales)
