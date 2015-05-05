@@ -1,17 +1,19 @@
 # Documentation
 
-* Lien vers le site web http://multibao.org
-* Lien vers la [section documentation de mutliBàO](https://github.com/multibao/documentation)
+> http://www.multibao.org
+
 * Les équipes
 * Historique des versions de multiBàO
+* [Documention complète](https://github.com/multibao/documentation/blob/master/README.md)
 * [Liste de discussion](http://lists.imaginationforpeople.org/cgi-bin/mailman/listinfo/multibao)
+* [Mentions légales](http://www.multibao.org/pages/multibao/contributions/mentions_legales)
 
-*Comment est-ce que je fais pour*
+## Comment est-ce que je fais pour
 
 * [obtenir ou donner un accès contributeur multiBàO](https://github.com/multibao/documentation/blob/master/fiches/obtenir_donner_acces_contributeur.md)
 ?
 * [enrichir une fiche multiBàO](https://github.com/multibao/documentation/blob/master/fiches/enrichir_une_fiche.md)?
-* créer une fiche multiBàO?
+* [créer une fiche multiBàO?](https://github.com/multibao/documentation/blob/master/fiches/creer_fiche_multibao.md)
 * [choisir une licence Creative Commons pour enrichir mes droits d'auteur ?](http://creativecommons.fr/licences/les-6-licences/)
 * [faire apparaître une des fiches de multiBàO sur mon site web ?](https://github.com/multibao/documentation/blob/master/fiches/faire_apparaitre_fiche_sur_mon_site.md)
 * [créer un nouveau dépôt de fiches pour moi ou mon organisation ?](https://github.com/multibao/documentation/blob/master/fiches/creer_un_depot.md)
