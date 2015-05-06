@@ -1,5 +1,7 @@
 # Les chantiers participatifs de Trémargat 
 
+![tremargat](http://www.territoires-hautement-citoyens.fr/wp-content/uploads/2015/02/ChantierParticipatif-1030x689.jpg)
+
 Trémargat est un village Breton qui pratique un modèle de démocratie locale inédit.
 Durant les municipales, il n’y a pas d’affrontements entre des listes mais un programme co-construit (une liste d’actions et de projets priorisés) et une liste ouverte : les « élus » seront animateurs des projets et actions prévus.
 
