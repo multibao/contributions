@@ -6,10 +6,9 @@ La Maison de la Citoyenneté se présente comme le lieu central de Kingersheim o
 Elle se combine avec d’autres dispositifs, au sein d’une démarche globale de renouveau démocratique :
 
 * États Généraux Permanents de la Démocratie,
-
 * Conseils participatifs tirés au sort,
-
 * Journée citoyenne.
+
 ![Fiche](https://framapic.org/Wu3JkOTYXghR/DoDBJ4FB)
 
 Fiche (PDF) :
