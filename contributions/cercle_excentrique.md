@@ -11,7 +11,7 @@ La démarche du cercle exentrique, aussi appelé "Fish Bowl" (bocal à poisson) 
 * Conférences/ateliers/débats avec "experts"
 * Conférences/ateliers/débats avec citoyens **[3](#note)** 
 
-![Cercle excentrique](http://www.aohmontreal.org/wp-content/uploads/2014/04/IMG_0024-1140x500.jpg) **[4](#note)**
+![Cercle excentrique](https://framapic.org/bYqtCGoCFWn6/hReXAEGg) **[4](#note)**
 
 ## Informations pratiques
 
