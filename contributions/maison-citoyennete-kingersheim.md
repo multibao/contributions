@@ -1,11 +1,13 @@
+# Maison de la citoyenneté de Kingersheim
+
 La Maison de la Citoyenneté se présente comme le lieu central de Kingersheim où s’exercent les fonctions essentielles de la démocratie : la délibération, l’élaboration et la coproduction avec les habitants, la décision politique et l’implication citoyenne. 
 Elle se combine avec d’autres dispositifs, au sein d’une démarche globale de renouveau démocratique :
 
-*États Généraux Permanents de la Démocratie,
+* États Généraux Permanents de la Démocratie,
 
-*Conseils participatifs tirés au sort,
+* Conseils participatifs tirés au sort,
 
-*Journée citoyenne.
+* Journée citoyenne.
 
 Fiche (PDF) :
 
