@@ -1,5 +1,7 @@
 # Écosystème participatif de Montréal 
 
+![jefaismontreal](https://framapic.org/o0UEDiFzPYBo/IxcPJAWa)
+
 Comme beaucoup de collectivités, Montréal offre à ses citoyens tout un panel de dispositifs, d’outils et de moyens de s’informer et de participer à la vie citoyenne et à la gouvernance locale. La participation est définie par une charte. 
 Les citoyens ont une ligne directe [pour appeler la ville et poser des questions ou proposer des sujets. 
 Une [plateforme](http://donnees.ville.montreal.qc.ca/) met à disposition les données publiques, tandis qu’un site pédagogique recense et explique les différentes manière d’agir sur le territoire. 
