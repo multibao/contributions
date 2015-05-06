@@ -1,7 +1,5 @@
 #Budget participatif de la ville de Paris
 
-![Budget](http://www.territoires-hautement-citoyens.fr/wp-content/uploads/2015/02/Budget-Participatif-Paris.png)
-
 Le budget participatif Parisien est celui dont le montant est le plus important au monde : 500 millions d’euros pour 2015 !
 
 Lors d’une première phase les Parisiens peuvent proposer des projets qui sont ensuite évalués et sélectionnés selon le règlement du budget et les avis des services et d’une commission dédiée. Enfin, parmi les projets pré-sélectionnés, les Parisiens peuvent voter pour ceux qu’ils souhaite réaliser avec l’enveloppe allouée, priorisant ainsi les projets mis en œuvre.
