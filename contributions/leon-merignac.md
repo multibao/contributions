@@ -14,4 +14,4 @@ Pour aller plus loin :
 
 Fiche (PDF) :
 
-<div style="text-align:center;"><div style="margin:8px 0px 4px;"><a href="http://www.calameo.com/books/0005746786d59bea5e0b6" target="_blank">Cas d'usages Territoires Hautement Citoyens</a></div><iframe src="//v.calameo.com/?bkcode=0005746786d59bea5e0b6" width="300" height="194" frameborder="0" scrolling="no" allowtransparency allowfullscreen style="margin:0 auto;"></iframe><div style="margin:4px 0px 8px;"><a href="http://www.calameo.com/">Publish at Calameo</a></div></div>
+<div style="text-align:center;"><div style="margin:8px 0px 4px;"><a href="http://www.calameo.com/books/0005746786d59bea5e0b6" target="_blank">Cas d'usages Territoires Hautement Citoyens</a></div><iframe src="//v.calameo.com/?bkcode=0005746786d59bea5e0b6" width="640" height="500" frameborder="0" scrolling="no" allowtransparency allowfullscreen style="margin:0 auto;"></iframe><div style="margin:4px 0px 8px;"><a href="http://www.calameo.com/">Publish at Calameo</a></div></div>
