@@ -1,6 +1,6 @@
 # Léon à Mérignac 
 
-![merignac](https://framapic.org/2gXUaK5TYI2j/IKw0rkEj)
+![merignac](https://framapic.org/9wI18jQAFbR6/cZc9RQtV)
 
 Léon est un service participatif qui permet aux habitants d’alerter l’administration de la ville de certains problèmes (voirie dégradée, signalétique manquante, graffitis…)
 
