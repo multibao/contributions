@@ -4,17 +4,17 @@ Bienvenus sur multiBàO.
 
 ## Version actuelle et proposition de multiBàO
 
-multiBàO en est actuellement à sa version 0.3. A cette version, la technologie multiBàO permet aux animateurs de réseaux publiant des ressources participatives sur leurs sites web de pleinement les mutualiser.
-
-Dans de prochaines versions multiBàO sera construite sur-mesure pour un public beaucoup plus large. 
-
-Si vous vous perdez sur la plateforme avec ses dizaines de dizaines de fiches, c'est donc absolument normal. Pour être tenu informé et participer aux prochains sprints de co-construction de multiBàO, rejoignez la [liste de discussion]([http://lists.imaginationforpeople.org/cgi-bin/mailman/listinfo/multibao]) ou nous sur tweeter #multibao @thom_wolff. 
+multiBàO en est actuellement à sa version 0.3. 
+* A cette version, la technologie multiBàO permet aux animateurs de réseaux publiant des ressources participatives sur leurs sites web de pleinement les mutualiser.
+* Dans de prochaines versions multiBàO sera construite sur-mesure pour un public beaucoup plus large.
+* Si vous vous perdez sur la plateforme avec ses dizaines de dizaines de fiches, c'est donc absolument normal. 
+* Pour être tenu informé et participer aux prochains sprints de co-construction de multiBàO, rejoignez la [liste de discussion]([http://lists.imaginationforpeople.org/cgi-bin/mailman/listinfo/multibao]) ou nous sur tweeter #multibao @thom_wolff. 
 
 Sprint = plutôt que de travailler un peu par çi par là sur le projet, nous préférons travailler de manière focalisée à plusieurs, sur 10 jours. A l'issue de ces 10 jours, une nouvelle version de multiBàO est produite. 
 
 ## Fonctionnalités de multiBàO 0.3
 
-* *Public cible** animateurs de réseaux collaboratifs publiant sur leurs sites web des ressources participatives sous des licences libres, animateurs d'évènements générant réflexion sur les démarches participatives
+* **Public cible** animateurs de réseaux collaboratifs publiant sur leurs sites web des ressources participatives sous des licences libres, animateurs d'évènements générant réflexion sur les démarches participatives
 * **Proposition** une technologie pour vous permettre de mutualiser pleinement vos ressources avec les autres réseaux
 * **Solutions proposées (construite sur la base de 32 interviews du public cible sur leurs problèmes/alternatives)**
  * une technologie opensource pour interconnecter vos ressources
