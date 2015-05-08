@@ -5,7 +5,6 @@
 ## Comment est-ce que je fais pour
 
 * [obtenir ou donner un accès contributeur multiBàO?](https://github.com/multibao/contributions/blob/master/pages/documentation/obtenir_donner_acces_contributeur.md)
-
 * [enrichir une fiche multiBàO?](https://github.com/multibao/contributions/blob/master/pages/documentation/enrichir_une_fiche.md)
 * [créer une fiche multiBàO?](https://github.com/multibao/contributions/blob/master/pages/documentation/creer_fiche_multibao.md)
 * [choisir une licence Creative Commons pour enrichir mes droits d'auteur ?](http://creativecommons.fr/licences/les-6-licences/)
