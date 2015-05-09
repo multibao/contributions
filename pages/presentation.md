@@ -10,7 +10,7 @@ multiBàO en est actuellement à sa version 0.3.
 
 ## Fonctionnalités de multiBàO 0.3
 
-* **Public cible* animateurs de réseaux collaboratifs publiant sur leurs sites web des ressources participatives sous des licences libres, animateurs d'évènements générant réflexion sur les démarches participatives
+* **Public cible** animateurs de réseaux collaboratifs publiant sur leurs sites web des ressources participatives sous des licences libres, animateurs d'évènements générant réflexion sur les démarches participatives
 * **Proposition** une technologie pour vous permettre de pleinement mutualiser vos ressources avec les autres réseaux
 * **Solutions proposées (construite sur la base de 32 interviews du public cible sur leurs problèmes/alternatives)**
  * une technologie opensource pour interconnecter vos ressources
@@ -18,7 +18,7 @@ multiBàO en est actuellement à sa version 0.3.
  * des [dépôts de fiches](https://github.com/multibao/contributions/blob/master/pages/documentation/creer_un_depot.md) décentralisés : vous restez administrateur de vos ressources
  * un dépôt de fiches mutualisé entre tous les acteurs
  * plusieurs options de [contribution](https://github.com/multibao/contributions/blob/master/pages/documentation/obtenir_donner_acces_contributeur.md) pour nous permettre les uns les autres d'enrichir nos fiches
- * possibilité de [faire apparaître les fiches souhaitées sur d'autres sites, avec un simple code à incorporer](https://github.com/multibao/contributions/blob/master/pages/documentation/faire_apparaitre_fiche_sur_mon_site.md). Enrichissement de nos boîtes à outils facilité. Actualisation instannée. 
+ * possibilité de [faire apparaître les fiches souhaitées sur d'autres sites, avec un simple code à incorporer](https://github.com/multibao/contributions/blob/master/pages/documentation/faire_apparaitre_fiche_sur_mon_site.md). Enrichissement de nos boîtes à outils facilité. Actualisation instantanée. 
  * et une documentation explicitant [comment contribuer](http://www.multibao.org/pages/multibao/contributions/contribuer)
 
 
