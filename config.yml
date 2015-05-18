@@ -1,0 +1,42 @@
+baseurl: /starter
+permalink: pretty
+markdown: rdiscount
+prose:
+  rooturl: 'contributions'
+  media: 'media'
+  metadata:
+    contributions:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "multibao/contributions/contributions"
+      - name: "author"
+        field:
+          element: "text"
+          label: "Author"
+          value: "Thomas Wolff"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Collaboration"
+              value: "collaboration"
+            - name: "Enseignement"
+              value: "enseignement"
+            - name: "Citoyenneté"
+              value: "citoyenneté"
+            - name: "Médecine"
+              value: "médecine"
+            - name: "Astronomie"
+              value: "astronomie"
