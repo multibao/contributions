@@ -20,5 +20,3 @@ multiBàO en est actuellement à sa version 0.3.
  * plusieurs options de [contribution](https://github.com/multibao/contributions/blob/master/pages/documentation/obtenir_donner_acces_contributeur.md) pour nous permettre les uns les autres d'enrichir nos fiches
  * possibilité de [faire apparaître les fiches souhaitées sur d'autres sites, avec un simple code à incorporer](https://github.com/multibao/contributions/blob/master/pages/documentation/faire_apparaitre_fiche_sur_mon_site.md). Enrichissement de nos boîtes à outils facilité. Actualisation instantanée. 
  * et une documentation explicitant [comment contribuer](http://www.multibao.org/pages/multibao/contributions/contribuer)
-
-
