@@ -1,3 +1,14 @@
+---
+layout: multibao/contributions/contributions
+category: blog
+published: false
+title: Untitled
+author: Thomas Wolff
+tags: 
+  - enseignement
+  - citoyenneté
+---
+
 #Création d’une charte de groupe
 
 Dans le milieu associatif et citoyen, beaucoup de groupes doivent poser leur propre fonctionnement en tant qu’équipe. La constitution d’une charte peut aider à atteindre cet objectif. 
