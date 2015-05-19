@@ -1,3 +1,11 @@
+---
+published: false
+title: Souvenir du futur
+author: Lillian Ricaud
+tags: 
+  - Collaboration
+---
+
 # Souvenirs du futur
 
 Un extrait du blog de [Lilian](http://www.lilianricaud.com/travail-en-reseau/minga-de-brest-co-creation-dun-kit-de-co-creation-de-biens-communs/), en Creative Commons BY-SA
