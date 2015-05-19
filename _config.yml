@@ -1,21 +1,26 @@
-baseurl: /starter
-permalink: pretty
-markdown: rdiscount
 prose:
   rooturl: 'contributions'
   media: 'media'
   metadata:
     contributions:
-      - name: "title"
+      - name: "category"
         field:
-          element: "text"
-          label: "Title"
-          value: ""
+          element: "hidden"
+          value: "blog"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "multibao/contributions/contributions"
       - name: "author"
         field:
           element: "text"
           label: "Author"
           value: "Thomas Wolff"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
       - name: "tags"
         field:
           element: "multiselect"
