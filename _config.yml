@@ -1,6 +1,5 @@
 prose:
   rooturl: 'contributions'
-  siteurl: 'http://www.multibao.org'
   media: 'media'
   metadata:
     contributions:
@@ -8,12 +7,7 @@ prose:
         field:
           element: "text"
           label: "Author"
-          value: "author"
-      - name: "author"
-        field:
-          element: "text"
-          label: "Author"
-          value: "author"
+          value: ""
       - name: "title"
         field:
           element: "text"
@@ -25,13 +19,13 @@ prose:
           label: "Add Tags"
           placeholder: "Choose Tags"
           options:
-            - name: "Agile"
-              value: "agile"
-            - name: "Collaboratif"
-              value: "collaboratif"
-            - name: "Scopyleft"
-              value: "scopyleft"
-            - name: "Meteor"
-              value: "meteor"
-            - name: "Lean"
-              value: "lean"
+            - name: "Ice breaker"
+              value: "Ice breaker"
+            - name: "Energizer"
+              value: "Energizer"
+            - name: "Organisation"
+              value: "Organisation"
+            - name: "Collaboration"
+              value: "Collaboration"
+            - name: "Citoyenneté"
+              value: "Citoyenneté"
