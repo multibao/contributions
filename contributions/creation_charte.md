@@ -1,13 +1,3 @@
----
-layout: multibao/contributions/contributions
-category: blog
-published: false
-title: Untitled
-author: Thomas Wolff
-tags: 
-  - enseignement
-  - citoyenneté
----
 
 #Création d’une charte de groupe
 
