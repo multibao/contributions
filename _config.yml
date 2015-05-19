@@ -3,11 +3,6 @@ prose:
   media: 'media'
   metadata:
     contributions:
-      - name: "published"
-        field:
-          label: "Published"
-          element: "checkbox"
-          value: "true"
       - name: "author"
         field:
           element: "text"
