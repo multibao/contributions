@@ -13,6 +13,11 @@ prose:
           element: "text"
           label: "Title"
           value: ""
+      - name: "description"
+        field:
+          element: "textarea"
+          label: "Description"
+          value: ""
       - name: "tags"
         field:
           element: "multiselect"
