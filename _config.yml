@@ -6,24 +6,16 @@ prose:
   media: 'media'
   metadata:
     contributions:
-      - name: "category"
-        field:
-          element: "hidden"
-          value: "blog"
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "multibao/contributions/contributions"
-      - name: "author"
-        field:
-          element: "text"
-          label: "Author"
-          value: "Thomas Wolff"
       - name: "title"
         field:
           element: "text"
           label: "Title"
           value: ""
+      - name: "author"
+        field:
+          element: "text"
+          label: "Author"
+          value: "Thomas Wolff"
       - name: "tags"
         field:
           element: "multiselect"
