@@ -4,7 +4,9 @@ title: Souvenir du futur
 author: Lillian Ricaud
 tags: 
   - Collaboration
+description: Ce format consiste à se projeter dans le futur après qu’un projet ou un évènement soit terminé et à « se rappeler » ce qui s’est passé.
 ---
+
 
 # Souvenirs du futur
 
