@@ -12,7 +12,7 @@ prose:
         field:
           element: "text"
           label: "Title"
-          value: ""
+          value: "Contribution multibao"
       - name: "description"
         field:
           element: "textarea"
