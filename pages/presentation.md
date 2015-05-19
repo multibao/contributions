@@ -3,7 +3,7 @@
 ## Version actuelle et proposition de multiBàO
 
 multiBàO en est actuellement à sa version 0.3. 
-* A cette version, la technologie multiBàO permet aux animateurs de réseaux publiant des ressources participatives sur leurs sites web de pleinement les mutualiser.
+* Pour cette version, la technologie multiBàO permet aux animateurs de réseaux publiant des ressources participatives sur leurs sites web de pleinement les mutualiser.
 * Dans de prochaines versions de multiBàO, la plateforme sera adaptée et construite sur-mesure pour un public beaucoup plus large. Avant d'en arriver à la, nous avions besoin de poser ces quelques bases solides. 
 * Si vous vous perdez sur la plateforme avec ses dizaines de dizaines de fiches, c'est donc absolument normal. 
 * Pour être tenu informé et participer aux prochains ateliers de co-construction de multiBàO, rejoignez la [liste de discussion]([http://lists.imaginationforpeople.org/cgi-bin/mailman/listinfo/multibao]) ou retrouvez nous sur tweeter #multibao @thom_wolff. 
