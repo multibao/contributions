@@ -6,8 +6,6 @@ description: null
 
 # Gouvernance / organisations en cercle
 
-Salu'
-
 ![Gouvernance](http://farm6.staticflickr.com/5444/7222403994_6c71f06cb7_z.jpg) 
 
 Photo by [LeColab](https://www.flickr.com/photos/lecolab/7222403994) en Creative Commons BY-NC-SA
