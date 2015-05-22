@@ -1,0 +1,32 @@
+.ghRepoList,
+.ghRepoList {
+  font-family: "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
+  font-size: 13px;
+  display: block;
+  padding: 30px 0px;
+  margin: -30px 0px;
+  width: 100%;
+  position: fixed;
+  background: white;
+}
+
+.ghRepoList a {
+  display: inline-block;
+  float: left;
+  color: rgba(0,0,0,0.6);
+  background: #fafafa;
+  border-radius: 2px;
+  border: 1px solid #f0f0f0;
+  padding: 3px 8px;
+  margin-right: 4px;
+  text-decoration: none;
+}
+
+.ghRepoList a:hover,
+.ghRepoList a:focus {
+  background: #f0f0f0;
+}
+
+.ghRepoList a.selected {
+  background: #f0f0f0;
+}
