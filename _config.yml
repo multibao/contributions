@@ -1,3 +1,31 @@
+daktary:
+  meta:
+    title: 'MultiBào : Une multi-boite à outils'
+    description: 'multiBàO permet aux animateurs de réseaux publiant des ressources participatives sur leurs sites web de pleinement les mutualiser.'
+
+  ghRepos:
+    - label: fiches multibao
+      account: multibao
+      repo: contributions
+      folder: contributions
+  
+    - label: réseau transition
+      account: reseautransitionwb
+      repo: reseau_transition
+      folder: contributions
+  
+    - label: démocratie ouverte
+      account: alecoz
+      repo: democratie_ouverte
+      folder: contributions
+
+  ghCss:
+    ghContributionCss: css/contribs.css
+    contribsList: css/contribs-list.css
+    nav: css/nav.css
+    reposList: css/repos-list.css
+    mdMeta: css/md-meta.css
+
 prose:
   rooturl: 'contributions'
   media: 'media'
