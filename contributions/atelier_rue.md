@@ -1,3 +1,11 @@
+---
+published: false
+title: Contribution multibao
+description: null
+tags: 
+  - Collaboration
+---
+
 # Atelier de rue
 
 ## En une phrase  
@@ -11,6 +19,8 @@ Une photo de [Alectrevelyan006](http://commons.wikimedia.org/wiki/File:People_en
 
 * pour les organisateurs: recueillir des témoignages afin d'enrichir une réflexion citoyenne.
 * pour les participants: se questionner et s'exprimer librement sur un sujet (auquel ils ne sont pas forcément sensibilisé), rencontrer de nouvelles personnes dans son quartier
+
+![fait_cnv.jpg](/media/fait_cnv.jpg)
 
 ## Présentation 
 
@@ -64,6 +74,3 @@ Il est ensuite proposé à la personne de résumer ses idées en une phrase, ave
 ## Sources
 
 * Collectif Chiendent (Antoine CANAZZI, Flore CORRIERE, Corentin SEYFRIED), sous licence Creative Commons BY-SA
-
-
-
