@@ -14,9 +14,9 @@
   display: inline-block;
   float: left;
   color: rgba(0,0,0,0.6);
-  background: #bce8f1;
+  background: ##d9edf7;
   border-radius: 2px;
-  border: 1px solid #f0f0f0;
+  border: 1px solid #bce8f1;
   padding: 3px 8px;
   margin-right: 4px;
   text-decoration: none;
@@ -24,9 +24,9 @@
 
 .ghRepoList a:hover,
 .ghRepoList a:focus {
-  background: #f0f0f0;
+  background: #bce8f1;
 }
 
 .ghRepoList a.selected {
-  background: #f0f0f0;
+  background: #bce8f1;
 }
