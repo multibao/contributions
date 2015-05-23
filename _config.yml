@@ -4,6 +4,11 @@ daktary:
     description: 'multiBàO permet aux animateurs de réseaux publiant des ressources participatives sur leurs sites web de pleinement les mutualiser.'
 
   ghRepos:
+    - label: Pages pratiques
+      account: multibao
+      repo: contributions
+      folder: pages
+      
     - label: fiches multibao
       account: multibao
       repo: contributions
