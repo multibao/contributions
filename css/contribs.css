@@ -77,15 +77,15 @@ body {
 
 .contribution a {
   transition: all 200ms linear 0s;
-  border-bottom: 1px solid #DCB107;
+  border-bottom: 1px solid #d9edf7;
   color: #333;
   text-decoration: none;
 }
 
 .contribution a:hover,
 .contribution a:focus {
-  border-bottom: 1px solid #927504;
-  background: #f9d236;
+  border-bottom: 1px solid #d9edf7;
+  background: #bce8f1;
 }
 
 .contribution blockquote p {
