@@ -20,8 +20,6 @@ Une photo de [Alectrevelyan006](http://commons.wikimedia.org/wiki/File:People_en
 * pour les organisateurs: recueillir des témoignages afin d'enrichir une réflexion citoyenne.
 * pour les participants: se questionner et s'exprimer librement sur un sujet (auquel ils ne sont pas forcément sensibilisé), rencontrer de nouvelles personnes dans son quartier
 
-![fait_cnv.jpg](/media/fait_cnv.jpg)
-
 ## Présentation 
 
 L'équipe de l'atelier de rue va à la rencontre des gens et les invite à discuter autour du thème du jour (inscrit en grand). Les notes prises durant la discussion sont ensuite synthétisées en une phrase avec la personne interrogée et accrochées sous la grande question afin qu'elles soient ainsi visibles par tous et puissent faire émerger et enrichir la réflexion de chacun. 
