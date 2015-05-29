@@ -1,3 +1,13 @@
+---
+published: false
+title: Contribution multibao
+description: Tets
+tags: 
+  - Collaboration
+author: S.LANGLOIS
+---
+
+
 # Audit
 
 ## En une phrase  
@@ -9,6 +19,8 @@ L'audit est une méthode d'enquête axée sur les besoins et intérêts des acte
 Photo par [Heinrich-Böll-Stiftung](https://www.flickr.com/photos/boellstiftung/13981256424) sous licence Creative Commons BY-SA
 
 ## A quoi ça sert ?
+
+![image.jpeg](/media/image.jpeg)
 
 * Permet de connaître les besoins et les intérêts des acteurs locaux. 
 * [...] et de les prendre en compte 
@@ -54,4 +66,4 @@ Demande un temps conséquent pour la compilation, l'analyse et le suivi
 
 # Sources
 
-Thomas Wolff, Centre des pratiques de la coopération Creative Commons BY-SA, www.cpcoop.fr 
+Thomas Wolff, Centre des pratiques de la coopération Creative Commons BY-SA, www.cpcoop.fr
