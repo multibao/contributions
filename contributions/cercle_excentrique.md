@@ -1,3 +1,12 @@
+---
+published: false
+title: Contribution multibao
+description: null
+tags: 
+  - Organisation
+author: langloi
+---
+
 # Cercle excentrique / Fish Bowl
 
 ## En une phrase  
@@ -75,4 +84,3 @@ Caroline PICTON (relecture et vérification des sources)
 * **3** Thomas WOLFF, [association Centre des pratiques de la coopération](http://www.cpcoop.fr), sous licence Creative Commons BY-SA
 * **4** Communauté [AOH Montreal](http://www.aohmontreal.org/valoriser-et-honorer-lexpertise-dans-les-processus-participatifs/), sous licence Creative Commons BY-SA
 </a>
-
