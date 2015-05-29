@@ -1,11 +1,3 @@
----
-published: false
-title: Contribution multibao
-description: null
-tags: 
-  - Organisation
-author: langloi
----
 
 # Cercle excentrique / Fish Bowl
 
