@@ -1,4 +1,5 @@
 daktary:
+  home: /multibao/contributions/pages
   meta:
     title: 'MultiBào : Une multi-boite à outils'
     description: 'multiBàO permet aux animateurs de réseaux publiant des ressources participatives sur leurs sites web de pleinement les mutualiser.'
@@ -24,12 +25,13 @@ daktary:
       repo: democratie_ouverte
       folder: contributions
 
-  ghCss:
-    ghContributionCss: css/contribs.css
-    contribsList: css/contribs-list.css
-    nav: css/nav.css
-    reposList: css/repos-list.css
-    mdMeta: css/md-meta.css
+    - label: Les traducteurs agiles
+      account: les-traducteurs-agiles
+      repo: les-traducteurs-agiles.github.io
+      folder: _posts
+
+  dkCss: assets/css/multibao.css
+  dkImgPath: assets/img
 
 prose:
   rooturl: 'contributions'
