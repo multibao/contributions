@@ -1,0 +1,15 @@
+.contrib-nav ul {
+  position: fixed;
+  margin: 0px -70px;
+  display: block;
+  float: left;
+  list-style: outside none none;
+}
+.contrib-nav ul a {
+  color: #ddd;
+}
+
+.contrib-nav ul a:hover,
+.contrib-nav ul a:focus {
+  color: rgba(0,0,0,0.7);
+}
