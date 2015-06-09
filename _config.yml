@@ -65,6 +65,11 @@ daktary:
       repo: contributions/contributions
       folder: jeu
 
+    - label: TW
+      account: wolffthomas
+      repo: perles_gestion_projets
+      folder: contributions
+
   dkCss: assets/css/multibao.css
   dkImgPath: assets/img
   dk404: https://raw.githubusercontent.com/daktary/contribs/master/assets/img/error404.png
