@@ -10,10 +10,15 @@ daktary:
       repo: contributions
       folder: pages
       
-    - label: fiches multibao
+    - label: Public
       account: multibao
       repo: contributions
       folder: contributions
+
+    - label: Moustics
+      account: multibao
+      repo: contributions
+      folder: moustic
   
     - label: réseau transition
       account: reseautransitionwb
