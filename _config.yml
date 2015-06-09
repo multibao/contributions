@@ -18,7 +18,7 @@ daktary:
     - label: Moustics
       account: multibao
       repo: contributions
-      folder: moustic
+      folder: contributions/moustic
   
     - label: réseau transition
       account: reseautransitionwb
