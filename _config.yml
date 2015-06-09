@@ -55,6 +55,16 @@ daktary:
       repo: Holacracy-Constitution
       folder: 
 
+    - label: D Sidd
+      account: multibao
+      repo: contributions/contributions
+      folder: d_sidd
+
+    - label: J.E.U
+      account: multibao
+      repo: contributions/contributions
+      folder: jeu
+
   dkCss: assets/css/multibao.css
   dkImgPath: assets/img
   dk404: https://raw.githubusercontent.com/daktary/contribs/master/assets/img/error404.png
