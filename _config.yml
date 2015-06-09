@@ -5,7 +5,7 @@ daktary:
     description: 'multiBàO permet aux animateurs de réseaux publiant des ressources participatives sur leurs sites web de pleinement les mutualiser.'
 
   ghRepos:
-    - label: Menu
+    - label: MENU
       account: multibao
       repo: contributions
       folder: pages
@@ -19,11 +19,6 @@ daktary:
       account: multibao
       repo: contributions/contributions
       folder: moustic
-  
-    - label: Chiendent
-      account: multibao
-      repo: contributions/contributions
-      folder: collectif_chiendent
 
     - label: Réseau transition
       account: reseautransitionwb
@@ -35,15 +30,20 @@ daktary:
       repo: democratie_ouverte
       folder: contributions
 
+    - label: Cpcoop
+      account: multibao
+      repo: contributions/contributions
+      folder: cpcoop
+
     - label: Fnh
       account: multibao
       repo: contributions/contributions
       folder: fnh
 
-    - label: Cpcoop
+    - label: Chiendent
       account: multibao
       repo: contributions/contributions
-      folder: cpcoop
+      folder: collectif_chiendent
   
     - label: Les traducteurs agiles
       account: les-traducteurs-agiles
