@@ -55,12 +55,12 @@ daktary:
       repo: Holacracy-Constitution
       folder: 
 
-    - label: D Sidd
+    - label: D SIDD
       account: multibao
       repo: contributions/contributions
       folder: d_sidd
 
-    - label: J.E.U
+    - label: J.e.u.
       account: multibao
       repo: contributions/contributions
       folder: jeu
