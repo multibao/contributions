@@ -50,6 +50,11 @@ daktary:
       repo: les-traducteurs-agiles.github.io
       folder: _posts
 
+    - label: Holacraty
+      account: holacracyone
+      repo: Holacracy-Constitution
+      folder: 
+
   dkCss: assets/css/multibao.css
   dkImgPath: assets/img
   dk404: https://raw.githubusercontent.com/daktary/contribs/master/assets/img/error404.png
