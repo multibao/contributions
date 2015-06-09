@@ -10,37 +10,42 @@ daktary:
       repo: contributions
       folder: pages
       
-    - label: Public
+    - label: dépôt Public
       account: multibao
       repo: contributions
       folder: contributions
 
-    - label: Moustics
+    - label: rencontres Moustics
       account: multibao
       repo: contributions/contributions
       folder: moustic
   
-    - label: Chiendent
+    - label: association Chiendent
       account: multibao
       repo: contributions/contributions
       folder: collectif_chiendent
 
-    - label: FNH
-      account: multibao
-      repo: contributions/contributions
-      folder: fnh
-  
-    - label: réseau transition
+    - label: absl Réseau transition WB
       account: reseautransitionwb
       repo: reseau_transition
       folder: contributions
   
-    - label: démocratie ouverte
+    - label: association Démocratie Ouverte
       account: alecoz
       repo: democratie_ouverte
       folder: contributions
 
-    - label: Les traducteurs agiles
+    - label: Guide Fnh
+      account: multibao
+      repo: contributions/contributions
+      folder: fnh
+
+    - label: association Cpcoop
+      account: multibao
+      repo: contributions/contributions
+      folder: cpcoop
+  
+    - label: réseau Les traducteurs agiles
       account: les-traducteurs-agiles
       repo: les-traducteurs-agiles.github.io
       folder: _posts
