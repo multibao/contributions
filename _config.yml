@@ -20,6 +20,16 @@ daktary:
       repo: contributions/contributions
       folder: moustic
   
+    - label: Chiendent
+      account: multibao
+      repo: contributions/contributions
+      folder: collectif_chiendent
+
+    - label: FNH
+      account: multibao
+      repo: contributions/contributions
+      folder: fnh
+  
     - label: réseau transition
       account: reseautransitionwb
       repo: reseau_transition
