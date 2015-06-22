@@ -4,13 +4,13 @@ bienvenue sur multiBàO, une technologie permettant de pleinement mutualiser des
 
 * **version actuelle**: 0.4
 
-### C'est pour qui ?
+## C'est pour qui ?
 
 en version 0.4, pour les animateurs de réseaux /formateurs /animateurs d'évènements /collectifs /bloggers publiant de la documentation sur les démarches participatives /la gestion de projet et souhaitant les diffuser. 
 
 > Amis formateurs/coachs/animateurs de réseaux non habitués au numérique, nous vous invitons à profiter de multiBàO pour découvrir et vous former à des nouveaux usages numériques qui vous serons bien utiles. Ce site peut être pour vous un terrain facile d'apprentissage du numérique.
 
-### Comment ça marche? En version simple. [En version plus poussée](#note)
+## Comment ça marche? En version simple. [En version plus poussée](#note)
 
 * Quiconque le veut peut creer un dossier contenant des fiches. Afin que tout le monde puisse en profiter, tout est publié sous des licences libres. 
 * Les dossiers contiennent vos fiches méthodes/outils/retours d'expériences/réflexions sur les démarches participatives/ gestion de projet.
@@ -18,7 +18,7 @@ en version 0.4, pour les animateurs de réseaux /formateurs /animateurs d'évèn
 * Tout le monde peut contribuer à toutes les fiches directement depuis multibao.org. 
 * En deux clics et un copié collé vous pouvez faire apparaître n'importe quelle fiche de multiBàO sur votre site... et ça prendra automatiquement la mise en page de votre site. 
 
-### Comment ça marche? En version plus poussée.
+## Comment ça marche? En version plus poussée.
 
 * Quiconque le veut peut creer un dossier contenant des fiches. Afin que tout le monde puisse en profiter, tout est publié sous des licences libres. 
 
@@ -45,5 +45,12 @@ en version 0.4, pour les animateurs de réseaux /formateurs /animateurs d'évèn
 
 > La technologie utilisée s'appelle un "script". C'est un lien que vous allez pouvoir incorporer dans une de vos pages web et qui fera apparaître la fiche en question avec la mise en page de votre propre site.
 > La documentation explique pour l'instant comment le faire. Très bientôt ce sera faisable à partir d'un simple îcone présent sur chaque fiche. 
+
+## Vous êtes qui ? 
+
+Les porteurs du projets
+
+* [Thomas Wolff](https://fr.linkedin.com/pub/thomas-wolff/a5/a41/a8a), [@thom_wolff](http://twitter.com/thom_wolff). Porteur du projet depuis le début de manière bénévole, fasciné par les approches participatives et la question de biens communs, c'est le premier et le plus gros utilisateur de multiBàO. Avec une cohorte de stagiaires, il est à l'origine de la version 0.0.1 de multiBàO, un fichier Dropbox contenant plus de 200 fiches méthodes participatives de haute qualité sous licences libres. Il assure le rôle de "product owner" du projet, c'est à dire un intermédiaire entre la communauté des contributeurs / utilisateurs de la plateforme web, et l'équipe de développement. 
+* [Stéphane Langlois](http://scopyleft.fr], [@s_langlois](http://twitter.com/s_langlois]. Développeur web agile, il assure le rôle de développeur principal du projet multiBàO et comme référent de l'équipe de développement qui peut venir en renfort. 
 
 
