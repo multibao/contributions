@@ -5,8 +5,7 @@
 
 ## Rappels
 
-* En deux clics et un copié collé vous pouvez faire apparaître n'importe quelle fiche de multiBàO sur votre site... et ça prendra automatiquement la mise en page de votre site. 
+* En deux clics et un copier coller vous pouvez faire apparaître n'importe quelle fiche de multiBàO sur votre site... et ça prendra automatiquement la mise en page de votre site. 
 
 > La technologie utilisée s'appelle un "script". C'est un lien que vous allez pouvoir incorporer dans une de vos pages web et qui fera apparaître la fiche en question avec la mise en page de votre propre site.
-> La documentation explique pour l'instant comment le faire. Très bientôt ce sera faisable à partir d'un simple îcone présent sur chaque fiche. 
-
+> La documentation explique pour l'instant comment le faire. Très bientôt ce sera faisable à partir d'un simple îcone présent sur chaque fiche.
