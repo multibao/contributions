@@ -4,8 +4,6 @@
 
 Une même fiche multiBàO peut apparaître sur plusieurs sites différents. 
 
-Ainsi, la [fiche multiBàO "cercle excentrique"](http://www.multibao.org/contributions/multibao/contributions/cercle_excentrique) apparaît sur une dizaine de sites web comme sur le [site des rencontres Moustic](http://moustic.info/2015/wakka.php?wiki=CercleSamoan), le [site du Cpcoop](http://cpcoop.fr), le [site de Thomas Wolff](http://thomas-wolff.fr/methodes/cercle-excentrique-2/).
-
 * lorsque la fiche apparaît sur ton site, elle prendra automatiquement sa mise en page. C'est ce qui est présenté dans la démo ci dessus.
 * si un contributeur modifie la fiche, tous les sites seront instannément actualisés. 
 
