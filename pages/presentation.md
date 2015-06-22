@@ -10,63 +10,40 @@ en version 0.4, pour les animateurs de réseaux /formateurs /animateurs d'évèn
 
 > Amis formateurs/coachs/animateurs de réseaux non habitués au numérique, nous vous invitons à profiter de multiBàO pour découvrir et vous former à des nouveaux usages numériques qui vous serons bien utiles. Ce site peut être pour vous un terrain facile d'apprentissage du numérique.
 
-### Comment ça marche?
+### Comment ça marche? En version simple. [En version plus poussée](#note)
 
-#### Un animateur de réseau, une collectivité, un passionné, un blogger propose un dossier contenant des fiches qu'il a écrite ou qu'il a trouvé sur le web. Afin que tout le monde puisse en profiter, tout est publié sous des licences libres. 
+* Quiconque le veut peut creer un dossier contenant des fiches. Afin que tout le monde puisse en profiter, tout est publié sous des licences libres. 
+* Les dossiers contiennent vos fiches méthodes/outils/retours d'expériences/réflexions sur les démarches participatives/ gestion de projet.
+* Les dossiers peuvent être stockés sur multiBàO... ou pas! Vous pouvez écrire votre dossier avec vos fiches et l'héberger sur le web, on le connecte à multiBàO et ton dossier apparaîtra sur multiBàO. Si tu modifies une fiche, elle sera automatiquement mise à jour sur multiBàO.
+* Tout le monde peut contribuer à toutes les fiches directement depuis multibao.org. 
+* En deux clics et un copié collé vous pouvez faire apparaître n'importe quelle fiche de multiBàO sur votre site... et ça prendra automatiquement la mise en page de votre site. 
+
+### Comment ça marche? En version plus poussée.
+
+* Quiconque le veut peut creer un dossier contenant des fiches. Afin que tout le monde puisse en profiter, tout est publié sous des licences libres. 
 
 > une licence libre te permet d'enrichir tes droits d'auteurs et de ce fait si tu autorises la diffusion de ton oeuvre, sa modification, son utilisation commerciale ou non. Si tu te promènes sur multiBàO, tu verras qu'il existe plusieurs licences libres. Si c'est la première fois que tu entends parler de licences libres, jettes donc un coup d'oeil sur cette [vidéo](https://www.youtube.com/watch?v=R-mJE1w6zwU). 
 
-* Les dossiers contiennent vos fiches méthodes/outils/retours d'expériences/réflexions sur les démarches participatives/ gestion de projet. 
+* Les dossiers contiennent vos fiches méthodes/outils/retours d'expériences/réflexions sur les démarches participatives/ gestion de projet.
 
 > le dossier "Réseau transition" visible sur http://www.multibao.org contient les fiches de l'association Réseau transition. 
 
-* Les dossiers peuvent être stockés sur multiBàO... ou pas! Je m'explique: multiBàO présente une technologie qui permet d'agréger des dossiers distants, autrement dit vous pouvez écrire votre dossier avec vos fiches et l'héberger sur le web, et on peut le faire apparaître simultanément sur multiBàO. Si tu modifies une fiche, elle sera automatiquement mise à jour sur multiBàO.
+* Les dossiers peuvent être stockés sur multiBàO... ou pas! Vous pouvez écrire votre dossier avec vos fiches et l'héberger sur le web, on le connecte à multiBàO et ton dossier apparaîtra sur multiBàO. Si tu modifies une fiche, elle sera automatiquement mise à jour sur multiBàO.
 
 > la technologie de multiBàO permet d'agrégérer des dépôts (=dossiers).
 > En version 0.4, multiBàO permet d'agérer des dépôts herbergés sous http://www.github.com. Si vous n'avez jamais entendu parlé de github, il s'agit d'un service d'hébergement mondialement utilisé pour l'hébergement et le travail collaboratif sur des ressources publiées sous licences libres. Facile d'utilisation, riche en fonctionnalités de qualité, github présente plus de 10 millions de dépôts. En version 0.4, multiBàO ne permet que d'agréger des dépôts github... pour l'instant ;). 
 > Les fiches sont rédigées en format Markdown. Si on avait mis les fiches sous un format word, personne n'aurait pu vraiment partager les fiches. Il a donc falu choisir un language web super facile à écrire même si on n'y connait rien, un intermédiaire entre le monde des développeurs et des citoyens non habitués aux usages numériques.
 
-* Tout le monde peut contribuer ... à toutes les fiches ... directement depuis la plateforme http://www.multibao.org. Sur le côté gauche de l'écran vous avez un îcone de stylo. Cliquez dessus et l'interface de modification s'ouvrira. 
+* Tout le monde peut contribuer à toutes les fiches directement depuis multibao.org. 
 
-> Pour contribuer sur les fiches, il vous faut pour l'instant un compte http://www.github.com. Une fois ce compte créé et validé via l'e-mail que vous aurez reçu, vous n'avez plus besoin de passer par github pour modifier les fiches visibles sur multiBàO, vous pouvez directement le faire via http://www.multibao.org.
+> Nous vous proposons un éditeur. Sur le côté gauche de l'écran vous avez un îcone de stylo. Cliquez dessus et l'interface de modification s'ouvrira. 
+> Si vous découvrez le language markdown pour la première fois, cet éditeur vous permettra de trouver vos marques plus facilement. La documentation est aussi à votre service pour vous aider là dedans.
+> Il vous faut pour l'instant un compte github.com pour pouvoir contribuer. Une fois ce compte créé et validé via l'e-mail que vous aurez reçu, vous n'avez plus besoin de passer par github pour modifier les fiches visibles sur multiBàO, vous pouvez directement le faire via multibao.org.
+> Enregistrez et c'est envoyé sur github. Soit vous êtes déjà un des contributeurs du dépôt (ex: de l'association Réseau transition), et la publication sera instantannée. Soit vous n'êtes pas un des contributeur du dépôt et le propriétaire du dépôt recevra une "proposition de modification" qu'il pourra valider ou non. 
 
+* En deux clics et un copié collé vous pouvez faire apparaître n'importe quelle fiche de multiBàO sur votre site... et ça prendra automatiquement la mise en page de votre site. 
 
-
-* tous les contenus sont publiés sous des *licences libres* autorisant la réutilisation du contenus.
- * *c'est quoi une licence libre?* [En vidéo](#note)
-* des dossiers, souvent liés à une association/entreprise/collectivité qui a fait la démarche de publier des fiches méthodes sous licences libres, contiennent des fiches outils/méthodes/retours d'expériences/réflexions
-* si vous créez un dossier contenant des fiches, vous pouvez rester administrateur de votre dossier. A vrai dire il n'a même pas besoin d'être stocké sur multiBàO.
- * c'est décentralisé: vous pouvez créer un dossier contenant des fiches où vous le souhaitez sur le web, et nous trouverons un moyen pour le faire apparaître sur http://www.multibao.org. Nous demandons *pour l'instant* aux contributeurs de publier leurs dossiers avec leurs fiches sous Github avec des fiches en format Markdown.
-  * *github.com*  en une phrase: un service d'hébergement pour les logiciels libres, et de nombreuses fonctionnalités pour travailler à plusieurs sur des ressources. [En vidéo](#note)
-  * *markdown* en une phrase: un language web super facile à apprendre intermédiaire entre le monde des citoyens-non-initiés et les développeurs. [En vidéo](#note)
-* c'est hautement contributif, et vous pouvez contribuer sur toutes les fiches depuis http://www.multibao.org. Seule demande pour l'instant pour contribuer: avoir un compte github. 
- * soit vous faites partie de l'équipe qui modifie déjà les fiches du dossier; 
+> La technologie utilisée s'appelle un "script". C'est un lien que vous allez pouvoir incorporer dans une de vos pages web et qui fera apparaître la fiche en question avec la mise en page de votre propre site.
+> La documentation explique pour l'instant comment le faire. Très bientôt ce sera faisable à partir d'un simple îcone présent sur chaque fiche. 
 
 
-a agrège des dossiers distants. Pas besoin de stocker vos dossiers avec vos fiches sur le site multiBàO, vous aurez juste à indiquer à multiBàO où se trouvent votre dossier contenant vos fiches. Du coup vous restez administrateur de votre dossier et de vos fiches. 
-
-## Version actuelle et proposition de multiBàO
-
-multiBàO en est actuellement à sa version 0.3. 
-* Pour cette version, la technologie multiBàO permet aux animateurs de réseaux publiant des ressources participatives sur leurs sites web de pleinement les mutualiser.
-* Dans de prochaines versions de multiBàO, la plateforme sera adaptée et construite sur-mesure pour un public beaucoup plus large. Avant d'en arriver à la, nous avions besoin de poser ces quelques bases solides. 
-* Si vous vous perdez sur la plateforme avec ses dizaines de dizaines de fiches, c'est donc absolument normal. 
-* Pour être tenu informé et participer aux prochains ateliers de co-construction de multiBàO, rejoignez la [liste de discussion]([http://lists.imaginationforpeople.org/cgi-bin/mailman/listinfo/multibao]) ou retrouvez nous sur tweeter #multibao @thom_wolff. 
-
-## Fonctionnalités de multiBàO 0.3
-
-* **Public cible** animateurs de réseaux collaboratifs publiant sur leurs sites web des ressources participatives sous des licences libres, animateurs d'évènements générant réflexion sur les démarches participatives
-* **Proposition** une technologie pour vous permettre de pleinement mutualiser vos ressources avec les autres réseaux
-* **Solutions proposées (construite sur la base de 32 interviews du public cible sur leurs problèmes/alternatives)**
- * une technologie opensource pour interconnecter vos ressources
- * 100% de fiches sous licences libres et ouvertes autorisant leur réutilisation
- * des [dépôts de fiches](https://github.com/multibao/contributions/blob/master/pages/documentation/creer_un_depot.md) décentralisés : vous restez administrateur de vos ressources
- * un dépôt de fiches mutualisé entre tous les acteurs
- * plusieurs options de [contribution](https://github.com/multibao/contributions/blob/master/pages/documentation/obtenir_donner_acces_contributeur.md) pour nous permettre les uns les autres d'enrichir nos fiches
- * possibilité de [faire apparaître les fiches souhaitées sur d'autres sites, avec un simple code à incorporer](https://github.com/multibao/contributions/blob/master/pages/documentation/faire_apparaitre_fiche_sur_mon_site.md). Enrichissement de nos boîtes à outils facilité. Actualisation instantanée. 
- * et une documentation explicitant [comment contribuer](http://www.multibao.org/pages/multibao/contributions/contribuer)
- * 
- 
-<a id="note">
-
-* **(1)** Licence libre: 
