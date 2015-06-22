@@ -2,7 +2,8 @@
 
 Bienvenue sur multiBàO, une technologie collaborative vous permettant de pleinement mutualiser votre documentation sur les approches participatives/gestion de projet avec les autres réseaux. 
 
-* **version actuelle**: 0.4
+> http://www.multibao.org
+> Version actuelle: 0.4
 
 ## C'est pour qui ?
 
