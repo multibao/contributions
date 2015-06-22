@@ -21,6 +21,8 @@ en version 0.4, pour les animateurs de réseaux /formateurs /animateurs d'évèn
 
 ## Comment ça marche? En version plus poussée.
 
+<a id="note">
+
 * Quiconque le veut peut creer un dossier contenant des fiches. Afin que tout le monde puisse en profiter, tout est publié sous des licences libres. 
 
 > une licence libre te permet d'enrichir tes droits d'auteurs et de ce fait si tu autorises la diffusion de ton oeuvre, sa modification, son utilisation commerciale ou non. Si tu te promènes sur multiBàO, tu verras qu'il existe plusieurs licences libres. Si c'est la première fois que tu entends parler de licences libres, jettes donc un coup d'oeil sur cette [vidéo](https://www.youtube.com/watch?v=R-mJE1w6zwU). 
@@ -55,5 +57,3 @@ Les porteurs du projets
 * [Stéphane Langlois](http://scopyleft.fr), [@s_langlois](http://twitter.com/s_langlois). Développeur web, il assure le rôle de développeur principal du projet multiBàO et comme référent de l'équipe de développement qui peut venir en renfort. En tant qu'agiliste, il soutient le projet avec des méthodes innovantes comme le Running Lean ou le Scrum. 
 
 Ainsi que des multitudes de contributeurs ;)
-
-
