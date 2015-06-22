@@ -16,11 +16,21 @@ en version 0.4, pour les animateurs de réseaux /formateurs /animateurs d'évèn
 
 > une licence libre te permet d'enrichir tes droits d'auteurs et de ce fait si tu autorises la diffusion de ton oeuvre, sa modification, son utilisation commerciale ou non. Si tu te promènes sur multiBàO, tu verras qu'il existe plusieurs licences libres. Si c'est la première fois que tu entends parler de licences libres, jettes donc un coup d'oeil sur cette [vidéo](https://www.youtube.com/watch?v=R-mJE1w6zwU). 
 
-* Les dossiers contiennent des fiches méthodes/outils/retours d'expériences/réflexions
+* Les dossiers contiennent vos fiches méthodes/outils/retours d'expériences/réflexions sur les démarches participatives/ gestion de projet. 
 
-> le dossier "Réseau transition" visible sur http://www.multibao.org contient les fiches de l'association Réseau transition.
+> le dossier "Réseau transition" visible sur http://www.multibao.org contient les fiches de l'association Réseau transition. 
 
-* 
+* Les dossiers peuvent être stockés sur multiBàO... ou pas! Je m'explique: multiBàO présente une technologie qui permet d'agréger des dossiers distants, autrement dit vous pouvez écrire votre dossier avec vos fiches et l'héberger sur le web, et on peut le faire apparaître simultanément sur multiBàO. Si tu modifies une fiche, elle sera automatiquement mise à jour sur multiBàO.
+
+> la technologie de multiBàO permet d'agrégérer des dépôts (=dossiers).
+> En version 0.4, multiBàO permet d'agérer des dépôts herbergés sous http://www.github.com. Si vous n'avez jamais entendu parlé de github, il s'agit d'un service d'hébergement mondialement utilisé pour l'hébergement et le travail collaboratif sur des ressources publiées sous licences libres. Facile d'utilisation, riche en fonctionnalités de qualité, github présente plus de 10 millions de dépôts. En version 0.4, multiBàO ne permet que d'agréger des dépôts github... pour l'instant ;). 
+> Les fiches sont rédigées en format Markdown. Si on avait mis les fiches sous un format word, personne n'aurait pu vraiment partager les fiches. Il a donc falu choisir un language web super facile à écrire même si on n'y connait rien, un intermédiaire entre le monde des développeurs et des citoyens non habitués aux usages numériques.
+
+* Tout le monde peut contribuer ... à toutes les fiches ... directement depuis la plateforme http://www.multibao.org. Sur le côté gauche de l'écran vous avez un îcone de stylo. Cliquez dessus et l'interface de modification s'ouvrira. 
+
+> Pour contribuer sur les fiches, il vous faut pour l'instant un compte http://www.github.com. Une fois ce compte créé et validé via l'e-mail que vous aurez reçu, vous n'avez plus besoin de passer par github pour modifier les fiches visibles sur multiBàO, vous pouvez directement le faire via http://www.multibao.org.
+
+
 
 * tous les contenus sont publiés sous des *licences libres* autorisant la réutilisation du contenus.
  * *c'est quoi une licence libre?* [En vidéo](#note)
