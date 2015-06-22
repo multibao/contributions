@@ -12,6 +12,7 @@ en version 0.4, pour les animateurs de réseaux /formateurs /animateurs d'évèn
 
 ## Comment ça marche? En version simple. [En version plus poussée](#note)
 
+* On l'a conçu comme un bien commun entre réseaux, c'est gratuit et ça le restera! 
 * Quiconque le veut peut creer un dossier contenant des fiches. Afin que tout le monde puisse en profiter, tout est publié sous des licences libres. 
 * Les dossiers contiennent vos fiches méthodes/outils/retours d'expériences/réflexions sur les démarches participatives/ gestion de projet.
 * Les dossiers peuvent être stockés sur multiBàO... ou pas! Vous pouvez écrire votre dossier avec vos fiches et l'héberger sur le web, on le connecte à multiBàO et ton dossier apparaîtra sur multiBàO. Si tu modifies une fiche, elle sera automatiquement mise à jour sur multiBàO.
