@@ -18,7 +18,7 @@ en version 0.4, pour les animateurs de réseaux /formateurs /animateurs d'évén
 * Les dossiers contiennent vos fiches méthodes/outils/retours d'expériences/réflexions sur les démarches participatives/ gestion de projet.
 * Les dossiers peuvent être stockés sur multiBàO... ou pas! Vous pouvez écrire votre dossier avec vos fiches et l'héberger sur le web, on le connecte à multiBàO et votre dossier apparaîtra sur multiBàO. Si vous modifiez une fiche, elle sera automatiquement mise à jour sur multiBàO.
 * Tout le monde peut contribuer à toutes les fiches directement depuis multibao.org. 
-* En deux clics et un copié collé vous pouvez faire apparaître n'importe quelle fiche de multiBàO sur votre site... et ça prendra automatiquement la mise en page de votre site. 
+* En deux clics et un copier coller vous pouvez faire apparaître n'importe quelle fiche de multiBàO sur votre site... et ça prendra automatiquement la mise en page de votre site. 
 
 ## Comment ça marche? En version plus poussée.
 
