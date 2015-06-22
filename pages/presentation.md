@@ -50,7 +50,9 @@ en version 0.4, pour les animateurs de réseaux /formateurs /animateurs d'évèn
 
 Les porteurs du projets
 
-* [Thomas Wolff](https://fr.linkedin.com/pub/thomas-wolff/a5/a41/a8a), [@thom_wolff](http://twitter.com/thom_wolff). Porteur du projet depuis le début de manière bénévole, fasciné par les approches participatives et la question de biens communs, c'est le premier et le plus gros utilisateur de multiBàO. Avec une cohorte de stagiaires, il est à l'origine de la version 0.0.1 de multiBàO, un fichier Dropbox contenant plus de 200 fiches méthodes participatives de haute qualité sous licences libres. Il assure le rôle de "product owner" du projet, c'est à dire un intermédiaire entre la communauté des contributeurs / utilisateurs de la plateforme web, et l'équipe de développement. 
-* [Stéphane Langlois](http://scopyleft.fr], [@s_langlois](http://twitter.com/s_langlois]. Développeur web agile, il assure le rôle de développeur principal du projet multiBàO et comme référent de l'équipe de développement qui peut venir en renfort. 
+* [Thomas Wolff](https://fr.linkedin.com/pub/thomas-wolff/a5/a41/a8a), [@thom_wolff](http://twitter.com/thom_wolff). Porteur du projet depuis le début, fasciné par les approches participatives et la question de biens communs, c'est le premier et le plus gros utilisateur de multiBàO. Il a lancé multiBàO avec la version 0.0.1 de multiBàO, un fichier Dropbox dans lequel il avait déposé une cinquantaine de fiches méthodes de bonne qualité sous licences libres. A la demande de ses amis intéressés, il a ouvert le dossier qui en quelques mois a dépassé les 100 utilisateurs avec plus de 200 fiches méthodes/outils sous licences libres. Il assure le rôle de "product owner" du projet, c'est à dire un intermédiaire entre la communauté des contributeurs / utilisateurs de la plateforme web, et l'équipe de développement. 
+* [Stéphane Langlois](http://scopyleft.fr), [@s_langlois](http://twitter.com/s_langlois). Développeur web, il assure le rôle de développeur principal du projet multiBàO et comme référent de l'équipe de développement qui peut venir en renfort. En tant qu'agiliste, il soutient le projet avec des méthodes innovantes comme le Running Lean ou le Scrum. 
+
+Ainsi que des multitudes de contributeurs ;)
 
 
