@@ -63,7 +63,7 @@ daktary:
     - label: J.e.u.
       account: multibao
       repo: contributions/contributions
-      folder: /contributions/jeu
+      folder: contributions/jeu
 
     - label: TW
       account: wolffthomas
