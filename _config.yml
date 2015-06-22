@@ -2,7 +2,7 @@ daktary:
   home: /multibao/contributions/pages
   meta:
     title: 'multiBàO, une multi Boîte à Outils'
-    description: 'multiBàO est une technologie gratuite, libre, vous permettant de pleinement mutualiser votre documentation sur les approches participatives/gestion de projet avec les autres réseaux. '
+    description: 'multiBàO est une technologie collaborative, gratuite, libre, vous permettant de pleinement mutualiser votre documentation sur les approches participatives/gestion de projet avec les autres réseaux. '
 
   ghRepos:
     - label: Menu
