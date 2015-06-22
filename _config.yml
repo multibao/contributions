@@ -62,7 +62,7 @@ daktary:
 
     - label: J.e.u.
       account: multibao
-      repo: contributions/contributions
+      repo: contributions
       folder: contributions/jeu
 
     - label: TW
