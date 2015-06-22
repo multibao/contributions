@@ -1,6 +1,6 @@
 # une multi Boîte à Outils (multiBàO)
 
-Bienvenue sur multiBàO, une technologie vous permettant de pleinement mutualiser votre documentation sur les approches participatives/gestion de projet avec les autres réseaux. 
+Bienvenue sur multiBàO, une technologie collaborative vous permettant de pleinement mutualiser votre documentation sur les approches participatives/gestion de projet avec les autres réseaux. 
 
 * **version actuelle**: 0.4
 
