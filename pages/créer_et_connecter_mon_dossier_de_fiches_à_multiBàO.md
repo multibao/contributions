@@ -17,9 +17,7 @@
 ### Créer et connecter mon dossier de fiches à multiBàO
 
 1. Créez un compte http://github.com si vous n'en avez pas encore un 
-2. [Documentation: Créez un dépôt](https://multibao.org/multibao/contributions/pages/documentation/creer_un_depot.md)
+2. [Créez un dépôt](https://multibao.org/multibao/contributions/pages/documentation/creer_un_depot.md)
 3. Connectez votre dépôt github à multiBàO
  * soit en demandant à [Thomas](thomas.wolff@cpcoop.fr), 0642459781, de le faire
  * [soit en le réalisant vous même](https://github.com/multibao/contributions/blob/master/_config.yml)
- 
- 
