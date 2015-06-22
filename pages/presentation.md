@@ -8,11 +8,11 @@ bienvenue sur multiBàO, une technologie permettant de pleinement mutualiser des
 
 en version 0.4, pour les animateurs de réseaux /formateurs /animateurs d'évènements /collectifs /bloggers publiant de la documentation sur les démarches participatives /la gestion de projet et souhaitant les diffuser. 
 
-> Amis formateurs/coachs/animateurs de réseaux non habitués au numérique, nous vous invitons à profiter de multiBàO pour découvrir et vous former à des nouveaux usages numériques qui vous serons bien utiles. Ce site peut être pour vous un terrain facile d'apprentissage du numérique. *Thomas Wolff, un des porteurs du projet qui n'y comprenait rien au numérique il y a 2 ans* 
+> Amis formateurs/coachs/animateurs de réseaux non habitués au numérique, nous vous invitons à profiter de multiBàO pour découvrir et vous former à des nouveaux usages numériques qui vous serons bien utiles. Ce site peut être pour vous un terrain facile d'apprentissage du numérique.
 
 ### Comment ça marche?
 
-* Un animateur de réseau, une collectivité, un passionné, un blogger propose un dossier contenant des fiches qu'il a écrite ou qu'il a trouvé sur le web. Afin que tout le monde puisse en profiter, tout est publié sous des licences libres. 
+#### Un animateur de réseau, une collectivité, un passionné, un blogger propose un dossier contenant des fiches qu'il a écrite ou qu'il a trouvé sur le web. Afin que tout le monde puisse en profiter, tout est publié sous des licences libres. 
 
 > une licence libre te permet d'enrichir tes droits d'auteurs et de ce fait si tu autorises la diffusion de ton oeuvre, sa modification, son utilisation commerciale ou non. Si tu te promènes sur multiBàO, tu verras qu'il existe plusieurs licences libres. Si c'est la première fois que tu entends parler de licences libres, jettes donc un coup d'oeil sur cette [vidéo](https://www.youtube.com/watch?v=R-mJE1w6zwU). 
 
