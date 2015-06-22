@@ -1,3 +1,9 @@
+---
+published: false
+title: Contribution multibao
+description: null
+---
+
 # Forum ouvert
 
 ## En une phrase  
@@ -22,7 +28,8 @@ Le Forum ouvert est une structure de parole permettant à un nombre non limité 
 ## Présentation 
 
 * [Lien vers une vidéo du forum ouvert, présenté en moins de 2 minutes](https://www.youtube.com/watch?v=JaQvXptD9Ww)
-* [Interviews vidéos: mobiliser les collectivités avec le forum ouvert. DYNAMO-QUEBEC. 5mn29](https://www.youtube.com/watch?v=ATwAQoxxTjA)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JaQvXptD9Ww" frameborder="0" allowfullscreen></iframe>
  
 Le Forum ouvert ou open space a été imaginé aux États-Unis dans les années 80 par Harrison Owen, consultant théoricien et praticien de la culture des organisations visant une transformation.
 
@@ -175,4 +182,4 @@ Pendant ces deux journées, il était frappant de voir à quel point l’enthous
 * **[1](#note)** [Fondation Nicolas Hulot](www.fondation-nicolas-hulot.org), sous licence Creative Commons BY-NC-SA
 * **[2](#note)** Guillaume DEPREZ, [Université de Bordeaux Segalen](www.univ-bordeauxsegalen.fr), sous licence Creative Commons BY-SA
 * **[3](#note)** Thomas WOLFF, [association Centre des pratiques de la coopération](http://cpcoop.fr), sous licence Creative Commons BY-SA
-* **[4](#note)** [Montreuil en transition](http://montreuilentransition.fr/forum-ouvert/), sous licence Creative Commons BY-SA 
+* **[4](#note)** [Montreuil en transition](http://montreuilentransition.fr/forum-ouvert/), sous licence Creative Commons BY-SA
