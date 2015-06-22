@@ -10,7 +10,7 @@ en version 0.4, pour les animateurs de réseaux /formateurs /animateurs d'évèn
 
 > Amis formateurs/coachs/animateurs de réseaux non habitués au numérique, nous vous invitons à profiter de multiBàO pour découvrir et vous former à des nouveaux usages numériques qui vous serons bien utiles. Ce site peut être pour vous un véritable terrain d'apprentissage. 
 
-## Comment ça marche? En version simple. [En version plus poussée](#note)
+## Comment ça marche? En version simple.
 
 * On l'a conçu comme un bien commun entre réseaux, c'est gratuit et ça le restera! 
 * Quiconque le veut peut creer un dossier contenant des fiches. Afin que tout le monde puisse en profiter, tout est publié sous des licences libres. 
@@ -20,8 +20,6 @@ en version 0.4, pour les animateurs de réseaux /formateurs /animateurs d'évèn
 * En deux clics et un copié collé vous pouvez faire apparaître n'importe quelle fiche de multiBàO sur votre site... et ça prendra automatiquement la mise en page de votre site. 
 
 ## Comment ça marche? En version plus poussée.
-
-<a id="note">
 
 * Quiconque le veut peut creer un dossier contenant des fiches. Afin que tout le monde puisse en profiter, tout est publié sous des licences libres. 
 
