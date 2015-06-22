@@ -18,6 +18,6 @@
 * Historique des versions de multiBàO
 * [Où les fiches sont-elles stockées?](https://github.com/multibao/contributions/blob/master/pages/documentation/stockage_fiches.md)
 * [Liste de discussion](http://lists.imaginationforpeople.org/cgi-bin/mailman/listinfo/multibao)
-* [Mentions légales](http://www.multibao.org/pages/multibao/contributions/mentions_legales)
+* [Mentions légales](http://www.multibao.org/pages/multibao/contributions/blob/master/pages/documentation/mentions_legales)
 
 
