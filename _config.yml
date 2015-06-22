@@ -17,8 +17,8 @@ daktary:
 
     - label: Moustics
       account: multibao
-      repo: contributions/contributions
-      folder: moustic
+      repo: contributions
+      folder: contributions/moustic
 
     - label: Réseau transition
       account: reseautransitionwb
@@ -32,18 +32,18 @@ daktary:
 
     - label: Cpcoop
       account: multibao
-      repo: contributions/contributions
-      folder: cpcoop
+      repo: contributions
+      folder: contributions/cpcoop
 
     - label: Fnh
       account: multibao
-      repo: contributions/contributions
-      folder: fnh
+      repo: contributions
+      folder: contributions/fnh
 
     - label: Chiendent
       account: multibao
-      repo: contributions/contributions
-      folder: collectif_chiendent
+      repo: contributions
+      folder: contributions/collectif_chiendent
   
     - label: Les traducteurs agiles
       account: les-traducteurs-agiles
