@@ -1,3 +1,9 @@
+---
+published: false
+title: Contribution multibao
+description: null
+---
+
 # Prise de décision en démocratie profonde
 
 La **démocratie profonde** est un concept, un modèle et une méthode pour faciliter la prise de décisions; elle peut aussi être utilisée pour la résolution de conflits. 
@@ -16,7 +22,7 @@ Chacun(e) de nous dans son iceberg (lire le modèle) est capable de résonner av
 
 La démocratie profonde tente de rassembler la diversité, d'ajouter la sagesse des minorités à la décision de la majorité et ainsi de produire une décision qui fait unanimité (voir la méthode). 
 
-##Le modèle :
+##Le modèle
 
 Dans cette perspective de l'iceberg de Freud, les décisions, les actions d'une personne sont induites par une petite part de conscience (au-dessus du niveau d'eau) et une grande part d'inconscient (sous le niveau d'eau).
 
@@ -116,5 +122,4 @@ Le wiki Ekopédia, sa fiche sur la [démocratie profonde](http://fr.ekopedia.org
 
 ## Sources
 
-* Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
-
+* Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA.
