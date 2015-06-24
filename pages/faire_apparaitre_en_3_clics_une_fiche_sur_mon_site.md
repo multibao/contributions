@@ -1,6 +1,6 @@
 # Faire apparaître en trois clics une fiche sur mon site 
 
-> Attention, nous sommes en cours de développement sur cette fonctionnalité pour la rendre plus facile. Si vous souhaitiez utiliser cette fonction, vous pouvez réaliser l'opération en une minute en suivant la [documentation suivante](http://multibao.org/multibao/contributions/pages/documentation/faire_apparaitre_fiche_sur_mon_site.md).
+> Attention, nous sommes en cours de développement sur cette fonctionnalité pour la rendre plus facile. Si vous souhaitiez utiliser cette fonction, vous pouvez réaliser l'opération en une minute en suivant la [documentation suivante](http://www.multibao.org/multibao/contributions/pages/documentation/faire_apparaitre_fiche_sur_mon_site.md).
 > Durant cette phase de développement version 0.4 -> v 0.5, cette fonctionalité n'est plus qu'active sur le [dossier de fiches "public" de multiBàO](http://www.multibao.org/multibao/contributions/contributions).
 
 ## Rappels
