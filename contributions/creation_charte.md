@@ -1,3 +1,11 @@
+---
+published: false
+title: Contribution multibao
+description: null
+tags: 
+  - Energizer
+---
+
 
 #Création d’une charte de groupe
 
@@ -106,4 +114,4 @@ Le groupe peut également avoir diverses ressources à sa disposition. Ces resso
 
 ##Source
 
-* Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique](http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
+* Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique](http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA.
