@@ -30,11 +30,6 @@ daktary:
       repo: contributions
       folder: contributions/cpcoop
 
-    - label: Fnh
-      account: multibao
-      repo: contributions
-      folder: contributions/fnh
-
     - label: Chiendent
       account: multibao
       repo: contributions
