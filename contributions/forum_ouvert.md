@@ -1,8 +1,12 @@
 ---
 published: false
 title: Contribution multibao
-description: null
+description: "Le forum ouvert est une approche participative basée sur l'émulation."
+tags: 
+  - Collaboration
+author: FNH
 ---
+
 
 # Forum ouvert
 
