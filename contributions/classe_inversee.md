@@ -1,8 +1,14 @@
+---
+published: false
+title: Contribution multibao
+description: null
+---
+
 # La classe inversée
 
 ![Classeinversée](http://farm6.staticflickr.com/5606/15596812549_80e5049023_z.jpg)
 
-Une phtoo par [Frédéric BISSON](https://www.flickr.com/photos/zigazou76/15596812549) sous licence Creative Commons BY
+Une photo par [Frédéric BISSON](https://www.flickr.com/photos/zigazou76/15596812549) sous licence Creative Commons BY
 
 
 ## En une phrase
@@ -104,5 +110,3 @@ Ces ressources élaborées pour la plate-forme pédagogique moodle permettent à
 * **[2](#note)** http://svt.ac-montpellier.fr/spip/spip.php?article454
 * **[3](#note)** http://ww2.ac-poitiers.fr/meip/spip.php?article236&debut_page=1
 * **[4](#note)** Alan TRIM - Université Montpellier 3 - Association Centre des Pratiques de la Coopération; selon les termes de la licence Creative Commons BY-SA
-
- 
