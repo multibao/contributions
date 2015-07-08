@@ -7,7 +7,7 @@ description: null
 
 # Cercle excentrique / Fish Bowl
 
-## En une phrase. 
+## En une phrase
 
 La démarche du cercle exentrique, aussi appelé "Fish Bowl" (bocal à poisson) est une manière d'impliquer un plus grand groupe dans la discussion d'un plus petit groupe (5 – 8 personnes); son principe de base est qu'un participant doit écouter et attendre avant de s'exprimer. **[3](#note)** 
 
