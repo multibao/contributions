@@ -60,6 +60,12 @@ daktary:
       repo: perles_gestion_projets
       folder: contributions
 
+    - label: Travail en Réseau
+      account: lilianricaud
+      repo: travail-en-reseau
+      folder: 
+
+
   dkCss: assets/css/multibao.css
   dkImgPath: assets/img
   dk404: https://raw.githubusercontent.com/daktary/contribs/master/assets/img/error404.png
