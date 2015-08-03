@@ -1,10 +1,3 @@
----
-published: false
-title: Contribution multibao
-description: null
----
-
-
 # Cercle excentrique / Fish Bowl
 
 ## En une phrase
