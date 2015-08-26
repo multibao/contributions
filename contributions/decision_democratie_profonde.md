@@ -1,9 +1,3 @@
----
-published: false
-title: Contribution multibao
-description: null
----
-
 # Prise de décision en démocratie profonde
 
 La **démocratie profonde** est un concept, un modèle et une méthode pour faciliter la prise de décisions; elle peut aussi être utilisée pour la résolution de conflits. 
