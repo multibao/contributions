@@ -17,8 +17,8 @@ Plutôt que de publier vos ressources sur les approches participatives sur votre
 
 **1** Sur ton site web, insères la balise html suivante : 
 
-> `<section id="multibao" title="titre_de_la_publication"></section>
-` <script src="http://www.multibao.org/integration/multibao.js"></script></body>"
+`<section id="multibao" title="titre_de_la_publication"></section>
+` <script src="http://www.multibao.org/integration/multibao.js"></script></body>
 
 
 **2** Remplace **titre_de_la_publication** par le titre de la contribution que tu souhaites afficher. Exemple: cercle_excentrique.
