@@ -63,7 +63,11 @@ daktary:
     - label: Travail en Réseau
       account: lilianricaud
       repo: travail-en-reseau
-      folder: 
+      folder:
+  
+    - label: ChezNous
+      account: ChezNousCoop
+      repo: CodeSocial
 
 
   dkCss: assets/css/multibao.css
