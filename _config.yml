@@ -65,10 +65,6 @@ daktary:
       repo: travail-en-reseau
       folder:
   
-    - label: ChezNous
-      account: ChezNousCoop
-      repo: CodeSocial
-      folder:
 
 
   dkCss: assets/css/multibao.css
