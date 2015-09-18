@@ -19,5 +19,15 @@
 1. Créez un compte http://github.com si vous n'en avez pas encore un 
 2. [Créez un dépôt](http://www.multibao.org/multibao/contributions/pages/documentation/creer_un_depot.md)
 3. Connectez votre dépôt github à multiBàO
- * soit en demandant à [Thomas](thomas.wolff@cpcoop.fr), 0642459781, de le faire
- * [soit en le réalisant vous même](https://github.com/multibao/contributions/blob/master/_config.yml)
+* éditez le document suivant : https://github.com/multibao/contributions/blob/master/_config.yml en indiquant
+ * **label** correspondant au titre du dépôt qui apparaîtra sur multibao.org
+ * **account** votre nom d'utilisateur
+ * **repo** le dépôt dans lequel sont stockées les fiches
+ * **folder** le menu dans lequel sont stockées les fiches
+
+Exemple pour le dossier de fiches "Réseau transition", visibles sur github en suivant le lien http://github.com/reseautransitionwb/reseau_transition/contributions
+
+label: Réseau transition - c'est le nom qui apparaît sur multibao.org 
+account: reseautransitionwb - c'est leur nom d'utilisateur
+repo: reseau_transition - c'est le nom du dépôt
+folder: contributions - c'est le nom du dossier où se trouvent les fiches
