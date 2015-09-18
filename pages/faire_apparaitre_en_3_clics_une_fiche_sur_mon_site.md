@@ -1,4 +1,4 @@
-# Faire apparaître en trois clics une fiche sur mon site 
+# Faire apparaître une fiche de n'importe quel dépôt sur mon site
 
 ## Rappels
 
@@ -22,6 +22,8 @@ Toutes les fiches appaîssent depuis des dépôts dossiers/distants. Sur cette f
 Démonstration pour la fiche "La fabrique de Roubaix"
 
 `<script src="https://cdn.rawgit.com/vinyll/anywhere/master/dist/anywhere.js"></script><script>Anywhere.config.default = {user: "alecoz", repo: "democratie_ouverte"};</script><div data-anywhere="la_fabrique_roubaix"></div>`
+
+
 
 
 
