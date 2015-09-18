@@ -15,6 +15,14 @@
 
 Toutes les fiches appaîssent depuis des dépôts dossiers/distants. Sur cette fiche "alecoz" est le propriétaire du dépôt "democratie_ouverte", et si on va dans le dépôt "democratie_ouverte/contributions", on trouve la fiche "la_fabrique_roubaix".
 
-2. Ce sont ces données qu'il vous faut pour l'instant. Créez une page ou article sur votre site / blog, et insérez le code suivant en indiquant: 
+2. Ce sont ces données qu'il vous faut pour l'instant. Créez une page ou article sur votre site / blog, et insérez le code suivant en remplaçant les champs "nom_du_propriétaire_du_depot" "nom_du_depot" et "nom_de_la_fiche" par les vrais champs. 
 
 `<script src="https://cdn.rawgit.com/vinyll/anywhere/master/dist/anywhere.js"></script><script>Anywhere.config.default = {user: "nom_du_proprietaire_du_depot", repo: "nom_du_depot"};</script><div data-anywhere="nom_de_la_fiche"></div>`
+
+Démonstration pour la fiche "La fabrique de Roubaix"
+
+`<script src="https://cdn.rawgit.com/vinyll/anywhere/master/dist/anywhere.js"></script><script>Anywhere.config.default = {user: "alecoz", repo: "democratie_ouverte"};</script><div data-anywhere="la_fabrique_roubaix"></div>`
+
+
+
+
