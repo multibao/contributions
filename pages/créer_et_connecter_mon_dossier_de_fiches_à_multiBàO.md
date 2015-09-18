@@ -14,7 +14,7 @@
 > En version 0.4, multiBàO permet d'agérer des dépôts herbergés sous http://www.github.com. Si vous n'avez jamais entendu parlé de github, il s'agit d'un service d'hébergement mondialement utilisé pour l'hébergement et le travail collaboratif sur des ressources publiées sous licences libres. Facile d'utilisation, riche en fonctionnalités de qualité, github présente plus de 10 millions de dépôts. En version 0.4, multiBàO ne permet que d'agréger des dépôts github... pour l'instant ;). 
 > Les fiches sont rédigées en format Markdown. Si on avait mis les fiches sous un format word, personne n'aurait pu vraiment partager les fiches. Il a donc falu choisir un language web super facile à écrire même si on n'y connait rien, un intermédiaire entre le monde des développeurs et des citoyens non habitués aux usages numériques.
 
-### Créer et connecter mon dossier de fiches à multiBàO
+## Créer et connecter mon dossier de fiches à multiBàO
 
 1. Créez un compte http://github.com si vous n'en avez pas encore un 
 2. [Créez un dépôt](http://www.multibao.org/multibao/contributions/pages/documentation/creer_un_depot.md)
