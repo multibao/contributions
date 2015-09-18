@@ -20,7 +20,7 @@ Toutes les fiches appaîssent depuis des dépôts dossiers/distants. Sur cette f
 *  
 
 
-> <script src="https://cdn.rawgit.com/vinyll/anywhere/master/dist/anywhere.js"></script><script>Anywhere.config.default = {user: "nom_du_proprietaire_du_depot", repo: "nom_du_depot"};</script><div data-anywhere="nom_de_la_fiche"></div>
+> \<script src="https://cdn.rawgit.com/vinyll/anywhere/master/dist/anywhere.js">\</script>\<script>Anywhere.config.default = {user: "nom_du_proprietaire_du_depot", repo: "nom_du_depot"};\</script>\<div data-anywhere="nom_de_la_fiche">\</div>
 
 
 
