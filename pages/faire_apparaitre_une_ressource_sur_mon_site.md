@@ -2,7 +2,7 @@
 
 > Cette technologie nous est offerte par [Stéphane et Vincent](http://Scopyleft) de l'équipe de Scopyleft, et porte le nom [Daktary](http://github.com/daktary).
 
-### Rappel
+## Rappel
 
 Vous avez la possibilité de faire apparaître n'importe quelle ressource de multibao sur votre site web. Cette dernière prendra automatiquement la mise en page de votre site. Si quelqu'un modifie la ressource, elle sera modifiée sur votre site ainsi que tous les sites faisant apparaître la ressource. 
 
