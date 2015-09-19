@@ -37,3 +37,13 @@ Vous pouvez être propriétaire d'un dépôt de fiches. Aucun dépôt n'est stoc
 Vous pouvez enrichir/éditer les ressources directement depuis multibao.org. Si vous avez l'autorisation de modifier directement la ressource, la modification sera immédiate. Si non le propriétaire du dépôt recevra une notification lui proposant votre modification. 
 
 > sur chaque fiche de multibao.org, vous verrez apparaître un logo d'éditeur en haut à gauche de la page.
+
+## L'équipe
+
+> Si multiBàO n'a pas d'entité juridique à proprement parler, c'est par choix stratégique. Chaque dépôt que vous avez créé possède sa propre indépendance juridique. La propriété de chaque ressource est spécifiée sur chaque fiche, conformément à la licence / aux licences sous laquelle la fiche à été publiée. La technologie de multibao est un opensource, dont la paternité revient au partenariat association [Centre des pratiques de la coopération](http://cpcoop.fr) et la société [Scopyleft](http://scopyleft.fr).  
+
+
+
+
+
+* *Thomas Wolff*, initiateur et animateur du projet. 
