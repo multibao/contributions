@@ -2,7 +2,18 @@
 
 > Bienvenue. Je m'appelle Thomas Wolff et suis là pour vous accueillir et vous filer un coup de main en cas de questions. N'hésitez pas à me joindre au 0642459781 ou par [mail](mailto:thomas.wolff@cpcoop.fr) que ce soit pour échanger directement avec quelqu'un au sujet de la démarche ou vous aider dans le choix des ressources à mettre en commun. La plupart des contributeurs/trices se connaissent, et j'aurai plaisir à vous présenter. Encore bienvenue. 
 
-## Introduction 
+## Conçu pour vous et avec vous ! 
+
+Avant le lancement de la toute première version de multibao.org, nous avons téléphoné à une quarantaine d'animateurs de réseaux/formateurs/enseignants/bibliothécaires qui publient régulierement sur leurs sites de la documentation sur le *faire ensemble* et la *gestion de projet*. Voici le top 4 de leurs problématiques qu'ils jugent sans alternative satisfaisante:
+
+1. une fois qu'on a déposé une ressource sur un site, elle ne "vit" plus. Elle est souvent statique, à moins qu'on la mette un jour. Il nous arrive même de recréer la ressource plutôt que de mettre à jour l'ancienne. 
+2. on aimerait bien mutualiser les ressources avec les autres réseaux, mais on veut aussi les faire apparaître sur notre site (avec notre propre mise en page). 
+3. on veut bien mutualiser nos ressources mais on ne veut pas que tout le monde puisse les modifier
+4. on s'inquiète pour la durabilité des données, on les dépose sur un site, un jour le site web et la ressource est perdue
+
+
+
+
 
 
 
