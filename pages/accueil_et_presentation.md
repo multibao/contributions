@@ -44,14 +44,18 @@ Vous pouvez enrichir/éditer les ressources directement depuis multibao.org. Si 
 
 ### Développement de multibao.org
 
-* *Thomas Wolff*, initiateur et animateur du projet. Soutenu par l'association Centre des pratiques de la coopération et plusieurs écoles / universités, il rencontre les contributeurs de la plateforme et se définit lui même comme "un des plus importants bénéficiaires de la technologie et du bien commun". 
-* *Stéphane Langlois*, développeur agile de la technologie multibao.org et daktary. Soutenu par la société Scopyleft, il code la plateforme.
+* *Thomas Wolff*, initiateur et animateur bénévole du bien commun. Il se déplace en France et Belgique à la rencontre des contributeurs et en profite pour se former aux approches. Soutenu pour les déplacements/événements par l'association [Centre des pratiques de la coopération](http://cpcoop.fr) dont il est co-fondateur, et de plusieurs écoles où il est enseignant. 
+* *Stéphane Langlois*, développeur agile de la technologie multibao.org et daktary. Soutenu par la société Scopyleft, il code la plateforme. Ferru des approches *lean* et des nouveaux usages *numériques*, la technologie porte son odeur. 
 
 > Comment la plateforme a t-elle été financé? L'Europe a accepté de me donner 6200€ pour le financement de la plateforme, qui sont directement allés pour le développement de la version 0.1 et 0.2 de multibao.org par Scopyleft.fr. Pour le développement des versions suivantes (0.3 à 0.5), Stéphane de Scoypelft l'a réalisé bénévolement. Pour tout le reste (lancement, trouver les ressources, les contributeurs, les stagiaires, former les contributeurs, animer le réseaux, se déplacer dans le monde francophone, participer à des événements, ...) c'est bénévole.
 
 ### Mises à disposition de ressources
 
 Je présenterai ici dans les prochains temps des portraits de contributeurs / réseaux participants. 
+
+## Source
+
+La présente fiche a été publiée le 19 septembre par Thomas Wolff sous licence Creative Commons BY-SA. 
 
 
 
