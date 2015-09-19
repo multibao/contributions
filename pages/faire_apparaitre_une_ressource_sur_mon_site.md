@@ -1,6 +1,6 @@
 # Faire apparaître une fiche de n'importe quel dépôt sur mon site
 
-> Cette technologie nous est offerte par [Stéphane Langlois et Vincent Agnano](http://Scopyleft) de l'équipe de Scopyleft, et porte le nom [Anywhere](https://github.com/multibao/anywhere). Elle fait partie du projet [Daktary](http://github.com/daktary). 
+> Cette technologie conçue sous le nom d'[Anywhere](https://github.com/multibao/anywhere) nous est offerte par [Stéphane Langlois et Vincent Agnano](http://Scopyleft) de l'équipe de Scopyleft. Elle fait partie du projet [Daktary](http://github.com/daktary). 
 
 ## Rappel
 
