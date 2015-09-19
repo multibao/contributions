@@ -9,7 +9,15 @@ Bienvenue sur multiBàO, une technologie collaborative vous permettant de pleine
 
 en version 0.5, pour les animateurs de réseaux, formateurs, animateurs d'événements participatifs, collectifs, membres d'équipes, médiateurs numériques, bibliothécaires, collectifs, publiant de la documentation sur le "comment faire ensemble" ou la "gestion de projet"
 
-> A ce stade dans ce projet, une vingtaine de réseaux producteurs de documentation - qu'ils soient associatifs, entreprenariaux ou institutionnels - se sont engager à mutualiser leurs ressources et à construire un bien commun durable. Ce bien commun est un patrimoine, des retours d'expériences et des savoir faire. Un patrimoine que nous souhaitons voir enrichi plutôt que délaissé ou perdu. Vous qui produisez des données, la technologie à été conçue avec et pour vous. Bonne utilisation. *Thomas Wolff* 
+> A l'aube cette version 0.5 de multibao.org, une vingtaine de réseaux producteurs de connaissance se sont déjà engagés à participer à la construction de ce bien commun que vous souhaitons durable. Certains sont associatifs, d'autres entreprenariaux ou encore institutionnels. Comment faire ensemble, comment construire un projet? C'est autour de ces questions que nous nous penchons. Si vous partagez cet intérêt et produisez des ressources, si vous souhaitez que vos ressources soient durables et enrichies plutôt que délaissées, je vous invite activement à contribuer. L'intégralité des ressources visibles via multibao.org, ainsi que la technologie, vous sont à ce jour accessibles. Bonne utilisation. **Thomas Wolff**
+
+
+
+
+
+
+
+Ce bien commun est un patrimoine, des retours d'expériences et des savoir faire. Un patrimoine que nous souhaitons voir enrichi plutôt que délaissé ou perdu. Vous qui produisez des données, la technologie à été conçue avec et pour vous. Bonne utilisation. *Thomas Wolff* 
 
 
 
