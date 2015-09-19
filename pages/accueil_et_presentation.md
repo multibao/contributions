@@ -20,7 +20,7 @@ L'intégralité des ressources visibles sur multibao vous sont accessibles, diff
 
 > les ressources sont publiées sous des licences ouvertes. Avant de réutiliser une fiche (ex: pour usage commercial), renseignez vous sur la licence sous laquelle elle est publiée. Cette dernière est stipulée en chaque bas de page.  
 
-### Une technologie pour synchroniser votre site à n'importe quelle ressource de multiBàO
+### Une technologie pour faire apparaître et synchroniser n'importe quelle ressource de multiBàO avec votre site
 
 Vous avez la possibilité de faire apparaître n'importe quelle ressource de multibao sur votre site web. Cette dernière prendra automatiquement la mise en page de votre site. Si quelqu'un modifie la ressource, elle sera modifiée sur votre site ainsi que tous les sites faisant apparaître la ressource. 
 
@@ -59,6 +59,3 @@ Je présenterai ici dans les prochains temps des portraits de contributeurs / r�
 La présente fiche a été publiée le 19 septembre par Thomas Wolff sous licence Creative Commons BY-SA. 
 
 ![Creative Commons](http://tryad.org/images/creative_commons_by_sa.jpg)
-
-
-
