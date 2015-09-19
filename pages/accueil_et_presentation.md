@@ -1,17 +1,17 @@
 # une multi Boîte à Outils (multiBàO)
 
-Bienvenue sur multiBàO, une technologie collaborative vous permettant de pleinement mutualiser et valoriser vos ressources sur le faire ensemble et la gestion de projet. 
+Bienvenue sur multiBàO, une technologie collaborative vous permettant de pleinement mutualiser et valoriser vos ressources sur le comment faire ensemble et la gestion de projet. 
 
 > http://www.multibao.org
 > Version actuelle: 0.5 
 
-A ce stade, une vingtaine de réseaux associatifs, entreprenariaux et institutionnels ont accepté de pleinement mutualiser leur documentation, leurs savoirs et leurs expériences sur le "faire ensemble"; ils se sont engagés à construire un bien commun durable. 
-
 ### C'est pour qui? 
 
-en version 0.4, pour les animateurs de réseaux /formateurs /animateurs d'événements /collectifs /bloggers publiant de la documentation sur les démarches participatives /la gestion de projet.
+en version 0.5, pour les animateurs de réseaux, formateurs, animateurs d'événements participatifs, collectifs, membres d'équipes, médiateurs numériques, bibliothécaires, collectifs, publiant de la documentation sur le "comment faire ensemble" ou la "gestion de projet"
 
-> Amis formateurs/coachs/animateurs de réseaux non habitués au numérique, nous vous invitons à profiter de multiBàO pour découvrir et vous former à des nouveaux usages numériques qui vous seront bien utiles. Ce site peut être pour vous un véritable terrain d'apprentissage. 
+> A ce stade dans ce projet, une vingtaine de réseaux producteurs de documentation - qu'ils soient associatifs, entreprenariaux ou institutionnels - se sont engager à mutualiser leurs ressources et à construire un bien commun durable. Ce bien commun est un patrimoine, des retours d'expériences et des savoir faire. Les fonctionnalités de cet interface web ont été conçues avec et pour vous. 
+
+
 
 ## Comment ça marche? En version simple.
 
