@@ -14,19 +14,19 @@ en version 0.5, pour les animateurs de réseaux, formateurs, animateurs d'évén
 
 ### Comment ça marche? 
 
-1. L'intégralité des ressources visibles sur multibao vous sont rendus accessiblees sous des licences ouvertes. 
+* L'intégralité des ressources visibles sur multibao vous sont rendus accessiblees sous des licences ouvertes. 
 
 > les ressources sont publiées sous des licences ouvertes. Avant de réutiliser une fiche (ex: pour usage commercial), renseignez vous sur la licence sous laquelle elle est publiée. Cette dernière est stipulée en chaque bas de page.  
 
-2. Vous avez la possibilité de faire apparaître n'importe quelle ressource de multibao sur votre site web. Cette dernière prendra automatiquement la mise en page de votre site. Si quelqu'un modifie la ressource, elle sera modifiée sur votre site ainsi que tous les sites faisant apparaître la ressource. 
+ *Vous avez la possibilité de faire apparaître n'importe quelle ressource de multibao sur votre site web. Cette dernière prendra automatiquement la mise en page de votre site. Si quelqu'un modifie la ressource, elle sera modifiée sur votre site ainsi que tous les sites faisant apparaître la ressource. 
 
 > autrement dit, trois réseaux différents peuvent faire apparaître la même ressource, chacun sur leur site web, chacun avec leur propre mise en page. Voici comment faire. 
 
-3. Vous pouvez être propriétaire d'un dépôt de fiches. Aucun dépôt n'est stocké sur multibao.org, nous ne sommes pas propriétaires des données. C'est vous qui l'êtes et qui choisissez vos contributeurs. 
+* Vous pouvez être propriétaire d'un dépôt de fiches. Aucun dépôt n'est stocké sur multibao.org, nous ne sommes pas propriétaires des données. C'est vous qui l'êtes et qui choisissez vos contributeurs. 
 
 > vos dépôts sont pour l'instant stockés sur github.com, un service d'hébergement collaboratif gratuit pour les ressources libre/opensource. Vous devenez administrateur de vos ressources, les stockez durablement, choisissez les différentes possibilités de collaboration, pouvez récupérer d'autres ressources, consulter toutes les versions de vos fiches, et de nombreuses fonctionnalités collaboratives. 
 
-4. Vous pouvez enrichir/éditer les ressources directement depuis multibao.org. Si vous avez l'autorisation de modifier directement la ressource, la modification sera immédiate. Si non le propriétaire du dépôt recevra une notification lui proposant votre modification. 
+* Vous pouvez enrichir/éditer les ressources directement depuis multibao.org. Si vous avez l'autorisation de modifier directement la ressource, la modification sera immédiate. Si non le propriétaire du dépôt recevra une notification lui proposant votre modification. 
 
 > sur chaque fiche de multibao.org, vous verrez apparaître un logo d'éditeur en haut à gauche de la page. 
 
