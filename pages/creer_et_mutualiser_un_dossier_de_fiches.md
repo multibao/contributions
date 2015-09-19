@@ -23,7 +23,7 @@ Les licences ouvertes, ça vous parle? Elles vous permettent d'enrichir vos droi
 
 Comment est-ce que je fais concrètement pour choisir ma licence? Nous vous proposons de choisir une des 6 licences Creative Commons, reconnu par le droit international. Voici une vidéo pour vous aider à choisir:
 
-<iframe frameborder="0" width="0" height="0" src="//www.dailymotion.com/embed/video/x1tg4gv" allowfullscreen></iframe>
+<iframe frameborder="0" width="400" height="200" src="//www.dailymotion.com/embed/video/x1tg4gv" allowfullscreen></iframe>
 
 
 
