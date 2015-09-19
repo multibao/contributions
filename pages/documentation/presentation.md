@@ -13,3 +13,5 @@ Insérez le code suivant dans une de vos pages web
 >`<script src="https://cdn.rawgit.com/vinyll/anywhere/master/dist/anywhere.js"></script><script>Anywhere.config.default = {user: "multibao", repo: "contributions"};</script><div data-anywhere="pages/accueil_et_presentation"></div>`
 
 Puis publiez! 
+
+Voici un des rendus possibles : [ici](http://cpcoop.fr/test/)
