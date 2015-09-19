@@ -40,7 +40,7 @@ Vous pouvez enrichir/éditer les ressources directement depuis multibao.org. Si 
 
 ## L'équipe
 
-> Si multiBàO n'a pas d'entité juridique à proprement parler, c'est par choix stratégique. Chaque dépôt que vous avez créé possède sa propre indépendance juridique. La propriété de chaque ressource est spécifiée sur chaque fiche, conformément à la licence / aux licences sous laquelle la fiche à été publiée. La technologie de multibao est un opensource, dont la paternité revient au partenariat association [Centre des pratiques de la coopération](http://cpcoop.fr) et la société [Scopyleft](http://scopyleft.fr).  
+> Si multiBàO n'a pas d'entité juridique à proprement parler, c'est par choix stratégique. Chaque dépôt que vous avez créé possède sa propre indépendance juridique. La propriété de chaque ressource est spécifiée sur chaque fiche, conformément à la licence / aux licences sous laquelle la fiche à été publiée. La technologie de multibao est un opensource, dont la paternité revient à l'association [Centre des pratiques de la coopération](http://cpcoop.fr) et la société [Scopyleft](http://scopyleft.fr).  
 
 
 
