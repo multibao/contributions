@@ -2,13 +2,49 @@
 
 > Bienvenue. Je m'appelle Thomas Wolff et suis là pour vous accueillir et vous filer un coup de main en cas de questions. N'hésitez pas à me joindre au 0642459781 ou par [mail](mailto:thomas.wolff@cpcoop.fr) que ce soit pour échanger directement avec quelqu'un au sujet de la démarche ou vous aider dans le choix des ressources à mettre en commun. La plupart des contributeurs/trices se connaissent, et j'aurai plaisir à vous présenter. Encore bienvenue. 
 
-## Conçu pour vous et avec vous ! 
+## Conçu pour vous et avec vous ! Introdution. 
+
+> Avant de concevoir multiBàO, j'ai rencontré avec Fanny Monod une quarantaine de producteurs de données sur le faire ensemble et la gestion de projets. Nous nous sommes intéressés à leurs problématiques de contributeurs pour lesquelles il n'y avait pas d'alternatives vraiment satisfaisantes. Le projet multiBàO a été conçu spécifiquement pour y répondre. Voici quelques propositions que nous faisons à celles et ceux qui créent un dossier de fiches, laissez moi vous en présenter quelques unes:
+
+* vous contribuez à un bien commun inter-réseaux, un patrimoine. C'est une expérience à la fois technique et humaine. 
+* vous permettez à vos ressources de vivre en les déposant sur multiBàO : puisque vous les avez rendues visibles et les mettez en valeur attendez vous à ce qu'elles soient lues, à recevoir des proprositions d'amélioration, et d'entrer en lien avec vos pairs à ce sujet. 
+* vous pouvez partager vos ressources sur plusieurs vos sites en simultanés. Si les ressources sont actualisées, les différents sites le seront aussi. 
+* en cas de fermeture de votre site/serveur, les données en seront plus perdues
+* vous êtes le propriétaire de votre dépôt de fiches; vous avez le choix de qui peut contribuer directement sur vos fiches. Dans le cas inverse vous recevez un mail de proposition de modification. 
+* vous bénéficiez d'une mise en page travaillée et épurée pour vos ressources, qu'il s'agisse pour celles que vous avec publiées ou non
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. on aimerait vraiment mutualiser les ressources avec les autres réseaux, il y a des sites webs partout, donc on les présente juste sur notre site web. Les informations sont éparpillées sur le web, on imagine bien que ça perd en qualité...
+2. il est fréquent lorsqu'on créé une ressource sur un site qu'elle ne "vit" plus. Il nous arrive même de recréer une ressource plutôt que d'enrichir l'ancienne version.
+3. on veut bien rendre accessible et modifiables nos resssources, mais on a pas envie que tout le monde puisse les modifier 
+4. on 
+
+
 
 Avant le lancement de la toute première version de multibao.org, nous avons téléphoné à une quarantaine d'animateurs de réseaux/formateurs/enseignants/bibliothécaires qui publient régulierement sur leurs sites de la documentation sur le *faire ensemble* et la *gestion de projet*. Voici le top 4 de leurs problématiques qu'ils jugent sans alternative satisfaisante:
 
 1. une fois qu'on a déposé une ressource sur un site, elle ne "vit" plus. Elle est souvent statique, à moins qu'on la mette un jour. Il nous arrive même de recréer la ressource plutôt que de mettre à jour l'ancienne. 
 2. on aimerait bien mutualiser les ressources avec les autres réseaux, mais on veut aussi les faire apparaître sur notre site (avec notre propre mise en page). 
-3. on veut bien mutualiser nos ressources mais on ne veut pas que tout le monde puisse les modifier
+3. on veut bien mutualiser nos ressources mais on ne souhaite pas que tout le monde puisse les modifier
 4. on s'inquiète pour la durabilité des données, on les dépose sur un site, un jour le site web et la ressource est perdue
 
 
