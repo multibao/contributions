@@ -40,10 +40,17 @@ Vous pouvez enrichir/éditer les ressources directement depuis multibao.org. Si 
 
 ## L'équipe
 
-> Si multiBàO n'a pas d'entité juridique à proprement parler, c'est par choix stratégique. Chaque dépôt que vous avez créé possède sa propre indépendance juridique. La propriété de chaque ressource est spécifiée sur chaque fiche, conformément à la licence / aux licences sous laquelle la fiche à été publiée. La technologie de multibao est un opensource, dont la paternité revient à l'association [Centre des pratiques de la coopération](http://cpcoop.fr) et la société [Scopyleft](http://scopyleft.fr).  
+> Si multiBàO n'a pas d'entité juridique à proprement parler, c'est par choix stratégique. Chaque dépôt que vous avez créé possède sa propre indépendance juridique. La propriété intelectuelle de chaque ressource est spécifiée sur chaque fiche, conformément à la licence / aux licences sous laquelle la fiche à été publiée. La technologie de multiBàO est un opensource, dont la paternité revient la société coopérative [Scopyleft](http://scopyleft.fr) et l'association [Centre des pratiques de la coopération](http://cpcoop.fr)
+
+### Développement de multibao.org
+
+* *Thomas Wolff*, initiateur et animateur du projet. Soutenu par l'association [Centre des pratiques de la coopération] et plusieurs écoles / universités, il rencontre les contributeurs de la plateforme et se définit lui même comme "un des plus importants bénéficiaires de la technologie et du bien commun". 
+* *Stéphane Langlois*, développeur agile de la technologie multibao.org et daktary. Soutenu par la société Scopyleft, il code la plateforme.
+
+> Comment la plateforme a t-elle été financé? L'Europe a accepté de me donner 6200€ pour le financement de la plateforme, qui sont directement allés pour le développement de la version 0.1 et 0.2 de multibao.org par Scopyleft.fr. Pour le développement des versions suivantes (0.3 à 0.5), Stéphane de Scoypelft l'a réalisé bénévolement. Pour tout le reste (lancement, trouver les ressources, les contributeurs, les stagiaires, former les contributeurs, animer le réseaux, se déplacer dans le monde francophone, participer à des événements, ...) c'est bénévole.
 
 
 
 
 
-* *Thomas Wolff*, initiateur et animateur du projet. 
+
