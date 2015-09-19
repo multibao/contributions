@@ -22,7 +22,7 @@ Vous avez la possibilité de faire apparaître n'importe quelle ressource de mul
 
 > autrement dit, trois réseaux différents peuvent faire apparaître la même ressource, chacun sur leur site web, chacun avec leur propre mise en page. Voici comment faire. 
 
-Vous pouvez être propriétaire d'un dépôt de fiches. Aucun dépôt n'est stocké sur multibao.org, nous ne sommes pas propriétaires des données. C'est vous qui l'êtes et qui choisissez vos contributeurs. 
+Vous pouvez être propriétaire d'un dépôt de fiches. Aucun dépôt n'est stocké sur multibao.org, nous ne sommes pas propriétaires des données. C'est vous qui l'êtes et qui choisissez vos contributeurs. La multiBàO fonctionne comme une visionneuse de dépôts.
 
 > vos dépôts sont pour l'instant stockés sur github.com, un service d'hébergement collaboratif gratuit pour les ressources libre/opensource. Vous devenez administrateur de vos ressources, les stockez durablement, choisissez les différentes possibilités de collaboration, pouvez récupérer d'autres ressources, consulter toutes les versions de vos fiches, et de nombreuses fonctionnalités collaboratives. 
 
