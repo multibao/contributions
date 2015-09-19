@@ -58,6 +58,7 @@ Je présenterai ici dans les prochains temps des portraits de contributeurs / r�
 
 La présente fiche a été publiée le 19 septembre par Thomas Wolff sous licence Creative Commons BY-SA. 
 
+![Creative Commons](http://tryad.org/images/creative_commons_by_sa.jpg)
 
 
 
