@@ -4,7 +4,7 @@ Bienvenue sur multiBàO, une technologie collaborative vous permettant de pleine
 
 > http://www.multibao.org
 > Version actuelle: 0.5
-> En version 0.5, pour les animateurs de réseaux /formateurs /animateurs d'événements /collectifs /bloggers publiant de la documentation sur les démarches participatives /la gestion de projet.
+> MultiBàO à la présente étape est conçue sur mesure pour les animateurs de réseaux /formateurs /animateurs d'événements /collectifs /bloggers publiant des ressources sur les démarches participatives /la gestion de projet.
 
 
 
