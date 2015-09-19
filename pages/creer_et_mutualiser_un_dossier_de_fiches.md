@@ -1,8 +1,16 @@
-# Créer et connecter mon dossier de fiches à multiBàO
+# Créer et mutualiser un dossier de fiches sur multiBàO	
 
-## Rappels
+> Bienvenue. Je m'appelle Thomas Wolff et suis là pour vous accueillir et vous filer un coup de main en cas de questions. N'hésitez pas à me joindre au 0642459781 ou par [mail](mailto:thomas.wolff@cpcoop.fr) que ce soit pour échanger directement avec quelqu'un au sujet de la démarche ou vous aider dans le choix des ressources à mettre en commun. La plupart des contributeurs/trices se connaissent, et j'aurai plaisir à vous présenter. Encore bienvenue. 
 
-> Amis formateurs/coachs/animateurs de réseaux non habitués au numérique, nous vous invitons à profiter de multiBàO pour découvrir et vous former à des nouveaux usages numériques qui vous seront bien utiles. Ce site peut être pour vous un véritable terrain d'apprentissage. 
+## Introduction 
+
+
+
+
+
+
+
+Amis formateurs/coachs/animateurs de réseaux non habitués au numérique, nous vous invitons à profiter de multiBàO pour découvrir et vous former à des nouveaux usages numériques qui vous seront bien utiles. Ce site peut être pour vous un véritable terrain d'apprentissage. 
 
 * Quiconque le veut peut creer un dossier contenant des fiches. Afin que tout le monde puisse en profiter, tout est publié sous des licences libres.
 
