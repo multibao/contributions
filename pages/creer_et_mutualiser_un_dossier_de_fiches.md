@@ -25,7 +25,7 @@ Comment est-ce que je fais concrètement pour choisir ma licence? Nous vous prop
 
 <iframe frameborder="0" width="320" height="180" src="//www.dailymotion.com/embed/video/x1tg4gv" allowfullscreen></iframe>
 
-### 2ème étape: créer un dépot github 
+### 2ème étape: créez un dépot github 
 
 ![Github](http://dandelion.github.io/slides/dandelion-0.10.0/assets/images/logo_github_small.gif)
 
@@ -42,6 +42,37 @@ Comment est-ce que je fais concrètement pour choisir ma licence? Nous vous prop
  * laissez le dossier en "public"
  * cliquez sur "initialize with a README" (c'est un document que vous pourrez modifier par la suite)
  * puis cliquez sur le bouton vert "create repository"
+ * bienvenue dans votre nouveau dossier :)
+
+### 3ème étape: créer ma première fiche
+
+Maintenant que c'est fait, je vous invite à [créer votre première fiche](http://www.multibao.org/multibao/contributions/pages/documentation/creer_fiche_multibao.md). 
+
+### 4ème étape: mon dossier me semble prêt, je le fais apparaître sur multiBàO.org
+
+#### 1ère possibilité: je demande à Thomas
+
+0642459781, thomas.wolff@cpcoop.fr
+
+### 2ème possibilité: je le fais moi même 
+
+Pour ce faire, il vous faut un accès contributeur à http://github.com/multibao. Vous pouvez demander n'importe quel contributeur existant de multiBaO. 
+
+Connectez votre dépôt github à multiBàO
+* éditez le document suivant : https://github.com/multibao/contributions/blob/master/_config.yml en indiquant
+ * **label** correspondant au titre du dépôt qui apparaîtra sur multibao.org
+ * **account** votre nom d'utilisateur
+ * **repo** le dépôt dans lequel sont stockées les fiches
+ * **folder** le menu dans lequel sont stockées les fiches
+
+Exemple pour le dossier de fiches "Réseau transition", visibles sur github en suivant le lien http://github.com/reseautransitionwb/reseau_transition/contributions
+
+label: Réseau transition - c'est le nom qui apparaît sur multibao.org 
+account: reseautransitionwb - c'est leur nom d'utilisateur
+repo: reseau_transition - c'est le nom du dépôt
+folder: contributions - c'est le nom du dossier où se trouvent les fiches
+
+### 5ème étape: il apparaît ! 
 
 
 
