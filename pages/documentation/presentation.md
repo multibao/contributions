@@ -8,6 +8,8 @@ C'est ce que je vous propose de faire avec la page de présentation de multiBàO
 
 ## Comment faire? 
 
-Insérez le code suivant dans une de vos pages web : 
+Insérez le code suivant dans une de vos pages web 
 
->`<script src="https://cdn.rawgit.com/vinyll/anywhere/master/dist/anywhere.js"></script><script>Anywhere.config.default = {user: "multibao", repo: "contributions"};</script><div data-anywhere="pages/documentation/presentation"></div>`
+>`<script src="https://cdn.rawgit.com/vinyll/anywhere/master/dist/anywhere.js"></script><script>Anywhere.config.default = {user: "multibao", repo: "contributions"};</script><div data-anywhere="pages/accueil_et_presentation"></div>`
+
+Puis publiez! 
