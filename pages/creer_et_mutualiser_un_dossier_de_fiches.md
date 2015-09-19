@@ -1,6 +1,6 @@
 # Créer et mutualiser un dossier de fiches sur multiBàO	
 
-> Bienvenue. Je m'appelle Thomas Wolff et suis là pour vous accueillir et vous filer un coup de main en cas de questions. N'hésitez pas à me joindre au 0642459781 ou par [mail](mailto:thomas.wolff@cpcoop.fr) que ce soit pour échanger directement avec quelqu'un au sujet de la démarche ou vous aider dans le choix des ressources à mettre en commun. La plupart des contributeurs/trices se connaissent, et j'aurai plaisir à vous présenter. Encore bienvenue. 
+> Bienvenue. Je m'appelle Thomas Wolff et suis là pour vous accueillir et vous filer un coup de main en cas de questions. N'hésitez pas à me joindre au 0642459781 ou par [mail](mailto:thomas.wolff@cpcoop.fr) que ce soit pour demander une petite formation, pour faire ensemble à distance, ou encore pour échanger. Vous n'êtes pas seuls! Encore bienvenue. 
 
 ## Conçu pour vous et avec vous ! Introdution. 
 
@@ -23,7 +23,7 @@ Les licences ouvertes, ça vous parle? Elles vous permettent d'enrichir vos droi
 
 Comment est-ce que je fais concrètement pour choisir ma licence? Nous vous proposons de choisir une des 6 licences Creative Commons, reconnu par le droit international. Voici une vidéo pour vous aider à choisir:
 
-<iframe frameborder="0" width="320" height="180" src="//www.dailymotion.com/embed/video/x1tg4gv" allowfullscreen></iframe>
+<iframe frameborder="0" width="540" height="300" src="//www.dailymotion.com/embed/video/x1tg4gv" allowfullscreen></iframe>
 
 ### 2ème étape: créez un dépot github 
 
