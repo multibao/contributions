@@ -3,17 +3,11 @@
 Bienvenue sur multiBàO, une technologie collaborative vous permettant de pleinement mutualiser et valoriser vos ressources sur le faire ensemble et la gestion de projet. 
 
 > http://www.multibao.org
-> Version actuelle: 0.5
-> MultiBàO à la présente étape est conçue sur mesure pour les animateurs de réseaux /formateurs /animateurs d'événements /collectifs /bloggers publiant des ressources sur les démarches participatives /la gestion de projet.
+> Version actuelle: 0.5 
 
+A ce stade, une vingtaine de réseaux associatifs, entreprenariaux et institutionnels ont accepté de pleinement mutualiser leur documentation, leurs savoirs et leurs expériences sur le "faire ensemble"; ils se sont engagés à construire un bien commun durable. 
 
-
-
-
-
-
-
-## C'est pour qui ?
+### C'est pour qui? 
 
 en version 0.4, pour les animateurs de réseaux /formateurs /animateurs d'événements /collectifs /bloggers publiant de la documentation sur les démarches participatives /la gestion de projet.
 
