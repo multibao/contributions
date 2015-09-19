@@ -1,4 +1,4 @@
-# Faire apparaître une fiche de n'importe quel dépôt sur mon site
+# Faire apparaître et synchroniser n'importe quelle ressource de multibao avec votre site
 
 > Cette technologie conçue sous le nom d'[Anywhere](https://github.com/multibao/anywhere) nous est offerte par [Stéphane Langlois et Vincent Agnano](http://Scopyleft) de l'équipe de Scopyleft. Elle fait partie du projet [Daktary](http://github.com/daktary). 
 
