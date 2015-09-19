@@ -14,7 +14,7 @@ en version 0.5, pour les animateurs de réseaux, formateurs, animateurs d'évén
 
 ### Comment ça marche? 
 
-L'intégralité des ressources visibles sur multibao vous sont rendus accessibles sous des licences ouvertes. 
+L'intégralité des ressources visibles sur multibao vous sont accessibles, diffusables, réutilisables sous des licences ouvertes. 
 
 > les ressources sont publiées sous des licences ouvertes. Avant de réutiliser une fiche (ex: pour usage commercial), renseignez vous sur la licence sous laquelle elle est publiée. Cette dernière est stipulée en chaque bas de page.  
 
