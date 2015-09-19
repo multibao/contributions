@@ -38,4 +38,4 @@ Le code à insérer et le suivant:
 
 En insérant le présent code dans une page de site web, on arrive au résultat suivant: http://cpcoop.fr/demonstration-multibao/
 
-La fiche sera automatique mise à jour
+La fiche sera automatiquement mise à jour
