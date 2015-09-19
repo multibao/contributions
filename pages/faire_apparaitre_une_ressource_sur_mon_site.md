@@ -22,7 +22,7 @@ La fiche "la_fabrique_de_roubaix" se trouve dans le dossier "contributions", lui
 
 ### Deuxième étape: insérez le code dans la page de votre site souhaitée et mettez à jour les informations
 
-Pour insérer une fiche de multibào dans votre site, il vous faut le code çi dessous et remplacer les champs indiqués par les vrais noms de *propriétaire de dépôt*, *dépôt*, *dossier* et *fiche*.
+Pour insérer une fiche de multibào dans votre site, il vous faut insérer code çi dessous et remplacer les champs indiqués par les vrais noms de *propriétaire de dépôt*, *dépôt*, *dossier* et *fiche*. Ne vous laissez pas impressionner par ce code, un simple copier coller suffit. ;)
 
 >`<script src="https://cdn.rawgit.com/vinyll/anywhere/master/dist/anywhere.js"></script><script>Anywhere.config.default = {user: "nom_du_proprietaire_du_depot", repo: "nom_du_depot"};</script><div data-anywhere="nom_de_la_fiche ou dossier_ou_est_la_fiche/nom_de_la_fiche"></div>`
 
