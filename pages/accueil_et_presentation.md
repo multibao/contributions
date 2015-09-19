@@ -14,11 +14,29 @@ en version 0.5, pour les animateurs de réseaux, formateurs, animateurs d'évén
 
 ### Comment ça marche? 
 
-1. Nous voulons tous faire apparaître nos ressources sur nos sites web, avec la mise en page de nos sites webs. 
+1. L'intégralité des ressources visibles sur multibao vous sont rendus accessiblees sous des licences ouvertes. 
+
+> les ressources sont publiées sous des licences ouvertes. Avant de réutiliser une fiche (ex: pour usage commercial), renseignez vous sur la licence sous laquelle elle est publiée. Cette dernière est stipulée en bas de chaque méthodo. 
+
+2. Vous avez la possibilité de faire apparaître n'importe quelle ressource de multibao sur votre site web. Cette dernière prendra automatiquement la mise en page de votre site. Si quelqu'un modifie la ressource, elle sera modifiée sur votre site ainsi que tous les sites faisant apparaître la ressource. 
+
+3. Vous pouvez être propriétaire d'un dépôt de fiches. Aucun dépôt n'est stocké sur multibao.org, nous ne sommes pas propriétaires des données. C'est vous qui l'êtes et qui choisissez vos contributeurs. 
+
+4. Vous pouvez modifier les ressources directement depuis multibao.org. Si vous avez l'autorisation de modifier directement la ressource, la modification sera imédiate. Si non, le propriétaire du dépôt recevra une notification lui proposant votre modification. 
+
+
+
+
+
+
+
+> On est prêt à mutualiser nos ressources avec les autres réseaux, ceci dit on veut faire apparaître nNous voulons tous faire apparaître nos ressources sur nos sites web, avec la mise en page de nos sites webs. 
 
 > à cette version 0.5, vous pouvez faire apparaître n'importe quelle ressource de multibao.org sur votre site web. Ca prendra automatiquement la mise en page de votre site. Si un contributeur modifie la ressource, tous les sites webs faisant apparaître la ressource seront automatiquement actualisés. La ressource est vivante. **Voici comment faire**
 
-2. Nous nous i
+2. Nous sommes prêt à mutualiser nos ressources entre réseaux, mais ne souhaitons pas que tout le monde puisse modifier la ressource. 
+
+> Aucune fiche n'est stockée sur multibao.org. En tant que propriétaire de ressources vous êtes propriétaire de votre dépôt, et invitez les contributeurs que vous souhaitez. Les dépôts que vous voyez apparaître sont tous "distants", multibao.org fonctionne un peu comme une visionneuse de dépôts. Si un contributeur que vous n'avez pas autosié 
 
 
 
@@ -36,7 +54,7 @@ en version 0.5, pour les animateurs de réseaux, formateurs, animateurs d'évén
 
 ## Comment ça marche? En version simple.
 
-* Conçu comme un bien commun entre réseaux, c'est gratuit et ça le restera! 
+3* Conçu comme un bien commun entre réseaux, c'est gratuit et ça le restera! 
 * Quiconque le veut peut creer un dossier contenant des fiches. Afin que tout le monde puisse en profiter, tout est publié sous des licences libres. 
 * Les dossiers contiennent vos fiches méthodes/outils/retours d'expériences/réflexions sur les démarches participatives/ gestion de projet.
 * Les dossiers peuvent être stockés sur multiBàO... ou pas! Vous pouvez écrire votre dossier avec vos fiches et l'héberger sur le web, on le connecte à multiBàO et votre dossier apparaîtra sur multiBàO. Si vous modifiez une fiche, elle sera automatiquement mise à jour sur multiBàO.
