@@ -13,7 +13,7 @@
 * vous êtes le propriétaire de votre dépôt de fiches; vous avez le choix de qui peut contribuer directement sur vos fiches. Dans le cas inverse vous recevez un mail de proposition de modification. 
 * vous bénéficiez d'une mise en page travaillée et épurée pour vos ressources, qu'il s'agisse pour celles que vous avec publiées ou non
 
-## Méthode pour créer un dépôt de fiches 
+## Méthode pas par pas pour créer un dépôt de fiches 
 
 ### 1ère étape: choisir une licence ouverte pour publier mes ressources
 
@@ -23,7 +23,29 @@ Les licences ouvertes, ça vous parle? Elles vous permettent d'enrichir vos droi
 
 Comment est-ce que je fais concrètement pour choisir ma licence? Nous vous proposons de choisir une des 6 licences Creative Commons, reconnu par le droit international. Voici une vidéo pour vous aider à choisir:
 
-<iframe frameborder="0" width="400" height="200" src="//www.dailymotion.com/embed/video/x1tg4gv" allowfullscreen></iframe>
+<iframe frameborder="0" width="320" height="180" src="//www.dailymotion.com/embed/video/x1tg4gv" allowfullscreen></iframe>
+
+### 2ème étape: créer un dépot github 
+
+![Github](http://dandelion.github.io/slides/dandelion-0.10.0/assets/images/logo_github_small.gif)
+
+> Si vous n'avez jamais entendu parlé de github.com, il s'agit d'un service d'hébergement mondialement utilisé pour l'hébergement et le travail collaboratif sur des ressources publiées sous licences libres. Facile d'utilisation, riche en fonctionnalités de qualité, github présente plus de 10 millions de dépôts. Vos données seront hébergées gratuitement et durablement. 
+
+* Tous les dépôts que vous voyez actuellement apparaître sur multiBàO sont des dépôts github. MultiBàO permet de visionner des dépôts de fiches publiés sous Github.com. 
+ * Exemple: le dépôt [Démocratie ouverte](http://www.multibao.org/alecoz/democratie_ouverte/contributions) a comme lien: http://www.multibao.org/alecoz/democratie_ouverte/contributions. Observez bien ce lien. 
+ * La ressource est visible et accessible sur github sur le lien suivant: https://github.com/alecoz/democratie_ouverte
+* Pour créer un dépôt github, rendez vous sur http://github.com
+ * créez un compte
+ * en haut à droite de l'écran, vous verrez un "+". Cliquez dessus et allez sur "new repository" 
+ * lorsque cette fenêtre s'ouvre, choisissez un nom de dépôt. Choisissez un nom simple qui reflete le réseau / collectif / site que vous représentez. 
+ * dans la description, vous pouvez indiquez vos coordonnées / mail si un lecteur souhaite pouvoir vous joindre
+ * laissez le dossier en "public"
+ * cliquez sur "initialize with a README" (c'est un document que vous pourrez modifier par la suite)
+ * puis cliquez sur le bouton vert "create repository"
+
+
+
+
 
 
 
