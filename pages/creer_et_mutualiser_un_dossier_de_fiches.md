@@ -7,13 +7,23 @@
 > Avant de concevoir multiBàO, j'ai rencontré avec Fanny Monod une quarantaine de producteurs de données sur le faire ensemble et la gestion de projets. Nous nous sommes intéressés à leurs problématiques de contributeurs pour lesquelles il n'y avait pas d'alternatives vraiment satisfaisantes. Le projet multiBàO a été conçu spécifiquement pour y répondre. Voici quelques propositions que nous faisons à celles et ceux qui créent un dossier de fiches, laissez moi vous en présenter quelques unes:
 
 * vous contribuez à un bien commun inter-réseaux, un patrimoine. C'est une expérience à la fois technique et humaine. 
-* vous permettez à vos ressources de vivre en les déposant sur multiBàO : puisque vous les avez rendues visibles et les mettez en valeur attendez vous à ce qu'elles soient lues, à recevoir des proprositions d'amélioration, et d'entrer en lien avec vos pairs à ce sujet. 
+* vous permettez à vos ressources de vivre en les déposant sur multiBàO : puisque vous les avez rendues visibles et les mettez en valeur attendez vous à ce qu'elles soient lues et à recevoir des proprositions d'amélioration. Les ressources deviennent vivantes.
 * vous pouvez partager vos ressources sur plusieurs vos sites en simultanés. Si les ressources sont actualisées, les différents sites le seront aussi. 
 * en cas de fermeture de votre site/serveur, les données en seront plus perdues
 * vous êtes le propriétaire de votre dépôt de fiches; vous avez le choix de qui peut contribuer directement sur vos fiches. Dans le cas inverse vous recevez un mail de proposition de modification. 
 * vous bénéficiez d'une mise en page travaillée et épurée pour vos ressources, qu'il s'agisse pour celles que vous avec publiées ou non
 
+## Méthode pour créer un dépôt de fiches 
 
+### 1ère étape: choisir une licence ouverte pour publier mes ressources
+
+Les licences ouvertes, ça vous parle? Elles vous permettent d'enrichir vos droits d'auteurs et le traditionnel "tous droits réservés" pour que votre ressource puisse vivre. Si vous souhaitez que d'autres personnes puissent diffuser et enrichir votre ressource, c'est par là que ça commence. C'est vous qui choisissez les conditions de partage de votre document. 
+
+> Vous trouverez dans le pied de page de chaque ressource multiBàO une mention "cette ressource est publiée selon les termes de la licence ...". Jetez par exemple un coup d'oeil sur le pied de page de [cette ressource multibao](http://www.multibao.org/multibao/contributions/contributions/cercle_excentrique.md) pour avoir un exemple. 
+
+Comment est-ce que je fais concrètement pour choisir ma licence? Nous vous proposons de choisir une des 6 licences Creative Commons, reconnu par le droit international. Voici une vidéo pour vous aider à choisir:
+
+<iframe frameborder="0" width="0" height="0" src="//www.dailymotion.com/embed/video/x1tg4gv" allowfullscreen></iframe>
 
 
 
