@@ -6,13 +6,13 @@ Bienvenue sur multiBàO, une technologie collaborative vous permettant de pleine
 > Version actuelle: 0.5
 > Une présentation toujours à jour de multiBàO sur mon site, c'est ici
 
-### C'est pour qui? 
+## C'est pour qui? 
 
 en version 0.5, pour les animateurs de réseaux, formateurs, animateurs d'événements participatifs, collectifs, membres d'équipes, médiateurs numériques, bibliothécaires, collectifs, publiant de la documentation sur le "comment faire ensemble" ou la "gestion de projet"
 
-> A l'aube cette version 0.5 de multibao.org, une vingtaine de réseaux producteurs de connaissance se sont déjà engagés à participer à la construction de ce bien commun que vous souhaitons durable. Comment faire ensemble, comment construire un projet? Si vous partagez cet intérêt et que vous souhaitez enrichir le patrimoine commun, je vous invite à contribuer même si ce n'est qu'en corrigeant une faute de frappe d'un document ou en faisant part d'un retour d'expérience. L'intégralité des ressources visibles via multibao.org, ainsi que la technologie, vous sont à ce jour accessibles. Bonne utilisation. **Thomas Wolff**
+> A l'aube cette version 0.5 de multibao.org, une vingtaine de réseaux producteurs de connaissance se sont déjà engagés à participer à la construction de ce bien commun que vous souhaitons durable. Comment faire ensemble, comment construire un projet? Si vous partagez cet intérêt et que vous souhaitez enrichir le patrimoine commun, je vous invite à contribuer même si ce n'est qu'en corrigeant une faute de frappe d'un document ou en faisant part d'un retour d'expérience. L'intégralité des ressources visibles via multibao.org, ainsi que la technologie, vous sont à ce jour accessibles. Bonne utilisation. *Thomas Wolff*
 
-### Comment ça marche? 
+## Comment ça marche? 
 
 L'intégralité des ressources visibles sur multibao vous sont accessibles, diffusables, réutilisables sous des licences ouvertes. 
 
