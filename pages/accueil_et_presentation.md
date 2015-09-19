@@ -16,9 +16,9 @@ en version 0.5, pour les animateurs de réseaux, formateurs, animateurs d'évén
 
 1. Nous voulons tous faire apparaître nos ressources sur nos sites web, avec la mise en page de nos sites webs. 
 
-> à cette version 0.5, vous pouvez faire apparaître n'importe quelle ressource de multibao.org sur votre site web. Ca prendra automatiquement la mise en page de votre site. Si un contributeur modifie la ressource, tous les sites webs faisant apparaître la ressource seront automatiquement actualisés. La ressource est vivante.
+> à cette version 0.5, vous pouvez faire apparaître n'importe quelle ressource de multibao.org sur votre site web. Ca prendra automatiquement la mise en page de votre site. Si un contributeur modifie la ressource, tous les sites webs faisant apparaître la ressource seront automatiquement actualisés. La ressource est vivante. **Voici comment faire**
 
-Voici comment faire
+2. Nous nous i
 
 
 
