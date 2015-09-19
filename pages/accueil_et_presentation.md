@@ -4,7 +4,7 @@ Bienvenue sur multiBàO, une technologie collaborative vous permettant de pleine
 
 > http://www.multibao.org
 > Version actuelle: 0.5
-> Une présentation toujours à jour de multiBàO sur mon site, c'est ici
+> Une présentation toujours à jour de multiBàO sur mon site, c'est [ici](http://www.multibao.org/multibao/contributions/pages/documentation/presentation.md)
 
 ## C'est pour qui? 
 
@@ -28,6 +28,4 @@ Vous pouvez être propriétaire d'un dépôt de fiches. Aucun dépôt n'est stoc
 
 Vous pouvez enrichir/éditer les ressources directement depuis multibao.org. Si vous avez l'autorisation de modifier directement la ressource, la modification sera immédiate. Si non le propriétaire du dépôt recevra une notification lui proposant votre modification. 
 
-> sur chaque fiche de multibao.org, vous verrez apparaître un logo d'éditeur en haut à gauche de la page. 
-
-
+> sur chaque fiche de multibao.org, vous verrez apparaître un logo d'éditeur en haut à gauche de la page.
