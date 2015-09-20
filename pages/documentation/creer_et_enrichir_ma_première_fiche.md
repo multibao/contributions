@@ -1,6 +1,6 @@
 # Enrichir des fiches
 
-si tu es déjà contributeur multiBàO et veux me perfectionner dans l'écriture des fiches, sautes le paragraphe ci dessous.
+Si vous venez sur cette ressource pour apprendre le langage Markdown, sautez le premier paragraphe. Bonne utilisation.
 
 ## Je veux écrire / enrichir ma première fiche ! 
 
