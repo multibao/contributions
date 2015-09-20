@@ -12,9 +12,7 @@
 
 ## Fonctionnalités cachées 
 
-Ces fonctionnalités peuvent être idéales à qui publie régulièrement des contenus sous github.com
-
-### Se servir de multiBàO comme visionneuse et bénéficier de son éditeur 
+### Se servir de multiBàO comme viewer de mes autres ressources
 
 La lecture sur multiBaO est propre, claire, épurée. 
 MultiBàO fonctionne comme une visionneuse, elle permet de lire des ressources en format Markdown stockées sous github.com
@@ -26,6 +24,6 @@ Vous avez publié un support de séminaire, une présentation, sous un format Ma
 
 > Vous avez la possibilité de faire apparaître n'importe quelle ressource de multibao sur votre site web. Cette dernière prendra automatiquement la mise en page de votre site. Si quelqu'un modifie la ressource, elle sera modifiée sur votre site ainsi que tous les sites faisant apparaître la ressource. 
 
-Cette technologie n'est pas liée spécialement aux ressources et peut être utilisée pour n'importe quelle ressource en format markdown présente sous github.com 
+Cette technologie n'est pas liée spécialement aux ressources et peut être utilisée pour n'importe quelle ressource en format markdown présente sous github.com. Referez vous à la [documentation](http://www.multibao.org/multibao/contributions/pages/faire_apparaitre_et_synchroniser_les_ressources_avec_votre_site.md).
 
 
