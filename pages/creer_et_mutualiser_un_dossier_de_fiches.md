@@ -59,7 +59,7 @@ Comment est-ce que je fais concrètement pour choisir ma licence? Nous vous prop
 
 ### 3ème étape: créer ma première fiche
 
-Maintenant que c'est fait, je vous invite à [créer votre première fiche](http://www.multibao.org/multibao/contributions/pages/documentation/creer_fiche_multibao.md). 
+Maintenant que c'est fait, je vous invite à [créer votre première fiche](http://www.multibao.org/multibao/contributions/pages/documentation/apprendre_markdown.md)
 
 ### 4ème étape: mon dossier me semble prêt, je le fais apparaître sur multiBàO.org
 
