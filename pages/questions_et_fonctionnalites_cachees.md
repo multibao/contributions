@@ -7,7 +7,7 @@
 * [Liste de discussion du projet](http://lists.imaginationforpeople.org/cgi-bin/mailman/listinfo/multibao)
 * [Mentions légales](http://www.multibao.org/multibao/contributions/pages/documentation/mentions_legales.md)
 * [obtenir ou donner un accès contributeur multiBàO?](http://www.multibao.org/multibao/contributions/pages/documentation/obtenir_donner_acces_contributeur.md)
-* [installer multiBàO sur mon serveur/ordinateur (développeurs)?](http://github.com/multibao/site/README.md)
+* [installer multiBàO sur mon serveur/ordinateur (développeurs)?](https://github.com/multibao/site)
 * [la technologie Anywhere, c'est quoi?](https://github.com/multibao/anywhere)
 
 ## Fonctionnalités cachées 
