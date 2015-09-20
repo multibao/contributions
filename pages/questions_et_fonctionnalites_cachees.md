@@ -2,20 +2,30 @@
 
 > http://www.multibao.org
 
-## Comment est-ce que je fais pour
+## Liens
 
-* [obtenir ou donner un accès contributeur multiBàO?](http://multibao.org/multibao/contributions/pages/documentation/obtenir_donner_acces_contributeur.md)
-* [enrichir une fiche multiBàO?](Contribuer directement sur une fiche.md)
-* [créer une fiche multiBàO?](http://multibao.org/multibao/contributions/pages/documentation/creer_fiche_multibao.md)
-* [choisir une licence Creative Commons pour enrichir mes droits d'auteur ?](http://creativecommons.fr/licences/les-6-licences/)
-* [Créer et connecter mon dossier de fiches à multiBàO](http://www.multibao.org/multibao/contributions/pages/cr%C3%A9er_et_connecter_mon_dossier_de_fiches_%C3%A0_multiB%C3%A0O.md)
-* [Faire apparaitre en 3 clics une fiche sur mon site](http://www.multibao.org/multibao/contributions/pages/faire_apparaitre_en_3_clics_une_fiche_sur_mon_site.md)
-* [installer multiBàO sur mon serveur/ordinateur (développeurs)?](http://multibao.org/multibao/site/README.md)
-
-## Informations
-
-* Historique des versions de multiBàO
-* [Liste de discussion](http://lists.imaginationforpeople.org/cgi-bin/mailman/listinfo/multibao)
+* [Liste de discussion du projet](http://lists.imaginationforpeople.org/cgi-bin/mailman/listinfo/multibao)
 * [Mentions légales](http://www.multibao.org/multibao/contributions/pages/documentation/mentions_legales.md)
+* [obtenir ou donner un accès contributeur multiBàO?](http://www.multibao.org/multibao/contributions/pages/documentation/obtenir_donner_acces_contributeur.md)
+* [installer multiBàO sur mon serveur/ordinateur (développeurs)?](http://multibao.org/multibao/site/README.md)
+* [la technologie Anywhere, c'est quoi?](https://github.com/multibao/anywhere)
+
+## Fonctionnalités cachées 
+
+Ces fonctionnalités peuvent être idéales à qui publie régulièrement des contenus sous github.com
+
+### Se servir de multiBàO comme visionneuse et bénéficier de son éditeur 
+
+La lecture sur multiBaO est propre, claire, épurée. 
+MultiBàO fonctionne comme une visionneuse, elle permet de lire des ressources en format Markdown stockées sous github.com
+Vous avez publié un support de séminaire, une présentation, sous un format Markdown? Vous pouvez le faire apparaître avec le viewer multiBàO.
+
+> écrivez : http://multibao.org/nom_de_compte_github/nom_repository/nom_dossier/nom_ressource.md
+
+### Se servir de la technologie "anywhere" de multiBàO pour faire apparaître et synchroniser vos ressources github en markdown avec vos différents sites 
+
+> Vous avez la possibilité de faire apparaître n'importe quelle ressource de multibao sur votre site web. Cette dernière prendra automatiquement la mise en page de votre site. Si quelqu'un modifie la ressource, elle sera modifiée sur votre site ainsi que tous les sites faisant apparaître la ressource. 
+
+Cette technologie n'est pas liée spécialement aux ressources et peut être utilisée pour n'importe quelle ressource en format markdown présente sous github.com 
 
 
