@@ -10,7 +10,7 @@ Bienvenue sur multiBàO, une technologie collaborative vous permettant de pleine
 
 pour les animateurs de réseaux, formateurs, animateurs d'événements participatifs, collectifs, membres d'équipes, médiateurs numériques, bibliothécaires, collectifs, publiant de la documentation sur le "comment faire ensemble" ou la "gestion de projet"
 
-> A l'aube cette version 0.5 de multibao.org, une vingtaine de réseaux producteurs de connaissance se sont déjà engagés à participer à la construction de ce bien commun que vous souhaitons durable. Comment faire ensemble, comment construire un projet? Si vous partagez cet intérêt et que vous souhaitez enrichir le patrimoine commun, je vous invite à contribuer même si ce n'est qu'en corrigeant une faute de frappe d'un document ou en faisant part d'un retour d'expérience. L'intégralité des ressources visibles via multibao.org, ainsi que la technologie, vous sont à ce jour accessibles. Bonne utilisation. *Thomas Wolff*
+> A l'aube cette version 0.5 de multibao.org, une vingtaine de réseaux producteurs de connaissance se sont déjà engagés à participer à la construction de ce bien commun que nous souhaitons durable. Comment faire ensemble, comment construire un projet? Si vous partagez cet intérêt et que vous souhaitez enrichir le patrimoine commun, je vous invite à contribuer - même si ce n'est qu'en corrigeant une faute de frappe d'un document ou en faisant part d'un retour d'expérience. L'intégralité des ressources visibles via multibao.org, ainsi que la technologie, vous sont à ce jour accessibles. Bonne utilisation. *Thomas Wolff*
 
 ## Comment ça marche? 
 
@@ -42,11 +42,11 @@ Vous pouvez enrichir/éditer les ressources directement depuis multibao.org. Si 
 
 > Si multiBàO n'a pas d'entité juridique à proprement parler, c'est par choix stratégique. Chaque dépôt que vous avez créé possède sa propre indépendance juridique. La propriété intelectuelle de chaque ressource est spécifiée sur chaque fiche, conformément à la licence / aux licences sous laquelle la fiche à été publiée. La technologie de multiBàO est un opensource, dont la paternité revient la société coopérative [Scopyleft](http://scopyleft.fr) et l'association [Centre des pratiques de la coopération](http://cpcoop.fr)
 
-### Développement de multibao.org
+### Développement de multibao.org
 
 * *Thomas Wolff*, initiateur et animateur bénévole du bien commun. Il se déplace en France et Belgique à la rencontre des contributeurs et en profite pour se former aux approches. Soutenu pour les déplacements/événements par l'association [Centre des pratiques de la coopération](http://cpcoop.fr) dont il est co-fondateur et par plusieurs écoles où il est enseignant. 
 
-* *Stéphane Langlois*, développeur agile de la technologie multibao.org et daktary. Soutenu par la [Scopyleft](http://scopyleft.fr) dont il est sociétaire coopératif, il code la plateforme. Ferru des approches *lean* et des nouveaux usages *numériques*, la technologie porte son odeur. 
+* *Stéphane Langlois*, développeur agile de la technologie multibao.org et daktary. Soutenu par la [Scopyleft](http://scopyleft.fr) dont il est sociétaire coopératif, il code la plateforme. Ferru des approches *lean* et des nouveaux usages *numériques*, la technologie porte l'odeur de son professionnalisme. 
 
 > Comment la plateforme a t-elle été financé? L'Europe a accepté de me donner 6200€ pour le financement de la plateforme, qui sont directement allés pour le développement de la version 0.1 et 0.2 de multibao.org par Scopyleft.fr. Pour le développement des versions suivantes (0.3 à 0.5), Stéphane de Scoypelft l'a réalisé bénévolement. Pour tout le reste (lancement, trouver les ressources, les contributeurs, les stagiaires, former les contributeurs, animer le réseaux, se déplacer dans le monde francophone, participer à des événements, ...) c'est bénévole.
 
