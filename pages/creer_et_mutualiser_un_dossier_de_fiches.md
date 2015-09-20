@@ -15,7 +15,10 @@
 
 ## Méthode 1: formation gratuite via skype et on le fait ensemble
 
-Contactez moi pour qu'on se cale une formation de 30 à 45 mn: 
+Contactez moi pour qu'on se cale une formation de 30 à 45 mn.
+Skype nous permettra de partager nos écrans. 
+
+Avec possibilité d'aborder:
 * présentation du projet
 * aide dans le choix d'une licence si besoin
 * créer et configurer votre dépôt
