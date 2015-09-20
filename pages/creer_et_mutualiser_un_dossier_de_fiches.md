@@ -23,7 +23,7 @@ Contactez moi pour qu'on se cale une formation de 30 à 45 mn:
 
 Thomas Wolff, 0642459781, [mail](mailto:thomas.wolff@cpcoop.fr), skype: thomasbaotage
 
-## Méthode 2: je vais le faire moi même 
+## Méthode 2: l'approche *DIY* (Do It Yourself)
 
 ### 1ère étape: choisir une licence ouverte pour publier mes ressources
 
