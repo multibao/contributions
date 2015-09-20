@@ -38,4 +38,12 @@ Le code à insérer et le suivant:
 
 En insérant le présent code dans une page de site web, on arrive au résultat suivant: http://cpcoop.fr/demonstration-multibao/
 
-La fiche sera automatiquement mise à jour
+La fiche sera automatiquement mise à jour dès qu'il y aura une modification. 
+
+## Questions 
+
+**Q: Sur ma fiche, il y a partout des # et des ##, mon site ne marche pas bien?**
+
+> R: Non, c'est la fiche qui a mal été documentée. Les fiches sont écrites en langage Markdown et c'est ce que votre site devrait pouvoir reconnaître naturellement. Si cela ne marche pas c'est car la syntaxe a été mal indiquée. Les # représentent dans la syntaxe des titres. Si vous avez ce problème c'est sûrement car le rédacteur de la fiche n' a pas laissé d'espace entre le # et le titre. Comme #titre alors qu'il faudrait le rédiger sous la forme # titre (avec un espace). Je peux vous proposer si le problème apparaît de soit [directement modifier la ressource via l'éditeur](http://www.multibao.org/multibao/contributions/pages/enrichir_les_ressources_communes_existantes_via_l_editeur.md) et d'ajouter les espaces, soit de contacter le contributeur, soit de me contacter: 0642459781. 
+
+
