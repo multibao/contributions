@@ -1,4 +1,4 @@
-# Questions générales
+# Questions et fonctionnalites cachees 
 
 > http://www.multibao.org
 
