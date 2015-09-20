@@ -1,6 +1,6 @@
 # Créer et mutualiser un dossier de fiches sur multiBàO	
 
-> Bienvenue. Je m'appelle Thomas Wolff et suis là pour vous accueillir et vous filer un coup de main en cas de questions. N'hésitez pas à me joindre au 0642459781 ou par [mail](mailto:thomas.wolff@cpcoop.fr) que ce soit pour demander une petite formation, pour faire ensemble à distance, ou encore pour échanger. Vous n'êtes pas seuls! Encore bienvenue. 
+> Bienvenue. Je m'appelle Thomas Wolff et suis là pour vous accueillir et vous filer un coup de main en cas de questions. N'hésitez pas à me joindre au 0642459781 ou par [mail](mailto:thomas.wolff@cpcoop.fr) que ce soit pour réaliser une formation gratuite à l'usage de l'outil, pour faire ensemble à distance si vous rencontrez une difficulté, ou encore pour échanger. Vous n'êtes pas seuls! Encore bienvenue. 
 
 ## Conçu pour vous et avec vous ! Introdution. 
 
@@ -13,7 +13,17 @@
 * vous êtes le propriétaire de votre dépôt de fiches; vous avez le choix de qui peut contribuer directement sur vos fiches. Dans le cas inverse vous recevez un mail de proposition de modification. 
 * vous bénéficiez d'une mise en page travaillée et épurée pour vos ressources, qu'il s'agisse pour celles que vous avec publiées ou non
 
-## Méthode pas par pas pour créer un dépôt de fiches 
+## Méthode 1: formation gratuite via skype et on le fait ensemble
+
+Contactez moi pour qu'on se cale une formation de 30 à 45 mn: 
+* présentation du projet
+* aide dans le choix d'une licence si besoin
+* créer et configurer votre dépôt
+* créer votre première fiche
+
+Thomas Wolff, 0642459781, [mail](mailto:thomas.wolff@cpcoop.fr), skype: thomasbaotage
+
+## Méthode 2: je vais le faire moi même 
 
 ### 1ère étape: choisir une licence ouverte pour publier mes ressources
 
@@ -72,5 +82,4 @@ account: reseautransitionwb - c'est leur nom d'utilisateur
 repo: reseau_transition - c'est le nom du dépôt
 folder: contributions - c'est le nom du dossier où se trouvent les fiches
 
-### 5ème étape: il apparaît ! 
-
+### 5ème étape: il apparaît !
