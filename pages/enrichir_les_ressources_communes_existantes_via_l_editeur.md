@@ -1,14 +1,55 @@
-# Contribuer directement sur une fiche
+# Enrichir les ressources communes existantes via l'éditeur
 
-##Rappel 
+## Rappel 
 
-* Quiconque le veut peut creer un dossier contenant des fiches. Afin que tout le monde puisse en profiter, tout est publié sous des licences libres. 
-* Les dossiers contiennent vos fiches méthodes/outils/retours d'expériences/réflexions sur les démarches participatives/ gestion de projet.
-* Les dossiers peuvent être stockés sur multiBàO... ou pas! Vous pouvez écrire votre dossier avec vos fiches et l'héberger sur le web, on le connecte à multiBàO et votre dossier apparaîtra sur multiBàO. Si vous modifiez une fiche, elle sera automatiquement mise à jour sur multiBàO.
-* Tout le monde peut contribuer à toutes les fiches directement depuis multibao.org. 
-* En deux clics et un copier coller vous pouvez faire apparaître n'importe quelle fiche de multiBàO sur votre site... et ça prendra automatiquement la mise en page de votre site. 
+Vous pouvez enrichir/éditer les ressources directement depuis multibao.org. Si vous avez l'autorisation de modifier directement la ressource, la modification sera immédiate. Si non le propriétaire du dépôt recevra une notification lui proposant votre modification.
 
-> Amis formateurs/coachs/animateurs de réseaux non habitués au numérique, nous vous invitons à profiter de multiBàO pour découvrir et vous former à des nouveaux usages numériques qui vous seront bien utiles. Ce site peut être pour vous un véritable terrain d'apprentissage. 
+> sur chaque fiche de multibao.org, vous verrez apparaître un logo d'éditeur en haut à gauche de la page. Il en est de même sur cette fiche où vous trouverez l'éditeur en haut à gauche de la page avec le logo "stylet". 
+
+## Pré-requis 
+
+1. Il vous faut au minimum un compte http://github.com pour pouvoir contribuer. 
+
+2. Faire quelques efforts lorsque vous contribuez à la ressource. Pour l'écrire, on a utilisé un langage appelé *Markdown*. C'est plus simple que d'utiliser word ou oppenoffice. [Voici comment écrire en markdown](http://www.multibao.org/multibao/contributions/pages/documentation/apprendre_markdown.md)
+
+## Méthode 1: utiliser l'éditeur (onglet stylet en haut à gauche de l'écran)
+
+1. Lorsque vous êtes sur l'éditeur, il y a un bouton vert (en bas à droite) avec mentionné "autorize on github". Veuillez vous identifier avant de modifier la fiche.
+
+2. Enrichissez la ressource 
+
+3. Validez en cliquant sur "changes to save" 
+
+4. Indiquez en quelques mots / expressions les modifications que vous avez réalisé sur le document. Exemple "ajout retour d'expérience". 
+
+5. Cliquez sur "commit"
+
+## Méthode 2: utiliser github directement (onglet "chat" en haut à gauche de l'écran)
+
+1. Ouvrez la ressource en question
+
+2. Cliquez sur le logo de stylet avec lorsque vous le survolez la mention "edit this file"
+
+3. Enrichissez la ressource
+
+4. Allez en bas de page sous "Commit changes". Ajoutez une description de la modification réalisée comme par exemple "j'ai corrigé le format des titres". 
+
+5. Cliquez sur "commit" 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Un éditeur accessible depuis http://www.multibao.org sur chaque fiche
 
