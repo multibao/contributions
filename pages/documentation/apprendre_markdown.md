@@ -2,7 +2,7 @@
 
 Si vous venez sur cette ressource pour apprendre le langage Markdown, sautez le premier paragraphe. Bonne utilisation.
 
-## Je veux écrire / enrichir ma première fiche ! 
+## Je veux écrire / enrichir ma première fiche
 
 ça y est, j'ai eu mon accès [contributeur](https://github.com/multibao/documentation/blob/master/fiches/obtenir_donner_acces_contributeur.md), à moi la liberté ! Une proposition ? ;)
 
