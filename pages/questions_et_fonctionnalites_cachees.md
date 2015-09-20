@@ -12,7 +12,7 @@
 
 ## Fonctionnalités cachées 
 
-### Se servir de multiBàO comme viewer de mes autres ressources
+### Se servir de multiBàO comme viewer pour lire mes autres ressources
 
 La lecture sur multiBaO est propre, claire, épurée. 
 MultiBàO fonctionne comme une visionneuse, elle permet de lire des ressources en format Markdown stockées sous github.com
