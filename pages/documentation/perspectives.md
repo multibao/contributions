@@ -13,7 +13,7 @@ Le projet multiBàO est conçu de la manière suivante: nous produisons réguli�
 
 ## Etape 1: histoire de la construction d'un Bien Commun entre réseaux (2012, 2016)
 
-> Public cible: animateurs de réseaux, animateurs d'événements participatifs, membres de collectifs documentant sous des licences libres leurs savoir-faire et retours d'expériences sur les démarches participatives et la gestion de projet. Taille estimée du public cible: 80 (France et Belgique).
+> Public cible: animateurs de réseaux, animateurs d'événements participatifs, membres de collectifs documentant sous des licences libres leurs savoir-faire et retours d'expériences sur les démarches participatives et la gestion de projet. Taille estimée du public cible: 80 producteurs de données uniques (France et Belgique).
 
 ### Version 0: BàO (Boîte à Outils) (septembre 2012)
 
@@ -50,10 +50,24 @@ La version 0.5 enrichit la technologie Daktary et permet à tout utilisateur de 
 ### Versions suivantes : 
 
 * version 0.6 (en cours): mise à jour du code de la plateforme en EC6 pour que d'autres développeurs puissent rejoindre l'aventure et contribuer. 
-* version 0.7: mise en place d'un moteur de recherche pour les contributeurs. Mise en place de la gouvernance du bien commun multiBàO : les contributeurs sont partie prenante des prises de décisions stratégiques. Renforcement de la communauté. Des potentielles rencontres entre contributeurs peuvent enrichir les recettes et les liens. 
-* puis version 1.0: version stable. Ce faisant, nous avons réalisé entre plusieurs réseaux un bien commun stable, assis la gouvernance, et documenté la manière dont nous l'avons fait. La technologie est rendue accessible, libre, et peut être répliquée pour la construction d'autres biens communs. 
+* version 0.7 (fin 2015): mise en valeur des contributeurs
+* version 0.8 (février 2016) mise en place d'un moteur de recherche pour les contributeurs. Mise en place de la gouvernance du bien commun multiBàO : les contributeurs sont partie prenante des prises de décisions stratégiques. Renforcement de la communauté. Des potentielles rencontres entre contributeurs peuvent enrichir les recettes et les liens. 
 
+### La version 1.0: la version stable et répliquable! 
 
+Nous aurons réalisé entre plusieurs réseaux un bien commun stable, assis la gouvernance, et documenté la manière dont nous l'avons fait. La technologie est rendue accessible, libre, et peut être répliquée pour la construction d'autres biens communs. 
+
+## Etape 2: l'ouverture aux citoyens (2016)
+
+> Rendre accessible le bien commun. Public cible: citoyens ou structures portant des projets innovants et/ou de démarches participatives, équipes. 
+
+### Version 0.1 (mars 2016): permettre aux utilisateurs (pas forcément des contributeurs) de retrouver la ressource
+
+Mise en place d'un moteur de recherche spécifique permettant aux utilisateurs de retrouver la ressource avec leurs propres mots. La construction de ce moteur de recherche influencera beaucoup la facilité avec laquelles les utilisateurs trouveront la ressource adaptée à leur situation. 
+
+### Version 0.2: renvoyer vers des humains
+
+Mise en place d'un annuaire de compétences (qui contacter sur quelles questions, quelles sont les modalités de réponse, d'accompagnement, de formation), permettant à tout utilisateur de retrouver des practiciens. Les communautés de pratiques (listes de discussions, évenements, ... sont autant mises en avant). 
 
 
 
