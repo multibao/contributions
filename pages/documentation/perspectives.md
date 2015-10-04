@@ -59,15 +59,24 @@ Nous aurons réalisé entre plusieurs réseaux un bien commun stable, assis la g
 
 ## Etape 2: l'ouverture aux citoyens (2016)
 
+A ce jour (octobre 2015) , nous avons déjà plus de 300 ressources mises à disposition, issues du travail de plus d'une cinquantaine de réseaux. Une vingtaine de réseaux indépendants y mutualisent les données. Un bien commun à valoriser. 
+
 > Rendre accessible le bien commun. Public cible: citoyens ou structures portant des projets innovants et/ou de démarches participatives, équipes. 
 
-### Version 0.1 (mars 2016): permettre aux utilisateurs (pas forcément des contributeurs) de retrouver la ressource
+### Version 0.1 (mars 2016): retrouver la fiche ressource adaptée à ma demande 
 
 Mise en place d'un moteur de recherche spécifique permettant aux utilisateurs de retrouver la ressource avec leurs propres mots. La construction de ce moteur de recherche influencera beaucoup la facilité avec laquelles les utilisateurs trouveront la ressource adaptée à leur situation. 
 
-### Version 0.2: renvoyer vers des humains
+### Version 0.2: trouver le bon interlocuteur à qui poser la question, rejoindre des communautés de pratique
 
 Mise en place d'un annuaire de compétences (qui contacter sur quelles questions, quelles sont les modalités de réponse, d'accompagnement, de formation), permettant à tout utilisateur de retrouver des practiciens. Les communautés de pratiques (listes de discussions, évenements, ... sont autant mises en avant). 
+
+## Sources
+
+Rédigé par Thomas Wolff sous licence Creative Commons BY-SA, à la demande de Vincent Wattelet (Réseau transition Belgique). 
+
+
+
 
 
 
