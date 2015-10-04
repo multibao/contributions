@@ -71,6 +71,14 @@ Mise en place d'un moteur de recherche spécifique permettant aux utilisateurs d
 
 Mise en place d'un annuaire de compétences (qui contacter sur quelles questions, quelles sont les modalités de réponse, d'accompagnement, de formation), permettant à tout utilisateur de retrouver des practiciens. Les communautés de pratiques (listes de discussions, évenements, ... sont autant mises en avant). 
 
+## What next? 
+
+Difficile à savoir, on peut imaginer. Une communauté de contributeurs gouvernerait les données, qui seraient enrichis par la communauté. Les fiches mutualisées pourront apparaître à plusieurs endroits du web et bénéficieront du travail collaboratif. Des rencontres inatendues, entre contributeurs de communautés de pratiques différentes (ex: agilistes et chargés de concertation) pourront avoir lieu). Les lecteurs-non-contributeurs pourront trouver facilement la donnée, et entrer en lien avec des practiciens. Un bien commun vivant, enrichit, croissant, utilisé. 
+
+Et facilement répiquable pour d'autres projets, la technologie sera opensource et l'approche documentée.  
+
+So, what next? 
+
 ## Sources
 
 Rédigé par Thomas Wolff sous licence Creative Commons BY-SA, à la demande de Vincent Wattelet (Réseau transition Belgique). 
