@@ -82,10 +82,3 @@ So, what next?
 ## Sources
 
 Rédigé par Thomas Wolff sous licence Creative Commons BY-SA, à la demande de Vincent Wattelet (Réseau transition Belgique). 
-
-
-
-
-
-
-
