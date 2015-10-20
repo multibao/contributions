@@ -9,7 +9,7 @@
  * [Holacraty](http://www.multibao.org/holacracyone/Holacracy-Constitution) 
  * [D SIDD](http://www.multibao.org/multibao/contributions/contributions/d_sidd) 
  * [J.e.u.](http://www.multibao.org/multibao/contributions/contributions/jeu) 
- [Thomas Wolff - Perles de Gestion de Projets](http://www.multibao.org/wolffthomas/perles_gestion_projets/contributions ) 
+ * [Thomas Wolff - Perles de Gestion de Projets](http://www.multibao.org/wolffthomas/perles_gestion_projets/contributions ) 
  * [Travail en Réseau - Lilian Ricaud](http://www.multibao.org/lilianricaud/travail-en-reseau/)
  * [Minga - co-Création de Biens Communs](http://www.multibao.org/lilianricaud/minga/)
  
