@@ -55,7 +55,7 @@ daktary:
       repo: contributions
       folder: contributions/jeu
 
-    - label: TW
+    - label: Thomas Wolff
       account: wolffthomas
       repo: perles_gestion_projets
       folder: contributions
