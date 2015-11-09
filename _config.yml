@@ -65,7 +65,11 @@ daktary:
       repo: travail-en-reseau
       folder:
   
-
+    - label: Minga
+      account: lilianricaud
+      repo: Minga
+      folder:
+  
 
   dkCss: assets/css/multibao.css
   dkImgPath: assets/img
