@@ -69,6 +69,11 @@ daktary:
       account: lilianricaud
       repo: Minga
       folder:
+
+    - label: Coop-Tic
+      account: supagroflorac
+      repo: cooptic
+      folder: contributions
   
 
   dkCss: assets/css/multibao.css
