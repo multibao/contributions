@@ -12,6 +12,8 @@
  * [Thomas Wolff - Perles de Gestion de Projets](http://www.multibao.org/wolffthomas/perles_gestion_projets/contributions ) 
  * [Travail en Réseau - Lilian Ricaud](http://www.multibao.org/lilianricaud/travail-en-reseau/)
  * [Minga - co-Création de Biens Communs](http://www.multibao.org/lilianricaud/minga/)
+ * [CoopTIC]( http://www.multibao.org/supagroflorac/cooptic/contributions)
+
  
 ## Enrichissez la base de ressources
  
