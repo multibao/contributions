@@ -7,8 +7,15 @@ title: Contribution multibao
 ---
 
 # Atelier élaboration collective licences à réciprocité
-10 octobre 2015 9h - 13h - lors du Temps des Communs
-http://www.savoirscom1.info/2015/09/quelles-reciprocites-autour-des-communs/
+
+> 10 octobre 2015 9h - 13h - lors du Temps des Communs
+> http://www.savoirscom1.info/2015/09/quelles-reciprocites-autour-des-communs/
+
+![Communs](http://www.frituremag.info/IMG/png/tdc-e1423565174579.png)
+
+## Qu'est ce que ce document fait ici ? 
+
+> Il sédimente! Lors de cet atelier, il y a une prise de note collaborative sur [pad](https://mensuel.framapad.org/p/reciprocite_communs) par 9 individus, trouvé via le flux twitter de [@Sylvae](http://twitter.com/Sylvae) et de [@Romain_lalande](http://twitter.com/romain_lalande]. Seulement, avec 30 jours d'inactivité sur le pad, ce dernier est effacé. Afin d'éviter que vos notes ne soient perdues et soient correctement référencées pour qu'un utilisateur puisse les retrouver, je les ai déposées sur multiBàO. Le document est contributif. 
 
 ## Définition des communs (élaborée lors de la première édition du Temps des Communs) : 
 
