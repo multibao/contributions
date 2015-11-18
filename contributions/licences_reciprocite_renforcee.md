@@ -321,3 +321,8 @@ Entreprise de développement informatique : Si la production est libre : cout X.
 **Points communs:**
 * redistribution de quelque chose de potentiel
 * attention de ne pas acheter des enclosures. Label, fondations, etc.
+
+## Sources 
+
+* Atelier ["Quelles récriprocités autour des Communs"](http://www.savoirscom1.info/2015/09/quelles-reciprocites-autour-des-communs/), publié par [?], selon les termes de la licence [?]
+
