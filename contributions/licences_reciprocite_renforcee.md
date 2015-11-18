@@ -281,41 +281,36 @@ m'empêche de produits, mais j'enrichis un écosystème.
 
 #### Avec 
 
-Michel Bernand : interêt pour les Communs et travailler au Web comme Biens Communs. Dans la banque toute sa vie, et veut désormais travailler au e-commerce, au profit des Communs. Toutes les ressources par le biais d'une SCIC. Projet en phase de lancement (Web Solidaire) 
-Olivia Zarcate : Imagidroit : vulgarisation visuelle du droit. S'intéresse aux Communs parce que dans la démarche de vulgarisation, tout le monde doit avoir un accès libre à l'infrmation juridique. Toutes les productions sont sous CC http://imagidroit.fr  - difficultés à trouver un business model (EURL en train de transformation en association)
-Antoine Guichard : consultatn et conseil en projets collaboratifs - mechanismes pour favoriser la collaboration. 30 ans de travail en Antarctique. Travail sur la gestion collaborative des ressources. Utilisation de CC - peur (acteurs de 40 pays) : comment empêcher les autres de faire du profit avec ce que ce qui a été fait.
-Gilles Landenfant : Scrummaster (développeur informatique). Travail dans une boite pas forcément vertueuse, et se pose la question de vivre en ayant un revenu, mais en permettant la contribution. Intérêt pour les revenus de base, revenus monnaies libres
+* Michel Bernand : interêt pour les Communs et travailler au Web comme Biens Communs. Dans la banque toute sa vie, et veut désormais travailler au e-commerce, au profit des Communs. Toutes les ressources par le biais d'une SCIC. Projet en phase de lancement (Web Solidaire) 
+* Olivia Zarcate : Imagidroit : vulgarisation visuelle du droit. S'intéresse aux Communs parce que dans la démarche de vulgarisation, tout le monde doit avoir un accès libre à l'infrmation juridique. Toutes les productions sont sous CC http://imagidroit.fr  - difficultés à trouver un business model (EURL en train de transformation en association)
+* Antoine Guichard : consultatn et conseil en projets collaboratifs - mechanismes pour favoriser la collaboration. 30 ans de travail en Antarctique. Travail sur la gestion collaborative des ressources. Utilisation de CC - peur (acteurs de 40 pays) : comment empêcher les autres de faire du profit avec ce que ce qui a été fait.
+* Gilles Landenfant : Scrummaster (développeur informatique). Travail dans une boite pas forcément vertueuse, et se pose la question de vivre en ayant un revenu, mais en permettant la contribution. Intérêt pour les revenus de base, revenus monnaies libres
 Philippe Honigman - Ftopia.com : dropbox pour entreprise. Transformation en cours versune communauté ouverte.  Travail avec des freelances à l'international depuis longtemps. Volonté de trouver une distribution de la valeur. Vaporiser la structure et rémunérer les acteurs. Basé sur blockchain
 Backfeed : societé visant à travailler à la distribution de valeur - 
-Sybille Saingiron : représentante de P2Pfoundation France. Fondatrice et présidente de la fondation Valeureux. Développe du Commun (platefirme Weezer). Problématique : les gens s'éssouflent : comment reconnaitre le travail ?
+* Sybille Saingiron : représentante de P2Pfoundation France. Fondatrice et présidente de la fondation Valeureux. Développe du Commun (platefirme Weezer). Problématique : les gens s'éssouflent : comment reconnaitre le travail ?
 Cofondatrice d'un éco-village. Question de la redistribution en commun de cet actif
-Valérian Guillier : jeune chercheur
+* Valérian Guillier : jeune chercheur
 
-Question d'imagidroit
+### Question d'imagidroit
 
-Fondé en mai 2012 - licence CC-BY-NC-ND
+> Fondé en mai 2012 - licence CC-BY-NC-ND
 Pas eu les clients imaginés (avocats, notaires, services de RH). Ce sont des associations sur des problématiques mouvantes et en émergence pour faire un panneau d’exposition, des schémas pour illustrer une thèse. Circuits non-économique. Les notaires sont en train de se dire qu’il est intéressant d’avoir des ressources (parce qu’en train de disparaitre ?)
 Comment satisfaire les besoins quotidiens ?
 - Mission pour des associations rémunérées financièrement
 - Visibilité 
 - Beaucoup de richesse immatérielle produite (énorme décalage entre les workshops, les conférences avec presque pas de clients). Représente une valeur et un intérêt, mais qui ne reposait pas sur un chiffre d’affaire.
 
-Modèle économique : service (temps de réalisation). 
-
-Point clé : travail dédié à un cahier des charges du donneur d’ordre.
+* Modèle économique : service (temps de réalisation). 
+* Point clé : travail dédié à un cahier des charges du donneur d’ordre.
 
 fait penser à la paillasse : Call for hackers : service unique, avec une obligationde prendre les impératifs moraux existants
 Entreprise de développement informatique : Si la production est libre : cout X. Sinon, 1,5X
 
-Passage à l'association : parce que pas 
+* Passage à l'association : parce que pas 
+* BY-SA : produits dérivés => Ressource qui s'agrandit et on peut l'utiliser 
 
-BY-SA : produits dérivés => Ressource qui s'agrandit et on peut l'utiliser 
-
- 
-    Réciprocité : est-ce possible de produire et de consommer de façon anonyme ?
+## Conclusion
     
-    Conclusion
-    
-    Points communs. 
-    redistribution de quelque chose de potentiel
-    Attention de ne pas acheter des enclosures. Label, fondations, etc.
+**Points communs:**
+* redistribution de quelque chose de potentiel
+* attention de ne pas acheter des enclosures. Label, fondations, etc.
