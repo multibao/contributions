@@ -1,12 +1,4 @@
----
-author: ""
-description: null
-tags: null
-published: false
-title: Contribution multibao
----
-
-# Atelier élaboration collective licences à réciprocité
+# Atelier *Quelles réciprocités autour des communs?*
 
 > 10 octobre 2015 9h - 13h - lors du Temps des Communs
 > http://www.savoirscom1.info/2015/09/quelles-reciprocites-autour-des-communs/
