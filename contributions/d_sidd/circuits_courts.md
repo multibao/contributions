@@ -1,8 +1,16 @@
+---
+author: ""
+description: null
+tags: null
+published: false
+title: Contribution multibao
+---
+
 #Développer la vente directe et les circuits de proximité en biodiversité
 
 **Fiche réalisée par la Fédération Nationale d'Agriculture Biologique (FNAB)** **[1](#note)** **[2](#note)**
 
-![Circuits](http://farm4.staticflickr.com/3579/3469033801_f0375893c1_z.jpg)
+![Circuits](https://upload.wikimedia.org/wikipedia/commons/7/79/BikurimS.jpg)
 
 Courts circuits. Creative Commons BY-NC
 
