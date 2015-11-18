@@ -1,3 +1,11 @@
+---
+author: ""
+description: null
+tags: null
+published: false
+title: Contribution multibao
+---
+
 # Atelier *Quelles réciprocités autour des communs?*
 
 > 10 octobre 2015 9h - 13h - lors du Temps des Communs
@@ -7,7 +15,7 @@
 
 ## Qu'est ce que ce document fait ici ? 
 
-> Il sédimente! Lors de cet atelier, il y a une prise de note collaborative sur [pad](https://mensuel.framapad.org/p/reciprocite_communs) par 9 individus, trouvé via le flux twitter de [@Sylvae](http://twitter.com/Sylvae) et de [@Romain_lalande](http://twitter.com/romain_lalande). Seulement, avec 30 jours d'inactivité sur le pad, ce dernier est effacé. Afin d'éviter que vos notes ne soient perdues et soient correctement référencées pour qu'un utilisateur puisse les retrouver, je les ai déposées sur multiBàO. L'export en format markdown depuis frampad a été bien utile. La ressource numérique est contributive via l'onglet éditeur, visible sur cette même page. Aucune licence n'a été mentionnée sur le pad - si ce document avait vocation a juste accompagner la prise de note durant vos ateliers, merci de me le faire savoir pour que je supprime cette ressource. Bonne lecture. [Thomas W.](http://twitter.com/thom_wolff)
+> Il sédimente! Lors de cet atelier, il y a une prise de note collaborative sur [pad](https://mensuel.framapad.org/p/reciprocite_communs) par 9 individus, trouvé via le flux twitter de [@Sylvae](http://twitter.com/Sylvae) et de [@Romain_lalande](http://twitter.com/romain_lalande). Seulement, avec 30 jours d'inactivité sur le pad, ce dernier est effacé. Afin d'éviter que vos notes ne soient perdues et soient correctement référencées pour qu'un utilisateur puisse les retrouver, je les ai déposées sur multiBàO. L'export en format markdown depuis frampad a été bien utile. La ressource numérique est contributive via l'onglet éditeur, visible sur cette même page. Aucune licence n'a été mentionnée sur le pad; si ce document avait vocation a juste accompagner la prise de note durant vos ateliers merci de me le faire savoir pour que je supprime cette ressource. Bonne lecture. [Thomas W.](http://twitter.com/thom_wolff)
 
 ## Définition des communs (élaborée lors de la première édition du Temps des Communs) : 
 
@@ -282,8 +290,8 @@ m'empêche de produits, mais j'enrichis un écosystème.
 
 * Michel Bernand : interêt pour les Communs et travailler au Web comme Biens Communs. Dans la banque toute sa vie, et veut désormais travailler au e-commerce, au profit des Communs. Toutes les ressources par le biais d'une SCIC. Projet en phase de lancement (Web Solidaire) 
 * Olivia Zarcate : Imagidroit : vulgarisation visuelle du droit. S'intéresse aux Communs parce que dans la démarche de vulgarisation, tout le monde doit avoir un accès libre à l'infrmation juridique. Toutes les productions sont sous CC http://imagidroit.fr  - difficultés à trouver un business model (EURL en train de transformation en association)
-* Antoine Guichard : consultatn et conseil en projets collaboratifs - mechanismes pour favoriser la collaboration. 30 ans de travail en Antarctique. Travail sur la gestion collaborative des ressources. Utilisation de CC - peur (acteurs de 40 pays) : comment empêcher les autres de faire du profit avec ce que ce qui a été fait.
-* Gilles Landenfant : Scrummaster (développeur informatique). Travail dans une boite pas forcément vertueuse, et se pose la question de vivre en ayant un revenu, mais en permettant la contribution. Intérêt pour les revenus de base, revenus monnaies libres
+* Antoine Guichard : consultatn et conseil en projets collaboratifs - mecanismes pour favoriser la collaboration. 30 ans de travail en Antarctique. Travail sur la gestion collaborative des ressources. Utilisation de CC - peur (acteurs de 40 pays) : comment empêcher les autres de faire du profit avec ce que ce qui a été fait.
+* Gilles Landenfant : Scrummaster (développeur informatique). Se pose la question de vivre en ayant un revenu, mais en permettant la contribution. Intérêt pour les revenus de base, revenus monnaies libres
 Philippe Honigman - Ftopia.com : dropbox pour entreprise. Transformation en cours versune communauté ouverte.  Travail avec des freelances à l'international depuis longtemps. Volonté de trouver une distribution de la valeur. Vaporiser la structure et rémunérer les acteurs. Basé sur blockchain
 Backfeed : societé visant à travailler à la distribution de valeur - 
 * Sybille Saingiron : représentante de P2Pfoundation France. Fondatrice et présidente de la fondation Valeureux. Développe du Commun (platefirme Weezer). Problématique : les gens s'éssouflent : comment reconnaitre le travail ?
@@ -317,4 +325,3 @@ Entreprise de développement informatique : Si la production est libre : cout X.
 ## Sources 
 
 * Atelier ["Quelles récriprocités autour des Communs"](http://www.savoirscom1.info/2015/09/quelles-reciprocites-autour-des-communs/), publié par [?], selon les termes de la licence [?]
-
