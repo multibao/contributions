@@ -24,4 +24,4 @@ Vous avez publié un support de séminaire, une présentation, sous un format Ma
 
 > Vous avez la possibilité de faire apparaître n'importe quelle ressource de multibao sur votre site web. Cette dernière prendra automatiquement la mise en page de votre site. Si quelqu'un modifie la ressource, elle sera modifiée sur votre site ainsi que tous les sites faisant apparaître la ressource. 
 
-Cette technologie n'est pas liée spécialement aux ressources et peut être utilisée pour n'importe quelle ressource en format markdown présente sous github.com. Referez vous à la [documentation](http://www.multibao.org/multibao/contributions/pages/faire_apparaitre_et_synchroniser_les_ressources_avec_votre_site.md).
+Cette technologie n'est pas liée spécialement aux ressources et peut être utilisée pour n'importe quelle ressource en format markdown présente sous github.com. Référez vous à la [documentation](http://www.multibao.org/multibao/contributions/pages/faire_apparaitre_et_synchroniser_les_ressources_avec_votre_site.md).
