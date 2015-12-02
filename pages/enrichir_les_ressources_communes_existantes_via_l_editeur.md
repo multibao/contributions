@@ -21,7 +21,8 @@ Vous pouvez enrichir/éditer les ressources directement depuis multibao.org. Si 
 3. Validez en cliquant sur "changes to save".
 
 4. Indiquez en quelques mots / expressions les modifications que vous avez réalisé sur le document. Exemple "ajout retour d'expérience".
-Cliquez sur "commit".
+
+5. Cliquez sur "commit".
 
 
 ## Méthode 2: utiliser github directement (onglet "chat" en haut à gauche de l'écran)
