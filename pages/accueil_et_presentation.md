@@ -8,9 +8,9 @@ Bienvenue sur multiBàO, une technologie collaborative vous permettant de pleine
 
 ## C'est pour qui? 
 
-pour les animateurs de réseaux, formateurs, animateurs d'événements participatifs, collectifs, membres d'équipes, médiateurs numériques, bibliothécaires, collectifs, publiant de la documentation sur le "comment faire ensemble" ou la "gestion de projet"
+Pour les animateurs de réseaux, formateurs, animateurs d'événements participatifs, collectifs, membres d'équipes, médiateurs numériques, bibliothécaires, collectifs, publiant de la documentation sur le "comment faire ensemble" ou la "gestion de projet"
 
-> A l'aube cette version 0.5 de multibao.org, une vingtaine de réseaux producteurs de connaissance se sont déjà engagés à participer à la construction de ce bien commun que nous souhaitons durable. Comment faire ensemble, comment construire un projet? Si vous partagez cet intérêt et que vous souhaitez enrichir le patrimoine commun, je vous invite à contribuer - même si ce n'est qu'en corrigeant une faute de frappe d'un document ou en faisant part d'un retour d'expérience. L'intégralité des ressources visibles via multibao.org, ainsi que la technologie, vous sont à ce jour accessibles. Bonne utilisation. *Thomas Wolff*
+> A l'aube de cette version 0.5 de multibao.org, une vingtaine de réseaux producteurs de connaissance se sont déjà engagée à participer à la construction de ce bien commun que nous souhaitons durable. Comment faire ensemble, comment construire un projet? Si vous partagez cet intérêt et que vous souhaitez enrichir le patrimoine commun, je vous invite à contribuer - même si ce n'est qu'en corrigeant une faute de frappe d'un document ou en faisant part d'un retour d'expérience. L'intégralité des ressources visibles via multibao.org, ainsi que la technologie, vous sont à ce jour accessibles. Bonne utilisation. *Thomas Wolff*
 
 ## Comment ça marche? 
 
@@ -28,7 +28,7 @@ Vous pouvez être propriétaire d'un dépôt de fiches. Aucun dépôt n'est stoc
 
 ### Enrichir les ressources communes via l'éditeur
 
-Vous pouvez enrichir/éditer les ressources directement depuis multibao.org. Si vous avez l'autorisation de modifier directement la ressource, la modification sera immédiate. Si non le propriétaire du dépôt recevra une notification lui proposant votre modification. 
+Vous pouvez enrichir/éditer les ressources directement depuis multibao.org. Si vous avez l'autorisation de modifier directement la ressource, la modification sera immédiate. Sinon le propriétaire du dépôt recevra une notification lui proposant votre modification. 
 
 ## C'est par qui ?
 
@@ -42,7 +42,7 @@ Vous pouvez enrichir/éditer les ressources directement depuis multibao.org. Si 
 
 > Comment la plateforme a t-elle été financé? L'Europe a accepté de me donner 6200€ pour le financement de la plateforme, qui sont directement allés pour le développement de la version 0.1 et 0.2 de multibao.org par Scopyleft.fr. Pour le développement des versions suivantes (0.3 à 0.5), Stéphane de Scoypelft l'a réalisé bénévolement. Pour tout le reste (lancement, trouver les ressources, les contributeurs, les stagiaires, former les contributeurs, animer le réseaux, se déplacer dans le monde francophone, participer à des événements, ...) c'est bénévole.
 
-### Reseaux / individus contributeurs
+### Réseaux / individus contributeurs
 
 Je présenterai ici dans les prochains temps des portraits de contributeurs / réseaux participants. 
 
