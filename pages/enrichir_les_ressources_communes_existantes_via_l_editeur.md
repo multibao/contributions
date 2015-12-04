@@ -4,7 +4,7 @@
 
 Vous pouvez enrichir/éditer les ressources directement depuis multibao.org. Si vous avez l'autorisation de modifier directement la ressource, la modification sera immédiate. Si non le propriétaire du dépôt recevra une notification lui proposant votre modification.
 
-> sur chaque fiche de multibao.org, vous verrez apparaître un logo d'éditeur en haut à gauche de la page. Il en est de même sur cette fiche où vous trouverez l'éditeur en haut à gauche de la page avec le logo "stylet". 
+> sur chaque fiche de multibao.org, vous verrez apparaître un logo d'éditeur en haut à gauche de la page. Il en est de même sur cette fiche où vous trouverez l'éditeur en haut à gauche de la page avec le logo "stylet".
 
 ## Pré-requis 
 
@@ -14,11 +14,11 @@ Vous pouvez enrichir/éditer les ressources directement depuis multibao.org. Si 
 
 ## Méthode 1: utiliser l'éditeur (onglet stylet en haut à gauche de l'écran)
 
-1. Lorsque vous êtes sur l'éditeur, il y a un bouton vert (en bas à droite) avec mentionné "autorize on github". Veuillez vous identifier avant de modifier la fiche.
+1. Lorsque vous êtes sur l'éditeur, il y a un bouton vert (en bas à droite) avec mentionné "autorize on github". **Veuillez vous identifier avant de modifier la fiche**.
 
 2. Enrichissez la ressource.
 
-3. Validez en cliquant sur "changes to save".
+3. Validez en cliquant sur "changes to Save".
 
 4. Indiquez en quelques mots / expressions les modifications que vous avez réalisé sur le document. Exemple "ajout retour d'expérience".
 
