@@ -17,7 +17,7 @@
  
 ## Enrichissez la base de ressources
  
- *   [Creer et mutualiser un dossier de fiches](http://www.multibao.org/multibao/contributions/pages/creer_et_mutualiser_un_dossier_de_fiches.md)
+*   [Créer et mutualiser un dossier de fiches](http://www.multibao.org/multibao/contributions/pages/creer_et_mutualiser_un_dossier_de_fiches.md)
 *   [Enrichir les ressources communes existantes via l editeur](http://www.multibao.org/multibao/contributions/pages/enrichir_les_ressources_communes_existantes_via_l_editeur.md)
 
 ## Réutilisez les ressources
@@ -26,5 +26,5 @@
 
 ## A propos de MultiBaO
 
-* [Accueil et presentation](http://www.multibao.org/multibao/contributions/pages/accueil_et_presentation.md)
-*   [Questions et fonctionnalites cachees](http://www.multibao.org/multibao/contributions/pages/questions_et_fonctionnalites_cachees.md)
+* [Accueil et présentation](http://www.multibao.org/multibao/contributions/pages/accueil_et_presentation.md)
+*   [Questions et fonctionnalités cachées](http://www.multibao.org/multibao/contributions/pages/questions_et_fonctionnalites_cachees.md)
