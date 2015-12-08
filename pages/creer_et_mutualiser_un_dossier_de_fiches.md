@@ -69,7 +69,7 @@ Maintenant que c'est fait, je vous invite à [créer votre première fiche](http
 
 ### 2ème possibilité: je le fais moi même 
 
-Pour ce faire, il vous faut un accès contributeur à http://github.com/multibao. Vous pouvez demander n'importe quel contributeur existant de multiBaO. 
+Pour ce faire, il vous faut un accès contributeur à http://github.com/multibao. Vous pouvez demander à n'importe quel contributeur existant de multiBaO. 
 
 Connectez votre dépôt github à multiBàO
 * éditez le document suivant : https://github.com/multibao/contributions/blob/master/_config.yml en indiquant
