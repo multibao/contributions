@@ -12,7 +12,7 @@
 
 *Comment est-ce que je fais pour*
 
-* [obtenir ou donner un accès contributeur multiBàO](https://github.com/multibao/documentation/blob/master/fiches/obtenir_donner_acces_contributeur.md)
+* [obtenir ou donner un accès contributeur multiBàO](https://github.com/multibao/contributions/blob/master/pages/documentation/obtenir_donner_acces_contributeur.md)
 ?
 * [enrichir une fiche multiBàO](https://github.com/multibao/documentation/blob/master/fiches/enrichir_une_fiche.md)?
 * créer une fiche multiBàO?
