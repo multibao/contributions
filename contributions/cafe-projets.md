@@ -1,6 +1,8 @@
+# Café projets
+
 *Un texte repris du [document] écrit et par Julien Hivon, Co-fondateur Café-Projets, jhivon45@gmail.com* **Code source de Café-Projets**
 
-1Mieux comprendre le projet
+1 Mieux comprendre le projet
 ---------------------------
 
 ### L’origine du projet et son histoire
