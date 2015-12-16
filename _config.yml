@@ -75,7 +75,7 @@ daktary:
       repo: cooptic
       folder: contributions
   
-    - label: TempsCommun
+    - label: TempsCommuns
       account: tempsdescommuns
       repo: contributions
       folder: 
