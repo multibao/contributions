@@ -75,6 +75,11 @@ daktary:
       repo: cooptic
       folder: contributions
   
+    - label: TempsCommun
+      account: tempsdescommuns
+      repo: contributions
+      folder: 
+  
 
   dkCss: assets/css/multibao.css
   dkImgPath: assets/img
