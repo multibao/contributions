@@ -19,11 +19,6 @@ daktary:
       account: reseautransitionwb
       repo: reseau_transition
       folder: contributions
-      
-     - label: Ingrédients de Transition
-      account: reseautransitionwb
-      repo: reseau_transition
-      folder: contributions/Ingrédients
   
     - label: Démocratie Ouverte
       account: alecoz
