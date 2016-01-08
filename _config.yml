@@ -20,7 +20,7 @@ daktary:
       repo: reseau_transition
       folder: contributions
 
-    - label: Ingrédients de Transition
+    - label: Ingrédients Transition
       account: reseautransitionwb
       repo: reseau_transition
       folder: contributions/Ingrédients
@@ -40,7 +40,7 @@ daktary:
       repo: contributions
       folder: contributions/collectif_chiendent
   
-    - label: Les traducteurs agiles
+    - label: Traducteurs agiles
       account: les-traducteurs-agiles
       repo: les-traducteurs-agiles.github.io
       folder: _posts
