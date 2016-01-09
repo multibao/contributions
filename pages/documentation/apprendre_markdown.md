@@ -81,6 +81,7 @@ Framapic est un des nombreux services libres, sécurisés et gratuits de Framaso
 * inférieure ou égale à 640 px de largeur
 * privilégier des images "légères" pour que l'affichage des fiches soit facilité
 
+
 # Exercice 6:  insérer des notes 
 
 ### A l'endroit où on souhaite insérer la note
@@ -101,7 +102,7 @@ Par exemple à la fin de mon document je créer un paragraphe Source
 
 Dans lequel j'insère le code suivant : 
 
-\<a id="note"\> <a id="note">
+`<a id="note"> <a id="note">
 
 Puis les notes en question :
 
