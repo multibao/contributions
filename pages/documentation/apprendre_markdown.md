@@ -96,13 +96,19 @@ Exemple :
 
 ### A l'endroit où l'on veut que la note pointe
 
-Par exemple à la fin de mon document je créer un paragraphe Source
+Par exemple à la fin de mon document je créé un chapître "Sources", section dans laquelle je vais citer les différents auteurs, ouvrages...
+
+Pour créer le paragraphe: 
+
+##Sources
+
+j'indique donc:
 
 \#\# Sources
 
 Dans lequel j'insère le code suivant : 
 
-`<a id="note"> <a id="note">
+`<a id="note"> <a id="note">`
 
 Puis les notes en question :
 
