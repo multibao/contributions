@@ -3,8 +3,9 @@
 Bienvenue sur multiBàO, une technologie collaborative vous permettant de pleinement mutualiser et valoriser vos ressources sur le comment faire ensemble et la gestion de projet. 
 
 > http://www.multibao.org
-> Version actuelle: 0.5
+> Version actuelle: 0.6
 > Une présentation toujours à jour de multiBàO sur mon site, c'est [ici](http://www.multibao.org/multibao/contributions/pages/documentation/presentation.md)
+> Qu'elles sont les prochaines étapes du projet? Le tableau de suivi toujours à jour c'est par [ici](https://trello.com/multibao)
 
 ## C'est pour qui? 
 
