@@ -5,15 +5,15 @@ Bienvenue sur multiBàO, une technologie collaborative vous permettant de pleine
 > http://www.multibao.org
 > Version actuelle: 0.6
 > Une présentation toujours à jour de multiBàO sur mon site, c'est [ici](http://www.multibao.org/multibao/contributions/pages/documentation/presentation.md)
-> Qu'elles sont les prochaines étapes du projet? Le tableau de suivi toujours à jour c'est par [ici](https://trello.com/multibao)
+> Qu'elles sont les prochaines étapes du projet ? Le tableau de suivi toujours à jour c'est par [ici](https://trello.com/multibao)
 
-## C'est pour qui? 
+## C'est pour qui ?
 
 Pour les animateurs de réseaux, formateurs, animateurs d'événements participatifs, collectifs, membres d'équipes, médiateurs numériques, bibliothécaires, collectifs, publiant de la documentation sur le "comment faire ensemble" ou la "gestion de projet"
 
-> A l'aube de cette version 0.5 de multibao.org, une vingtaine de réseaux producteurs de connaissance se sont déjà engagée à participer à la construction de ce bien commun que nous souhaitons durable. Comment faire ensemble, comment construire un projet? Si vous partagez cet intérêt et que vous souhaitez enrichir le patrimoine commun, je vous invite à contribuer - même si ce n'est qu'en corrigeant une faute de frappe d'un document ou en faisant part d'un retour d'expérience. L'intégralité des ressources visibles via multibao.org, ainsi que la technologie, vous sont à ce jour accessibles. Bonne utilisation. *Thomas Wolff*
+> A l'aube de cette version 0.5 de multibao.org, une vingtaine de réseaux producteurs de connaissance se sont déjà engagée à participer à la construction de ce bien commun que nous souhaitons durable. Comment faire ensemble, comment construire un projet ? Si vous partagez cet intérêt et que vous souhaitez enrichir le patrimoine commun, je vous invite à contribuer - même si ce n'est qu'en corrigeant une faute de frappe d'un document ou en faisant part d'un retour d'expérience. L'intégralité des ressources visibles via multibao.org, ainsi que la technologie, vous sont à ce jour accessibles. Bonne utilisation. *Thomas Wolff*
 
-## Comment ça marche? 
+## Comment ça marche ? 
 
 ### Des licences ouvertes pour partager vos ressources et bénéficier de celles des autres
 
@@ -39,11 +39,11 @@ Vous pouvez enrichir/éditer les ressources directement depuis multibao.org. Si 
 
 * *Thomas Wolff*, initiateur et animateur bénévole du bien commun. Il se déplace en France et Belgique à la rencontre des contributeurs et en profite pour se former aux approches. Soutenu pour les déplacements/événements par l'association [Centre des pratiques de la coopération](http://cpcoop.fr) dont il est co-fondateur et par plusieurs écoles où il est enseignant. 
 
-* *Stéphane Langlois*, développeur agile de la technologie multibao.org et daktary. Soutenu par la [Scopyleft](http://scopyleft.fr) dont il est sociétaire coopératif, il code la plateforme. Ferru des approches *lean* et des nouveaux usages *numériques*, la technologie porte l'odeur de son professionnalisme. 
+* *Stéphane Langlois*, développeur Agile de la technologie multibao.org et daktary. Soutenue par la [Scopyleft](http://scopyleft.fr) dont il est sociétaire coopératif, il code la plateforme. Ferru des approches *lean* et des nouveaux usages *numériques*, la technologie porte l'odeur de son professionnalisme. 
 
-### Comment la plateforme a t-elle été financé? 
+### Comment la plateforme a t-elle été financée ? 
 
-Découvrez le étapes par étapes [ici](https://trello.com/multibao).
+Découvrez le étape par étape [ici](https://trello.com/multibao).
 
 ### Réseaux / individus contributeurs
 
