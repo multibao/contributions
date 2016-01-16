@@ -8,7 +8,7 @@ description: null
 
 ## En une phrase
 
-L'accélerateur de projet est une méthode faisant intervenir des pairs pour resoudre un probleme donné par un individu lors de la realisation d'un projet. **[1](#note)**
+L'accélérateur de projet est une méthode faisant intervenir des pairs pour résoudre un problème donné par un individu lors de la réalisation d'un projet. **[1](#note)**
 
 ![Lilian](http://ulule.me/presales/5/2/7/8725/imgp9222_JPG_640x860_q85.jpg) **[2](#note)** 
 
@@ -19,7 +19,7 @@ Elle est utilisée un peu différemment dans le cadre de l'analyse de pratique p
 
 ## Procédure
 
-Pour assurer le succès d’une telle démarche, il est important de s'approprie la méthode et de suivre les règles qui en découlent.
+Pour assurer le succès d’une telle démarche, il est important de s'approprier la méthode et de suivre les règles qui en découlent.
 
 Trois rôles devraient être assurés :
 
