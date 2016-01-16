@@ -3,8 +3,9 @@
 Bienvenue sur multiBàO, une technologie collaborative vous permettant de pleinement mutualiser et valoriser vos ressources sur le comment faire ensemble et la gestion de projet. 
 
 > http://www.multibao.org
-> Version actuelle: 0.5
+> Version actuelle: 0.6
 > Une présentation toujours à jour de multiBàO sur mon site, c'est [ici](http://www.multibao.org/multibao/contributions/pages/documentation/presentation.md)
+> Qu'elles sont les prochaines étapes du projet? Le tableau de suivi toujours à jour c'est par [ici](https://trello.com/multibao)
 
 ## C'est pour qui? 
 
@@ -40,7 +41,9 @@ Vous pouvez enrichir/éditer les ressources directement depuis multibao.org. Si 
 
 * *Stéphane Langlois*, développeur agile de la technologie multibao.org et daktary. Soutenu par la [Scopyleft](http://scopyleft.fr) dont il est sociétaire coopératif, il code la plateforme. Ferru des approches *lean* et des nouveaux usages *numériques*, la technologie porte l'odeur de son professionnalisme. 
 
-> Comment la plateforme a t-elle été financé? L'Europe a accepté de me donner 6200€ pour le financement de la plateforme, qui sont directement allés pour le développement de la version 0.1 et 0.2 de multibao.org par Scopyleft.fr. Pour le développement des versions suivantes (0.3 à 0.5), Stéphane de Scoypelft l'a réalisé bénévolement. Pour tout le reste (lancement, trouver les ressources, les contributeurs, les stagiaires, former les contributeurs, animer le réseaux, se déplacer dans le monde francophone, participer à des événements, ...) c'est bénévole.
+### Comment la plateforme a t-elle été financé? 
+
+Découvrez le étapes par étapes [ici](https://trello.com/multibao).
 
 ### Réseaux / individus contributeurs
 

@@ -50,7 +50,7 @@ daktary:
       repo: Holacracy-Constitution
       folder: 
 
-    - label: D SIDD
+    - label: DSIDD
       account: multibao
       repo: contributions/contributions
       folder: d_sidd
@@ -60,7 +60,7 @@ daktary:
       repo: contributions
       folder: contributions/jeu
 
-    - label: Thomas Wolff
+    - label: Thomas W.
       account: wolffthomas
       repo: perles_gestion_projets
       folder: contributions
