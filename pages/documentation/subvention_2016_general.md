@@ -8,7 +8,7 @@
 
 ##1 La description du projet jusqu'à là (synthétique)
 
-multiBàO.org (ou multi Boîte à Outils) est projet qui vise à rendre accessible et démocratiser des approches collaboratives porteuses d'espoir. 
+multiBàO.org (ou multi Boîte à Outils) est projet qui vise à rendre accessibles et démocratiser des approches collaboratives porteuses d'espoir. 
 
 Alors que dans le monde de l'enseignement apparaissent de nouvelles approches collaboratives favorisant parmis les élèves le sens critique et l'apprentissage de la co-construction, aparaissent dans les collectivités de nouvelles initiatives intégrant la participation citoyenne. 
 
@@ -24,6 +24,4 @@ La troisième étape (2016-2019) du projet vise à démocratiser les approches c
 * financer les opérations de communication liés au projet & financer les déplacements en vue de la solidification des partenariats stratégiques: https://trello.com/b/ISIRVbWW/strategie-et-planification-multibao
 * financer les opérations de communication / d'animation réalisées par les partenaires 
 
-Montant demandé: 45 000€ 
-
-
+Montant demandé: 45 000€
