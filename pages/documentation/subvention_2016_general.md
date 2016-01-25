@@ -18,8 +18,9 @@ La deuxième étape du projet (2016-2018) vise à rendre visible et enrichir les
 
 La troisième étape (2016-2019) du projet vise à démocratiser les approches collaboratives. Alors que jailli la mode du "Do It Yourself" ou "Faites le vous même", les plateformes de partage de trucs et astuces pour apprendre à faire  soi-même deviennent populaires et nombreuses (ex: www.instructables.com). De la même manière, il serait possible de confectionner une plateforme "Do It Together" et mieux encore que de centraliser: renvoyer celles et ceux qui déouvrent ces approches vers celles et ceux qui les pratiquent déjà. 
 
-##2 Ce pourquoi nous demandons une subvention (synthétique) 
+##2 Ce pourquoi nous demandons une subvention 
 
-
-
-##3 Plan de développement
+* financer les opérations de développement
+* financer les opérations de communication liés au projet 
+* financer les déplacements en vue de la solidification des partenariats stratégiques
+* financer les opérations de communication réalisées par les partenaires 
