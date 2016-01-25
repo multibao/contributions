@@ -1,8 +1,7 @@
-# Subvention multiBàO 2016 
+# Subvention multiBàO 2016 - Erasmus +
 
-> Un espace pour poser la vision multiBàO pour cette année et proposer aux institutions / fondations de financer le projet. Cette trame pourra servir pour plusieurs dossiers de demande de subvention à présent et pour l'avenir. 
-
-Les questions sont celles posées dans le dossier Erasmus +, dossier de subvention le "plus riche en questions" trouvé à ce jour çi, dossier que nous déposons. 
+> Bonjour à tous,
+cet espace est destiné à co-écrire le dossier de subvention Erasmus+, qui sera déposé fin mars 2016. Ce programme peut nous fournir à la fois les ressources pour financer le dévelopement web du projet, mais aussi actions dans des associations / universités (partenariat) pour disséminer les approches collaboratives porteuses d'espoir. Si vous souhaitez être partenaire du projet (et proposer des actions qui pourront peut être être financées dans le cadre de cette subvention), faites signe. Thomas.
 
 ## B. Contexte
 * Erasmus+
@@ -116,19 +115,3 @@ Soyez concis et clair et mentionnez au moins les éléments suivants : le contex
 En vue de futures publications sur la plateforme de dissémination Erasmus+, sachez qu'un résumé du projet accessible au public sera demandé lors du (des) rapport(s). Le paiement du solde de la subvention contractuelle sera lié à la disponibilité de ce résumé.
 
 Veuillez aussi fournir une traduction en anglais.
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
