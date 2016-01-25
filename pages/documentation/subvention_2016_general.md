@@ -24,3 +24,7 @@ La troisième étape (2016-2019) du projet vise à démocratiser les approches c
 * financer les opérations de communication liés au projet 
 * financer les déplacements en vue de la solidification des partenariats stratégiques
 * financer les opérations de communication réalisées par les partenaires 
+
+Montant demandé: 45 000€ 
+
+
