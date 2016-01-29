@@ -86,7 +86,6 @@ daktary:
       folder: 
 
 
-
   dkCss: assets/css/multibao.css
   dkImgPath: assets/img
   dk404: https://raw.githubusercontent.com/daktary/contribs/master/assets/img/error404.png
