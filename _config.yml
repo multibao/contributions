@@ -84,7 +84,11 @@ daktary:
       account: tempsdescommuns
       repo: contributions
       folder: 
-  
+
+   - label: Cre-sol
+      account: RomainLalande
+      repo: Cre-sol
+      folder: 
 
   dkCss: assets/css/multibao.css
   dkImgPath: assets/img
