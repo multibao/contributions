@@ -2,6 +2,10 @@
 
 > Via cette page, je propose que nous déposions les éléments minimalistes relatifs au financement de multiBàO. A nous d'y déposer ce vers quoi nous souhaitons aller. Des ateliers de travail à distance pourront avoir lieu. 
 
+---
+En écriture
+---
+
 **Quelques éléments de base**
 * http://multibao.org
 * [tableaux de suivi (stratégie, développement et financement multiBàO)](http://trello.com/multibao)
@@ -20,9 +24,56 @@ La troisième étape (2016-2019) du projet vise à démocratiser les approches c
 
 Bienvenue sur multiBàO. 
 
-##2 Ce pourquoi nous demandons une subvention 
+## Nous postulons à:
 
-* financer les opérations de développement: https://trello.com/b/mBLjqR4T/backlog-site-web
+A déposer à: 
+* Erasmus + (périmètre Européen)
+* Fondation Lunt (périmètre francophone)
+* Fondation de France > appel à projet démarches participatives (périmètre français)
+
+## Objectifs présentés (dossiers déposés pour actions sur 2 ans)
+
+Enrichir la connaissance par la construction d'un bien commun
+* favoriser le travail de mutualisation d'une trentaine de réseaux
+* valoriser numériquement leurs ressources
+
+Rendre accessible un patrimoine inédit 
+* des réseaux reconnus et producteurs de données de qualité 
+* statut juridique: licences libres 
+* une technologie pour soutenir le bien commun
+* un référencement sur-mesure
+ * playlists
+
+Inspirer de nouveaux usages (ou "enrichir et valoriser le patrimoine)
+
+* Auprès d'élus (démocratie participative) - Armel Le Coz  THC
+* Auprès d'enseignants - enseignement supérieur (pédagogie collaborative) - Thomas Wolff 
+* Auprès de porteurs de projets #associatifs #commons - Réseau transition Belgique
+* Auprès de structures de l'entreprenariat social - #Ticket for action 
+
+Un bien commun vraiment accessible
+* l'interopérabilité possible de multiBàO (ou l'utilisateur des API)
+* multiBàO comme opensource
+
+## Plan d'action 
+
+## Evaluation 
+
+
+
+
+
+
+
+* la consolidation et la réalisation de la technologie multibao.org -  https://trello.com/b/mBLjqR4T/backlog-site-web
+$
+
+
+
+
+
+
+
 * financer les opérations de communication liés au projet & financer les déplacements en vue de la solidification des partenariats stratégiques: https://trello.com/b/ISIRVbWW/strategie-et-planification-multibao
 * financer les opérations de communication / d'animation réalisées par les partenaires 
 
