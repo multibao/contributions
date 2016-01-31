@@ -2,9 +2,7 @@
 
 > Via cette page, je propose que nous déposions les éléments minimalistes relatifs au financement de multiBàO. A nous d'y déposer ce vers quoi nous souhaitons aller. Des ateliers de travail à distance pourront avoir lieu. 
 
----
-En écriture
----
+> Actuellement en écriture.
 
 **Quelques éléments de base**
 * http://multibao.org
