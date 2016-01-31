@@ -29,42 +29,36 @@ A déposer à:
 * Fondation Lunt (périmètre francophone)
 * Fondation de France > appel à projet démarches participatives (périmètre français)
 
-## Objectifs présentés (dossiers déposés pour actions sur 2 ans)
+## Objectifs (dossiers déposés pour actions sur 2 ans)
 
-Enrichir la connaissance par la construction d'un bien commun
-* favoriser le travail de mutualisation d'une trentaine de réseaux
-* valoriser numériquement leurs ressources
+### Rendre accessible un patrimoine inédit
 
-Rendre accessible un patrimoine inédit 
-* des réseaux reconnus et producteurs de données de qualité 
-* statut juridique: licences libres 
-* une technologie pour soutenir le bien commun
-* un référencement sur-mesure
- * playlists
+> Comment s'organiser pour trailler ensemble, comment favoriser le sens critique parmis des étudiants, quelle instance de démocratie est la plus adaptée pour répondre à un problème de territoire? En France, il m'arrive régulièrement d'entendre: "les relations humaines c'est compliqué". Ma grand-mère me disait "Ce qui est compliqué, c'est ce qu'on ne comprend pas encore". A mon tour, j'amenderai son observation par "Ce qui est compliqué, c'est ce dont à pas encore l'habitude". La première étape du projet multiBàO vise à produire un wikipedia sur la mise en oeuvre de démarches collaboratives. Pour ce faire, multiBàO s'est construit au plus proche des problématiques de ces producteurs de données et avec eux.
 
-Inspirer de nouveaux usages (ou "enrichir et valoriser le patrimoine)
+** Construire un bien commun avec des réseaux reconnus et producteurs de données de qualité ** 
+
+* Favoriser la mutualisation de ressources documentaires de qualité 
+* Favoriser la production de connaissances écrites
+* Inciter la production de ressources sous licences autorisant juridiquement la mutualisation et la réutilisation 
+
+** Rendre accessible un patrimoine inédit ** 
+
+* Numériquement: par un système de moteur de recherche couplé à des playlists / référencement
+* Numériquement: par la possibilité d'interoperabilité
+* Par les licences libres
+* Par l'utilisation des réseaux producteurs de données
+
+**Inspirer de nouveaux usages (ou "enrichir et valoriser le patrimoine")**
 
 * Auprès d'élus (démocratie participative) - Armel Le Coz  THC
-* Auprès d'enseignants - enseignement supérieur (pédagogie collaborative) - Thomas Wolff 
+* Auprès d'enseignants - enseignement supérieur (pédagogie collaborative) - Thomas Wolff CPCOOP
 * Auprès de porteurs de projets #associatifs #commons - Réseau transition Belgique
-* Auprès de structures de l'entreprenariat social - #Ticket for action 
-
-Un bien commun vraiment accessible
-* l'interopérabilité possible de multiBàO (ou l'utilisateur des API)
-* multiBàO comme opensource
-
-## Plan d'action 
-
-## Evaluation 
-
-
-
+* Auprès d'entrepreneurs sociaux - #Ticket for action 
 
 
 
 
 * la consolidation et la réalisation de la technologie multibao.org -  https://trello.com/b/mBLjqR4T/backlog-site-web
-$
 
 
 
