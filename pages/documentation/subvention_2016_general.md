@@ -16,7 +16,9 @@ Dans la première étape de ce projet (2014-2017), une trentaine de réseaux (as
 
 La deuxième étape du projet (2016-2018) vise à rendre accessible et enrichir les "bonnes pratiques" auprès d'un public praticien. Le monde enseignant, les médiateurs, les chargés de concertation et de démocratie participative, les animateurs de réseaux associatifs et institutionnels, les éducateurs et les facilitateurs sont particulièrement concernés. Cette étape vise à favoriser des échanges entre pairs et une montée en compétences, tout en enrichissant le patrimoine commun en retours d'expériences et amendements. 
 
-La troisième étape (2016-2019) du projet vise à démocratiser les approches collaboratives. Alors que jailli la mode du "Do It Yourself" ou "Faites le vous même", les plateformes de partage de trucs et astuces pour apprendre à faire  soi-même deviennent populaires et nombreuses (ex: www.instructables.com). De la même manière, il serait possible de confectionner une plateforme "Do It Together" et de montrer que "C'est possible de le faire, et voici la documentation et nos retours d'expériences". Et mieux encore que de centraliser: renvoyer celles et ceux qui découvrent ces approches vers celles et ceux qui les pratiquent déjà. 
+La troisième étape (2016-2019) du projet vise à démocratiser les approches collaboratives. Alors que jailli la mode du "Do It Yourself" ou "Faites le vous même", les plateformes de partage de trucs et astuces pour apprendre à faire  soi-même deviennent populaires et nombreuses (ex: www.instructables.com). De la même manière, il serait possible de confectionner une plateforme "Do It Together" et de montrer que "C'est possible de le faire, et voici comment". Et mieux encore que de centraliser: renvoyer celles et ceux qui découvrent ces approches vers celles et ceux qui les pratiquent déjà. 
+
+Bienvenue sur multiBàO. 
 
 ##2 Ce pourquoi nous demandons une subvention 
 
