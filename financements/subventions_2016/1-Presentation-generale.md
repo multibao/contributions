@@ -1,10 +1,8 @@
 # Présentation de multiBàO
 
-> Ce document est utilisé pour la co-écriture des dossiers de subventions 2016, à savoir *Erasmus+*, *fondation Lunt* et *fondation de France*. Ce document est modifiable directement par tous les contributeurs multiBàO. A celles et ceux qui souhaiteraient contribuer, n'hésitez pas à me contacter au 06 42 45 97 81 ou par [mail](mailto:thomas.wolff@cpcoop.fr) pour proposer votre aide. Ce bien commun et son avenir dépendent de ce que nous en faisons. Merci à tous les réseaux contributeurs pour l'aide et le soutien accordé jusqu'à là, au plaisir de faire vivre ce patrimoine ensemble. Thomas Wolff
-
 ## Besoins: 
 
-* de mise en forme du texte / mise en valeur des phrases
+* mise en forme du texte / mise en valeur des phrases / accentuation de la vision
 * relecture
 * autre: proposez
 
