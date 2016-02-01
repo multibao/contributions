@@ -1,5 +1,10 @@
 # Objectifs 
 
+###Besoins: 
+
+* aide à la reécriture en language "formel" des objectifs
+* ajouts d'objectifs si oubli
+
 ### Objectif I - Construire un bien commun avec des réseaux reconnus et producteurs de données de qualité
 
 ### Objectif I.I - Favoriser la mutualisation de ressources documentaires de qualité
