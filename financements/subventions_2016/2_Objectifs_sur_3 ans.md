@@ -36,4 +36,3 @@
 * Action: sensibiliser les enseignants (enseignement supérieur) à la pédagogie - Thomas Wolff - CPCOOP, Pôle Sup, Cési
 * Action: sensibiliser les animateurs de réseaux associatifs - I4P? & Réseau transition Belgique
 * Action: sensibiliser les entrepreneux sociaux en démarrage  - #Ticket for action
-
