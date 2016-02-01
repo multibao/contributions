@@ -28,12 +28,14 @@
 * Action: inviter la réutilisation des ressources dans d'autres projets (interopérabilité)
 * Action: favoriser l'intégration de contenus dans les sites webs
 * Action: mise en place d'une stratégie de communication
+* Action: mise en place d'une campagne de communication numérique
 
-### Objectifs II.II - Rendre accessible par des événements ce patrimoine commun et inspirer de nouveaux usages 
+### Objectifs II.II - Rendre accessible ce patrimoine commun et inspirer de nouveaux usages par la mise en place d'opérations de sensibilisation / communication
 
-* Auprès d'élus (démocratie participative) - Armel Le Coz  THC
-* Auprès d'enseignants - enseignement supérieur (pédagogie collaborative) - Thomas Wolff CPCOOP
-* Auprès de porteurs de projets #associatifs #commons - Réseau transition Belgique
-* Auprès d'entrepreneurs sociaux - #Ticket for action
+* Action: sensibliser les élus aux questions de participation citoyenne - Armel Le Coz - THC, Démocratie Ouverte
+* Action: sensibiliser les enseignants (enseignement supérieurs) à la pédagogie - Thomas Wolff - CPCOOP, Pôle Sup, Cési
+* Action: sensibiliser les animateurs de réseaux associatifs - I4P? & Réseau transition Belgique
+* Action: sensibiliser les entrepreneux sociaux en démarrage  - #Ticket for action
+
 
 
