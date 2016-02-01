@@ -42,7 +42,8 @@
 * Action B5: favoriser l'intégration de contenus dans les sites webs (2015-2017) 
 * Action B6: favoriser la réplication et la diffusion des jeux de données (2017-2018)  
 * Action A3: inciter la production de ressources sous licences autorisant juridiquement la mutualisation et la réutilisation des contenus (2015-2018)
-* Action A5 : mise en place d'une campagne de communication numérique (2016-2018)
+* Action A5 : renvoyer les lecteurs vers les praticiens ou les communautés de pratiques (2017)
+* Action A6 : mise en place d'une campagne de communication numérique (2016-2018)
 
 ### Objectifs II.II - Rendre accessible ce patrimoine commun et inspirer de nouveaux usages par la mise en place d'opérations de sensibilisation / communication (2016-2017)
 
