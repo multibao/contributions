@@ -46,6 +46,8 @@
 
 **Section relative au dossier Erasmus + relatif aux partenariats stratégiques**
 
+> Les structures porteuses favorisent la dissémination de bonnes pratiques et enrichissent le patrimoine commun. 
+
 * Action C1: favoriser des structures territoriales impliquant les citoyens - sensibilisation auprès d'élus - Armel Le Coz - THC, Démocratie Ouverte
 * Action C2: sensibiliser les animateurs de réseaux associatifs - I4P? & Réseau transition Belgique
 * Action C3: diffuser auprès des citoyens des vidéos valorisant les initiatives citoyennes - Onpasseàlacte
