@@ -3,7 +3,7 @@
 ###Besoins: 
 
 * aide à la reécriture en language "formel" des objectifs
-* ajouts d'objectifs si oubli
+* ajouts d'objectifs si oubliés
 
 ### Objectif I - Construire un bien commun avec des réseaux reconnus et producteurs de données de qualité
 
