@@ -28,7 +28,6 @@
 * Action: développement technologique multiBàO.org, favoriser la réappropriation et l'enrichissement des contenus
 * Action: inviter la réutilisation des ressources dans d'autres projets (interopérabilité)
 * Action: favoriser l'intégration de contenus dans les sites webs
-* Action: mise en place d'une stratégie de communication
 * Action: mise en place d'une campagne de communication numérique
 
 ### Objectifs II.II - Rendre accessible ce patrimoine commun et inspirer de nouveaux usages par la mise en place d'opérations de sensibilisation / communication
