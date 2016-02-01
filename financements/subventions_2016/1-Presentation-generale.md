@@ -1,12 +1,12 @@
 # Présentation de multiBàO
 
-## Besoins: 
+## Besoins
 
 * mise en forme du texte / mise en valeur des phrases / accentuation de la vision
 * relecture
 * autre: proposez
 
-## Présentation de multiBàO (FR) dans les dossiers de demande de subvention (général)
+## Présentation de multiBàO (FR) dans les dossiers de demande de subvention
 
 multiBàO.org (ou multi Boîte à Outils) est un projet qui visant à rendre accessible et démocratiser des approches collaboratives porteuses d'espoir. 
 
