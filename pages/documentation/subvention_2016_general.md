@@ -4,8 +4,6 @@
 
 > Actuellement en écriture.
 
-> Actuellement en écriture.
-
 **Quelques éléments de base**
 * http://multibao.org
 * [tableaux de suivi (stratégie, développement et financement multiBàO)](http://trello.com/multibao)
