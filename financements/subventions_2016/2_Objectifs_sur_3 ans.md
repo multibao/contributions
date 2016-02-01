@@ -7,33 +7,33 @@
 * ajouts d'objectifs si oubliés
 * validation de partenariats (pour le dossier Erasmus +: voir la section Objectifs II.II)
 
-### Objectif I - Bâtir un bien commun durable entre réseaux 
+### Objectif I - Bâtir un bien commun durable entre réseaux (2014-2018)
 
 **Définitions relatives à la compréhension de l'objectif**
 * **Bien commun**: patrimoine bénéficiant à une ou plusieurs communautés
 * **Réseaux**: structures associatives, entreprenariales, institutionnelles ou collectifs de structures. Sur multiBàO se côtoient des structures à la fois institutionnelles (ex: Université de Bordeaux), associatives (ex: Réseau transition Belgique) et entreprenariales (ex: Scopyleft). Des communautés de pratiques (ex: AnimFr) sont aussi impliquées.
 * **Ressources**: ressources numériques ou papier, publiées sous la forme de documentations écrites ou de vidéos. La plateforme multiBàO.org est composée de ressources numériques présentées sous la forme de fiches méthodologiques et de témoignages (retours d'expériences, interviews filmés)
 
-### Objectif I.I - Favoriser la mutualisation inter-réseaux de ressources de qualité
+### Objectif I.I - Favoriser la mutualisation inter-réseaux de ressources de qualité (2014-2018) 
 
 * Action A1: entretenir et consolider les relations diplomatiques entre réseaux
 * Action A2: conseiller et accompagner les contributeurs dans l'écriture de leurs savoir-faire
 * Action B1: consolider la technologie multiBàO.org dans ses capacités à favoriser la documentation inter-réseaux
 * Action B2: consolider la technologie multiBàO dans sa capacité à se connecter à d'autres supports
 
-### Ojectif I.II - Assurer la durabilité des ressources
+### Ojectif I.II - Assurer la durabilité des ressources (2016-2018)
 
 * Action A1: entretenir et consolider les relations diplomatiques entre réseaux
 * Action A3: inciter la production de ressources sous licences autorisant juridiquement la mutualisation et la réutilisation des contenus
 * Action B6: favoriser la réplication et la diffusion des jeux de données
 
-### Objectif II - Trouver et documenter des pratiques fortes porteuses d'espoir
+### Objectif II - Trouver et documenter des pratiques fortes porteuses d'espoir (2015-2018)
 
 * Action A2: conseiller et accompagner les contributeurs dans la valorisation de leurs savoir-faire
 * Action A3: inciter la production de ressources sous licences autorisant juridiquement la mutualisation et la réutilisation des contenus
 * Action A4: rencontrer des réseaux reconnus n'ayant pas encore documenté leurs pratiques collaboratives
 
-### Objectif II - Rendre accessible aux citoyens ce patrimoine commun et inspirer de nouveaux usages
+### Objectif II - Rendre accessible aux citoyens ce patrimoine commun et inspirer de nouveaux usages (2016-2018)
 
 ### Objectif II.I - Rendre accessible numériquement ce patrimoine commun et inspirer de nouveaux usages
 
