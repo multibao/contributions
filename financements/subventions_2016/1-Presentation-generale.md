@@ -8,7 +8,7 @@
 
 ## Présentation de multiBàO (FR) dans les dossiers de demande de subvention
 
-*multiBàO.org*(ou multi Boîte à Outils) est un projet qui visant à rendre accessible et démocratiser des approches collaboratives porteuses d'espoir. 
+*multiBàO.org* (ou *multi Boîte à Outils*) est un projet qui visant à rendre accessible et démocratiser des approches collaboratives porteuses d'espoir. 
 
 L'essor  des approches collaboratives cette dernière décennie semble répondre de toutes part au sentiment de fragilité du monde et des sociétés dans lesquelles nous nous trouvons; et ceci tant du point de vue géopolitique qu'au niveau de la stabilité de la démocratie ou encore de la durabilité des ressources. Participation citoyenne, réseaux collaboratifs, mouvance pair à pair, financement participatif, écriture collective de communs,..., semblent être quelques réponses porteuses d'espoir. L'apprentissage du "vivre ensemble" et du respect mutuel, du sens ritique, de notre capacité à résoudre collaborativement des problèmes, à innover, à assurer durablement la paix sur les territoires sont-ils des options pour l'avenir? Comment favoriser de telles pratiques? 
 
