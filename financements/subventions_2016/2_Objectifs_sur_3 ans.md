@@ -34,9 +34,7 @@
 ### Objectifs II.II - Rendre accessible ce patrimoine commun et inspirer de nouveaux usages par la mise en place d'opérations de sensibilisation / communication
 
 * Action: sensibliser les élus aux questions de participation citoyenne - Armel Le Coz - THC, Démocratie Ouverte
-* Action: sensibiliser les enseignants (enseignement supérieurs) à la pédagogie - Thomas Wolff - CPCOOP, Pôle Sup, Cési
+* Action: sensibiliser les enseignants (enseignement supérieur) à la pédagogie - Thomas Wolff - CPCOOP, Pôle Sup, Cési
 * Action: sensibiliser les animateurs de réseaux associatifs - I4P? & Réseau transition Belgique
 * Action: sensibiliser les entrepreneux sociaux en démarrage  - #Ticket for action
-
-
 
