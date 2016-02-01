@@ -2,9 +2,9 @@
 
 ### Besoins: 
 
+* rencontrer les principaux contributeurs pour acter avec eux les objectifs
 * aide à la reécriture en language "formel" des objectifs et des actions
-* validation de partenariats
- * pour le dossier Erasmus +: voir la section Objectifs II.II
+* validation de partenariats (pour le dossier Erasmus +: voir la section Objectifs II.II)
 * ajouts d'objectifs si oubliés
 
 ### Objectif I - Bâtir un bien commun durable entre réseaux 
