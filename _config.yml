@@ -90,6 +90,11 @@ daktary:
       repo: Cre-sol
       folder: 
 
+    - label: EduTech
+      account: multibao
+      repo: contributions
+      folder: contributions/edutech
+
 
   dkCss: assets/css/multibao.css
   dkImgPath: assets/img
