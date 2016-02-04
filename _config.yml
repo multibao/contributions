@@ -95,6 +95,11 @@ daktary:
       repo: contributions
       folder: contributions/edutech
 
+    - label: Onpassealacte
+      account: onpassealacte
+      repo: videos_initiatives
+      folder: 
+
 
   dkCss: assets/css/multibao.css
   dkImgPath: assets/img
