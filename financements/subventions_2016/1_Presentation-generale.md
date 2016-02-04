@@ -2,8 +2,9 @@
 
 ## Besoins
 
+* faire acter par les réseaux contributeurs: 8 / 13 (en cours, pas d'objections en prévision)
 * mise en forme du texte / mise en valeur des phrases / accentuation de la vision
-* relecture
+* relecture : ☑
 * autre: proposez
 
 ## Présentation de multiBàO (FR) dans les dossiers de demande de subvention
