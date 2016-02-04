@@ -1,6 +1,6 @@
 # Présentation de multiBàO 
 
-> Cette vision est partagée et actée par les principaux contributeurs au projet.
+> Cette vision est partagée et actée par les principaux contributeurs au projet. 
 
 *[multiBàO.org](http://multibao.org)* (ou *multi Boîte à Outils*) est un projet visant à rendre accessible et démocratiser des approches collaboratives porteuses d'espoir. 
 
