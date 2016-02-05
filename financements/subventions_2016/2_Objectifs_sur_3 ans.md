@@ -35,6 +35,11 @@
 
 ### Objectif II - Rendre accessible ce patrimoine commun et inspirer de nouveaux usages (2016-2018)
 
+* aux institutions
+* aux entreprises
+* aux associations
+* aux citoyens
+
 ### Objectif II.I - Rendre accessible numériquement ce patrimoine commun et inspirer de nouveaux usages (2016-2018)
 
 * Action  B3: développement technologique multiBàO.org, référencement et adaptation au lecteur (2016-2017) 
