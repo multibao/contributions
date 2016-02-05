@@ -33,7 +33,7 @@
 * Action A3: inciter la production de ressources sous licences autorisant juridiquement la mutualisation et la réutilisation des contenus (2015-2018)  
 * Action A4: rencontrer des réseaux reconnus n'ayant pas encore documenté leurs pratiques collaboratives (2016-2018)  
 
-### Objectif II - Rendre accessible aux citoyens ce patrimoine commun et inspirer de nouveaux usages (2016-2018)
+### Objectif II - Rendre accessible ce patrimoine commun et inspirer de nouveaux usages (2016-2018)
 
 ### Objectif II.I - Rendre accessible numériquement ce patrimoine commun et inspirer de nouveaux usages (2016-2018)
 
