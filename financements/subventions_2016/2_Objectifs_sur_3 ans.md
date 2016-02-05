@@ -1,6 +1,6 @@
 # Objectifs 
 
-### Besoins: 
+### Besoins
 
 * rencontrer les principaux contributeurs pour acter avec eux les objectifs 
 * aide à la reécriture en language "formel" des objectifs et des actions
