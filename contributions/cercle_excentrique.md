@@ -1,3 +1,11 @@
+---
+author: ""
+description: null
+tags: null
+published: false
+title: Contribution multibao
+---
+
 # Cercle excentrique / Fish Bowl
 
 ## En une phrase
@@ -8,8 +16,7 @@ La démarche du cercle exentrique, aussi appelé "Fish Bowl" (bocal à poisson) 
 
 * Favoriser l'écoute dans un groupe 
 * Impliquer un grand groupe dans la discussion d'un petit groupe
-* Conférences/ateliers/débats avec "experts"
-* Conférences/ateliers/débats avec citoyens **[3](#note)** 
+* Assoir une ambiance "tourner la langue trois fois dans sa bouche avant de prendre la parole" **[3](#note)** 
 
 ![Cercle excentrique](https://framapic.org/bYqtCGoCFWn6/hReXAEGg) **[4](#note)**
 
