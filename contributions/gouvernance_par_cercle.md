@@ -1,9 +1,3 @@
----
-published: false
-title: Contribution multibao
-description: null
----
-
 # Gouvernance / organisations en cercle
 
 ![Gouvernance](http://farm6.staticflickr.com/5444/7222403994_6c71f06cb7_z.jpg) 
