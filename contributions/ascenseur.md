@@ -1,9 +1,3 @@
----
-published: false
-title: Ascenseur
-author: ""
-description: null
----
 # Technique de l'Ascenseur 
 
 ## A quoi ça sert ? 
