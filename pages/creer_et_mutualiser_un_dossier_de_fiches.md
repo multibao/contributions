@@ -2,7 +2,7 @@
 
 > Bienvenue. Je m'appelle Thomas Wolff et suis là pour vous accueillir et vous filer un coup de main en cas de questions. N'hésitez pas à me joindre au 0642459781 ou par [mail](mailto:thomas.wolff@cpcoop.fr) que ce soit pour réaliser une formation gratuite à l'usage de l'outil, pour faire ensemble à distance si vous rencontrez une difficulté, ou encore pour échanger. Vous n'êtes pas seuls! Encore bienvenue. 
 
-## Conçu pour vous et avec vous ! Introduction. 
+## Conçu pour vous et avec vous ! - Introduction
 
 > Avant de concevoir multiBàO, j'ai rencontré avec Fanny Monod une quarantaine de producteurs de données sur le faire ensemble et la gestion de projets. Nous nous sommes intéressés à leurs problématiques de contributeurs pour lesquelles il n'y avait pas d'alternatives vraiment satisfaisantes. Le projet multiBàO a été conçu spécifiquement pour y répondre. Voici quelques propositions que nous faisons à celles et ceux qui créent un dossier de fiches, laissez moi vous en présenter quelques unes:
 
