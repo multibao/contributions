@@ -50,13 +50,18 @@
 * Action A5 : renvoyer les lecteurs vers les praticiens ou les communautés de pratiques (2017)
 * Action A6 : mise en place d'une campagne de communication numérique (2016-2018)
 
-### Objectifs II.II - Rendre accessible ce patrimoine commun et inspirer de nouveaux usages par la mise en place d'opérations de sensibilisation / communication (2016-2017)
+### Objectifs II.II - Rendre accessible ce patrimoine commun et inspirer de nouveaux usages par la mise de (2016-2017)
 
 **Section relative au dossier Erasmus + relatif aux partenariats stratégiques**
 
 > Les structures porteuses favorisent la dissémination de bonnes pratiques et enrichissent le patrimoine commun. 
 
-* Action C1: favoriser des structures territoriales impliquant les citoyens - sensibilisation auprès d'élus - Armel Le Coz - THC, Démocratie Ouverte
-* Action C2: sensibiliser les animateurs de réseaux associatifs - I4P? & Réseau transition Belgique
-* Action C3: diffuser auprès des citoyens des vidéos valorisant les initiatives citoyennes - Onpasseàlacte
-* Action C4: sensibiliser les entrepreneux sociaux en démarrage  - Ticket for action
+* Action 1: mise en place de [Mingas](http://www.multibao.org/lilianricaud/Minga/Minga.md) pour l'enrichissement collaboratif du bien commun
+* Action 2: mise en place de [Traducthons](http://www.multibao.org/lilianricaud/Minga/Traducthon.md) 
+* Action 2: mise en place d'[InstallParty](https://fr.wikipedia.org/wiki/Install_party) pour la mise en place de boîtes à outils propres à une communauté locale 
+
+### Partenaires 
+
+* Mingas: Réseau transition BE / CPCOOP / Ticket 4 Action / Villière Billère
+* Traducthon: Réseau transition BE
+* Install party: tous
