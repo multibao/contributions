@@ -2,7 +2,7 @@
 
 ## Besoins
 
-* faire acter par les réseaux contributeurs: 8 / 13 (en cours, pas d'objections en prévision)
+* échanger avec les réseaux contributeurs: 11 / 13 contactés, 11 / 13 ayant acté cette vision
 * mise en forme du texte / mise en valeur des phrases / accentuation de la vision
 * relecture : ☑
 * autre: proposez
