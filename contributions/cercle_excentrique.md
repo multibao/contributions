@@ -1,3 +1,11 @@
+---
+author: ""
+description: null
+tags: null
+published: false
+title: Contribution multibao
+---
+
 # Cercle excentrique / Fish Bowl
 
 ## En une phrase
@@ -32,7 +40,8 @@ Lorsque les personnes qui se trouvent au centre de la discussion sont des foncti
 
 Bien que l'ensemble de la discussion se structure toute seule, une fois lancée elle bénéficie de la présence d'un animateur ou d'un modérateur. Le plus souvent, le cercle excentrique fait partie d'un débat plus ample. **[1](#note)** 
 
-## Mise en place:
+## Mise en place
+
 Comment implanter un processus de cercle excentrique:
 1. Analyser la pertinence de cette technique par rapport aux objectifs de l'événement.
 2. Obtenir l'accord des organisateurs de l'événement pour mettre en œuvre un bowl fish.
@@ -45,7 +54,8 @@ Microphones si nécessaire
 Chevalets ou du papier sur les murs pour l'enregistrement écrite ou graphique des idées clés est parfois utile **[1](#note)** 
 
 
-### Détails:
+### Détails
+
 *  2 types : open circle (conférence ouverte = OC) & closed circle (conférence fermée = CC).  Dans un OC, une chaise reste vide. Dans un CC, toutes les chaises sont remplies. L'animateur présente le sujet, et les participants commencent à discuter du sujet. 
 *  Le public en dehors du cercle de parole écoute la discussion. Dans un OC, tout membre du public peut, à tout moment, occuper la chaise vide et rejoindre le cercle de parole. Lorsque cela se produit, un membre existant du cercle de parole doit quitter volontairement le cercle de parole et une chaise devient libre. La discussion continue avec la possibilité pour les participants d'entrer et quitter le cercle. 
 *  Selon la taille de votre auditoire, vous pouvez avoir beaucoup de spectateurs qui passent un certain temps dans le cercle de parole et qui prennent part à la discussion. Quand le temps vient à manquer, le cercle de parole est fermé et l'animateur résume la discussion.
