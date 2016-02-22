@@ -1,55 +1,27 @@
 # une multi Boîte à Outils (multiBàO)
 
-# une multi Boîte à Outils (multiBàO)
-
-Bienvenue sur multiBàO, une technologie collaborative vous permettant de pleinement mutualiser et valoriser vos ressources sur le comment faire ensemble et la gestion de projet. 
+Bienvenue sur multiBàO.org, une technologie collaborative vous permettant de pleinement mutualiser et valoriser vos pratiques collaboratives avec les autres réseaux. 
 
 > http://www.multibao.org
-> Version actuelle: 0.6
+> Version actuelle: 0.8
 > Une présentation toujours à jour de multiBàO sur mon site, c'est [ici](http://www.multibao.org/multibao/contributions/pages/documentation/presentation.md)
 > Qu'elles sont les prochaines étapes du projet ? Le tableau de suivi toujours à jour c'est par [ici](https://trello.com/multibao)
 
-## C'est pour qui ?
+## Présentation
 
-Pour les animateurs de réseaux, formateurs, animateurs d'événements participatifs, collectifs, membres d'équipes, médiateurs numériques, bibliothécaires, collectifs, publiant de la documentation sur le "comment faire ensemble" ou la "gestion de projet"
+Version actée par 13 réseaux contributeurs au 15 février 2015. 
 
-> A l'aube de cette version 0.5 de multibao.org, une vingtaine de réseaux producteurs de connaissance se sont déjà engagée à participer à la construction de ce bien commun que nous souhaitons durable. Comment faire ensemble, comment construire un projet ? Si vous partagez cet intérêt et que vous souhaitez enrichir le patrimoine commun, je vous invite à contribuer - même si ce n'est qu'en corrigeant une faute de frappe d'un document ou en faisant part d'un retour d'expérience. L'intégralité des ressources visibles via multibao.org, ainsi que la technologie, vous sont à ce jour accessibles. Bonne utilisation. *Thomas Wolff*
+*[multiBàO.org](http://multibao.org)* (ou *multi Boîte à Outils*) est un projet visant à rendre accessible des approches collaboratives porteuses d'espoir. 
 
-## Comment ça marche ? 
+> L'essor  des approches collaboratives cette dernière décennie semble répondre de toutes part au sentiment de fragilité du monde et des sociétés dans lesquelles nous nous trouvons; et ceci tant du point de vue géopolitique qu'au niveau de la stabilité de la démocratie ou encore de la durabilité des ressources. Participation citoyenne, réseaux collaboratifs, mouvance pair à pair, financement participatif, écriture collective de communs,..., semblent être quelques réponses porteuses d'espoir. L'apprentissage du "vivre ensemble" et du respect mutuel, du sens critique, de notre capacité à résoudre collaborativement des problèmes, à innover, à assurer durablement la paix sur les territoires sont-ils des options pour l'avenir? Comment favoriser de telles pratiques? 
 
-### Des licences ouvertes pour partager vos ressources et bénéficier de celles des autres
+Une vingtaine de réseaux associatifs, entrepreneuriaux et institutionnels ont documenté de telles approches et accepté de les mutualiser via le projet que nous vous présentons. Ce travail représente la mise en commun de près de 120 rédacteurs francophones, sur des thèmes aussi variés que la médiation territoriale, la diplomatie, l'agilité, l'éducation ou encore l'entrepreneuriat social. Par souci pour l'avenir, l'intégralité des ressources est publiée sous des licences autorisant la réutilisation des données. La première étape de ce projet (2014-2017) est de constituer un patrimoine numérique de telles approches, en vue de leur enrichissement et diffusion. Cette mise en commun est facilitée par la construction d'une technologie, *multibao.org*, construite au plus près des problématiques des producteurs de données; et par la qualité des bonnes relations entre réseaux. 
 
-L'intégralité des ressources visibles sur multibao vous sont accessibles, diffusables, réutilisables sous des licences ouvertes. 
+La deuxième étape du projet (2016-2018) vise à rendre accessible ce patrimoine commun et à inspirer de nouvelles pratiques. Le monde enseignant, les médiateurs, les élus, les chargés de concertation et de démocratie participative, les animateurs de réseaux associatifs et institutionnels, les éducateurs et les facilitateurs sont particulièrement concernés. Cette étape vise à favoriser des échanges entre pairs et une montée en compétences, tout en enrichissant le patrimoine commun en retours d'expériences et amendements. 
 
-### Une technologie pour faire apparaître et synchroniser n'importe quelle ressource de multiBàO avec votre site
+La troisième étape (2017-2019) du projet vise à démocratiser les approches collaboratives. Alors que l'effet de mode du collaboratif s'amplifie, il en est de même pour la montée en flèche du *Do It Yourself* qui pourrait se traduire par *Faites le vous-même*. Les plateformes webs et groupes qui vous permettent *d'apprendre à faire par vous-même* deviennent populaires et nombreuses (ex:  www.instructables.com). De la même manière, il serait possible de confectionner une plateforme "Do It Together" et de montrer que *C'est possible de le faire, et voici comment*. Et mieux encore que de centraliser: renvoyer celles et ceux qui découvrent ces approches vers celles et ceux qui les pratiquent déjà. 
 
-Vous avez la possibilité de faire apparaître n'importe quelle ressource de multibao sur votre site web. Cette dernière prendra automatiquement la mise en page de votre site. Si quelqu'un modifie la ressource, elle sera modifiée sur votre site ainsi que tous les sites faisant apparaître la ressource. 
-
-### Mettre à disposition vos ressources et en être administrateur
-
-Vous pouvez être propriétaire d'un dépôt de fiches. Aucun dépôt n'est stocké sur multibao.org, nous ne sommes pas propriétaires des données. C'est vous qui l'êtes et qui choisissez vos contributeurs. La multiBàO fonctionne comme une visionneuse de dépôts.
-
-### Enrichir les ressources communes via l'éditeur
-
-Vous pouvez enrichir/éditer les ressources directement depuis multibao.org. Si vous avez l'autorisation de modifier directement la ressource, la modification sera immédiate. Sinon le propriétaire du dépôt recevra une notification lui proposant votre modification. 
-
-## C'est par qui ?
-
-> Si multiBàO n'a pas d'entité juridique à proprement parler, c'est par choix stratégique. Chaque dépôt que vous avez créé possède sa propre indépendance juridique. La propriété intelectuelle de chaque ressource est spécifiée sur chaque fiche, conformément à la licence / aux licences sous laquelle la fiche à été publiée. La technologie de multiBàO est un opensource, dont la paternité revient la société coopérative [Scopyleft](http://scopyleft.fr) et l'association [Centre des pratiques de la coopération](http://cpcoop.fr)
-
-### Développement de multibao.org
-
-* *Thomas Wolff*, initiateur et animateur bénévole du bien commun. Il se déplace en France et Belgique à la rencontre des contributeurs et en profite pour se former aux approches. Soutenu pour les déplacements/événements par l'association [Centre des pratiques de la coopération](http://cpcoop.fr) dont il est co-fondateur et par plusieurs écoles où il est enseignant. 
-
-* *Stéphane Langlois*, développeur Agile de la technologie multibao.org et daktary. Soutenue par la [Scopyleft](http://scopyleft.fr) dont il est sociétaire coopératif, il code la plateforme. Ferru des approches *lean* et des nouveaux usages *numériques*, la technologie porte l'odeur de son professionnalisme. 
-
-### Comment la plateforme a t-elle été financée ? 
-
-Découvrez le étape par étape [ici](https://trello.com/multibao).
-
-### Réseaux / individus contributeurs
-
-Je présenterai ici dans les prochains temps des portraits de contributeurs / réseaux participants. 
+Bienvenue sur multiBàO.
 
 ## Source
 
