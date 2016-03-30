@@ -88,7 +88,7 @@ _Pour quel projet sollicitez-vous le soutien d’un philanthrope ?_
 _Quels sont vos besoins humains et financiers pour accomplir votre projet ? Quels sont vos manques ?_
 
 55 000 euros au total réparti de façon suivante:
-* Developpement web, 34 200 euros, concernant l'activités de 5 personnes (3 developpeurs, 1 procduct owner, 1 srcum master) reparti sur 2 sprints d'1 semaine chacun.
+* Developpement web, 34 200 euros, concernant l'activité de 5 personnes (3 developpeurs, 1 procduct owner, 1 srcum master) reparti sur 2 sprints d'1 semaine chacun.
 * 6000 euros pour les déplacements en France et à l'étranger(Zone de la Francophonie), 3 opérations coordonnées avec une dizaine de personnes à chaque déplacements.
 * 14 800 euros pour la conception et réalisation de 3 ateliers sur 3 territoires diffèrents dans la francophonie. 
 
