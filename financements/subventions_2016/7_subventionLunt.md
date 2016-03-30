@@ -115,7 +115,7 @@ _Quel est l’objectif que vous désirez atteindre à la fin du partenariat (obj
 * Action A1: entretenir et consolider les relations diplomatiques entre réseaux (2015-2018). 
 
 > + 90% des contributeurs actifs se jugent très satisfaits d'avoir déposé leurs ressources sur multiBà0 / 100% des réseaux contributeurs ont acté la gouvernance
-> + 40 réseaux contributeurs sur les 80 réseaux producteurs de données sur les approches collaboratives répérées dans le monde francophone / + 500 ressources de qualité
+> +40 réseaux contributeurs sur les 80 réseaux producteurs de données sur les approches collaboratives répérées dans le monde francophone / + 500 ressources de qualité
 
 
 * Action A2: conseiller et accompagner les contributeurs dans l'écriture de leurs savoir-faire (2015-2018) 
@@ -139,8 +139,8 @@ _Quel est l’objectif que vous désirez atteindre à la fin du partenariat (obj
 
 * Action A1: entretenir et consolider les relations diplomatiques entre réseaux  (2015-2018)  
 
-> + 90% des contributeurs actifs se jugent très satisfaits d'avoir déposé leurs ressources sur multiBà0 / 100% des réseaux contributeurs ont acté la gouvernance
-> + 40 réseaux contributeurs sur les 80 réseaux producteurs de données sur les approches collaboratives répérées dans le monde francophone / + 500 ressources de qualité
+> +90% des contributeurs actifs se jugent très satisfaits d'avoir déposé leurs ressources sur multiBà0 / 100% des réseaux contributeurs ont acté la gouvernance
+> +40 réseaux contributeurs sur les 80 réseaux producteurs de données sur les approches collaboratives répérées dans le monde francophone / + 500 ressources de qualité
 
 
 * Action A3: inciter la production de ressources sous licences autorisant juridiquement la mutualisation et la réutilisation des contenus (2015-2018) 
