@@ -11,7 +11,13 @@
 
 ## Description du projet en une phrase
 
-multiBàO.org (ou multi Boîte à Outils) est une plateforme contributive reposant sur une technologie opensource visant à mutualiser et rendre accessible des approches collaboratives porteuses d'espoir en reliant les connaissances par delà les réseaux. 
+multiBàO.org (ou multi Boîte à Outils) est une plateforme contributive reposant sur une technologie opensource visant à mutualiser et rendre accessible des approches collaboratives porteuses d'espoir en reliant les connaissances par delà les réseaux.
+
+## Définitions relatives à la compréhension de l'objectif
+
+* **Bien commun**: patrimoine bénéficiant à une ou plusieurs communautés
+* **Réseaux**: structures associatives, entreprenariales, institutionnelles ou collectifs de structures. Sur multiBàO se côtoient des structures à la fois institutionnelles (ex: Université de Bordeaux), associatives (ex: Réseau transition Belgique) et entreprenariales (ex: Scopyleft). Des communautés de pratiques (ex: AnimFr) sont aussi impliquées.
+* **Ressources**: ressources numériques ou papier, publiées sous la forme de documentations écrites ou de vidéos. La plateforme multiBàO.org est composée de ressources numériques présentées sous la forme de fiches méthodologiques et de témoignages (retours d'expériences, interviews filmés)
 
 ## Domaine d’action (plusieurs possibilités)
 
