@@ -48,14 +48,17 @@ Pour décentraliser, Multibao renvoie celles et ceux qui découvrent ces approch
 
 _De quels moyens humains et financiers (source de financement : dons, subsides, revenus, etc.) disposez-vous aujourd’hui ? Qui sont les dirigeants de l’entreprise ?_
 
-Une vingtaine de réseaux associatifs, entrepreneuriaux et institutionnels ont documenté de telles approches et accepté de les mutualiser via le projet que nous vous présentons. Ce travail représente la mise en commun de près de 120 rédacteurs francophones, sur des thèmes aussi variés que la médiation territoriale, la diplomatie, l'agilité, l'éducation ou encore l'entrepreneuriat social. Par souci pour l'avenir, l'intégralité des ressources est publiée sous des licences autorisant la réutilisation des données.
+La traduction et la mise à disposition des ressources sont réalisées avec les ressources de chaque structure partenaire.  Une vingtaine de réseaux associatifs, entrepreneuriaux et institutionnels ont documenté des fiches sur des approches collaboratives porteuses d'espoir et accepté de les mutualiser via le projet que nous vous présentons. Ce travail représente la mise en commun de près de 120 rédacteurs francophones, sur des thèmes aussi variés que la médiation territoriale, la diplomatie, l'agilité, l'éducation ou encore l'entrepreneuriat social. La transposition des données sur multibào et leur mise à jour a nécessité le travail de 23 contributeurs issus de 8 structures associatives et institutionnelles différentes.
 
-Le CPCOOP, Centre des Pratiques de la Cooperation, finance à auteur de 1000 euros par mois consacré au développement web et à l'animation communautaire.
-
-15 réseaux contributeurs différents investissent un temps d'environ 3 jours par mois chacun à l'alimention des ressources,l'amélioration de la démarche et la consolidation des documenations. 
+Parmis les contributeurs les plus actifs: 
+* Le CPCOOP, Centre des Pratiques de la Cooperation, finance un salarié à mi-temps pour l'animation de multiBàO et consacre environ 1200 euros par mois consacré au développement web. L'association a financé 4 stagiaires pour faciliter la mutualisation inter-réseaux.
+* Réseau Transition Wallonie Bruxelles
+* Association Démocratie Ouverte, 2 jours de contribution salariée par mois. 
+* Conseil Départemental d'Aquitaine, avec comme contributeur actif Vincent Vergeot. Soutien technique à hauteur d'une demi-journée par mois. .
+* L'établissement public (enseignement supérieur) SupAgro Florac, avec mise à disposition 1 jour par mois de la documentaliste Hélène Laxenaire
+* Scopyleft, par la mise à disposition régulière (2j par mois) d'un développeur web accompagnant bénévolement le développement technologique.
 
 Multibao est organisée comme un archipel, c'est à dire sans structure hiérarchique verticale ou pyramidale. Les pratiques collaboratives latérales s'appliquent également dans la gouvernance du projet.
-A l'intiative de Multiboa se trouve Thomas Wolff,enseignant formateur et médiateur territorial; aujourd'hui Stéphan Langlois,développeur et agiliste, est impliqué dans le développement web ; Vincent Bwattelet et François Olivier Deveaux, réseau transition belgique, contributeurs très impliqués; Armel Le Coz, fondateur de démocratie ouverte et Parlement citoyen, contributeur et prescripteur actif; Hélène Laxionair, enseignantes documentaliste à Sup Agro Florac, contributrice; François Bergeot, conseil départemental d'Aquitaine, soutien technique. 
 
 
 ## Communication
@@ -66,7 +69,7 @@ _Existe t-il déjà un plan de communication ? Quelle est l'image qui est commu
 
 _Votre organisation a-t-elle un « advisory board » ? Si oui, quel est son rôle et de qui est-il composé ?_
 
-Avec sa structure et son organisation innovantes, Multibao s'appuie sur un "advisory board" composé de tous les membres contributeurs de la plateforme et du projet technologique. 
+Avec sa structure et son organisation innovantes, Multibao s'appuie sur un "advisory board" composé d'une vingtaine de membres contributeurs de la plateforme web, tous animateurs de réseaux spécialisés dans des approches collaboratives ou en gestion de projet.
 
 ## Mesure d’impact
 
