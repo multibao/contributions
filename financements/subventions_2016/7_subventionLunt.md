@@ -220,9 +220,8 @@ _Quel est l’objectif que vous désirez atteindre à la fin du partenariat (obj
 
 * Action 1: mise en place de [Mingas](http://www.multibao.org/lilianricaud/Minga/Minga.md), temps collectifs de documentation en ligne où un porteur de pratique présente ses retours d'expériences et conseil, et où des participants documentent collaborativement l'approche.
 
-> + 90% des pratiques présentées font l'objet d'une documentation sous licence libre visible sur multibao.org 
+> +90% des pratiques présentées font l'objet d'une documentation sous licence libre visible sur multibao.org 
 > 6 mingas par an
-
 
 * Action 2: mise en place de [Traducthons](http://www.multibao.org/lilianricaud/Minga/Traducthon.md), où des ressources jugées de qualité sont traduitent en français depuis l'anglais, l'allemand ou l'espagnol.
 
