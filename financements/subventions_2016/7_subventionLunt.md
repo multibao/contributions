@@ -227,8 +227,7 @@ _Quel est l’objectif que vous désirez atteindre à la fin du partenariat (obj
 * Action 2: mise en place de [Traducthons](http://www.multibao.org/lilianricaud/Minga/Traducthon.md), où des ressources jugées de qualité sont traduitent en français depuis l'anglais, l'allemand ou l'espagnol.
 
 > +90% des ressources traduites sont accessibles sous licence libre sur multibao.org
-> 1 traducthon par an
-
+> 2 traducthons par an
 
 * Action 2: mise en place d'[InstallParty](https://fr.wikipedia.org/wiki/Install_party) pour l'installation de boîtes à outils propres à une communauté locale. 
 
