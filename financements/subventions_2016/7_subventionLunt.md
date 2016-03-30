@@ -16,17 +16,22 @@ multiBàO.org (ou multi Boîte à Outils) est une plateforme contributive reposa
 
 ## Domaine d’action (plusieurs possibilités)
 
-A choisir : Education / Enseignement / Habitat / Environnement / Agriculture / Nouvelle économie / Entreprenariat / Culture / Recherche / Lutte contre les exclusions / Aide aux pays en voie de développement / Communication /  Autre :
+A choisir : **Education** / **Enseignement** / Habitat / Environnement / Agriculture / Nouvelle économie / **Entreprenariat social** / Culture / **Recherche** / Lutte contre les exclusions / Aide aux pays en voie de développement / Communication /  Autre : **démocratie participative**
 
 ## Zone d’action
+La francophonie
 
 ## Problématique
 
-A quelle problématique sociale ou environnementale tentez-vous de répondre ?
+_A quelle problématique sociale ou environnementale tentez-vous de répondre ?_
+La résolution des défis sociaux et environnentaux, les urgences de transition sont acuellement frainés par un manque de mutualisation des pratiques et la faible mise en commun de ressources décentralisées et distribuées.
 
 ## Solution innovante
 
-Quelle solution apportez-vous à la problématique ? Quelle est votre innovation ?
+_Quelle solution apportez-vous à la problématique ? Quelle est votre innovation ?_
+Une plateforme contributive reposant sur une technologie open source visant à mutualiser et rendre accessible des approches collaboratives.
+Multibao est organisée comme un archipel, c'est à dire sans structure hiérarchique verticale ou pyramidale. C'est un modèle pair à pair horizontal où chaque contributeur (individu ou organisation) place dans les Communs ses ressources pédagogiques et méthodologiques.
+Notre solution de démocratisation des approches collaboratives bénéfices d'un mouvement civique de fond.  Nous la conjuguons avec la montée en flèche du Do It Yourself qui pourrait se traduire par Faites le vous-même. Cela nous amène à penser et confectionner une plateforme "Do It Together" et de montrer que "C'est possible de le faire et de donner le comment faire". Pour décentraliser, Multibao renvoie celles et ceux qui découvrent ces approches vers celles et ceux qui les pratiquent déjà. Pour distribuer, nous mettons à dispostion les technologies permettant d'améliorer cette solution collective, de polliniser les démarches et reproduire soi même des équivalent de multibao dans d'autres domaines d'actions. 
 
 ## Moyens
 
