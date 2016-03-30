@@ -10,28 +10,39 @@
 * _Site internet :_ www.reseautransition.be
 
 ## Description du projet en une phrase
-multiBàO.org (ou multi Boîte à Outils) est une plateforme contributive reposant sur une technologie open source visant à mutualiser et rendre accessible des approches collaboratives porteuses d'espoir en reliant les connaissances par delà les réseaux. 
+
+multiBàO.org (ou multi Boîte à Outils) est une plateforme contributive reposant sur une technologie opensource visant à mutualiser et rendre accessible des approches collaboratives porteuses d'espoir en reliant les connaissances par delà les réseaux. 
 
 ## Domaine d’action (plusieurs possibilités)
 
-A choisir : **Education** / **Enseignement** / Habitat / Environnement / Agriculture / Nouvelle économie / **Entreprenariat social** / Culture / **Recherche** / Lutte contre les exclusions / Aide aux pays en voie de développement / Communication /  Autre : **démocratie participative**
+Sélectionner les domaines d'intervention: **Education** / **Enseignement** / Habitat / Environnement / Agriculture / Nouvelle économie / **Entreprenariat social** / Culture / **Recherche** / Lutte contre les exclusions / Aide aux pays en voie de développement / Communication /  Autre : **démocratie participative**
 
 ## Zone d’action
-La francophonie
+
+Francophonie.
 
 ## Problématique
 
 _A quelle problématique sociale ou environnementale tentez-vous de répondre ?_
 
-La résolution des défis sociaux et environnentaux, les urgences de transition sont acuellement freinés par un manque de mutualisation des pratiques, la méconnaissance des approches collaboratives et la faible mise en commun de ressources décentralisées et distribuées.
+La résolution des déis sociaux et environnementaux et les initiatives de transition sont freinées par deux problématiques sur lesquelles nous travaillons spécifiquement:
+
+* manque de mutualisation inter-réseaux (mise en commun de ressources financières, humaines ou numériques, de manière décentralisé et distribué)
+* méconnaissance des approches collaboratives  
 
 ## Solution innovante
 
 _Quelle solution apportez-vous à la problématique ? Quelle est votre innovation ?_
 
 Une plateforme contributive reposant sur une technologie open source visant à mutualiser et rendre accessible des approches collaboratives.
-Multibao est organisée comme un archipel, c'est à dire sans structure hiérarchique verticale ou pyramidale. C'est un modèle pair à pair horizontal où chaque contributeur (individu ou organisation) place dans les Communs ses ressources pédagogiques et méthodologiques.
-Notre solution de démocratisation des approches collaboratives bénéfice d'un mouvement civique de fond. Nous la conjuguons avec la montée en flèche du Do It Yourself qui pourrait se traduire par Faites le vous-même. Cela nous amène à penser et confectionner une plateforme "Do It Together" et de montrer que "C'est possible de le faire et de donner le comment faire". Pour décentraliser, Multibao renvoie celles et ceux qui découvrent ces approches vers celles et ceux qui les pratiquent déjà. Pour distribuer, nous mettons à dispostion les technologies permettant d'améliorer cette solution collective, de polliniser les démarches et reproduire soi même des équivalents de multibao dans d'autres domaines d'actions. 
+
+Multibao.org est organisée comme un archipel, c'est à dire sans structure hiérarchique verticale ou pyramidale. C'est un modèle pair à pair horizontal où chaque contributeur (individu ou organisation) place dans les Communs ses ressources pédagogiques et méthodologiques. Chaque réseau peut mettre en commun ses ressources numériques, tout en gérant lui même ses ressources. Il peut consommer et même intégrer/faire apparaître les ressources sur son site web. 
+
+Multibao.org représente un travail de mise en commun inter-réseaux sur les bonnes pratiques et retours d'expériences en matière de dispositifs collaboratifs. Le réseaux présents sur multibao.org ont comme volonté de créer un bien commun sur le "faire ensemble", accessible au plus grand nombre, afin que les pratiques porteuses d'espoir puissent être enrichies et disséminées. 
+
+Notre solution de démocratisation des approches collaboratives bénéfice d'un mouvement civique de fond. Nous la conjuguons avec la montée en flèche du Do It Yourself qui pourrait se traduire par Faites le vous-même. Cela nous amène à penser et confectionner une plateforme "Do It Together" et de montrer que "C'est possible de le faire et de donner le comment faire".
+
+Pour décentraliser, Multibao renvoie celles et ceux qui découvrent ces approches vers celles et ceux qui les pratiquent déjà. Pour distribuer, nous mettons à dispostion les technologies permettant d'améliorer cette solution collective, de polliniser les démarches et reproduire soi même des équivalents de multibao dans d'autres domaines d'actions. 
 
 ## Moyens
 
