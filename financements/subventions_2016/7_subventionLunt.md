@@ -1,22 +1,13 @@
 # Dossier de demande subvention à la Fondation Lunt
 
-* date limite de dépôt: non spécifié
-
 ## Identification générale 
 
-_Nom de l’association :_ Réseau transition Wallonie Bruxelles
-
-_Nom du contact :_
-
-_Adresse :_
-Réseau Transition ASBL
-,19 rue du Marteau,1000 Bruxelles
-
-_Num de tél :_
-
-_Email :_
-
-_Site internet :_ www.reseautransition.be
+* _Nom de l’association :_ Réseau transition Wallonie Bruxelles
+* _Nom du contact :_ Vincent Wattelet
+* _Adresse :_ Réseau Transition ASBL,19 rue du Marteau,1000 Bruxelles
+* _Num de tél :_ +32 (494) 543 811
+* _Email :_ vincent@reseautransition.be
+* _Site internet :_ www.reseautransition.be
 
 ## Description du projet en une phrase
 multiBàO.org (ou multi Boîte à Outils) est une plateforme contributive reposant sur une technologie open source visant à mutualiser et rendre accessible des approches collaboratives porteuses d'espoir en reliant les connaissances par delà les réseaux. 
