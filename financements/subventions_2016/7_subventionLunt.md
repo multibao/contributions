@@ -12,6 +12,7 @@ Email :
 Site internet :
 
 ## Description du projet en une phrase
+multiBàO.org (ou multi Boîte à Outils) est une plateforme contributive reposant sur une technologie open source visant à mutualiser et rendre accessible des approches collaboratives porteuses d'espoir en reliant les connaissances par delà les réseaux. 
 
 ## Domaine d’action (plusieurs possibilités)
 
@@ -60,7 +61,4 @@ Afin de voir l’évolution des impacts du Réseau et du renforcement de nos cap
 Quel est l’objectif que vous désirez atteindre à la fin du partenariat (objectifs financiers & sociaux) ? 
 
 ## Evaluation
-Quels sont vos critères d’évaluation pour mesurer la réussite ou non du projet ? (critères qualitatifs et/ou quantitatifs). 
-
-
-
+Quels sont vos critères d’évaluation pour mesurer la réussite ou non du projet ? (critères qualitatifs et/ou quantitatifs).
