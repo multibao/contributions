@@ -128,7 +128,7 @@ prose:
         field:
           element: "textarea"
           label: "Description"
-          placeholder: "en une courte phrase"
+          help: "en une courte phrase"
           value: ""
       - name: "tags"
         field:
