@@ -148,6 +148,6 @@ prose:
         field:
           element: "textarea"
           label: "Coordonnées GPS de la fiche"
-          help: "Merci de renseigner ici les coordonnées GPS de la fiche en Degrès Décimaux. Utilisez le convertisseur suivant pour transformer une adresse en degrès décimaux: http://www.coordonnees-gps.fr/conversion-coordonnees-gps. Exemple: 65 rue de la trémissinière 44300 Nantes devient 	47.23638349999999;-1.5480548000000454. Merci de séparer les coordonnées GPS par un ;."
+          help: "Renseigner ici les coordonnées en Degrès Décimaux. Utilisez le convertisseur suivant pour transformer une adresse en degrès décimaux: http://www.coordonnees-gps.fr/conversion-coordonnees-gps. Exemple: 65 rue de la trémissinière 44300 Nantes devient 47.23638349999999 -1.5480548000000454."
           value: ""
 
