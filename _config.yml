@@ -114,27 +114,34 @@ prose:
   media: 'media'
   metadata:
     contributions:
-      - name: "title"
-        field:
-         element: "text"
-         label: "title"
-        - name: "author"
+      - name: "author"
         field:
           element: "text"
           label: "Contributeurs"
-          placeholder: "Indiquer le nom des contributeurs"
           value: ""
+      - name: "title"
+        field:
+          element: "text"
+          label: "Titre"
+          value: "Contribution multibao"
       - name: "description"
         field:
           element: "textarea"
-          label: "Description"
-          placeholder: "en une phrase max"
+          label: "Courte description"
           value: ""
       - name: "tags"
         field:
           element: "multiselect"
-          label: "Mots clés / tags"
-          placeholder: "maximum 5"
+          label: "Mots clés (max 5)"
+          placeholder: "Choisir des tags"
           options:
             - name: "Ice breaker"
               value: "Ice breaker"
+            - name: "Energizer"
+              value: "Energizer"
+            - name: "Organisation"
+              value: "Organisation"
+            - name: "Collaboration"
+              value: "Collaboration"
+            - name: "Citoyenneté"
+              value: "Citoyenneté"
