@@ -114,17 +114,15 @@ prose:
   media: 'media'
   metadata:
     contributions:
-      - name: "author"
+      - name: "title"
+        field:
+         element: "text"
+         label: "title"
+        - name: "author"
         field:
           element: "text"
           label: "Contributeurs"
           placeholder: "Indiquer le nom des contributeurs"
-          value: ""
-      - name: "title"
-        field:
-          element: "text"
-          label: "Titre"
-          placeholder: "nom de la fiche"
           value: ""
       - name: "description"
         field:
