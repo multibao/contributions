@@ -133,6 +133,7 @@ prose:
         field:
           element: "multiselect"
           label: "Mots clés (max 5)"
+          help: "ici"
           options:
             - name: "Ice breaker"
               value: "Ice breaker"
