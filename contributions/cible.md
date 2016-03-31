@@ -1,3 +1,11 @@
+---
+author: François Wuidard
+description: null
+tags: null
+published: false
+title: Cible
+---
+
 #La cible 
 
 ![Cible](http://farm4.staticflickr.com/3543/3433072925_bdd0ef1c65_z.jpg)
@@ -61,4 +69,4 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 ## Sources
 
-* Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
+* Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA.
