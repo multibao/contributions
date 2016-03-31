@@ -1,10 +1,12 @@
 ---
 published: false
-title: Contribution multibao
-description: null
+title: Creation de charte
+description: La charte
 tags: 
-  - Energizer
+  - Organisation
+author: Françoise Wuidard
 ---
+
 
 
 #Création d’une charte de groupe
