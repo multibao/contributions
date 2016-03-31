@@ -31,7 +31,7 @@ Francophonie.
 
 _A quelle problématique sociale ou environnementale tentez-vous de répondre ?_
 
-La résolution des déis sociaux et environnementaux et les initiatives de transition sont freinées par deux problématiques sur lesquelles nous travaillons spécifiquement:
+La résolution des défis sociaux et environnementaux et les initiatives de transition sont freinées par deux problématiques sur lesquelles nous travaillons spécifiquement:
 
 * manque de mutualisation inter-réseaux (mise en commun de ressources financières, humaines ou numériques, de manière décentralisé et distribué)
 * méconnaissance des approches collaboratives  
@@ -44,9 +44,9 @@ Une plateforme contributive reposant sur une technologie open source visant à m
 
 Multibao.org est organisée comme un archipel, c'est à dire sans structure hiérarchique verticale ou pyramidale. C'est un modèle pair à pair horizontal où chaque contributeur (individu ou organisation) place dans les Communs ses ressources pédagogiques et méthodologiques. Chaque réseau peut mettre en commun ses ressources numériques, tout en gérant lui même ses ressources. Il peut consommer et même intégrer/faire apparaître les ressources sur son site web. 
 
-Multibao.org représente un travail de mise en commun inter-réseaux sur les bonnes pratiques et retours d'expériences en matière de dispositifs collaboratifs. Le réseaux présents sur multibao.org ont comme volonté de créer un bien commun sur le "faire ensemble", accessible au plus grand nombre, afin que les pratiques porteuses d'espoir puissent être enrichies et disséminées. 
+Multibao.org représente un travail de mise en commun inter-réseaux sur les bonnes pratiques et retours d'expériences en matière de dispositifs collaboratifs. Les réseaux présents sur multibao.org ont comme volonté de créer un bien commun sur le "faire ensemble", accessible au plus grand nombre, afin que les pratiques porteuses d'espoir puissent être enrichies et disséminées. 
 
-Notre solution de démocratisation des approches collaboratives bénéfice d'un mouvement civique de fond. Nous la conjuguons avec la montée en flèche du Do It Yourself qui pourrait se traduire par Faites le vous-même. Cela nous amène à penser et confectionner une plateforme "Do It Together" et de montrer que "C'est possible de le faire et de donner le comment faire".
+Notre solution de démocratisation des approches collaboratives bénéfice d'un mouvement civique de fond. Nous la conjuguons avec la montée en flèche du Do It Yourself qui pourrait se traduire par Faites le vous-même. Cela nous amène à penser et confectionner une plateforme *Do It Together* et de montrer que *C'est possible de le faire et de donner le comment faire*.
 
 Pour décentraliser, Multibao renvoie celles et ceux qui découvrent ces approches vers celles et ceux qui les pratiquent déjà. Pour distribuer, nous mettons à dispostion les technologies permettant d'améliorer cette solution collective, de polliniser les démarches et reproduire soi même des équivalents de multibao dans d'autres domaines d'actions. 
 
@@ -54,17 +54,20 @@ Pour décentraliser, Multibao renvoie celles et ceux qui découvrent ces approch
 
 _De quels moyens humains et financiers (source de financement : dons, subsides, revenus, etc.) disposez-vous aujourd’hui ? Qui sont les dirigeants de l’entreprise ?_
 
-La traduction et la mise à disposition des documentations sur mutlibao sont réalisées avec les ressources de chaque structure contributrice.  Une vingtaine de réseaux associatifs, entrepreneuriaux et institutionnels ont documenté des fiches sur des approches collaboratives porteuses d'espoir et accepté de les mutualiser via le projet que nous vous présentons. Ce travail représente la mise en commun de près de 120 rédacteurs francophones, sur des thèmes aussi variés que la médiation territoriale, la diplomatie, l'agilité, l'éducation ou encore l'entrepreneuriat social. La transposition des données sur multibào et leur mise à jour a nécessité le travail de 23 contributeurs issus de 8 structures associatives et institutionnelles différentes.
+* La traduction et la mise à disposition des documentations sur mutlibao sont réalisées avec les ressources de chaque structure contributrice.  
+ * Une vingtaine de réseaux associatifs, entrepreneuriaux et institutionnels ont documenté des fiches sur des approches collaboratives porteuses d'espoir et accepté de les mutualiser via le projet que nous vous présentons. 
+ * Ce travail représente la mise en commun de près de 120 rédacteurs francophones, sur des thèmes aussi variés que la médiation territoriale, la diplomatie, l'agilité, l'éducation ou encore l'entrepreneuriat social. 
+ * La transposition des données sur multibào et leur mise à jour a nécessité le travail de 23 contributeurs issus de 8 structures associatives et institutionnelles différentes.
 
 Parmis les contributeurs les plus actifs: 
 * Le CPCOOP, Centre des Pratiques de la Cooperation, finance un salarié à mi-temps pour l'animation de multiBàO et consacre environ 1200 euros par mois consacré au développement web. L'association a financé 4 stagiaires pour faciliter la mutualisation inter-réseaux.
+* Scopyleft, par la mise à disposition régulière (2j par mois) d'un développeur web accompagnant bénévolement le développement technologique.
 * Réseau Transition Wallonie Bruxelles
 * Association Démocratie Ouverte, 2 jours de contribution salariée par mois. 
-* Conseil Départemental d'Aquitaine, avec comme contributeur actif Vincent Vergeot. Soutien technique à hauteur d'une demi-journée par mois. .
-* L'établissement public (enseignement supérieur) SupAgro Florac, avec mise à disposition 1 jour par mois de la documentaliste Hélène Laxenaire
-* Scopyleft, par la mise à disposition régulière (2j par mois) d'un développeur web accompagnant bénévolement le développement technologique.
+* Conseil Départemental d'Aquitaine, avec comme contributeur actif Vincent Vergeot. Soutien technique à hauteur d'une demi-journée par mois.
+* L'établissement public (enseignement supérieur) SupAgro Florac, avec mise à disposition 1 jour par mois de contribution. 
 
-Multibao est organisée comme un archipel, c'est à dire sans structure hiérarchique verticale ou pyramidale. Les pratiques collaboratives latérales s'appliquent également dans la gouvernance du projet.
+Multibao est organisée comme un archipel, c'est à dire sans structure hiérarchique verticale ou pyramidale. Les pratiques collaboratives latérales s'appliquent également dans la gouvernance du projet. Le responsable de l'équipe de développement web est *Stéphane Langlois*. Le responsable de l'animation et de la priorisation des opérations, élu par la communauté de contributeurs, est *Thomas Wolff*. Ce dernier, médiateur territorial de métier, est en charge d'être en lien avec la communauté de contributeurs pour faire remonter leurs problématiques/besoins en vue de les rendre visible et les prioriser. 
 
 
 ## Communication
@@ -81,30 +84,41 @@ Avec sa structure et son organisation innovantes, Multibao s'appuie sur un "advi
 
 _Avez-vous déjà mesuré l’impact de votre action ? Si oui, quels en sont les résultats ? Sinon, quel impact estimez-vous avoir ?_ 
 
+* 30 réseaux sur les 80 réseaux producteurs de données sur les approches collaboratives répérées dans le monde francophone se sont engagés verbalement dans l'accord de mutualiser avec les autres réseaux leurs ressources sur multiBàO
+* 16 l'ont déjà effectivement fait
+* 4 sont en cours d'écriture de leurs ressources
+* 112 membres à la liste de discussion relative au projet
+* + 90% des contributeurs actifs se jugent très satisfaits d'avoir déposé leurs ressources sur multiBà0 / 100% des réseaux contributeurs ont acté la gouvernance
+* environ 1/3 des animateurs éducation populaire/animateurs éducation à l'environnement/facilitateurs/chargés de concertation/médiateurs territoriaux/ médiateurs numériques rencontrés connaissent et ont entendu parlé du projet
+
 # Votre projet
 
 ## Votre projet
 _Pour quel projet sollicitez-vous le soutien d’un philanthrope ?_
 
-* Le développement web de la solution nécessite un effort important, son amélioration est un axe de pogrès indéniable dans le déploiement à plus grande échelle.
-* Un second point de progression concerne les déplacements des animateurs de réseaux,contibuteurs sur multibao, dans l'optique d'accélerer la transmission des savoir-faire et expériences au delà de l'utilisation de multibao.
-* Le troisième axe de progression vise le deploiement d'atelier par le groupe de recherche pour l'apprentissage de la documentation de qualité à plusieurs personnes sur les projets.
+Nous avons besoin du soutien d'un philanthrope pour nous aider à trouver notre autonomie sous 3 ans au niveau technologique et financier. 
+
+* le développement d'une technologie *à  partir de rien*, *sur-mesure pour des utilisateurs* est l'opération la plus couteuse. Nous avons un besoin financier pour parvenir à générer une version 1.0 de la technologie, c'est à dire une version stable et sans dysfonctionnements pour les contributeurs. 
+* de même, l'aide d'une fondation philanthropique permettrait de faciliter la rencontre et la mutualisation de ces différents réseaux; notamment en participant au financement d'actions de communication et de rencontre des réseaux. 
 
 ## Plan de développement
 _Quels sont vos besoins humains et financiers pour accomplir votre projet ? Quels sont vos manques ?_
 
 55 000 euros au total réparti de façon suivante:
 * Developpement web, 34 200 euros, concernant l'activité de 5 personnes (3 developpeurs, 1 procduct owner, 1 srcum master) reparti sur 2 sprints d'1 semaine chacun.
-* 6000 euros pour les déplacements en France et à l'étranger(Zone de la Francophonie), 3 opérations coordonnées avec une dizaine de personnes à chaque déplacements.
-* 14 800 euros pour la conception et réalisation de 3 ateliers sur 3 territoires diffèrents dans la francophonie. 
+* 6000 euros pour les déplacements en France et à l'étranger (Zone de la Francophonie), 3 opérations coordonnées avec une dizaine de personnes à chaque déplacement.
+* 14 800 euros pour la conception et réalisation de 3 ateliers "Bootcamp" sur 3 territoires diffèrents dans la francophonie. 
 
 ## Timing
 _Pour combien de temps désirez-vous créer un partenariat ?_
 
-Afin de voir l’évolution des impacts du Réseau et du renforcement de nos capacités et de pouvoir implémenter une amélioration continue durant les prochaines années, cruciales sur le plan sociétal, nous envisageons un partenariat pour ce projet sur 3 ans (2016-2019)
+Afin de voir l’évolution des impacts du Réseau et du renforcement de nos capacités et de pouvoir implémenter une amélioration continue durant les prochaines années, cruciales sur le plan sociétal, nous envisageons un partenariat pour ce projet sur 3 ans (2016-2018)
 
 ## Objectifs
 _Quel est l’objectif que vous désirez atteindre à la fin du partenariat (objectifs financiers & sociaux) ?_
+
+Avoir rempli sous 2 ans les objectifs tels que nous les présentons dans la section *Evaluation*. 
+Nous insistons particulièrement sur le fait qu'au bout de ces 3 années de partenariat nous souhaitons avoir assi une autonomie financière pour le projet. 
 
 ## Evaluation
 
@@ -218,17 +232,21 @@ _Quel est l’objectif que vous désirez atteindre à la fin du partenariat (obj
 
 ### Objectifs II.II - Rendre accessible ce patrimoine commun et inspirer de nouveaux usages par la mise d'opérations d'animation (2016-2017)
 
-* Action 1: mise en place de [Mingas](http://www.multibao.org/lilianricaud/Minga/Minga.md), temps collectifs de documentation en ligne où un porteur de pratique présente ses retours d'expériences et conseil, et où des participants documentent collaborativement l'approche.
+* Action 1: mise en place de *Bootcamps*, des camps de 4 jours où citoyens intéressés et practiciens de communautés de pratique et de cultures différentes se rencontrent autour d'une thématique.  
+
+> 2 bootcamps par an, +20 participants par bootcamp, +4 communautés de pratiques représentés, +30% des participants sont des citoyens curieux non practiciens aux approches collaboratives, +90% des participants jugent post-événement avoir "très bien investi leur temps en participant au Bootcamp". 
+
+* Action 1: mise en place de [Mingas](http://www.multibao.org/lilianricaud/Minga/Minga.md), temps collectifs de documentation en ligne où un porteur de pratique présente ses retours d'expériences et conseil, et où des participants documentent collaborativement l'approche. Cette documentation fait l'objet d'une publication où la vidéo de l'événement est restitutée. 
 
 > +90% des pratiques présentées font l'objet d'une documentation sous licence libre visible sur multibao.org 
-> 6 mingas par an
+> 6 mingas par an, +12 participants à chaque minga, +500 consultations de la fiche/visionnage
 
 * Action 2: mise en place de [Traducthons](http://www.multibao.org/lilianricaud/Minga/Traducthon.md), où des ressources jugées de qualité sont traduitent en français depuis l'anglais, l'allemand ou l'espagnol.
 
 > +90% des ressources traduites sont accessibles sous licence libre sur multibao.org
-> 2 traducthons par an
+> 2 traducthons par an, +40 ressources jugées de qualité par la communauté de contributeurs traduites
 
 * Action 2: mise en place d'[InstallParty](https://fr.wikipedia.org/wiki/Install_party) pour l'installation de boîtes à outils propres à une communauté locale. 
 
 > +50% des contributeurs ayant participé à une opération d'animation sont capables d'installer multibao.org sur leurs sites webs, de connecter des ressources, et d'expliquer à d'autres comment faire 
-> 3 Install Party par an
+> 2 Install Party par an, à chaque install party au moins 4 réseaux ont installé une instance décentralisée de multibào
