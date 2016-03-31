@@ -117,13 +117,14 @@ prose:
       - name: "author"
         field:
           element: "text"
-          label: "Author"
+          label: "Contributeurs"
+          placeholder: "Indiquer le nom des contributeurs"
           value: ""
       - name: "title"
         field:
           element: "text"
-          label: "Title"
-          value: "Contribution multibao"
+          label: "Titre"
+          value: ""
       - name: "description"
         field:
           element: "textarea"
@@ -137,11 +138,3 @@ prose:
           options:
             - name: "Ice breaker"
               value: "Ice breaker"
-            - name: "Energizer"
-              value: "Energizer"
-            - name: "Organisation"
-              value: "Organisation"
-            - name: "Collaboration"
-              value: "Collaboration"
-            - name: "Citoyenneté"
-              value: "Citoyenneté"
