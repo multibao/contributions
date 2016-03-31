@@ -74,6 +74,22 @@ Multibao est organisée comme un archipel, c'est à dire sans structure hiérarc
 
 _Existe t-il déjà un plan de communication ? Quelle est l'image qui est communiquée ? Quel est votre positionnement par rapport au marché actuel ?_
 
+* Notre plan communication se déploie en trois cercles d'influences centrés autour de l'archipel MultiBàO:
+
+-- 1er cercle d'espace de communication intra communautaires en temps permanent qui vise les praticiens et les intéressés des pratiques collaboratives. Ce niveau est mis en action par les contributeurs de MultiBàO qui deviennent des prescripteurs dans leurs domaines d'activités. Ils essaiment donc naturellement l'image de MultiBàO. Le réfréncement web de la plateforme et son renforcement par le développement technologique jouent également un rôle important dans ce premier cercle de communaication.
+
+-- 2ème cercle d'espace de communication extra communautaires en temps répétés vise les praticiens, les intéressés et leurs collaborateurs. Ce niveau s'appuie sur l'implémentation des publications disponibles sur MultiBàO dans les sites web des différents organismes contributeurs. Nous le renforçons par la réalisation d'atelier, de formation, de BootCamp sur différents territoires. 
+
+-- 3ème cercle d'espace public à temps ponctuels vise une population large dans l'ensemble des espaces de passage et de rassemblement donc les citoyens. Il se déploie par des cycle de conférences, des partenariats opérationnels et/ou évènementiels. 
+
+* L'image de MultiBàO ainsi deployée dans l'espace et de le temps est comprise par les citoyens et publics larges comme une plateforme de partage des savoirs et des pratiques collaboratives. C'est un outil d'apprentissage.
+Les intéressés des pratiques et leurs cercles proches de collaborateurs perçoivent MultiBàO comme une opportunité de documenter projet, méthodes et méthodologies. C'est une plateforme de partage.
+Les contributeurs et animateurs de réseaux voient MultiBàO comme un boite à outils permettant de déployer par eux-mêmes des ressources à fort impact. C'est une technologie à grnad potentiel.
+
+* Nous nous positionnons ainsi comme une technologie d'avenir permettant la mise dans les Communs de ressources à valeurs ajoutées importantes, nous investissons l'espace de marché sous utilisé du partage trans-communautaires décentralisé et ditribué. Nous appyons notre démarche sur la demande croissante de mixité des réséaux.
+
+
+
 ## Conseils
 
 _Votre organisation a-t-elle un « advisory board » ? Si oui, quel est son rôle et de qui est-il composé ?_
