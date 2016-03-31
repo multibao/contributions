@@ -1,8 +1,11 @@
 ---
 published: false
 title: Contribution multibao
-description: null
+description: La classe inversée est une méthode pédagogique
+author: Stéphane; Alan; Thomas
+tags: null
 ---
+
 
 # La classe inversée
 
