@@ -133,7 +133,6 @@ prose:
         field:
           element: "multiselect"
           label: "Mots clés (max 5)"
-          help: "ici"
           options:
             - name: "Ice breaker"
               value: "Ice breaker"
@@ -145,5 +144,9 @@ prose:
               value: "Collaboration"
             - name: "Citoyenneté"
               value: "Citoyenneté"
-
+      - name: "localization"
+        field:
+          element: "textarea"
+          label: "Coordonnées GPS"
+          value: ""
 
