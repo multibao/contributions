@@ -257,7 +257,7 @@ Nous insistons particulièrement sur le fait qu'au bout de ces 3 années de part
 > +90% des pratiques présentées font l'objet d'une documentation sous licence libre visible sur multibao.org 
 > 6 mingas par an, +12 participants à chaque minga, +500 consultations de la fiche/visionnage
 
-* Action 3: mise en place de [Traducthons](http://www.multibao.org/lilianricaud/Minga/Traducthon.md), où des ressources jugées de qualité sont traduitent en français depuis l'anglais, l'allemand ou l'espagnol.
+* Action 3: mise en place de [Traducthons](http://www.multibao.org/lilianricaud/Minga/Traducthon.md), où des ressources jugées de qualité sont traduites en français depuis l'anglais, l'allemand ou l'espagnol.
 
 > +90% des ressources traduites sont accessibles sous licence libre sur multibao.org
 > 2 traducthons par an, +40 ressources jugées de qualité par la communauté de contributeurs traduites
