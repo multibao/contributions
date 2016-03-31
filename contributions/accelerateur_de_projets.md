@@ -6,7 +6,7 @@ tags:
   - Energizer
   - Collaboration
   - Projets
-published: false
+published: true
 title: Accélérateur de projets
 ---
 
