@@ -128,18 +128,23 @@ prose:
         field:
           element: "textarea"
           label: "Description"
-          help: "Description de la fiche telle qu'elle apparaitra sur multiBàO et les moteurs de recherche"
           value: ""
       - name: "tags"
         field:
-          element: "textarea"
+          element: "multiselect"
           label: "Mots clés (max 5)"
-          help: "Séparer les mots clés par des ;"
-          value: ""
-      - name: "localization"
-        field:
-          element: "textarea"
-          label: "Coordonnées GPS de la fiche"
-          help: "Renseigner ici les coordonnées en Degrès Décimaux. Le convertisseur http://www.coordonnees-gps.fr/conversion-coordonnees-gps transforme une adresse postale en DD. Exemple: 65 rue de la trémissinière 44300 Nantes devient 47.23638349999999 -1.5480548000000454."
-          value: ""
+          placeholder: "Choisir des tags"
+          options:
+            - name: "Ice breaker"
+              value: "Ice breaker"
+            - name: "Energizer"
+              value: "Energizer"
+            - name: "Organisation"
+              value: "Organisation"
+            - name: "Collaboration"
+              value: "Collaboration"
+            - name: "Citoyenneté"
+              value: "Citoyenneté"
+          alterable: "true"
+
 
