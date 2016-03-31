@@ -145,9 +145,3 @@ prose:
               value: "Collaboration"
             - name: "Citoyenneté"
               value: "Citoyenneté"
-        -name "gps"
-         field
-           element: "number"
-           label: "Coordonnées GPS de la fiche"
-           help: "Merci de renseigner les coordonnées GPS de la fiche de la manière suivante:"
-           type: "number"
