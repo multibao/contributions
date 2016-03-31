@@ -1,9 +1,11 @@
 ---
 author: François Wuidard
-description: null
-tags: null
+description: "Cible, fiche méthode"
+tags: 
+  - Collaboration
+  - Citoyenneté
 published: false
-title: Cible
+title: "Cible, une fiche méthode"
 ---
 
 #La cible 
