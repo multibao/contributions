@@ -124,17 +124,19 @@ prose:
         field:
           element: "text"
           label: "Titre"
+          placeholder: "nom de la fiche"
           value: ""
       - name: "description"
         field:
           element: "textarea"
           label: "Description"
+          placeholder: "en une phrase max"
           value: ""
       - name: "tags"
         field:
           element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
+          label: "Mots clés / tags"
+          placeholder: "maximum 5"
           options:
             - name: "Ice breaker"
               value: "Ice breaker"
