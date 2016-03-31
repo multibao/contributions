@@ -236,17 +236,17 @@ Nous insistons particulièrement sur le fait qu'au bout de ces 3 années de part
 
 > 2 bootcamps par an, +20 participants par bootcamp, +4 communautés de pratiques représentés, +30% des participants sont des citoyens curieux non practiciens aux approches collaboratives, +90% des participants jugent post-événement avoir "très bien investi leur temps en participant au Bootcamp". 
 
-* Action 1: mise en place de [Mingas](http://www.multibao.org/lilianricaud/Minga/Minga.md), temps collectifs de documentation en ligne où un porteur de pratique présente ses retours d'expériences et conseil, et où des participants documentent collaborativement l'approche. Cette documentation fait l'objet d'une publication où la vidéo de l'événement est restitutée. 
+* Action 2: mise en place de [Mingas](http://www.multibao.org/lilianricaud/Minga/Minga.md), temps collectifs de documentation en ligne où un porteur de pratique présente ses retours d'expériences et conseil, et où des participants documentent collaborativement l'approche. Cette documentation fait l'objet d'une publication où la vidéo de l'événement est restitutée. 
 
 > +90% des pratiques présentées font l'objet d'une documentation sous licence libre visible sur multibao.org 
 > 6 mingas par an, +12 participants à chaque minga, +500 consultations de la fiche/visionnage
 
-* Action 2: mise en place de [Traducthons](http://www.multibao.org/lilianricaud/Minga/Traducthon.md), où des ressources jugées de qualité sont traduitent en français depuis l'anglais, l'allemand ou l'espagnol.
+* Action 3: mise en place de [Traducthons](http://www.multibao.org/lilianricaud/Minga/Traducthon.md), où des ressources jugées de qualité sont traduitent en français depuis l'anglais, l'allemand ou l'espagnol.
 
 > +90% des ressources traduites sont accessibles sous licence libre sur multibao.org
 > 2 traducthons par an, +40 ressources jugées de qualité par la communauté de contributeurs traduites
 
-* Action 2: mise en place d'[InstallParty](https://fr.wikipedia.org/wiki/Install_party) pour l'installation de boîtes à outils propres à une communauté locale. 
+* Action 4: mise en place d'[InstallParty](https://fr.wikipedia.org/wiki/Install_party) pour l'installation de boîtes à outils propres à une communauté locale. 
 
 > +50% des contributeurs ayant participé à une opération d'animation sont capables d'installer multibao.org sur leurs sites webs, de connecter des ressources, et d'expliquer à d'autres comment faire 
 > 2 Install Party par an, à chaque install party au moins 4 réseaux ont installé une instance décentralisée de multibào
