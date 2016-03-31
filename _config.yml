@@ -122,18 +122,17 @@ prose:
       - name: "title"
         field:
           element: "text"
-          label: "Titre"
-          value: "Contribution multibao"
+          label: "Titre pour moteurs de recherche"
+          value: ""
       - name: "description"
         field:
           element: "textarea"
-          label: "Courte description"
+          label: "Description pour moteurs de recherche"
           value: ""
       - name: "tags"
         field:
           element: "multiselect"
           label: "Mots clés (max 5)"
-          placeholder: "Choisir des tags"
           options:
             - name: "Ice breaker"
               value: "Ice breaker"
