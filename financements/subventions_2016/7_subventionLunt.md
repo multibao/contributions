@@ -88,7 +88,7 @@ _Avez-vous déjà mesuré l’impact de votre action ? Si oui, quels en sont le
 * 16 l'ont déjà effectivement fait
 * 4 sont en cours d'écriture de leurs ressources
 * 112 membres à la liste de discussion relative au projet
-* + 90% des contributeurs actifs se jugent très satisfaits d'avoir déposé leurs ressources sur multiBà0 / 100% des réseaux contributeurs ont acté la gouvernance
+* +90% des contributeurs actifs se jugent très satisfaits d'avoir déposé leurs ressources sur multiBà0 / 100% des réseaux contributeurs ont acté la gouvernance
 * environ 1/3 des animateurs éducation populaire/animateurs éducation à l'environnement/facilitateurs/chargés de concertation/médiateurs territoriaux/ médiateurs numériques rencontrés connaissent et ont entendu parlé du projet
 
 # Votre projet
