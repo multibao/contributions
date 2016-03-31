@@ -18,7 +18,7 @@ Créée par Augusto Boal dans les années 60, cette méthodologie a été mise a
 
 Le théâtre forum met en scène des comédiens chargés d’improviser et de créer une pièce sur des thématiques sociales, économiques, sanitaires ou environnementales. Le but est de transformer le spectateur en acteur via l’expérimentation de scénarios avec le public aﬁn de trouver ensemble des alternatives possibles.
 
-À son origine le théâtre forum s’adressait princi-palement aux opprimés, c’est pourquoi la méthode s’est principalement développée dans les pays du Sud comme l’Inde, le Rajasthan, le Bengale, le Brésil, le Burkina Faso…
+À son origine le théâtre forum s’adressait principalement aux opprimés, c’est pourquoi la méthode s’est principalement développée dans les pays du Sud comme l’Inde, le Rajasthan, le Bengale, le Brésil, le Burkina Faso…
 
 Cependant, les pratiques du théâtre forum se sont élargies. Elles sont désormais organisées par divers types d’acteurs, touchent tous types de public et sont utilisées dans les pays d’Europe pour traiter des problèmes de société (commerce équitable, habitat durable, déchets, eau…).
 
@@ -45,7 +45,9 @@ Accueil des participants et présentation du théâtre forum pour préparer le p
 
 Dans un premier temps, la pièce est jouée par les acteurs dans le but de placer contextuellement le sujet ou la thématique abordée, de soulever les grandes questions à travers une succession de scènes. Au cours de cette première phase qui dure environ 15 minutes, le public est passif et observe les scènes qui sont jouées.
 
-#### Deuxième représentation de la pièce et invitation des spectateurs à participer Dans un second temps, le public va être amené à jouer un rôle plus actif et à identiﬁer des solutions aux problèmes posés par les acteurs. Les scènes de la pièce sont jouées à nouveau par les comédiens. Mais à la différence de la première phase, cette fois les spectateurs sont invités à intervenir dans le cours de la pièce en venant sur scène pour remplacer un personnage ou en ajouter un, transformant ainsi le dénouement de la pièce et apportant son point de vue.
+#### Deuxième représentation de la pièce et invitation des spectateurs à participer 
+
+Dans un second temps, le public va être amené à jouer un rôle plus actif et à identiﬁer des solutions aux problèmes posés par les acteurs. Les scènes de la pièce sont jouées à nouveau par les comédiens. Mais à la différence de la première phase, cette fois les spectateurs sont invités à intervenir dans le cours de la pièce en venant sur scène pour remplacer un personnage ou en ajouter un, transformant ainsi le dénouement de la pièce et apportant son point de vue.
 
 Le spectateur devient alors « spect'acteur » et a l’opportunité de prendre le rôle d’un personnage pour tenter d’établir une alternative au conﬂit en question dans la scène. Chaque personne du public est libre d’intervenir ou non, au moment qui lui semble le plus opportun, le joker à certains moments clés invite le public à participer ou alors une personne du public peut elle-même intervenir lorsqu’elle le souhaite en disant « stop » et en rejoignant la scène.
 
