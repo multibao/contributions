@@ -117,7 +117,7 @@ prose:
       - name: "author"
         field:
           element: "text"
-          label: "Contributeurs"
+          label: "Auteurs"
           value: ""
       - name: "title"
         field:
@@ -128,12 +128,13 @@ prose:
         field:
           element: "textarea"
           label: "Description"
+          placeholder: "en une courte phrase"
           value: ""
       - name: "tags"
         field:
           element: "multiselect"
           label: "Mots clés (max 5)"
-          placeholder: "Choisir des tags"
+          placeholder: "choisir des tags"
           options:
             - name: "Ice breaker"
               value: "Ice breaker"
