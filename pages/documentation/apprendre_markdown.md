@@ -6,12 +6,12 @@ Si vous venez sur cette ressource pour apprendre le langage Markdown, sautez le 
 
 ça y est, j'ai eu mon accès [contributeur](https://github.com/multibao/documentation/blob/master/fiches/obtenir_donner_acces_contributeur.md), à moi la liberté ! Une proposition ? ;)
 
-1. Rends toi dans le dossier https://github.com/multibao/contributions/tree/master/contributions où sont stockées toutes les fiches du dépôt. On va imaginer que tu as accès au dépôt « multibao », rends toi alors dans le dossier https://github.com/multibao/contributions/tree/master/contributions. Ouvre le dans un nouvel onglet pour pouvoir surfer entre cette fenêtre et l'autre. 
-2. Dans ce dossier, il y a une fiche qui s'appelle [« Mur des nouveaux contributeurs »](https://github.com/multibao/contributions/blob/master/contributions/mur_nouveaux_contributeurs.md), cliques dessus
-3. Bienvenue sur une fiche multiBàO, celle ci présente la fiche méthode « mur des nouveaux contributeurs ». A vrai dire c'est une fiche sur laquelle tu vas pouvoir t'entraîner, laisser une trace (ou pas), …
+1. Rends-toi dans le dossier https://github.com/multibao/contributions/tree/master/contributions où sont stockées toutes les fiches du dépôt. On va imaginer que tu as accès au dépôt « multibao », rends-toi alors dans le dossier https://github.com/multibao/contributions/tree/master/contributions. Ouvre-le dans un nouvel onglet pour pouvoir surfer entre cette fenêtre et l'autre. 
+2. Dans ce dossier, il y a une fiche qui s'appelle [« Mur des nouveaux contributeurs »](https://github.com/multibao/contributions/blob/master/contributions/mur_nouveaux_contributeurs.md), clique dessus.
+3. Bienvenue sur une fiche multiBàO, celle-ci présente la fiche méthode « mur des nouveaux contributeurs ». A vrai dire c'est une fiche sur laquelle tu vas pouvoir t'entraîner, laisser une trace (ou pas), …
 4. **Il y a plein d'exercices qui te sont proposés ci dessous**
-4. Sur la fiche, à coté de * Raw *, * Blame * et * History * il y a un dessin de crayon (option éditer). Cliques dessus.
-5. Bienvenue sur ta première fiche multiBàO. Et mince, c'est pas un document word;) ! Le langage avec lequel nous co-écrivons les fiches s'appelle * Markdown *. Son but est d'offrir une syntaxe très facile à lire et écrire. Nous te décrivons ci dessous quelques exercices. Dès que tu auras modifié ta fiche, descens en bas de ton écran et cliques sur «commit changes». Tu pourras alors à la fois consulter la fiche sous  https://github.com/multibao/contributions/blob/master/contributions/mur_nouveaux_contributeurs.md et sur [multibao](http://www.multibao.org/contributions/multibao/contributions/mur_nouveaux_contributeurs) où elle sera instanément actualisée.
+4. Sur la fiche, à coté de * Raw *, * Blame * et * History * il y a un dessin de crayon (option éditer). Clique dessus.
+5. Bienvenue sur ta première fiche multiBàO. Et mince, c'est pas un document word ;) ! Le langage avec lequel nous co-écrivons les fiches s'appelle * Markdown *. Son but est d'offrir une syntaxe très facile à lire et écrire. Nous te décrivons ci-dessous quelques exercices. Dès que tu auras modifié ta fiche, descends en bas de ton écran et clique sur «commit changes». Tu pourras alors à la fois consulter la fiche sous  https://github.com/multibao/contributions/blob/master/contributions/mur_nouveaux_contributeurs.md et sur [multibao](http://www.multibao.org/contributions/multibao/contributions/mur_nouveaux_contributeurs) où elle sera instanément actualisée.
 6. On y va ! 
 
 # Exercice 1 : écris quelques titres
@@ -35,7 +35,7 @@ De même pour \#\#\# Titre 3, \#\#\#\# Titre 4, etc.
 **je suis un peu gras** s'écrit \*\* je suis un peu gras\*\*
 *je suis italique* s'écrit \*je suis italique\* (ça se dit, ça?)
 
-# Exercice 3 : insères tes « puces »
+# Exercice 3 : insère tes « puces »
 
 * à la claire fontaine
 * j'ai bu d'leau cristaline®
@@ -50,7 +50,7 @@ s'écrit
 
 [lien vers multiBàO](http://multibao.org) s'écrit \[lien vers multiBàO\]\(http://multibao.org\) 
  
-## Exercice 5 : insères une image à ta fiche
+## Exercice 5 : insère une image à ta fiche
 
 ### Si on l'a sous la forme d'un lien hypertexte
 
@@ -96,13 +96,13 @@ Exemple :
 
 ### A l'endroit où l'on veut que la note pointe
 
-Par exemple à la fin de mon document je créé un chapître "Sources", section dans laquelle je vais citer les différents auteurs, ouvrages...
+Par exemple à la fin de mon document je crée un chapitre "Sources", section dans laquelle je vais citer les différents auteurs, ouvrages...
 
 Pour créer le paragraphe: 
 
 ##Sources
 
-j'indique donc:
+J'indique donc:
 
 \#\# Sources
 
