@@ -169,7 +169,7 @@ Nous insistons particulièrement sur le fait qu'au bout de ces 3 années de part
 
 * Action A1: entretenir et consolider les relations diplomatiques entre réseaux  (2015-2018)  
 
-> +90% des contributeurs actifs se jugent très satisfaits d'avoir déposé leurs ressources sur multiBà0 / 100% des réseaux contributeurs ont acté la gouvernance
+> 90% des contributeurs actifs ou + se jugent très satisfaits d'avoir déposé leurs ressources sur multiBà0 / 100% des réseaux contributeurs ont acté la gouvernance
 > +40 réseaux contributeurs sur les 80 réseaux producteurs de données sur les approches collaboratives répérées dans le monde francophone / + 500 ressources de qualité
 
 
