@@ -138,7 +138,7 @@ Nous insistons particulièrement sur le fait qu'au bout de ces 3 années de part
 
 ## Evaluation
 
-**Définitions relatives à la compréhension de l'objectif**
+Les critères d'évaluation spécifiés ci dessous correspondent à ceux attendus à la fin de chaque période. 
 
 ### Objectif I.I - Favoriser la mutualisation inter-réseaux de ressources de qualité (2015-2018) 
 
