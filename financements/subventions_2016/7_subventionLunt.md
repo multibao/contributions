@@ -17,7 +17,7 @@ multiBàO.org (ou multi Boîte à Outils) est une plateforme contributive reposa
 
 * **Bien commun**: patrimoine bénéficiant à une ou plusieurs communautés
 * **Réseaux**: structures associatives, entreprenariales, institutionnelles ou collectifs de structures. Sur multiBàO se côtoient des structures à la fois institutionnelles (ex: Université de Bordeaux), associatives (ex: Réseau transition Belgique) et entreprenariales (ex: Scopyleft). Des communautés de pratiques (ex: AnimFr) sont aussi impliquées.
-* **Ressources**: ressources numériques ou papier, publiées sous la forme de documentations écrites ou de vidéos. La plateforme multiBàO.org est composée de ressources numériques présentées sous la forme de fiches méthodologiques et de témoignages (retours d'expériences, interviews filmés)
+* **Ressources**: ressources numériques ou papier, publiées sous la forme de documentations écrites ou de vidéos. La plateforme multiBàO.org est composée de ressources numériques présentées sous la forme de fiches méthodologiques et de témoignages (retours d'expériences, interviews filmées)
 
 ## Domaine d’action (plusieurs possibilités)
 
@@ -33,7 +33,7 @@ _A quelle problématique sociale ou environnementale tentez-vous de répondre ?_
 
 La résolution des défis sociaux et environnementaux et les initiatives de transition sont freinées par deux problématiques sur lesquelles nous travaillons spécifiquement:
 
-* manque de mutualisation inter-réseaux (mise en commun de ressources financières, humaines ou numériques, de manière décentralisé et distribué)
+* manque de mutualisation inter-réseaux (mise en commun de ressources financières, humaines ou numériques, de manière décentralisée et distribuée)
 * méconnaissance des approches collaboratives  
 
 ## Solution innovante
@@ -48,7 +48,7 @@ Multibao.org représente un travail de mise en commun inter-réseaux sur les bon
 
 Notre solution de démocratisation des approches collaboratives bénéfice d'un mouvement civique de fond. Nous la conjuguons avec la montée en flèche du Do It Yourself qui pourrait se traduire par Faites le vous-même. Cela nous amène à penser et confectionner une plateforme *Do It Together* et de montrer que *C'est possible de le faire et de donner le comment faire*.
 
-Pour décentraliser, Multibao renvoie celles et ceux qui découvrent ces approches vers celles et ceux qui les pratiquent déjà. Pour distribuer, nous mettons à dispostion les technologies permettant d'améliorer cette solution collective, de polliniser les démarches et reproduire soi même des équivalents de multibao dans d'autres domaines d'actions. 
+Pour décentraliser, Multibao renvoie celles et ceux qui découvrent ces approches vers celles et ceux qui les pratiquent déjà. Pour distribuer, nous mettons à dispostion les technologies permettant d'améliorer cette solution collective, de polliniser les démarches et reproduire soi-même des équivalents de multibao dans d'autres domaines d'actions. 
 
 ## Moyens
 
@@ -60,7 +60,7 @@ _De quels moyens humains et financiers (source de financement : dons, subsides,
  * La transposition des données sur multibào et leur mise à jour a nécessité le travail de 23 contributeurs issus de 8 structures associatives et institutionnelles différentes.
 
 Parmis les contributeurs les plus actifs: 
-* Le CPCOOP, Centre des Pratiques de la Cooperation, finance un salarié à mi-temps pour l'animation de multiBàO et consacre environ 1200 euros par mois consacré au développement web. L'association a financé 4 stagiaires pour faciliter la mutualisation inter-réseaux.
+* Le CPCOOP, Centre des Pratiques de la Coopération, finance un salarié à mi-temps pour l'animation de multiBàO et consacre environ 1200 euros par mois consacrés au développement web. L'association a financé 4 stagiaires pour faciliter la mutualisation inter-réseaux.
 * Scopyleft, par la mise à disposition régulière (2j par mois) d'un développeur web accompagnant bénévolement le développement technologique.
 * Réseau Transition Wallonie Bruxelles
 * Association Démocratie Ouverte, 2 jours de contribution salariée par mois. 
@@ -76,17 +76,17 @@ _Existe t-il déjà un plan de communication ? Quelle est l'image qui est commu
 
 * Notre plan communication se déploie en trois cercles d'influences centrés autour de l'archipel MultiBàO:
 
--- 1er cercle d'espace de communication intra communautaires en temps permanent qui vise les praticiens et les intéressés des pratiques collaboratives. Ce niveau est mis en action par les contributeurs de MultiBàO qui deviennent des prescripteurs dans leurs domaines d'activités. Ils essaiment donc naturellement l'image de MultiBàO. Le réfréncement web de la plateforme et son renforcement par le développement technologique jouent également un rôle important dans ce premier cercle de communaication.
+-- 1er cercle d'espace de communication intra communautaires en temps permanent qui vise les praticiens et les intéressés des pratiques collaboratives. Ce niveau est mis en action par les contributeurs de MultiBàO qui deviennent des prescripteurs dans leurs domaines d'activités. Ils essaiment donc naturellement l'image de MultiBàO. Le référencement web de la plateforme et son renforcement par le développement technologique jouent également un rôle important dans ce premier cercle de communication.
 
--- 2ème cercle d'espace de communication extra communautaires en temps répétés vise les praticiens, les intéressés et leurs collaborateurs. Ce niveau s'appuie sur l'implémentation des publications disponibles sur MultiBàO dans les sites web des différents organismes contributeurs. Nous le renforçons par la réalisation d'atelier, de formation, de BootCamp sur différents territoires. 
+-- 2ème cercle d'espace de communication extra communautaires en temps répétés vise les praticiens, les intéressés et leurs collaborateurs. Ce niveau s'appuie sur l'implémentation des publications disponibles sur MultiBàO dans les sites web des différents organismes contributeurs. Nous le renforçons par la réalisation d'ateliers, de formations, de BootCamp sur différents territoires. 
 
--- 3ème cercle d'espace public à temps ponctuels vise une population large dans l'ensemble des espaces de passage et de rassemblement donc les citoyens. Il se déploie par des cycle de conférences, des partenariats opérationnels et/ou évènementiels. 
+-- 3ème cercle d'espace public à temps ponctuels vise une population large dans l'ensemble des espaces de passage et de rassemblement, donc les citoyens. Il se déploie par des cycles de conférences, des partenariats opérationnels et/ou évènementiels. 
 
 * L'image de MultiBàO ainsi deployée dans l'espace et de le temps est comprise par les citoyens et publics larges comme une plateforme de partage des savoirs et des pratiques collaboratives. C'est un outil d'apprentissage.
 Les intéressés des pratiques et leurs cercles proches de collaborateurs perçoivent MultiBàO comme une opportunité de documenter projet, méthodes et méthodologies. C'est une plateforme de partage.
-Les contributeurs et animateurs de réseaux voient MultiBàO comme un boite à outils permettant de déployer par eux-mêmes des ressources à fort impact. C'est une technologie à grnad potentiel.
+Les contributeurs et animateurs de réseaux voient MultiBàO comme une boîte à outils permettant de déployer par eux-mêmes des ressources à fort impact. C'est une technologie à grand potentiel.
 
-* Nous nous positionnons ainsi comme une technologie d'avenir permettant la mise dans les Communs de ressources à valeurs ajoutées importantes, nous investissons l'espace de marché sous utilisé du partage trans-communautaires décentralisé et ditribué. Nous appyons notre démarche sur la demande croissante de mixité des réséaux.
+* Nous nous positionnons ainsi comme une technologie d'avenir permettant la mise dans les Communs de ressources à valeurs ajoutées importantes, nous investissons l'espace de marché sous utilisé du partage trans-communautaire décentralisé et ditribué. Nous appuyons notre démarche sur la demande croissante de mixité des réseaux.
 
 
 
@@ -100,7 +100,7 @@ Avec sa structure et son organisation innovantes, Multibao s'appuie sur un "advi
 
 _Avez-vous déjà mesuré l’impact de votre action ? Si oui, quels en sont les résultats ? Sinon, quel impact estimez-vous avoir ?_ 
 
-* 30 réseaux sur les 80 réseaux producteurs de données sur les approches collaboratives répérées dans le monde francophone se sont engagés verbalement dans l'accord de mutualiser avec les autres réseaux leurs ressources sur multiBàO
+* 30 réseaux sur les 80 réseaux producteurs de données sur les approches collaboratives repérées dans le monde francophone se sont engagés verbalement dans l'accord de mutualiser avec les autres réseaux leurs ressources sur multiBàO
 * 16 l'ont déjà effectivement fait
 * 4 sont en cours d'écriture de leurs ressources
 * 112 membres à la liste de discussion relative au projet
@@ -115,26 +115,26 @@ _Pour quel projet sollicitez-vous le soutien d’un philanthrope ?_
 Nous avons besoin du soutien d'un philanthrope pour nous aider à trouver notre autonomie sous 3 ans au niveau technologique et financier. 
 
 * le développement d'une technologie *à  partir de rien*, *sur-mesure pour des utilisateurs* est l'opération la plus couteuse. Nous avons un besoin financier pour parvenir à générer une version 1.0 de la technologie, c'est à dire une version stable et sans dysfonctionnements pour les contributeurs. 
-* de même, l'aide d'une fondation philanthropique permettrait de faciliter la rencontre et la mutualisation de ces différents réseaux; notamment en participant au financement d'actions de communication et de rencontre des réseaux. 
+* de même, l'aide d'une fondation philanthropique permettrait de faciliter la rencontre et la mutualisation de ces différents réseaux, notamment en participant au financement d'actions de communication et de rencontre des réseaux. 
 
 ## Plan de développement
 _Quels sont vos besoins humains et financiers pour accomplir votre projet ? Quels sont vos manques ?_
 
 55 000 euros au total réparti de façon suivante:
-* Developpement web, 34 200 euros, concernant l'activité de 5 personnes (3 developpeurs, 1 procduct owner, 1 srcum master) reparti sur 2 sprints d'1 semaine chacun.
+* Developpement web, 34 200 euros, concernant l'activité de 5 personnes (3 developpeurs, 1 product owner, 1 scrum master) repartis sur 2 sprints d'1 semaine chacun.
 * 6000 euros pour les déplacements en France et à l'étranger (Zone de la Francophonie), 3 opérations coordonnées avec une dizaine de personnes à chaque déplacement.
-* 14 800 euros pour la conception et réalisation de 3 ateliers "Bootcamp" sur 3 territoires diffèrents dans la francophonie. 
+* 14 800 euros pour la conception et réalisation de 3 ateliers "Bootcamp" sur 3 territoires différents dans la francophonie. 
 
 ## Timing
 _Pour combien de temps désirez-vous créer un partenariat ?_
 
-Afin de voir l’évolution des impacts du Réseau et du renforcement de nos capacités et de pouvoir implémenter une amélioration continue durant les prochaines années, cruciales sur le plan sociétal, nous envisageons un partenariat pour ce projet sur 3 ans (2016-2018)
+Afin de voir l’évolution des impacts du Réseau et du renforcement de nos capacités et de pouvoir implémenter une amélioration continue durant les prochaines années, cruciales sur le plan sociétal, nous envisageons un partenariat pour ce projet sur 3 ans (2016-2018).
 
 ## Objectifs
 _Quel est l’objectif que vous désirez atteindre à la fin du partenariat (objectifs financiers & sociaux) ?_
 
 Avoir rempli sous 2 ans les objectifs tels que nous les présentons dans la section *Evaluation*. 
-Nous insistons particulièrement sur le fait qu'au bout de ces 3 années de partenariat nous souhaitons avoir assi une autonomie financière pour le projet. 
+Nous insistons particulièrement sur le fait qu'au bout de ces 3 années de partenariat nous souhaitons avoir aussi une autonomie financière pour le projet. 
 
 ## Evaluation
 
@@ -246,13 +246,13 @@ Nous insistons particulièrement sur le fait qu'au bout de ces 3 années de part
 
 > A spécifier
 
-### Objectifs II.II - Rendre accessible ce patrimoine commun et inspirer de nouveaux usages par la mise d'opérations d'animation (2016-2017)
+### Objectifs II.II - Rendre accessible ce patrimoine commun et inspirer de nouveaux usages par la mise en place d'opérations d'animation (2016-2017)
 
 * Action 1: mise en place de *Bootcamps*, des camps de 4 jours où citoyens intéressés et practiciens de communautés de pratique et de cultures différentes se rencontrent autour d'une thématique.  
 
 > 2 bootcamps par an, +20 participants par bootcamp, +4 communautés de pratiques représentés, +30% des participants sont des citoyens curieux non practiciens aux approches collaboratives, +90% des participants jugent post-événement avoir "très bien investi leur temps en participant au Bootcamp". 
 
-* Action 2: mise en place de [Mingas](http://www.multibao.org/lilianricaud/Minga/Minga.md), temps collectifs de documentation en ligne où un porteur de pratique présente ses retours d'expériences et conseil, et où des participants documentent collaborativement l'approche. Cette documentation fait l'objet d'une publication où la vidéo de l'événement est restitutée. 
+* Action 2: mise en place de [Mingas](http://www.multibao.org/lilianricaud/Minga/Minga.md), temps collectifs de documentation en ligne où un porteur de pratique présente ses retours d'expériences et conseil, et où des participants documentent collaborativement l'approche. Cette documentation fait l'objet d'une publication où la vidéo de l'événement est restituée. 
 
 > +90% des pratiques présentées font l'objet d'une documentation sous licence libre visible sur multibao.org 
 > 6 mingas par an, +12 participants à chaque minga, +500 consultations de la fiche/visionnage
@@ -264,5 +264,5 @@ Nous insistons particulièrement sur le fait qu'au bout de ces 3 années de part
 
 * Action 4: mise en place d'[InstallParty](https://fr.wikipedia.org/wiki/Install_party) pour l'installation de boîtes à outils propres à une communauté locale. 
 
-> +50% des contributeurs ayant participé à une opération d'animation sont capables d'installer multibao.org sur leurs sites webs, de connecter des ressources, et d'expliquer à d'autres comment faire 
+> +50% des contributeurs ayant participé à une opération d'animation sont capables d'installer multibao.org sur leurs sites web, de connecter des ressources, et d'expliquer à d'autres comment faire 
 > 2 Install Party par an, à chaque install party au moins 4 réseaux ont installé une instance décentralisée de multibào
