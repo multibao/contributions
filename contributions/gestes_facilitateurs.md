@@ -1,3 +1,12 @@
+---
+author: Réseau transition Belgique
+description: Gestes pour une parole plus fluide et harmonieuse
+tags: 
+  - Collaboration
+published: false
+title: Gestes facilitateurs de discussion
+---
+
 #Gestes facilitateurs de discussion : 
 
 Ces gestes ont chacun leur signification et permettent une gestion de la parole plus fluide et harmonieuse. Leur utilisation est la bienvenue dans toutes réunions et dans les pratiques de parole au centre (vous pouvez en savoir plus sur la pratique de la parole au centre sur la fiche "gestion de parole"). Il est toujours préférable de rappeler ces gestes et la consigne qui va avec chacun d’eux au début d’une réunion quand on pose le cadre pour éviter une mauvaise utilisation. 
@@ -81,4 +90,4 @@ On utilise ce geste quand on sent que les discussions se répètent ou tournent 
 
 Modèle : François Wuidard. 
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA.
