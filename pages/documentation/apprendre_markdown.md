@@ -98,7 +98,7 @@ Exemple :
 
 Par exemple à la fin de mon document je crée un chapitre "Sources", section dans laquelle je vais citer les différents auteurs, ouvrages...
 
-J'insère le code HTML suivant : 
+J'insère le code html suivant : 
 
 `<a id="note"> <a id="note">`
 
