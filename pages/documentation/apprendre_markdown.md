@@ -6,7 +6,7 @@ Si vous venez sur cette ressource pour apprendre le langage Markdown, sautez le 
 
 ça y est, j'ai eu mon accès [contributeur](https://github.com/multibao/documentation/blob/master/fiches/obtenir_donner_acces_contributeur.md), à moi la liberté ! Une proposition ? ;)
 
-1. Rends-toi dans le dossier https://github.com/multibao/contributions/tree/master/contributions où sont stockées toutes les fiches du dépôt. On va imaginer que tu as accès au dépôt « multibao », rends-toi alors dans le dossier https://github.com/multibao/contributions/tree/master/contributions. Ouvre-le dans un nouvel onglet pour pouvoir surfer entre cette fenêtre et l'autre. 
+1. On va imaginer que tu as accès au dépôt « multibao », rends-toi alors dans le dossier https://github.com/multibao/contributions/tree/master/contributions. Ouvre-le dans un nouvel onglet pour pouvoir surfer entre cette fenêtre et l'autre. 
 2. Dans ce dossier, il y a une fiche qui s'appelle [« Mur des nouveaux contributeurs »](https://github.com/multibao/contributions/blob/master/contributions/mur_nouveaux_contributeurs.md), clique dessus.
 3. Bienvenue sur une fiche multiBàO, celle-ci présente la fiche méthode « mur des nouveaux contributeurs ». A vrai dire c'est une fiche sur laquelle tu vas pouvoir t'entraîner, laisser une trace (ou pas), …
 4. **Il y a plein d'exercices qui te sont proposés ci dessous**
@@ -98,17 +98,11 @@ Exemple :
 
 Par exemple à la fin de mon document je crée un chapitre "Sources", section dans laquelle je vais citer les différents auteurs, ouvrages...
 
-Pour créer le paragraphe: 
-
-##Sources
-
-J'indique donc:
-
-\#\# Sources
-
-Dans lequel j'insère le code suivant : 
+J'insère le code HTML suivant : 
 
 `<a id="note"> <a id="note">`
+
+> On passe en html car le language Markdown n'est pas suffisant pour pouvoir mettre des notes qui renvoient vers les sources. C'est une petite manoeuvre qui sera agréable pour les lecteurs. Louise! 
 
 Puis les notes en question :
 
