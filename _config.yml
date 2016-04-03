@@ -98,7 +98,17 @@ daktary:
     - label: Onpassealacte
       account: onpassealacte
       repo: videos_initiatives
-      folder: 
+      folder:
+
+    - label: Habitats collectifs
+      account: onpassealacte
+      repo: videos_initiatives
+      folder: Habitats_collectifs
+
+    - label: Pédagogies école
+      account: onpassealacte
+      repo: videos_initiatives
+      folder: Pedagogies_ecole
 
     - label: Co-Creative Recipes
       account: lilianricaud
