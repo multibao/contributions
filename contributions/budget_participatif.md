@@ -1,3 +1,11 @@
+---
+author: ""
+description: null
+tags: null
+published: false
+title: Contribution multiBàO
+---
+
 #Budget participatif citoyen
 
 ## En une phrase  
@@ -7,7 +15,6 @@ Démarche pérenne, souvent annuelle, au cours de laquelle les citoyens peuvent 
 ## A quoi ça sert ?
 
 ![A quoi ça sert ?](http://farm8.staticflickr.com/7114/7408506410_715acb5f6f_z.jpg)
-
 Photo par [Tax Credits](https://www.flickr.com/photos/76657755@N04/7408506410) sous licence Creative Commons BY
 
 * Discuter et décider d'un budget **[2](#note)**
