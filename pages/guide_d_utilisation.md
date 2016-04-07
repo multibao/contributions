@@ -18,7 +18,7 @@
 * [s'authentifier](http://www.multibao.org/multibao/documentation/fiches/authentification.md)
 * [créer une fiche](http://multibao.org/multibao/documentation/fiches/creer_fiche_multibao.md)
 * [respecter la charte de nommage](http://multibao.org/multibao/documentation/fiches/charte_de_nommage.md)
-* indiquer les meta-datas de votre fiche
+* [indiquer les meta-datas de votre fiche](http://www.multibao.org/multibao/documentation/fiches/metadatas.md)
 
 **Interagir avec les autres utilisateurs**
 
@@ -60,4 +60,3 @@
 ---
 
 > Si vous n'avez toujours pas trouvé la réponse à votre question, vous pouvez contacter Thomas Wolff par [mail](mailto:thomas.wolff@cpcoop.fr) ou téléphone (0642459781)
-
