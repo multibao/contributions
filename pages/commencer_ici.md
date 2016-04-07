@@ -1,5 +1,7 @@
 # Commencer ici
 
+![Debut](https://framapic.org/oJfJGFYuQWMX/yJFwCXEKUBHh.jpg)
+
 Bienvenue! Il y a beaucoup d'informations ici, et tu ne vas certainement pas tout lire d'un coup. On te présente donc quelques pistes pour débuter.
 
 > multiBàO, c'est un endroit où on partage en équipe et au monde nos astuces sur le faire ensemble.
