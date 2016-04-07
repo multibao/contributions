@@ -7,7 +7,7 @@ Bienvenue! Il y a beaucoup d'informations à explorer sur multibao, et tu ne vas
 > multiBàO, c'est un endroit où on partage en équipe et au monde nos astuces sur le faire ensemble.
 
 Quand tu es sur la page d'accueil et que tu regardes la partie gauche de l'écran, tu découvres les équipes qui ont partagé avec toi leurs astuces. Tu trouveras sûrement des ressources de valeur pour toi. Prends le temps.
-Tu peux aussi utiliser multiBàO pour partager des ressources avec ton équipe ou pour faire des propositions de modification sur les fiches que tu consultes. [Teste toi](http://www.multibao.org/multibao/jemeteste/cliquesmoi).
+Tu peux aussi utiliser multiBàO pour partager des ressources avec ton équipe ou pour faire des propositions de modification sur les fiches que tu consultes. [Teste toi](http://www.multibao.org/multibao/jemeteste/test).
 
 *A savoir: la publication de la prochaine version de multiBàO, qui allège la présentation des fiches, est prévue pour fin avril 2016.*
 
