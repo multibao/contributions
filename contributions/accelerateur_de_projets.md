@@ -11,6 +11,7 @@ title: Accélérateur de projets
 ---
 
 
+
 # Accélérateur de projet
 
 ## En une phrase
@@ -81,6 +82,8 @@ Pour assurer le succès d’une telle démarche, l'animateur rappelle les règle
 * Avant l'étape 5 "le temps d'écoute", il peut être intéressant pour l’animateur de représenter aux participants le meilleur moyen d'aider le demandant : les objectifs sont de remettre de la complexité, de l'hétérogénéité, penser en terme de processus, de situation évolutive, sortir du binaire et accepter le ternaire « et ceci et cela », penser le contexte global, ne pas oublier la genèse de la situation, penser aux tabous ou aux non-dits, repérer les contradictions. Pour enrichir le problème et élargir sa vision.**[1](#note)** 
 
 ## Sources
+
+![rencontresmoustic]({{site.baseurl}}/media/les-rencontres-moustic-2015.jpg)
 
 <a id="note">
 * **(1)** Cours adapté de : Payette, A. et Champagne, C. Le groupe de codéveloppement professionnel, Sainte-Foy, Les Presses de l’Université du Québec,1997. Publié depuis [Moustic](http://moustic.info/2013/wakka.php?wiki=AccelerateurProjet) sous licence Creative Commons BY-SA
