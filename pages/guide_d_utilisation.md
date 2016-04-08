@@ -52,10 +52,14 @@
 * intégrer dans mon site web une ressource multiBàO
 * choisir la mise en page
 
-**Installer et réutiliser multiBàO pour un autre usage**
+**Intervenir sur multiBàO depuis mon ordinateur**
 
+* [utiliser git pour travailler sur mon dépôt depuis mon ordinateur](http://rogerdudler.github.io/git-guide/index.fr.html)
 * [installer multiBàO sur mon serveur local](https://github.com/multibao/site)
-* [réutiliser la technologie pour d'autres usages](https://github.com/multibao/site)
+
+**Détourner multiBàO pour un autre usage**
+
+* [Réutiliser le code de multibao](https://github.com/multibao/site)
 
 ---
 
