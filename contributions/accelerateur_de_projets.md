@@ -74,12 +74,14 @@ Après ce temps d'écriture , la personne qui a exposé sa situation présente s
 Pour fermer correctement la rencontre, il convient de faire un retour sur ce qui s’est passé. La personne qui a demandé de l’aide peut exprimer son vécu ; le groupe peut évaluer sa façon de procéder et, au besoin, y apporter des correctifs pour la prochaine rencontre. Il est conseillé de prendre quelques minutes pour noter individuellement ce que chacun retient de cette rencontre
 
 ### Conditions de réussite
-Pour assurer le succès d’une telle démarche, l'animateur rappelle les règles. Les participants apportent leur aide dans un esprit bienveillant et sans "juger". Cet exercice requiert de la part des utilisateur une attention aux autres. Ne pas faire d'intervention trop longue.**[1](#note)**
+Pour assurer le succès d’une telle démarche, l'animateur rappelle les règles. Les participants apportent leur aide dans un esprit bienveillant et sans "juger". Cet exercice requiert de la part des utilisateur une attention aux autres. Ne pas faire d'intervention trop longue.**[1](#note)**; **[2](#note)**
 
 ## Avantages et limites
 
 * Très efficace quand la situation et la demande sont clairement posées, que le public est hétérogène.**(1)**
 * Avant l'étape 5 "le temps d'écoute", il peut être intéressant pour l’animateur de représenter aux participants le meilleur moyen d'aider le demandant : les objectifs sont de remettre de la complexité, de l'hétérogénéité, penser en terme de processus, de situation évolutive, sortir du binaire et accepter le ternaire « et ceci et cela », penser le contexte global, ne pas oublier la genèse de la situation, penser aux tabous ou aux non-dits, repérer les contradictions. Pour enrichir le problème et élargir sa vision.**[1](#note)** 
+
+
 
 ## Sources
 
@@ -87,4 +89,6 @@ Pour assurer le succès d’une telle démarche, l'animateur rappelle les règle
 
 <a id="note">
 * **(1)** Cours adapté de : Payette, A. et Champagne, C. Le groupe de codéveloppement professionnel, Sainte-Foy, Les Presses de l’Université du Québec,1997. Publié depuis [Moustic](http://moustic.info/2013/wakka.php?wiki=AccelerateurProjet) sous licence Creative Commons BY-SA
-* **(2)** [Lilian RICAUD](http://www.lilianricaud.com/travail-en-reseau/moustic-evenement-participatif-usages-sociaux-internet/accelerateur-de-projet-collaboratif/), distribué sous licence Creative Commons BY-SA
+* **(2)** 
+Bonnes pratiques pour bien animer un accélérateur de projet (http://site-coop.net/wp37/quelles-seraient-pour-vous-les-bonnes-pratiques-pour-bien-animer-un-accelerateur-de-projet/) groupe DLA37  distribué sous licence Creative Commons BY-SA 
+* **(3)** [MousTIC](http://www.lilianricaud.com/travail-en-reseau/moustic-evenement-participatif-usages-sociaux-internet/accelerateur-de-projet-collaboratif/), distribué sous licence Creative Commons BY-SA
