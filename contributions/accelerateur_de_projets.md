@@ -89,6 +89,5 @@ Pour assurer le succès d’une telle démarche, l'animateur rappelle les règle
 
 <a id="note">
 * **(1)** Cours adapté de : Payette, A. et Champagne, C. Le groupe de codéveloppement professionnel, Sainte-Foy, Les Presses de l’Université du Québec,1997. Publié depuis [Moustic](http://moustic.info/2013/wakka.php?wiki=AccelerateurProjet) sous licence Creative Commons BY-SA
-* **(2)** 
-Bonnes pratiques pour bien animer un accélérateur de projet (http://site-coop.net/wp37/quelles-seraient-pour-vous-les-bonnes-pratiques-pour-bien-animer-un-accelerateur-de-projet/) groupe DLA37  distribué sous licence Creative Commons BY-SA 
+* **(2)** Bonnes pratiques pour bien animer un accélérateur de projet (http://site-coop.net/wp37/quelles-seraient-pour-vous-les-bonnes-pratiques-pour-bien-animer-un-accelerateur-de-projet/) groupe DLA37  distribué sous licence Creative Commons BY-SA 
 * **(3)** [MousTIC](http://www.lilianricaud.com/travail-en-reseau/moustic-evenement-participatif-usages-sociaux-internet/accelerateur-de-projet-collaboratif/), distribué sous licence Creative Commons BY-SA
