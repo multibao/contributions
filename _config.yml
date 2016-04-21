@@ -30,7 +30,7 @@ daktary:
       repo: democratie_ouverte
       folder: contributions
 
-    - label: Cpcoop
+    - label: Pratiques coopération
       account: multibao
       repo: contributions
       folder: contributions/cpcoop
@@ -50,7 +50,7 @@ daktary:
       repo: Holacracy-Constitution
       folder: 
 
-    - label: DSIDD
+    - label: Systèmes locaux
       account: multibao
       repo: contributions/contributions
       folder: d_sidd
@@ -65,17 +65,17 @@ daktary:
       repo: perles_gestion_projets
       folder: contributions
 
-    - label: Travail en Réseau
+    - label: Travailler en Réseau
       account: lilianricaud
       repo: travail-en-reseau
       folder:
   
-    - label: Minga
+    - label: Construire commun
       account: lilianricaud
       repo: Minga
       folder:
 
-    - label: Coop-Tic
+    - label: Coop-TIC
       account: supagroflorac
       repo: cooptic
       folder: contributions
