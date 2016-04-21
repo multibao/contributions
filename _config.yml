@@ -70,7 +70,7 @@ daktary:
       repo: travail-en-reseau
       folder:
   
-    - label: Construire commun
+    - label: Construire Communs
       account: lilianricaud
       repo: Minga
       folder:
