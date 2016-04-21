@@ -60,7 +60,7 @@ daktary:
       repo: contributions
       folder: contributions/jeu
 
-    - label: Thomas W.
+    - label: Orga personnelle
       account: wolffthomas
       repo: perles_gestion_projets
       folder: contributions
@@ -95,20 +95,25 @@ daktary:
       repo: contributions
       folder: contributions/edutech
 
-    - label: Onpassealacte
+    - label: Enseigner autrement
       account: onpassealacte
       repo: videos_initiatives
-      folder:
+      folder: enseigner_autrement
 
-    - label: Habitats collectifs
+    - label: Habiter ensemble
       account: onpassealacte
       repo: videos_initiatives
-      folder: Habitats_collectifs
+      folder: habiter_ensemble
 
-    - label: Pédagogies école
+    - label: Reinventer Démocratie
       account: onpassealacte
       repo: videos_initiatives
-      folder: Pedagogies_ecole
+      folder: reinventer_democratie
+
+    - label: Construire Réseaux
+      account: onpassealacte
+      repo: videos_initiatives
+      folder: reinventer_collaboration_gouvernance
 
     - label: Co-Creative Recipes
       account: lilianricaud
