@@ -45,4 +45,4 @@ multiBàO te permet d'utiliser 3 outils principaux, seul ou en équipe :
 * *l'éditeur* : une faute d'orthographe, un éclaircissement à apporter..., tu peux modifier les fiches que tu consultes via l'éditeur. Si un contributeur extérieur modifie ta ressource, tu recevras une proposition de modification.
 * *l'intégration* : insère une fiche de multiBàO à ton site web, ça prendra automatiquement la mise en page de ton site et sera actualisé dès qu'une modification sera approuvée. 
 
-Tu peux te [tester](http://www.multibao.org/multibao/jemeteste/cliquesmoi) en quelques clics ou consulter le [guide d'utilisation](http://www.multibao.org/multibao/documentation/README.md) qui répondra sûrement à tes questions.
+Tu peux te [tester](http://multibao.org/multibao/documentation/test) en quelques clics ou consulter le [guide d'utilisation](http://www.multibao.org/multibao/documentation/README.md) qui répondra sûrement à tes questions.
