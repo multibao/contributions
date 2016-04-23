@@ -14,6 +14,7 @@ Tu peux aussi utiliser multiBàO pour partager des ressources avec ton équipe o
 ## Explorer 
 
 **Travailler à distance, quels outils numériques collaboratifs ?**
+
 Jeter un coup d'oeil du côté du groupement d'associations [Coop-Tic](http://www.multibao.org/supagroflorac/cooptic/contributions) ainsi que les contenus de l'association [Cre-Sol](http://www.multibao.org/RomainLalande/Cre-sol/).
 
 **Facilitation, animation de groupe**
