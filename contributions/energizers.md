@@ -1,24 +1,31 @@
-#Les excercices énergisants
+---
+author: ""
+description: null
+tags: null
+published: false
+title: Contribution multiBàO
+---
+# Les excercices énergisants
 
 La liste d'excercices qui suit est une liste de différents excercices énergisants à utiliser lors de réunion/animation/formation. Elle est ,bien entendu, non exhaustive et peut être mis à jour par l'ajout d'excercices énergisants complémentaires à tout moments. 
 
 Ces excercices sont à utiliser quand les participants ont un "coup de mou", pour dynamiser les activités, ou encore simplement aider les participants à se réveiller en bougeant en début de journée. 
 
-#Jeu Du Ninja :
+# Jeu Du Ninja :
 
-##**Catégories** :
+##  **Catégories** :
 
 Énergisant, échauffement
 
-##**Nombre de participants** :
+##  **Nombre de participants** :
 
 4 minimum.
 
-##**Timing** :
+##  **Timing** :
 
 Une part fait 3-4 minute (mais cela peut être beaucoup plus longs si les participants sont doué à ce jeu et de niveau similaires).
 
-##**Déroulé et consignes aux participants** :
+##  **Déroulé et consignes aux participants** :
 
 1.	Formez un cercle, gardez plus ou moins une longueur de bras entre vous et vos voisins
 
@@ -28,26 +35,26 @@ Une part fait 3-4 minute (mais cela peut être beaucoup plus longs si les partic
 
 4.	Bien maintenant, on démarre avec (citez quelqu'un) puis on tourne dans le sens des aiguilles 
 
-##**Sources** :
+##  **Sources** :
 Cet exercice nous a été transmis par Fabian Féraux de la société « Les petits Mondes » et formateur, entre autres, en permaculture et en Holacratie : http://www.petitsmondes.be/
 
 Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
 
 # Le clap ou zap : 
 
-##**Catégories** :
+##  **Catégories** :
 
 Énergisant, échauffement 
 
-##**Nombre de participants** :
+##  **Nombre de participants** :
 
 5 participants minimum et maximum 20
 
-##**Timing** :
+##  **Timing** :
 
 Une part doit durer au minimum 5 minutes, vous pouvez faire durer l'excercice plus longtemps si vous sentez que les participants ont encore besoin de bouger un moment. 
 
-##**Déroulement** : 
+##  **Déroulement** : 
 
 1) Former un cercle avec les participants, tout le monde doit être debout
 
@@ -56,37 +63,37 @@ Une fois qu'un participant a reçu le zap/clap, il doit le renvoyer le plus vite
 
 3) désigner la personne qui commencera, et suiver les échanges pour vérifier que le "zap" ne se perds pas. Une fois que le groupe gère bien l'excercice avec un "zap", vous pouvez en rajouter un deuxième. 
 
-##**Précaution** : 
+##  **Précaution** : 
 
 Cet excercice existe sous d'autres nom en théatre et dans les jeux des mouvements de jeunesses, certaines règles complémentaires y sont généralement ajoutées par ces groupes. Avant d'ajouter une règle complémantaire, assurez vous bien que celle-ci soit comprise par tous les participants (les différences pouvant être nombreuses). 
 
 Exemple de règle complémentaire : *"Celui qui aura le "zap/clap" a maintenant la possibilité de dire le mot "Bombe", quand le mot "Bombe" sera prononcer, tous les particpants devront courrir dans le centre du cercle en criant avant d'aller se replacer dans le cercle à un endroit différents de celui où il étaient"*
 
-##Sources : 
+##  Sources : 
 
 Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
 
-#La Salade de Fruits : 
+# La Salade de Fruits : 
 
 Pour dynamiser une réunion/formation et empêcher que les gens ne s'assoupissent, on peut demander, qu'après une pause lors de la reprise, les personnes présentes changent de place entre eux (de préférence pour aller vers une place à laquelle ils n'ont pas encore été assis). 
 
 Avant le changement de place, il faut également préciser aux participants qu'ils changeront de perspectives de vue dans le groupe. La salade de fruit peut être aussi principalement utilisée à cet effet. 
 
-##Source de la fiche : 
+##  Source de la fiche : 
 
 Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
 
 # Le double cercle : 
 
-#I. Objectif : 
+# I. Objectif : 
 
 Animation
 
-##II. Matériel :
+##  II. Matériel :
 
 • un grand espace • un nombre limité de participants • une radio puissante ou tout autre matériel qui fait du bruit
 
-##III. Déroulement :
+##  III. Déroulement :
 
 • On divise les participants en deux groupes égaux. Si on peut séparer les hommes des femmes, c’est encore mieux. Un des deux groupes forme un cercle en se tenant par les bras et en regardant vers l’extérieur du cercle. L’autre groupe forme un cercle autour du premier, en se tenant les mains et en regardant vers l’intérieur. On demande que chaque membre du cercle extérieur se place face à une personne du cercle intérieur. Ils forment alors un couple. Chacun doit bien regarder qui est en face de lui.
 
@@ -98,11 +105,11 @@ Animation
 
 • La dynamique continue jusqu’à ce qu’il ne reste plus qu’un seul couple : le couple gagnant.
 
-##IV. Recommandations :
+## IV. Recommandations :
 
 On peut aussi utiliser cette technique pour faire les présentations, en lui ajoutant des éléments de la présentation par couples et de la présentation subjective
 
-##Sources : 
+##  Sources : 
 
 Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le manuel "Education Populaire : Manuel de techniques participatives "  sur base des ouvrages:
 
@@ -112,17 +119,17 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
-#Expression corporelle 
+# Expression corporelle 
 
-##I. Objectif :
+## I. Objectif :
 
 Animation
 
-##II. Matériel :
+## II. Matériel :
 
 Petits papiers
 
-##III. Déroulement :
+## III. Déroulement :
 
 On écrit sur des petits papiers des noms d’animaux (mâles et femelles), par exemple : lion sur un papier, lionne sur un autre. Il faut autant de papiers que de participants.
 
@@ -130,7 +137,7 @@ On distribue les papiers et durant 5 minutes, chaque participant doit mimer (san
 
 Une fois que tous les animaux sont en couple, chacun dit l’animal qu’il représentait pour voir s’ils étaient bien assortis. Le couple peut aussi mimer l’animal une seconde fois afin de faire deviner au reste du groupe leur animal et voir s’ils forment le bon couple
 
-##Sources : 
+## Sources : 
 
 Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le manuel "Education Populaire : Manuel de techniques participatives "  sur base des ouvrages:
 
@@ -140,13 +147,13 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
-#L’assassin 
+# L’assassin 
 
-##I. Objectif :  
+## I. Objectif :  
 
 Animation
 
-##II. Déroulement :
+## II. Déroulement :
 
 • Avant de commencer le jeu, on dit discrètement à certains participants qu’ils vont être les «assassins» (à peu près un assassin pour dix personnes). On leur explique que lorsqu’ils clignent de l’œil ou ferment l’œil, les personnes visées meurent. Les assassins doivent le faire très discrètement pour ne pas être découverts. Les assassins doivent se connaître entre eux pour ne pas se tuer mutuellement.
 
@@ -161,13 +168,13 @@ qu’on ne sait pas qui ils sont. Il montre le signal qu’utilisent les assassi
 
 Le jeu se termine lorsque tous les assassins ont été découverts ou bien quand ils ont tué tout le monde.
 
-##III. Recommandation :
+## III. Recommandation :
 
 Les ambulanciers et le juge doivent être provocateurs car ils animent le jeu.
 
 L’animateur doit sans cesse mettre la pression sur les participants, il dénombre les pertes humaines et les prisonniers tout en animant la dynamique. 
 
-##Sources : 
+## Sources : 
 
 Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le manuel "Education Populaire : Manuel de techniques participatives "  sur base des ouvrages:
 
@@ -177,17 +184,17 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
-#Le chaos 
+# Le chaos 
 
-##I. Objectif :
+## I. Objectif :
 
 Animation
 
-##II. Matériel :
+## II. Matériel :
 
 Crayon et papier
 
-##III. Déroulement :
+## III. Déroulement :
 
 On répartit une série de petits papiers (autant de papiers que de participants) sur lesquels l’animateur a écrit une série d’actions. Chaque participant doit jouer l’action qui se trouve sur son papier, au moment indiqué. 
 
@@ -195,13 +202,13 @@ Après avoir expliqué cela, l’animateur donne le signal de départ et tout le
 
 *Danser, chanter, miauler, sauter comme un lapin, chatouiller les autres…*
 
-##IV. Variantes :
+## IV. Variantes :
 
 On peut préparer une série de petits papiers sur lesquels on demande à plusieurs participants de s’associer avant de réaliser l’action. Par exemple : vache, traire, etc. Pour cette variation, il faut donner un temps plus long pour que 
 
 les différents participants qui prennent part à l’action puissent se retrouver.
 
-##Sources : 
+## Sources : 
 
 Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le manuel "Education Populaire : Manuel de techniques participatives "  sur base des ouvrages:
 
@@ -211,17 +218,17 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
-#Prise de foulards 
+# Prise de foulards 
 
-##I. Objectif  :
+## I. Objectif  :
 
 Animation
 
-##II. Matériel :
+## II. Matériel :
 
 • Corde • Foulards ou papiers avec papier collant
 
-##III. Déroulement :
+## III. Déroulement :
 
 • Tous les participants accrochent un foulard à leur ceinture, dans le dos, sans le nouer. Ensuite, ils passent leur bras gauche derrière leur dos et ils l’attachent au coude de leur bras droit avec un bout de corde (ce qui réduit considérablement la capacité de mouvement du bras droit). 
 
@@ -230,7 +237,7 @@ foulards des autres participants. Le gagnant est celui qui a réussi à enlever 
 
 • Si on a perdu son foulard ou si on libère son bras gauche pour attraper un foulard, on doit sortir du jeu
 
-##Sources : 
+## Sources : 
 
 Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le manuel "Education Populaire : Manuel de techniques participatives "  sur base des ouvrages:
 
@@ -240,19 +247,19 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
-#Pauvre petit chat 
+# Pauvre petit chat 
 
-##I. Objectif :
+## I. Objectif :
 
 Animation
 
-##II. Déroulement :
+## II. Déroulement :
 
 Tous les participants s’assoient en cercle. Un des joueurs devra être le chat. Il marche à quatre pattes et fait le tour jusqu’à s’arrêter devant l’un des participants. Il fait des grimaces et miaule trois fois. Chaque fois qu’il miaule, le joueur devant lequel il s’est arrêté, doit lui caresser la tête et lui dire «Pauvre petit chat» sans rire.
 
 Celui qui rit perd et reçoit un gage, sort du jeu ou doit faire le chat. Il faut établir une des trois règles avant de commencer le jeu.
 
-#Sources : 
+# Sources : 
 
 Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le manuel "Education Populaire : Manuel de techniques participatives "  sur base des ouvrages:
 
@@ -262,20 +269,20 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
 
-#Mer - Terre 
+# Mer - Terre 
 
-##I. Objectif  :
+## I. Objectif  :
 
 Animation
 
-##II. Déroulement :
+## II. Déroulement :
 
 Tous les participants se mettent debout. On les met un cercle ou en file selon l’espace disponible et le nombre de participants. On dessine une ligne qui représente le bord de mer derrière laquelle les participants se placent.
 Lorsque l’animateur crie «mer», tous les participants sautent au-dessus de la ligne. Lorsque l’animateur crie «terre», ils doivent tous faire un bond vers l’arrière. Le jeu doit être rapide, ceux qui se trompent sont exclus.
 
 *«Mer !» - «Terre !» «Mer !» - «Terre !»*
 
-##Sources : 
+## Sources : 
 
 Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le manuel "Education Populaire : Manuel de techniques participatives "  sur base des ouvrages:
 
@@ -285,13 +292,13 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
-#Le court-circuit 
+# Le court-circuit 
 
-##I. Objectif :
+## I. Objectif :
 
 Animation
 
-##II. Déroulement :
+## II. Déroulement :
 
 On demande à une personne de sortir. Le reste du groupe se met debout et forme un cercle en se tenant par la main. Le cercle est un circuit électrique dans lequel un bout du câble est dénudé. Celui qui est sorti doit alors trouver l’endroit en touchant toutes les têtes. Les participants se sont tous mis d’accord auparavant pour désigner, par exemple, la sixième personne comme étant la partie dénudée du câble. Lorsque le joueur touche cette tête, il provoque un court-circuit et tout le monde crie en même temps le plus fort possible.
 
@@ -299,7 +306,7 @@ Lorsqu’on appelle le joueur exclu du cercle, on lui explique seulement que le 
 
 Cette dynamique est très simple mais a un impact important. Elle doit avoir lieu dans un climat de concentration générale. 
 
-##Sources : 
+## Sources : 
 
 Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le manuel "Education Populaire : Manuel de techniques participatives "  sur base des ouvrages:
 
@@ -309,13 +316,13 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
-#Ça passe ou ça casse… 
+# Ça passe ou ça casse… 
 
-##I. Objectif :
+## I. Objectif :
 
 Animation
 
-##II. Déroulement :
+## II. Déroulement :
 
 On divise les joueurs en quatre groupes. Les groupes se placent le plus loin possible, aux quatre coins cardinaux. L’équipe du Nord face à l’équipe du Sud et l’équipe de l’Est face à l’équipe de l’Ouest.
 
@@ -328,12 +335,12 @@ Le policier et le surveillant décident quels sont ceux qui n’ont pas obéi à
 
 L’animateur, ou un autre participant, joue le rôle du juge pour désigner le vainqueur.
 
-##III. Recommandations : 
+## III. Recommandations : 
 
 Le policier doit être attentif pour dire «Halte!» aux moments opportuns. On recommande de faire un petit essai pour 
 voir si tout le monde a bien compris les instructions. 
 
-##Sources : 
+## Sources : 
 
 Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le manuel "Education Populaire : Manuel de techniques participatives "  sur base des ouvrages:
 
@@ -343,17 +350,17 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
-#Les clins d’œil 
+# Les clins d’œil 
 
-##I. Objectif :
+## I. Objectif :
 
 Animation
 
-##II. Matériel :
+## II. Matériel :
 
 Un nombre de chaises correspondant à la moitié des participants, plus une
 
-##III. Déroulement :
+## III. Déroulement :
 
 On divise les participants en deux groupes (avec un participant de plus dans le deuxième groupe). Le premier groupe constitue les «prisonniers», lesquels sont assis sur les chaises. Une chaise reste vide. 
 
@@ -365,7 +372,7 @@ Ce «gardien» doit faire un clin d’œil à l’un des prisonniers, lequel doi
 
 Si le prisonnier réussit à s’échapper, c’est au tour du gardien qui reste avec une chaise vide de faire un clin d’œil à un autre prisonnier. Tout doit se faire rapidement.
 
-##Sources : 
+## Sources : 
 
 Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le manuel "Education Populaire : Manuel de techniques participatives "  sur base des ouvrages:
 
@@ -375,13 +382,13 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
-#Le chef d’orchestre 
+# Le chef d’orchestre 
 
-##I. Objectif :
+## I. Objectif :
 
 Animation, concentration
 
-##II. Déroulement :
+## II. Déroulement :
 
 Les participants s’asseyent  en cercle (sur des chaises ou sur le sol).
 
@@ -390,19 +397,19 @@ On choisit une personne qui sort de la pièce. Le groupe se met d’accord sur l
 La personne qui était sortie rentre dans le cercle et doit découvrir qui a lancé le mouvement. Elle a trois chances pour l’identifier, sinon le groupe lui impose de faire quelque chose. Elle dispose aussi d’un temps limité 
 (approximativement 3 minutes) pour découvrir qui a commencé le mouvement.
 
-##III. Recommandations :
+## III. Recommandations :
 
 Le temps est un facteur de pression dans le jeu, ce qui le rend plus dynamique. L’animateur doit l’utiliser pour rendre le jeu plus enthousiasmant.
 
 Exemple : Après une minute ou deux, si le joueur n’a encore désigné personne, l’animateur commence à décompter les minutes à voix haute, etc.
 
-##IV. Variantes :
+## IV. Variantes :
 
 • On applique les mêmes règles, sauf qu’on ne désigne personne mais qu’on décide à l’avance d’une série de mouvement (par exemple : d’abord la tête, ensuite la bouche, ensuite les épaules, etc.).
 
 • On applique les mêmes règles, mais celui qui montre le mouvement est (sans le savoir) le participant qui est sorti de la pièce. Tout le monde imite les mouvements qu’il fait dès qu’il revient. Normalement, cette variante doit se jouer debout.
 
-##Sources : 
+## Sources : 
 
 Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le manuel "Education Populaire : Manuel de techniques participatives "  sur base des ouvrages:
 
@@ -412,13 +419,13 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
-#Debout – assis ! 
+# Debout – assis ! 
 
-#I. Objectif  :
+# I. Objectif  :
 
 Animation, concentration
 
-#II. Déroulement`:
+# II. Déroulement`:
 
 Tout le monde s’assied en cercle. L’animateur commence en racontant une histoire qu’il invente. Quand, au cours de son récit, il dit le mot «Qui», tout le monde doit se lever, et quand il dit le mot «Non», tout le monde doit s’asseoir.
 
@@ -430,7 +437,7 @@ L’animateur peut commencer l’histoire et ensuite faire signe à un autre par
 
 Celui qui raconte l’histoire doit le faire rapidement pour dynamiser le jeu ; s’il ne le fait pas, il perd aussi.
 
-##Sources : 
+## Sources : 
 
 Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le manuel "Education Populaire : Manuel de techniques participatives "  sur base des ouvrages:
 
@@ -440,13 +447,13 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
-#BOUM! 
+# BOUM! 
 
-##I. Objectif 
+## I. Objectif 
 
 Animation, concentration
 
-##II. Déroulement
+## II. Déroulement
 
 Tous les participants sont assis en cercle. À haute voix, chacun à son tour compte. Tous ceux qui ont un chiffre multiple de 3 (3-6-9-12, etc.) ou un chiffre qui se termine par 3 doivent dire BOUM au lieu de citer le chiffre. Le suivant doit continuer à compter normalement. Exemple: le premier dit UN, le deuxième DEUX, le troisième, qui est censé dire TROIS, dit BOUM et le suivant dit QUATRE.
 
@@ -460,7 +467,7 @@ Les deux derniers joueurs ont gagné.
 
 On peut compliquer le jeu en utilisant de plus grands multiples, ou en combinant les multiples de trois avec les multiples de cinq, par exemple. 
 
-##Sources : 
+## Sources : 
 
 Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le manuel "Education Populaire : Manuel de techniques participatives "  sur base des ouvrages:
 
@@ -470,13 +477,13 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
-#Jacques a dit… 
+# Jacques a dit… 
 
-##I. Objectif :
+## I. Objectif :
 
 Animation, concentration
 
-##II. Déroulement :
+## II. Déroulement :
 
 L’animateur explique qu’il va donner des ordres ; pour que les joueurs répondent aux ordres, ils doivent avoir entendu 
 la phrase «JACQUES A DIT» avant la consigne. Par exemple : «Jacques a dit de vous mettre debout». Les joueurs ne doivent agir que lorsqu’ils ont entendu «Jacques a dit». Ceux qui n’exécutent pas l’ordre ou qui ont obéi sans la phrase magique ont perdu. 
@@ -487,13 +494,13 @@ Par exemple : «Jacques a décidé que vous deviez vous asseoir» ; ceux qui ob�
 
 Le jeu prend fin lorsqu’il ne reste presque plus personne et que les ordres sont exécutés sans problème.
 
-##III. Recommandations :
+## III. Recommandations :
 
 Pour faire perdre les participants, il est bon de répéter rapidement plusieurs ordres corrects à la suite, et ensuite un incorrect : - «Jacques a dit grattez-vous la tête.» - «Jacques a dit tirez la langue.» - «Jacques a dit grattez-vous le ventre avec l’autre main.» - «Jacques a dit grattez-vous plus fort !» - «Criez !»
 
 Il est important que l’animateur connaisse bien le jeu pour que l’activité soit dynamique..
 
-##Sources : 
+## Sources : 
 
 Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le manuel "Education Populaire : Manuel de techniques participatives "  sur base des ouvrages:
 
@@ -503,23 +510,23 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
-#Le conte animé 
+# Le conte animé 
 
-##I. Objectif :
+## I. Objectif :
 
 Animation, concentration
 
-##II. Déroulement :
+## II. Déroulement :
 
 Tous les participants s’asseyent en cercle. L’animateur commence à raconter une histoire sur n’importe quel sujet, dans laquelle il inclut des personnages et des animaux dans certaines attitudes ou actions. On explique que quand l’animateur montre un des participants, ce dernier doit jouer l’animal ou la personne à laquelle l’animateur fait référence dans son histoire.
 
 *«En me promenant dans le parc, j’ai vu un petit enfant qui mangeait une glace» (il désigne quelqu’un) « …il était plein de glace et se léchait les mains. Sa maman est arrivée (il désigne une autre personne) et l’a grondé…» « …le petit enfant se mit à pleurer et fit tomber sa glace…» «…un chien (il désigne quelqu’un d’autre) arriva en courant et mangea la glace…»*
 
-##III. Recommandations  :
+## III. Recommandations  :
 
 Une fois le récit commencé, l’animateur peut faire en sorte qu’il se construise collectivement de manière spontanée, en donnant la parole à un autre participant pour qu’il le continue. 
 
-##Sources : 
+## Sources : 
 
 Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le manuel "Education Populaire : Manuel de techniques participatives "  sur base des ouvrages:
 
@@ -529,9 +536,9 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
-#L’entre-deux 
+# L’entre-deux 
 
-##I. Objectif : 
+## I. Objectif : 
 
 Animation
 
@@ -544,7 +551,7 @@ Le couple qui est à l’extérieur continue de se tenir par la main et marche a
 À un moment donné, le couple, qui s’est mis d’accord au préalable, va taper sur les mains d’un couple du cercle. 
 Les deux couples doivent alors courir autour du cercle dans des sens opposés. Chaque couple essaye de revenir en premier à la place libre. Les derniers arrivés perdent le duel et c’est à eux de recommencer
 
-##Sources : 
+## Sources : 
 
 Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le manuel "Education Populaire : Manuel de techniques participatives "  sur base des ouvrages:
 
@@ -554,19 +561,19 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
-#Girafes et éléphants 
+# Girafes et éléphants 
 
-##I. Objectif :
+## I. Objectif :
 
 Animation, concentration
 
-##II. Déroulement :
+## II. Déroulement :
 
 Tous les participants forment un cercle, excepté un d’entre eux qui reste au milieu. Ce dernier montre du doigt un des joueurs en disant : «girafe» ou «éléphant». S’il entend «girafe», celui qui est désigné doit lever les bras en l’air et ses voisins doivent s’abaisser et attraper ses pieds.
 
 Si celui qui est au centre dit «éléphant», la personne désignée doit imiter avec ses mains la trompe de l’éléphant tandis que ses voisins imitent les oreilles. Celui qui est distrait ou qui ne fait pas les bons gestes doit aller se placer au milieu et désigner une nouvelle personne. Et ainsi de suite…
 
-##Sources : 
+## Sources : 
 
 Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le manuel "Education Populaire : Manuel de techniques participatives "  sur base des ouvrages:
 
@@ -576,35 +583,35 @@ Traduit et adapté par l’équipe de [Quinoa](http://www.quinoa.be/) dans le ma
 
 Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA
 
-#LE TAPE CHAISE
+# LE TAPE CHAISE
 
-##A partir de :
+## A partir de :
 
 8 ans
 
-##Effectif +/- :	
+## Effectif +/- :	
 
 5
 
-##Durée :
+## Durée :
 
 15 mn
 
-##Lieu :
+## Lieu :
 
 Salle de taille moyenne
 
-##Intérêts :
+## Intérêts :
 
 Apprendre les prénoms des membres du groupe,
 
 Réagir immédiatement à une situation imprévue
 
-##Matériel :
+## Matériel :
 
 Une chaise par joueur
 
-##Déroulement / Règles :
+## Déroulement / Règles :
 
 **but du jeu** : deux joueurs se trouvent en concurrence pour occuper la même chaise laissée vide par un précédent 
 joueur.
@@ -617,31 +624,31 @@ Le concurrent C se précipite pour occuper la chaise vide sur laquelle on vient 
 
 Le joueur A, au centre, doit alors se dépêcher d'aller s'asseoir sur la chaise libérée par C, avant que le joueur D, situé à gauche de la chaise, ne tape dessus en criant le prénom de quelqu'un. Si le joueur A n'y parvient pas, il reste au milieu du cercle et tente sa chance au tour suivant. 
 
-##Sources : 
+## Sources : 
 
 Cet exercice vient du site [Association Service Jeunnese](http://www.servicejeunesse.asso.fr/index.htm), Tél. : 06 222 78 666 - Fax : 09 57 80 45 73   Contact : contact@servicejeunesse.asso.fr Webmaster et responsable de la publication : Renaud HOCHART
 
 Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
 
-#COURSE DE CHEVAUX
+# COURSE DE CHEVAUX
 
-##A partir de :
+## A partir de :
 
 8 ans
 
-##Effectif +/- :
+## Effectif +/- :
 
 5
 
-##Durée :
+## Durée :
 
 5 à 10 mn
 
-##Lieu :
+## Lieu :
 
 Salle
 
-##Intérêts :
+## Intérêts :
 
 Se concentrer sur l'attention auditive.
 
@@ -649,11 +656,11 @@ Exécuter rapidement une consigne verbale.
 
 Conseils sécurité :
 
-##Matériel :
+## Matériel :
 
 Aucun
 
-##Déroulement / Règles :
+## Déroulement / Règles :
 
   but du jeu : imiter les gestes présentés par le meneur de jeu.
 
@@ -669,49 +676,49 @@ Puis le meneur crie un changement de situation accompagné d'un geste qui doit �
 
 **Variante** : Le meneur de jeu montre une première fois les gestes correspondant aux différentes situations. Durant le jeu, il se limite à l'indication des consignes, sans refaire les mouvements. Les joueurs qui tardent à les exécuter ou se trompent sont éliminés.
 
-##Sources : 
+## Sources : 
 
 Cet exercice vient du site [Association Service Jeunnese](http://www.servicejeunesse.asso.fr/index.htm), Tél. : 06 222 78 666 - Fax : 09 57 80 45 73   Contact : contact@servicejeunesse.asso.fr Webmaster et responsable de la publication : Renaud HOCHART
 
 Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
 
-#Enlacé
+# Enlacé
 
-##A partir de :
+## A partir de :
 
 7 ans
 
-##Effectif +/- :
+## Effectif +/- :
 
 5 au minium
 
-##Durée :
+## Durée :
 
 12 min
 
-##Lieu :
+## Lieu :
 
 Intérieur / extérieur
 
-##Intérêts : 
+## Intérêts : 
 
 Mettre en conditions les joueurs pour développer ensuite les jeux coopératifs - se repérer - s'entre-aider - 
 mémoriser...
 
-##Conseils sécurité :	
+## Conseils sécurité :	
 
 La ficelle ne doit pas être trop fine, ni trop épaisse pour éviter coupures et/ou brûlures. On ne passera jamais la 
 ficelle autour du cou.
 
-##Matériel : 
+## Matériel : 
 
 Une bobine de ficelle assez importante en fonction du nombre de joueurs
 
-##But du jeu :
+## But du jeu :
 
 Remettre la ficelle en bobine après l'avoir déroulée.
 
-##Déroulement / Règles :	
+## Déroulement / Règles :	
 
 Le meneur attache un bout de ficelle au pied droit d'un des participants, le premier. Il lui donne ensuite la bobine entière. Celui-ci a pour consigne de passer dans la ficelle une partie de son corps (Tout sauf le cou). Un bras, épaule, tailles, bassin, pied, main...
 
@@ -723,8 +730,8 @@ Après cela le meneur demande aux participants de se libérer en ayant pour obje
 
 Attention au déplacement, ils doivent être lents.
 
-##Sources : 
+## Sources : 
 
 Cet exercice vient du site [Association Service Jeunnese](http://www.servicejeunesse.asso.fr/index.htm), Tél. : 06 222 78 666 - Fax : 09 57 80 45 73   Contact : contact@servicejeunesse.asso.fr Webmaster et responsable de la publication : Renaud HOCHART
 
-Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
+Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA.
