@@ -35,10 +35,10 @@ daktary:
       repo: contributions
       folder: contributions/cpcoop
 
-    - label: Chiendent
-      account: multibao
-      repo: contributions
-      folder: contributions/collectif_chiendent
+    - label: Réappropriation espace
+      account: chiendent
+      repo: atelier-de-rue
+      folder: 
   
     - label: Traducteurs agiles
       account: les-traducteurs-agiles
