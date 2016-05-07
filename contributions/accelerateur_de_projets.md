@@ -1,16 +1,9 @@
 ---
-author: "Outils Réseaux, Moustic, SupAgroFlorac"
+author: Outils Réseaux, Moustic, SupAgroFlorac
 description: Un accélérateur de projet permet de bénéficier du soutien de ses pairs pour résoudre une problématique
-tags: 
-  - Ice breaker
-  - Energizer
-  - Collaboration
-  - Projets
 published: true
 title: Accélérateur de projets
 ---
-
-
 
 # Accélérateur de projet
 
