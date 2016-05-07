@@ -1,10 +1,10 @@
 ---
 contributeurs: Pntbr
 dossiers: 8
-fiches: 12
-bandeau_url: http://placehold.it/350x150
-titre: Contributions multibao
-description: La poésie, la mise en scène, la drogue, les pèlerinages, le dessin et la radio, chacune de ces activités a été un outil entre ses mains, « un moyen pour atteindre un peu de la réalité qui le fuit »1
+fiches: 120
+bandeau_url: https://github.com/captain-berrotte/astuces_stages_creatifs/blob/master/media/daily%20reunions.jpg?raw=true
+titre: Dépot contributions
+description: Dossier contenant une belle centaine de ressources non classées
 ---
 
 # Dépot principal des contributions
