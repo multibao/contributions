@@ -4,7 +4,7 @@ dossiers: 8
 fiches: 120
 bandeau_url: https://github.com/captain-berrotte/astuces_stages_creatifs/blob/master/media/daily%20reunions.jpg?raw=true
 titre: Dépot contributions
-description: Dossier contenant une belle centaine de ressources non classées
+description: Dossier contenant une belle centaine de ressources non classées dans des domaines aussi variés que la Démocratie participative, la facilitation ou encore la gestion de produits innovants.
 ---
 
 # Dépot principal des contributions
