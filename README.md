@@ -1,7 +1,4 @@
 ---
-contributors: Pntbr
-folders: 8
-files: 120
 title: Depot contributions
 description: Dossier contenant une belle centaine de ressources non classées dans des domaines aussi variés que la Démocratie participative, la facilitation ou encore la gestion de produits innovants.
 image_url: https://github.com/captain-berrotte/astuces_stages_creatifs/blob/master/media/daily%20reunions.jpg?raw=true
