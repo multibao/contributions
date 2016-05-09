@@ -17,3 +17,11 @@ Vous pouvez demander un accès contributeur en écrivant un mail à [Thomas](mai
 Pour toute question, vous pouvez consulter le [guide d'utilisation](https://github.com/multibao/documentation/README.md).
 
 https://github.com/captain-berrotte/astuces_stages_creatifs/blob/master/media/daily%20reunions.jpg?raw=true
+
+<object width="500" height="281">
+ <param name="allowfullscreen" value="true" />
+ <param name="allowscriptaccess" value="always" />
+ <param name="movie" value="https://vimeo.com/moogaloop.swf?clip_id=123003196&amp;server=vimeo.com&amp;color=00adef&amp;fullscreen=1" />
+ <embed src="https://vimeo.com/moogaloop.swf?clip_id=123003196&amp;server=vimeo.com&amp;color=00adef&amp;fullscreen=1"
+ type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="500" height="281"></embed>
+ </object>
