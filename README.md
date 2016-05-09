@@ -1,5 +1,5 @@
 ---
-title: Exploration multiBàO: ressources collaboratives mises à disposition
+title: Exploration multiBàO - ressources collaboratives mises à disposition
 description: Dossier contenant une belle centaine de ressources non classées dans des domaines aussi variés que la Démocratie participative, la facilitation ou encore la gestion de produits innovants.
 image_url: https://github.com/multibao/contributions/blob/master/media/christophe-michel-cc-by.jpg?raw=true
 ---
