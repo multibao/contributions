@@ -1,8 +1,5 @@
 ---
-contributeurs: Newick
-dossiers: 3
-fiches: 17
-bandeau: https://placeholdit.imgix.net/~text?txtsize=33&txt=350%C3%97150&w=350&h=150
-titre: Contributions multibao
-description: La poésie, la mise en scène, la drogue, les pèlerinages, le dessin et la radio, chacune de ces activités a été un outil entre ses mains, « un moyen pour atteindre un peu de la réalité qui le fuit »1
+title: Plus de 150 fiches outils-méthodes
+description: Un dépot-toir ;) avec plusieurs dizaines de dizaines de fiches outils-méthodes sur des thèmes aussi divers que la collaboration, la gestion de produi ou les Fablab. Pour l'instant non classé et à valoriser.
+image_url: https://github.com/multibao/contributions/blob/master/media/jean-sebastien-bouchard-cc-by-nc.jpg?raw=true
 ---
