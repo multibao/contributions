@@ -1,4 +1,4 @@
-#« Moi, à ta place, je » : 
+# « Moi, à ta place, je » : 
 
 ![Photo](http://farm4.staticflickr.com/3178/2935942116_44f95372c6_z.jpg)
 
@@ -6,7 +6,7 @@ Photo par [Jean-Pierre Dalbéra](https://www.flickr.com/photos/dalbera/293594211
 
 L'**objectif** de cet outil est de se mettre au service d'un projet / d'une problématique / d'une personne / d'une équipe en faisant émerger l'intelligence collective et la créativité.
 
-##Consignes :
+## Consignes :
 
 •	L'animateur est là pour garantir le bon déroulement de l'exercice. Il explique les consignes avant de démarrer, mais peut les rappeler pendant l'exercice si nécessaire. Il peut participer comme n'importe quel membre du cercle s'il le souhaite et s'il sait gérer la double casquette (animateur / participant).
 
@@ -34,7 +34,7 @@ L'**objectif** de cet outil est de se mettre au service d'un projet / d'une prob
 
 •	L'exercice se veut relativement dynamique.
 
-##Sources : 
+## Sources : 
 
 Cet outil est issu des pratiques de l'association [Exposant D](http://www.exposantd.be/site/exposant-d) à Liège (Belgique). 
 
