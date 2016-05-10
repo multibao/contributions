@@ -1,8 +1,8 @@
-#Gestion de parole : 
+# Gestion de parole : 
 
  Cette fiche est une liste non exhaustive des différents types de pratiques de gestion de parole en réunion/formation.Le but de ces pratiques st de faciliter l'écoute et l'expression de chacun de manière équitable. La parole étant un lieu de pouvoir, il est important de cadrer son expression
 
-##La parole au centre : 
+## La parole au centre : 
 
 Dans la parole au centre, les participants sont amenées au s'exprimer sur un sujet en particulier ou à exprimer leur météo intérieure (voir fiche meteo interieure).
 
@@ -15,13 +15,13 @@ Il est à noter que, si les participants ne peuvent pas interrompre la personne 
 
 3) Une fois les discussions finient le facilitateur/animateur offre sa parole au centre pour faire une synthèdes des propos des participants et cloturer la discussion. 
 
-##Parole tournante : 
+## Parole tournante : 
 
 Il s'agit de faire un "tour de table/parole" classique, dans le sens horlogique (lunaire) ou anti-horlogique (solaire) dans un espace spatial. Les participants doivent avoir la possibilité de passer leur tour de parole s'ils ne souhaitent pas parler à ce moment la). On peut faire plusieurs tours si cela est nécéssaire pour une même discussion. Lorsqu'un participant parle, son parole ne peut pas être interrompue par les autres participants ou l'animateur/formateur. 
 
 Lors de réunion par vidéo conférence, ces tours peuvent se faire dans l'ordre alphabétique des prénom des participants pour avoir plus de fluidités dans les échanges. Veillez toutefois à rappeler l'ordre du tour de parole dans la conversation avec un moyen mémo technique simple. Par exemple : les participants s'appellent, Pierre, Corine, Emmanuel et Marie, dans la conversation écrite de la vidéo conférence vous pouvez indiquer "CEMP" afin que les participants gardent le fil. 
 
-##La parole pop-corn : 
+## La parole pop-corn : 
 
 Pour la parole pop-corn, cela peut s'apparanter à une conversation normale. Le but de la conversation est de faire émerger des idées ou de dégrossir un sujet. Pour ce les participants rebondissent sur les propos des uns et des autres (sans toutefois s'interrompre avec impolitesse). La parole saute d'un participant à l'autre sans discontinuer, car les participants rebondissent sur les propos des un et des autres. 
 
@@ -29,6 +29,6 @@ Ce type de parole est recommandé lors d'un brain storming, où le but est d'avo
 
 ![popcorn](http://t1.gstatic.com/images?q=tbn:ANd9GcQNxIcTuwz2DyQQWRpJVGMZCynOJ8IdQVeA-kqj0y3F_OX03E5F)
 
-##Source : 
+## Source : 
 
 Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique]( http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA. 
