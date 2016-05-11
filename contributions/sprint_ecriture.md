@@ -1,6 +1,10 @@
+---
+published: false
+title: Contribution multiBàO
+---
 # Sprint d'écriture
 
-##En une phrase
+## En une phrase
 
 le sprint d'écriture est un dispositif qui permet la co-rédaction d'un texte (ou un livre), selon un principe d'unité de temps et de lieu, et avec une méthode d'animation structurée.
 
@@ -8,13 +12,13 @@ le sprint d'écriture est un dispositif qui permet la co-rédaction d'un texte (
 
 Photo prise lors des rencontres [moustic 2015](http://moustic.info), par Thomas Wolff sous licence Creative Commons BY-SA
 
-##A quoi ça sert?
+## A quoi ça sert?
 
    • à mettre ses idées en commun et à les structurer pour produire un texte collaboratif
    • à rédiger ensemble -pratiquer la collaboration autour d'un objet textuel
    • à produire de manière intensive 
 
-##Informations pratiques
+## Informations pratiques
 
    • nombre pair de participants de 4 à 12
    • 1 ordinateur par personne et accès à internet
@@ -22,12 +26,12 @@ Photo prise lors des rencontres [moustic 2015](http://moustic.info), par Thomas 
    • post-its, paperboard, feutres
    • Durée recommandée, min 2h
 
-##Présentation:
+## Présentation:
 
 
 Le  sprint d'écriture implique la réunion d'un groupe de personnes en présentiel autour d'une grande table avec ordinateurs connectés. Cette technique est une manière collaborative de créer un texte: rapport d'activité, charte, vision partagée, article, page web... dans un temps imparti au déroulé structuré.
 
-##Procédure
+## Procédure
 
 Règles du jeu : on s'écoute, respect de la parole des autres. On va être amenés à rédiger ce qui se dit. On ne supprime pas de texte, on le barre, on laisse la trace pour reprendre des idées.
 
