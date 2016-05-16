@@ -1,3 +1,7 @@
+---
+published: false
+title: Contribution multiBàO
+---
 Introduction
 ------------
 
@@ -60,7 +64,7 @@ Nous verrons que les études rapportées ci-dessous permettent de mettre
 en évidence les points 2 (la comparabilité interpersonnelle des
 performances) et 3 (une pression normative versus une appréhension
 d’évaluation) au niveau du monitoring proposés par Buder. Ces points
-méritent bien entendu d’être investiguer d’avantage, mais les éléments
+méritent bien entendu d’être investigués d’avantage, mais les éléments
 réunis dans cette synthèse apportent déjà quelques pistes de réflexion.
 Nous allons donc voir ci-dessous comment les théories de la psychologie
 sociale viennent expliquer en partie quelques phénomènes observés dans
@@ -250,7 +254,7 @@ phénomène ?
 
 ### Codol et Lemaine : différenciation sociale
 
-Les théories de Festinger ont toutefois subit des critiques et ont été
+Les théories de Festinger ont toutefois subi des critiques et ont été
 complétées par d’autres études. Notamment, Codol (1975) avait décrit un
 phénomène de conformité supérieur de soi ou effet P.I.P (Primus Inter
 Pares, du latin pour Premier d’Entre les Pairs) (Codol, 1957, cité par
@@ -296,7 +300,7 @@ d’autrui qu’autrui n’ai différent de moi) » (Doise, Mugny & Deschamps,
 2004). Ce phénomène est appelé « assimilation égocentrée ». Ainsi, en
 lien avec ce phénomène, le simple fait d’être pris en considération par
 rapport à autrui peut être vécu par le sujet comme une menace pour son
-identité. Le sujet va alors plutôt tendance à adopter des comportements
+identité. Le sujet va alors avoir plutôt tendance à adopter des comportements
 de différenciation que des comportements de conformisme.  
   
 Dans l’étude de Molinari et al. (2009), on retrouve ce phénomène «
@@ -461,7 +465,7 @@ résultats. Ainsi, plusieurs pistes de recherches ont été proposées
 ci-dessus.  
   
 Tout d’abord, il serait intéressant de vérifier si les théories de la
-comparaison sociale de Festinger peuvent s’étend au MKM (Mutual
+comparaison sociale de Festinger peuvent s’étendre au MKM (Mutual
 Knowledge Model) et dans quelles mesures. Et si oui, est-ce que les
 partenaires dans une situation de collaboration, telles que celles que
 l’on retrouve dans l’étude de Molinari et al. (2009), mettent en place
