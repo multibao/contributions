@@ -1,3 +1,7 @@
+---
+published: false
+title: Contribution multiBàO
+---
 Introduction
 ------------
 
@@ -60,7 +64,7 @@ Nous verrons que les études rapportées ci-dessous permettent de mettre
 en évidence les points 2 (la comparabilité interpersonnelle des
 performances) et 3 (une pression normative versus une appréhension
 d’évaluation) au niveau du monitoring proposés par Buder. Ces points
-méritent bien entendu d’être investiguer d’avantage, mais les éléments
+méritent bien entendu d’être investigués d’avantage, mais les éléments
 réunis dans cette synthèse apportent déjà quelques pistes de réflexion.
 Nous allons donc voir ci-dessous comment les théories de la psychologie
 sociale viennent expliquer en partie quelques phénomènes observés dans
