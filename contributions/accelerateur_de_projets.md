@@ -33,7 +33,7 @@ Trois rôles devraient être assurés :
 
 **[1](#note)** 
 
-### Étape 0 : préparation (5 min.)
+### Étape 0 : Préparation (5 min.)
 
 Au début de la rencontre, le groupe devrait choisir :
 
@@ -42,19 +42,19 @@ Au début de la rencontre, le groupe devrait choisir :
 * une personne qui prendra les notes (ou fonction partagée sur pad)
 
 
-###  Étape 1 : exposé de la problématique ou de la situation (5 min)
+###  Étape 1 : Exposé de la problématique ou de la situation (5 min)
 
 La personne qui a accepté de soumettre son problème expose le plus clairement possible la situation et son contexte. Elle exprime ensuite la façon dont elle définit le problème. Les autres membres de l’équipe écoutent.
 
-### Étape 2 : clarification de la problématique (5 min)
+### Étape 2 : Clarification de la problématique (5 min)
 
 Les membres du groupe formulent les questions pour bien cerner la situation. Ils doivent, à cette étape, s’en tenir à des questions d’information factuelle (meilleure compréhension du contexte par ex). La personne qui a exposé sa situation apporte les précisions ensuite.
 
-### Étape 3 : contrat - reformulation de la question (1 min)
+### Étape 3 : Contrat - reformulation de la question (1 min)
 
 La personne qui a exposé sa situation précise clairement ce qu’elle attend des autres membres du groupe. (je voudrais que le groupe m'aide à ....)
 
-### Étape 4 : réactions, commentaires, suggestions (20- 30 min)
+### Étape 4 : Réactions, commentaires, suggestions (20- 30 min)
 
 Les autres membres du groupe interviennent : donnent leurs impressions, réactions, interprétations... Ils proposent une façon de voir autrement la situation. Ils peuvent faire des suggestions pratiques ou donner des conseils. La personne qui a exposé sa situation écoute et s'engage à ne pas intervenir. Elle a tout intérêt à noter par écrit ce qui lui paraît pertinent de retenir.
 
