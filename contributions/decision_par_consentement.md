@@ -1,10 +1,10 @@
-#Prise de décision par consentement 
+# Prise de décision par consentement 
 
-##1. Elaboration de la proposition 
+## 1. Elaboration de la proposition 
 
 A l'écoute du Centre, ou à son initiative, une personne élabore une proposition. 
 
-##2. Présenter la proposition 
+## 2. Présenter la proposition 
 
 Qui parle? Uniquement la personne qui propose
 
@@ -12,7 +12,7 @@ La personne qui propose présente sa proposition et le cas échéant la raison q
 
 Il n'y a aucune discussion ou réaction à ce stade de la part des membres du Cercle. 
 
-##3. Questions de clarification 
+## 3. Questions de clarification 
 
 Qui parle? Les membres du Cercle posent des questions (une personne à la fois, sans ordre établi) et la personne qui propose répond. 
 
@@ -20,13 +20,13 @@ Le Facilitateur sollicite des questions de clarification et vérifie que les mem
 
 Toute réaction à la proposition ou toute discussion qui s'amorce au sujet de la proposition est coupée par le Facilitateur. 
 
-##4. Tour de réaction 
+## 4. Tour de réaction 
 
 Qui parle? Les membres du Cercle chacun à leur tour, l'un après l'autre. La personne qui effectue la proposition écoute et ne s'exprime pas. 
 
 Le Facilitateur demande à chaque membre du cercle à son tour de réagir à la proposition. Il empêche toute forme de discussion entre les membres ou de réponse aux réactions exprimées. 
 
-##5. Amender et clarifier 
+## 5. Amender et clarifier 
 
 Qui parle? La personne qui propose uniquement. 
 
@@ -34,7 +34,7 @@ La personne qui propose peut (i) clarifier à nouveau certains aspects de la pro
 
 Le Facilitateur interrompt toute discussion ou commentaire de tout autre membre que la personne qui effectue la proposition.
 
-##6. Tour d'objection
+## . Tour d'objection
 
 Qui parle? Les membres du Cercle chacun à leur tour, l'un après l'autre. La personne qui effectue la proposition s'exprime également, en dernier lieu. 
 
@@ -56,7 +56,7 @@ Une objection n'est ni une préférence, ni un avis, ni une autre proposition. U
 
 Le Facilitateur dresse la liste des objections. Une fois le tour terminé, si aucune objection n'a été soulevée, la proposition est adoptée. Un membre peut "passer" une fois lorsqu'il lui est demandé s'il a une objection à la proposition. Dans ce cas, le Facilitateur revient à ceux qui ont passé pour leur donner une nouvelle occasion de s'exprimer. Tous les membres du Cercle participant à la réunion doivent s'exprimer pour qu'une décision soit prise. Les membres ne peuvent donc s'abstenir. 
 
-##7. Intégration et bonification 
+## 7. Intégration et bonification 
 
 Qui parle? Discussion ouverte dirigée par le Facilitateur
 
@@ -64,7 +64,7 @@ Le Facilitateur conduit une discussion ouverte, ayant pour objet chaque objectio
 
 Lorsqu'une nouvelle proposition amendée supprimant toutes les objections est élaborée, le Facilitateur revient au tour d'objection avec la proposition amendée. 
 
-##8. Célébration 
+## 8. Célébration 
 
 Pffffff... Quand ça fonctionne, qu'est-ce que c'est bon!!!
 
