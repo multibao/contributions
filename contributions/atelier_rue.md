@@ -1,11 +1,3 @@
----
-published: false
-title: Contribution multibao
-description: null
-tags: 
-  - Collaboration
----
-
 # Atelier de rue
 
 ## En une phrase  
