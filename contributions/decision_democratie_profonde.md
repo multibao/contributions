@@ -2,7 +2,9 @@
 
 La **démocratie profonde** est un concept, un modèle et une méthode pour faciliter la prise de décisions; elle peut aussi être utilisée pour la résolution de conflits. 
 
+
 ## Le concept
+
 
 ![La sagesse c'est chouette](http://farm7.staticflickr.com/6025/6012915752_5c07526892_z.jpg)
 
@@ -16,7 +18,9 @@ Chacun(e) de nous dans son iceberg (lire le modèle) est capable de résonner av
 
 La démocratie profonde tente de rassembler la diversité, d'ajouter la sagesse des minorités à la décision de la majorité et ainsi de produire une décision qui fait unanimité (voir la méthode). 
 
+
 ## Le modèle
+
 
 Dans cette perspective de l'iceberg de Freud, les décisions, les actions d'une personne sont induites par une petite part de conscience (au-dessus du niveau d'eau) et une grande part d'inconscient (sous le niveau d'eau).
 
@@ -26,7 +30,9 @@ Quand un groupe n'arrive pas à prendre une décision rationnelle, c'est lié à
 
 Si les questions émotionnelles, non-rationnelles ne sont pas adressées (prises en compte ou entendues), des "poissons" (symbolisant des dynamiques de résistance, de sabotage, de terrorisme) apparaîtront sous le niveau de l'eau et nuiront au processus, à la dynamique du groupe. Cela commence par des blagues, de plus en plus acides, des excuses, de mauvaises communications... et prenant de l'ampleur, le sabotage, les grèves amènent à de moins en moins d’efficacité, d’efficience. C'est ce que nous appelons l'engrenage du terrorisme, il commence tout petit, des minorités délaissées, et prend de l'ampleur à mesure que la majorité délaisse des parties. 
 
+
 ## La méthode
+
 
 'Je vais ici développer les 4 étapes, pour la prise de décisions rationnelles. Une formation spécifique est nécessaire pour faciliter les étapes ultérieures permettant d'aborder de l'inconnu, de l'inconscient, de l'émotionnel non-dit. Il est nécessaire d'avoir un facilitateur pour entrer dans des processus d'arguments, de résolution de conflit.'
 
