@@ -12,12 +12,6 @@ Quand tu es sur la [page d'accueil de multiBàO](http://dev.multibao.org), tu vo
 
 Tu as une idée pour améliorer une ressource? Ne le garde pas pour toi: envoies directement une proposition de modification.
 
-
-MultiBàO est une technologie collaborative qui permet:
-* de partager aux autres équipes vos apprentissages, réfléxions, pépites et gamelles que vous avez découvert
-* d'avoir un endroit classe et dynamique où vous pouvez présenter, extraire, faire vivre vos données
-* d'avoir une liberté totale sur la gouvernance et la réutilisation de tes données (synchronisation avec ton site web, export sous tous les formats,...)
-
 ## multiBàO, des cultures qui se côtoient
 
 > Si multiBàO est une expérience amusante, c'est que différentes équipes avec différentes cultures y partagent leurs apprentissages. La même méthode pratiquée par deux équipes différentes, une entrepenariales et l'autre institutionnelle, va souvent avoir deux résultats différents. Et pour cause, tout est différent: la culture de l'équipe animatrice, sa manière d'appréhender les dynamiques de groupes, la culture des participants... Dans chaque organisation que nous découvrons, un nouveau monde de pratiques. Bonne exploration.
@@ -36,11 +30,11 @@ MultiBàO est une technologie collaborative qui permet:
 
 ## Pourquoi multi Boîte à Outils (multiBàO) ?
 
-multiBàO te permet d'utiliser 3 outils principaux, seul ou en équipe :
+Parce que c'est une technologie qui te/vous  permet:
 
-* *le visionneur* : crée un dépôt de fiches que tu peux visionner via multiBàO. Partage ce lien avec d'autres. C'est vous qui avez la gouvernance.
-* *l'éditeur* : une faute d'orthographe, un éclaircissement à apporter..., tu peux modifier les fiches que tu consultes via l'éditeur. Si un contributeur extérieur modifie ta ressource, tu recevras une proposition de modification.
-* *l'intégration* : insère une fiche de multiBàO à ton site web, ça prendra automatiquement la mise en page de ton site et sera actualisé dès qu'une modification sera approuvée. 
+* de partager des contenus avec une équipe
+* d'avoir un endroit classe et dynamique où vous pouvez présenter, extraire, faire vivre vos données
+* d'avoir une liberté totale sur la gouvernance et la réutilisation de tes données (synchronisation avec ton site web, export sous tous les formats,...)
 
 ## Un opensource
 
