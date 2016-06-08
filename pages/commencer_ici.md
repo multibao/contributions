@@ -4,17 +4,20 @@
 
 Bienvenue! Il y a beaucoup d'informations à explorer sur multibao, et tu ne vas certainement pas tout lire d'un coup. On te présente donc quelques pistes pour débuter.
 
-> multiBàO, c'est un endroit où on partage en équipe et au monde nos astuces sur le faire ensemble.
+> multiBàO, c'est un endroit où on partage nos astuces sur le faire ensemble. On, c'est des individus impliqués dans la vie de leur équipe (potes, professionnel, profs pédagogues...) et/ou qui facilitent régulièrement des temps collaboratifs (animation, éducation, formation, ateliers, événéments, ...). 
 
-Quand tu es sur la [page d'accueil de multiBàO](http://dev.multibao.org), tu vois apparaître des équipes qui partagent leurs apprentissages sur le faire ensemble. Tu trouveras sûrement des ressources de valeur pour toi. Prends le temps. 
+Quand tu es sur la [page d'accueil de multiBàO](http://dev.multibao.org), tu vois apparaître des équipes qui partagent leurs apprentissages sur le faire ensemble. Tu trouveras sûrement des ressources de valeur pour toi. Prends le temps. A tout moment, tu as la possibilité d'envoyer à ces équipes des propositions de modification de leurs fiches. 
 
-MultiBàO est une technologie collaborative. Elle te permet de rendre aux équipes en envoyant des propositions de modification, et ceci peut importe la fiche que tu consultes. Tu enrichis ainsi le commun partagé. [Teste toi](http://www.multibao.org/multibao/documentation/test). Toutes les ressources de multiBàO sont sous des licences libres. Renseignes toi.
+MultiBàO est une technologie collaborative qui permet:
+* de partager aux autres équipes vos apprentissages, réfléxions, pépites et gamelles que vous avez découvert
+* d'avoir un endroit classe et dynamique où vous pouvez présenter, extraire, faire vivre vos données
+* d'avoir une liberté totale sur la gouvernance et la réutilisation de tes données (synchronisation avec ton site web, export sous tous les formats,...)
 
-Si tu souhaites partager tes/vos apprentissages, tu peux déjà utiliser multiBàO pour le faire sans que le nom de ton équipe soit mentionné sur la page d'accueil. Lorsque vous sentirez votre dépôt de fiches prêt, vous pourrez alors le faire. Tout est expliqué dans le guide d'utilisation. Bonne exploration!
+Tu peux te servir de multiBàO comme blog, sans même que le nom de votre équipe soit affiché sur la page d'accueil. Lorsque vous sentirez votre dépôt de fiches prêt, vous pourrez alors le faire. Tout est expliqué dans le guide d'utilisation. Bonne exploration!
 
-## Sur multiBàO, ça parle de ...
+## multiBàO, des cultures qui se côtoient
 
-> Si multiBàO est une expérience amusante, c'est que différentes équipes y partagent leurs apprentissages.
+> Si multiBàO est une expérience amusante, c'est que différentes équipes avec différentes cultures y partagent leurs apprentissages. La même méthode pratiquée par deux équipes différentes, une entrepenariales et l'autre institutionnelle, va souvent avoir deux résultats différents. Et pour cause, tout est différent: la culture de l'équipe animatrice, sa manière d'appréhender les dynamiques de groupes, la culture des participants... Dans chaque organisation que nous découvrons, un nouveau monde de pratiques. Bonne exploration.
 
 * L'équipe de Réseau Transition Belgique nous présente sa [pratique d'initiatives collaboratives de transition et nous invite à imaginer le monde post-énergies fossiles](http://dev.multibao.org/#reseautransitionwb)
 * Du côté de l'équipe de CPOOP, on parle d'[animation en présentiel: facilitation, animation d'ateliers et de réunions créatives](http://dev.multibao.org/#cpcoop)
