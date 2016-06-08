@@ -4,13 +4,11 @@
 
 Bienvenue! Il y a beaucoup d'informations à explorer sur multibao, et tu ne vas certainement pas tout lire d'un coup. On te présente donc quelques pistes pour débuter.
 
-> multiBàO, c'est un endroit où on partage nos astuces sur le faire ensemble. On, c'est des individus impliqués dans la vie de leur équipe (potes, professionnel, profs pédagogues...) et/ou qui facilitent régulièrement des temps collaboratifs (animation, éducation, formation, ateliers, événéments, ...). 
-
-C'est un peu comme un site sur lequel tu peux partager avec tes potes et au monde tes astuces Do-It-Yourself: comment fabriquer une chaise avec des matériaux de récupération, comment réaliser un potager... Sauf qu'ici c'est du Do-It-Together et que tout ce que tu déposes a vocation a être enrichi avec d'autres.
+> multiBàO, c'est un peu comme un site sur lequel tu peux partager avec tes potes et au monde tes astuces Do-It-Yourself: comment fabriquer une chaise avec des matériaux de récupération, comment réaliser un potager... Sauf qu'ici c'est du **Do-It-Together** et que tout ce que tu déposes a vocation a être enrichi avec d'autres.
 
 Quand tu es sur la [page d'accueil de multiBàO](http://dev.multibao.org), tu vois apparaître des équipes qui partagent leurs apprentissages sur le faire ensemble. Tu trouveras sûrement des ressources de valeur pour toi. Prends le temps. 
 
-Tu as une idée pour améliorer une ressource? Ne le garde pas pour toi: envoies directement une proposition de modification.
+Tu as une idée pour améliorer une ressource? Ne le garde pas pour toi: [envoies directement une proposition de modification](http://www.multibao.org/multibao/documentation/fiches/proposer_modification.md).
 
 ## multiBàO, des cultures qui se côtoient
 
