@@ -8,14 +8,15 @@ Bienvenue! Il y a beaucoup d'informations à explorer sur multibao, et tu ne vas
 
 C'est un peu comme un site sur lequel tu peux partager avec tes potes et au monde tes astuces Do-It-Yourself: comment fabriquer une chaise avec des matériaux de récupération, comment réaliser un potager... Sauf qu'ici c'est du Do-It-Together et que tout ce que tu déposes a vocation a être enrichi avec d'autres.
 
-Quand tu es sur la [page d'accueil de multiBàO](http://dev.multibao.org), tu vois apparaître des équipes qui partagent leurs apprentissages sur le faire ensemble. Tu trouveras sûrement des ressources de valeur pour toi. Prends le temps. A tout moment, tu as la possibilité d'envoyer à ces équipes des propositions de modification de leurs fiches. 
+Quand tu es sur la [page d'accueil de multiBàO](http://dev.multibao.org), tu vois apparaître des équipes qui partagent leurs apprentissages sur le faire ensemble. Tu trouveras sûrement des ressources de valeur pour toi. Prends le temps. 
+
+Tu as une idée pour améliorer une ressource? Ne le garde pas pour toi: envoies directement une proposition de modification.
+
 
 MultiBàO est une technologie collaborative qui permet:
 * de partager aux autres équipes vos apprentissages, réfléxions, pépites et gamelles que vous avez découvert
 * d'avoir un endroit classe et dynamique où vous pouvez présenter, extraire, faire vivre vos données
 * d'avoir une liberté totale sur la gouvernance et la réutilisation de tes données (synchronisation avec ton site web, export sous tous les formats,...)
-
-Tu peux te servir de multiBàO comme blog, sans même que le nom de votre équipe soit affiché sur la page d'accueil. Lorsque vous sentirez votre dépôt de fiches prêt, vous pourrez alors le faire. Tout est expliqué dans le guide d'utilisation. Bonne exploration!
 
 ## multiBàO, des cultures qui se côtoient
 
