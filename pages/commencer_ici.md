@@ -14,7 +14,7 @@ Tu as une idée pour améliorer une ressource? Ne le garde pas pour toi: envoies
 
 ## multiBàO, des cultures qui se côtoient
 
-> Si multiBàO est une expérience amusante, c'est que différentes équipes avec différentes cultures y partagent leurs apprentissages. La même méthode pratiquée par deux équipes différentes, une entrepenariales et l'autre institutionnelle, va souvent avoir deux résultats différents. Et pour cause, tout est différent: la culture de l'équipe animatrice, sa manière d'appréhender les dynamiques de groupes, la culture des participants... Dans chaque organisation que nous découvrons, un nouveau monde de pratiques. Bonne exploration.
+> La même méthode pratiquée par deux équipes différentes produit des résultats différents. Et pour cause, tout est différent: la culture de l'équipe animatrice, sa manière d'appréhender les dynamiques de groupes, la culture des participants... Dans chaque organisation que nous découvrons, un nouveau monde de pratiques. Bonne exploration.
 
 * L'équipe de Réseau Transition Belgique nous présente sa [pratique d'initiatives collaboratives de transition et nous invite à imaginer le monde post-énergies fossiles](http://dev.multibao.org/#reseautransitionwb)
 * Du côté de l'équipe de CPOOP, on parle d'[animation en présentiel: facilitation, animation d'ateliers et de réunions créatives](http://dev.multibao.org/#cpcoop)
