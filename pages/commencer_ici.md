@@ -1,18 +1,18 @@
-# Commences ici
+# Commence ici
 
 ![Debut](https://framapic.org/oJfJGFYuQWMX/yJFwCXEKUBHh.jpg)
 
-Bienvenue! Il y a beaucoup d'informations à explorer sur multibao, et tu ne vas certainement pas tout lire d'un coup. On te présente donc quelques pistes pour débuter.
+Bienvenue ! Il y a beaucoup d'informations à explorer sur multibao, et tu ne vas certainement pas tout lire d'un coup. On te présente donc quelques pistes pour débuter.
 
-> multiBàO, c'est un peu comme un site sur lequel tu peux partager avec tes potes et au monde tes astuces Do-It-Yourself: comment fabriquer une chaise avec des matériaux de récupération, comment réaliser un potager... Sauf qu'ici c'est du Do-It-Together et que tout ce que tu déposes a vocation a être enrichi avec d'autres.
+> multiBàO, c'est un peu comme un site sur lequel tu peux partager avec tes potes et au monde tes astuces Do-It-Yourself : comment fabriquer une chaise avec des matériaux de récupération, comment réaliser un potager... Sauf qu'ici c'est du Do-It-Together et que tout ce que tu déposes a vocation a être enrichi avec d'autres.
 
 Quand tu es sur la [page d'accueil de multiBàO](http://dev.multibao.org), tu vois apparaître des équipes qui partagent leurs apprentissages sur le faire ensemble. Tu trouveras sûrement des ressources de valeur pour toi. Prends le temps. 
 
-Tu as une idée pour améliorer une ressource? Ne le garde pas pour toi: [envoies directement une proposition de modification](http://www.multibao.org/multibao/documentation/fiches/proposer_modification.md).
+Tu as une idée pour améliorer une ressource? Ne le garde pas pour toi : [envoie directement une proposition de modification](http://www.multibao.org/multibao/documentation/fiches/proposer_modification.md).
 
 ## multiBàO, des cultures qui se côtoient
 
-> La même méthode pratiquée par deux équipes différentes produit des résultats différents. Et pour cause, tout est différent: la culture de l'équipe animatrice, sa manière d'appréhender les dynamiques de groupes, la culture des participants... Dans chaque organisation que nous découvrons, un nouveau monde de pratiques. Bonne exploration.
+> La même méthode pratiquée par deux équipes différentes produit des résultats différents. Et pour cause, tout est différent : la culture de l'équipe animatrice, sa manière d'appréhender les dynamiques de groupes, la culture des participants… Dans chaque organisation que nous découvrons, un nouveau monde de pratiques. Bonne exploration.
 
 * L'équipe de Réseau Transition Belgique nous présente sa [pratique d'initiatives collaboratives de transition et nous invite à imaginer le monde post-énergies fossiles](http://dev.multibao.org/#reseautransitionwb)
 * Du côté de l'équipe de CPOOP, on parle d'[animation en présentiel: facilitation, animation d'ateliers et de réunions créatives](http://dev.multibao.org/#cpcoop)
@@ -21,7 +21,7 @@ Tu as une idée pour améliorer une ressource? Ne le garde pas pour toi: [envoie
 * Le collectif d'architectes Chiendent explore l'[urbanisme participatif et la manière de se réapproprier l'espace public](http://dev.multibao.org/#chiendent).
 * Le chercheur Lilian Ricaud, quant à lui, nous partage ses observations sur la [manière d'animer des événements participatifs, de générer des biens communs ou encore de travailler en réseau](http://dev.multibao.org/#chiendent). 
 
-### Ils y présentent des initiaties collaboratives remarquables
+### Ils y présentent des initiatives collaboratives remarquables
 
 * La communauté Démocratie Ouverte publie sur multiBàO des [retours d'expériences démocratiques dans des villes, régions, collectifs](http://dev.multibao.org/#alecoz/democratie_ouverte/tree/master/contributions)
 * Les journalistes du média citoyen nous présentent en vidéo [plusieurs dizaines d'initiatives citoyennes en matière d'habitat participation, démocratie, solidarité](http://http://dev.multibao.org/#onpassealacte)
