@@ -26,17 +26,17 @@ Tu as une idée pour améliorer une ressource? Ne le garde pas pour toi : [envoi
 * La communauté Démocratie Ouverte publie sur multiBàO des [retours d'expériences démocratiques dans des villes, régions, collectifs](http://dev.multibao.org/#alecoz/democratie_ouverte/tree/master/contributions)
 * Les journalistes du média citoyen nous présentent en vidéo [plusieurs dizaines d'initiatives citoyennes en matière d'habitat participation, démocratie, solidarité](http://http://dev.multibao.org/#onpassealacte)
 
-## Pourquoi multi Boîte à Outils (multiBàO) ?
+## Pourquoi multiBàO ?
 
-Parce que c'est une technologie qui te/vous  permet:
+BàO c'est pour Boîte à Outils. Multi, c'est parce que c'est une technologie qui te/vous  permet de:
 
-* de partager des contenus avec une équipe
-* d'avoir un endroit classe et dynamique où vous pouvez présenter, extraire, faire vivre vos données
-* d'avoir une liberté totale sur la gouvernance et la réutilisation de tes données (synchronisation avec ton site web, export sous tous les formats,...)
+* partager des contenus avec une équipe,
+* avoir un endroit classe et dynamique où vous pouvez présenter, extraire, faire vivre vos données,
+* avoir une liberté totale sur la gouvernance et la réutilisation de tes données (synchronisation avec ton site web, export sous tous les formats, etc.).
 
-## Un opensource
+## Un open source
 
-MultiBàO est un Opensource, c'est à dire que son code source est publié sous une licence libre.
+MultiBàO est un open source, c'est à dire que son code source est publié sous une licence libre.
 Nous invitons librement toute réutilisation de la technologie à d'autres fins.
 Et [on vous explique même comment le faire](http://github.com/multibao)
 
