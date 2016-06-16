@@ -5,7 +5,7 @@
 * [envoyer à une équipe une proposition de modification de fiche](http://www.multibao.org/multibao/documentation/fiches/proposer_modification.md)
 * [créer tout seul ma première fiche et la visionner avec multiBàO](http://multibao.org/multibao/documentation/fiches/creer_fiche_multibao.md) 
 * [inviter des membres de mon équipe à m'aider à l'entretenir](http://multibao.org/multibao/documentation/fiches/choisir_ses_collaborateurs.md) 
-* [connecter notre site web à une fiche multiBàO](http://www.multibao.org/multibao/documentation/fiches/integrer_fiche_site.md): cette dernière y apparaît avec la mise en page de notre site et est mise à jour automatiquement
+* [connecter notre site web à une fiche multiBàO](http://www.multibao.org/multibao/documentation/fiches/integrer_fiche_site.md) : cette dernière y apparaît avec la mise en page de notre site et est mise à jour automatiquement
 * Rendre notre dépôt de fiches [utile](http://www.multibao.org/multibao/documentation/fiches/fiches_utiles.md), [agréable](http://www.multibao.org/multibao/documentation/fiches/fiches_agreables.md) et [réutilisable](http://www.multibao.org/multibao/documentation/fiches/fiches_reutilisables.md)
 * [apparaître comme une équipe contributrice sur la page d'accueil de multiBàO](http://multibao.org/multibao/documentation/fiches/connecter_depot_multibao.md) 
 
@@ -24,8 +24,8 @@
 
 **Créer un dépôt de fiches**
 
-* [option 1: créer un dépôt de fiches](http://multibao.org/multibao/documentation/fiches/creer_depot_fiches.md)
-* [Option 2: dupliquer et utiliser un dépôt de fiches pré-préparé](https://github.com/multibao/modele_de_depot)
+* [option 1 : créer un dépôt de fiches](http://multibao.org/multibao/documentation/fiches/creer_depot_fiches.md)
+* [Option 2 : dupliquer et utiliser un dépôt de fiches pré-préparé](https://github.com/multibao/modele_de_depot)
 * [définir l'architecture de mon dépôt de fiches](http://multibao.org/multibao/documentation/fiches/definir_architecture_depot.md)
 * [créer des dossiers et des sous-dossiers](http://multibao.org/multibao/documentation/fiches/creer_dossiers.md)
 * [décrire aux lecteurs le dépôt de fiches](http://multibao.org/multibao/documentation/fiches/decrire_depot.md)
@@ -38,7 +38,7 @@
 
 **Convertir ou télécharger une fiche**
 
-* [convertir une fiche multiBàO en ... n'importe quel format (word, pdf, mediawiki...)](http://www.multibao.org/multibao/documentation/fiches/telecharger_fiche.md)
+* [convertir une fiche multiBàO en n'importe quel format (word, pdf, mediawiki, etc.)](http://www.multibao.org/multibao/documentation/fiches/telecharger_fiche.md)
 
 **Intervenir sur multiBàO depuis mon ordinateur**
 
