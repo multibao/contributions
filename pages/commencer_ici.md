@@ -2,10 +2,7 @@
 
 Bienvenue ! Il y a beaucoup d'informations à explorer sur multibao, et tu ne vas certainement pas tout lire d'un coup. On te présente donc quelques pistes pour débuter.
 
-> Tout seul, on va plus vite. Ensemble, on va ailleurs. 
-
-MultiBàO te permet de partager aux autres organisations tes fiches expérience. 
-C'est un peu comme un site sur lequel tu peux partager avec tes potes et au monde tes astuces Do-It-Yourself: comment fabriquer une chaise avec des matériaux de récupération, comment réaliser un potager. Sur multiBàO, c'est plutôt du Do-It-Together: des équipes et des individus partagent aux autres organisations leurs retours d'expériences sur le collaboratif. 
+> MultiBàO te permet de partager aux autres organisations tes fiches expérience.  C'est un peu comme un site sur lequel tu peux partager avec tes potes et au monde tes astuces Do-It-Yourself: comment fabriquer une chaise avec des matériaux de récupération, comment réaliser un potager. Sur multiBàO, c'est plutôt du Do-It-Together: des équipes et des individus partagent aux autres organisations leurs retours d'expériences sur le collaboratif. 
 
 Quand tu es sur la [page d'accueil de multiBàO](http://multibao.org), tu vois apparaître des équipes qui partagent leurs apprentissages sur le faire ensemble. Tu trouveras sûrement des ressources de valeur pour toi. Prends le temps. 
 
