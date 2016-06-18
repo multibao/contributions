@@ -4,7 +4,7 @@ Bienvenue ! Il y a beaucoup d'informations à explorer sur multibao, et tu ne va
 
 > MultiBàO te permet de partager aux autres organisations tes fiches expérience.  
 
-Quand tu es sur la [page d'accueil de multiBàO](http://multibao.org), tu vois apparaître des équipes. Tu trouveras sûrement des ressources de valeur pour toi. Prends le temps. 
+Quand tu es sur la page d'accueil de multiBàO, tu vois apparaître des équipes. Tu trouveras sûrement des ressources de valeur pour toi. Prends le temps. 
 
 Ici, les ressources sont vivantes et non statiques. Et si elles sont vivantes, c'est parce que tu les fais vivre:
 * [envoie directement une proposition de modification](http://www.multibao.org/#multibao/documentation/blob/master/fiches/proposer_modification.md) lorsque tu découvres une fiche avec des coquilles ou que tu souhaites proposer des améliorations à la fiche. 
@@ -15,8 +15,6 @@ Ici, les ressources sont vivantes et non statiques. Et si elles sont vivantes, c
 > Les équipes qui publient sur multiBàO sont intéressées pour faire vivre leurs ressources indépendemment d'elles. Une fois que tu as testé une pratique ou réutilisé une ressource n'hésite pas à revenir vers l'équipe qui a proposé la pratique et qui a pris du temps à la rédiger: propose tes [propositions d'amélioration, images](http://www.multibao.org/#multibao/documentation/blob/master/fiches/proposer_modification.md) ou entre en contact avec eux. 
 
 ## multiBàO, des cultures qui se côtoient
-
-> Sur multiBàO, différentes organisations / équipes se côtoient. 
 
 ### Ateliers collaboratifs et travail collaboratif à distance
 
