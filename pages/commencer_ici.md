@@ -2,14 +2,17 @@
 
 Bienvenue ! Il y a beaucoup d'informations à explorer sur multibao, et tu ne vas certainement pas tout lire d'un coup. On te présente donc quelques pistes pour débuter.
 
-MultiBàO te permet de partager aux autres organisations tes fiches expérience.  
+> MultiBàO te permet de partager aux autres organisations tes fiches expérience.  
 
 Quand tu es sur la [page d'accueil de multiBàO](http://multibao.org), tu vois apparaître des équipes. Tu trouveras sûrement des ressources de valeur pour toi. Prends le temps. 
 
 Ici, les ressources sont vivantes et non statiques. Et si elles sont vivantes, c'est parce que tu les fais vivre:
-* [envoies directement une proposition de modification](http://www.multibao.org/#multibao/documentation/blob/master/fiches/proposer_modification.md) lorsque tu découvres une fiche avec des coquilles ou que tu souhaites proposer des améliorations à la fiche. 
-* [présente sur ton blog les fiches multibào, elles seront automatiquement mises à jour](http://www.multibao.org/#multibao/documentation/blob/master/fiches/integrer_fiche_site.md)
-* [réutilises les fiches en dehors de multiBàO](http://multibao.org/#multibao/documentation/blob/master/fiches/choisir_licence_libre.md). Les équipes qui publient sur multiBàO sont intéressées pour faire vivre leurs ressources indépendemment d'elles. Pour cela, les ressources partagées sont toutes publiées sous licences libres. Lorsque tu réutilises une ressource, n'hésites pas à proposer tes idées d'amélioration de la fiche ou à remercier l'équipe qui a pris le temps d'écrire la fiche. 
+* [envoie directement une proposition de modification](http://www.multibao.org/#multibao/documentation/blob/master/fiches/proposer_modification.md) lorsque tu découvres une fiche avec des coquilles ou que tu souhaites proposer des améliorations à la fiche. 
+* [présente sur ton blog les fiches multibào](http://www.multibao.org/#multibao/documentation/blob/master/fiches/integrer_fiche_site.md), elles seront automatiquement mises à jour
+* inspire toi des pratiques ou teste les
+* [réutilise les fiches en dehors de multiBàO](http://multibao.org/#multibao/documentation/blob/master/fiches/choisir_licence_libre.md); pour cela toutes les ressources te sont accessibles sous licences libres.
+
+> Les équipes qui publient sur multiBàO sont intéressées pour faire vivre leurs ressources indépendemment d'elles. Une fois que tu as testé une pratique ou réutilisé une ressource n'hésite pas à revenir vers l'équipe qui a proposé la pratique et qui a pris du temps à la rédiger: propose tes [propositions d'amélioration, images](http://www.multibao.org/#multibao/documentation/blob/master/fiches/proposer_modification.md) ou entre en contact avec eux. 
 
 ## multiBàO, des cultures qui se côtoient
 
