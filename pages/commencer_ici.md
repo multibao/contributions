@@ -1,18 +1,24 @@
 # Commence ici
 
-![Debut](https://framapic.org/oJfJGFYuQWMX/yJFwCXEKUBHh.jpg)
-
 Bienvenue ! Il y a beaucoup d'informations à explorer sur multibao, et tu ne vas certainement pas tout lire d'un coup. On te présente donc quelques pistes pour débuter.
 
-> multiBàO, c'est un peu comme un site sur lequel tu peux partager avec tes potes et au monde tes astuces Do-It-Yourself : comment fabriquer une chaise avec des matériaux de récupération, comment réaliser un potager... Sauf qu'ici c'est du Do-It-Together et que tout ce que tu déposes a vocation a être enrichi avec d'autres.
+> Tout seul, on va plus vite. Ensemble, on va ailleurs. 
 
-Quand tu es sur la [page d'accueil de multiBàO](http://dev.multibao.org), tu vois apparaître des équipes qui partagent leurs apprentissages sur le faire ensemble. Tu trouveras sûrement des ressources de valeur pour toi. Prends le temps. 
+MultiBàO te permet de partager aux autres organisations tes fiches expérience. 
+C'est un peu comme un site sur lequel tu peux partager avec tes potes et au monde tes astuces Do-It-Yourself: comment fabriquer une chaise avec des matériaux de récupération, comment réaliser un potager. Sur multiBàO, c'est plutôt du Do-It-Together: des équipes et des individus partagent aux autres organisations leurs retours d'expériences sur le collaboratif. 
 
-Tu as une idée pour améliorer une ressource? Ne le garde pas pour toi : [envoie directement une proposition de modification](http://www.multibao.org/multibao/documentation/fiches/proposer_modification.md).
+Quand tu es sur la [page d'accueil de multiBàO](http://multibao.org), tu vois apparaître des équipes qui partagent leurs apprentissages sur le faire ensemble. Tu trouveras sûrement des ressources de valeur pour toi. Prends le temps. 
+
+Sur multiBàO, les ressources sont vivantes et non statiques.
+
+* Tu as une idée pour améliorer une ressource? Ne le garde pas pour toi et [envoie directement une proposition de modification](http://www.multibao.org/#multibao/documentation/blob/master/fiches/proposer_modification.md). 
+* Tu veux présenter une fiche multiBàO dans ton blog et qu'elle soit automatiquement mise à jour? [Voici comment faire.](http://www.multibao.org/#multibao/documentation/blob/master/fiches/integrer_fiche_site.md).
+* Tu veux réutiliser une fiche en dehors de multiBàO? L'intégralité des fiches sont publiées sous [licences libres](http://multibao.org/#multibao/documentation/blob/master/fiches/choisir_licence_libre.md), ce qui signifie que les équipes contributrices sont intéressées pour faire vivre leurs ressources indépendemment d'elles.
+
 
 ## multiBàO, des cultures qui se côtoient
 
-> La même méthode pratiquée par deux équipes différentes produit des résultats différents. Et pour cause, tout est différent : la culture de l'équipe animatrice, sa manière d'appréhender les dynamiques de groupes, la culture des participants… Dans chaque organisation que nous découvrons, un nouveau monde de pratiques. Bonne exploration.
+> La même méthode pratiquée par deux équipes différentes produit des résultats différents. Pour cause, tout est différent : la culture de l'équipe animatrice, sa manière d'appréhender les dynamiques de groupes, la culture des participants… Dans chaque organisation que nous découvrons, un nouveau monde de pratiques. Bonne exploration.
 
 * L'équipe de Réseau Transition Belgique nous présente sa [pratique d'initiatives collaboratives de transition et nous invite à imaginer le monde post-énergies fossiles](http://dev.multibao.org/#reseautransitionwb)
 * Du côté de l'équipe de CPOOP, on parle d'[animation en présentiel: facilitation, animation d'ateliers et de réunions créatives](http://dev.multibao.org/#cpcoop)
