@@ -30,19 +30,19 @@ Le chercheur [Lilian Ricaud](http://multibao.org/#lilianricaud/travail-en-reseau
 
 ### Préparer ensemble un monde post-énergie fossiles 
 
-L'[équipe de Réseau transition Belgique qui nous présente sa pratique](http://multibao.org/#reseautransitionwb)
+L'[équipe de Réseau transition Belgique](http://multibao.org/#reseautransitionwb) qui nous présente ses pratiques collaboratives
 
 ### Réappropriation de l'espace public 
 
-Le collectif d'architectes Chiendent explore l'[urbanisme participatif et la manière de se réapproprier l'espace public](http://multibao.org/#chiendent).
+Le [collectif d'architectes Chiendent](http://multibao.org/#chiendent) explore l'urbanisme participatif et la manière de se réapproprier l'espace public
 
 ### Démocratie participative et gouvernance 
 
-La communauté Démocratie Ouverte publie sur multiBàO des [retours d'expériences démocratiques dans des villes, régions, collectifs](http://dev.multibao.org/#alecoz/democratie_ouverte/tree/master/contributions)
+La communauté [Démocratie Ouverte](http://dev.multibao.org/#alecoz/democratie_ouverte/tree/master/contributions) publie sur multiBàO des retours d'expériences démocratiques dans des villes, régions, collectifs
 
 ### Médias citoyens
 
-Les journalistes du média citoyen nous présentent en vidéo [plusieurs dizaines d'initiatives citoyennes en matière d'habitat participation, démocratie, solidarité](http://http://dev.multibao.org/#onpassealacte)
+Les journalistes du [média citoyen Onpassealacte](http://http://dev.multibao.org/#onpassealacte) nous présentent en vidéo plusieurs dizaines d'initiatives citoyennes en matière d'habitat participation, démocratie, solidarité
 
 ## Pourquoi multiBàO ?
 
