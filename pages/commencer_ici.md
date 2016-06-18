@@ -1,7 +1,5 @@
 # Commence ici
 
-Bienvenue ! Il y a beaucoup d'informations à explorer sur multibao, et tu ne vas certainement pas tout lire d'un coup. On te présente donc quelques pistes pour débuter.
-
 > MultiBàO te permet de partager aux autres organisations tes fiches expérience.  
 
 Quand tu es sur la page d'accueil de multiBàO, tu vois apparaître des équipes. Tu trouveras sûrement des ressources de valeur pour toi. Prends le temps. 
