@@ -8,7 +8,7 @@ Quand tu es sur la [page d'accueil de multiBàO](http://multibao.org), tu vois a
 
 Ici, les ressources sont vivantes et non statiques. Et si elles sont vivantes, c'est parce que tu les fais vivre:
 * [envoies directement une proposition de modification](http://www.multibao.org/#multibao/documentation/blob/master/fiches/proposer_modification.md) lorsque tu découvres une fiche avec des coquilles ou que tu souhaites proposer des améliorations à la fiche. 
-* [présente sur ton blog les fiches multibào, elles seront automatiquement mises à jour]http://www.multibao.org/#multibao/documentation/blob/master/fiches/integrer_fiche_site.md)
+* [présente sur ton blog les fiches multibào, elles seront automatiquement mises à jour](http://www.multibao.org/#multibao/documentation/blob/master/fiches/integrer_fiche_site.md)
 * [réutilises les fiches en dehors de multiBàO](http://multibao.org/#multibao/documentation/blob/master/fiches/choisir_licence_libre.md). Les équipes qui publient sur multiBàO sont intéressées pour faire vivre leurs ressources indépendemment d'elles. Pour cela, les ressources partagées sont toutes publiées sous licences libres. Lorsque tu réutilises une ressource, n'hésites pas à proposer tes idées d'amélioration de la fiche ou à remercier l'équipe qui a pris le temps d'écrire la fiche. 
 
 ## multiBàO, des cultures qui se côtoient
