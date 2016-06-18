@@ -16,19 +16,33 @@ Ici, les ressources sont vivantes et non statiques. Et si elles sont vivantes, c
 
 ## multiBàO, des cultures qui se côtoient
 
-> 
+> Sur multiBàO, différentes organisations / équipes se côtoient. 
 
-* L'équipe de Réseau Transition Belgique nous présente sa [pratique d'initiatives collaboratives de transition et nous invite à imaginer le monde post-énergies fossiles](http://dev.multibao.org/#reseautransitionwb)
-* Du côté de l'équipe de CPOOP, on parle d'[animation en présentiel: facilitation, animation d'ateliers et de réunions créatives](http://dev.multibao.org/#cpcoop)
-* Le collectif d'associations FR-BE-ES Coop-Tic vous présente des ressources sur le [travail collaboratif à distance et se focalise particulièrement sur l'utilisation d'outils numériques collaboratifs](http://dev.multibao.org/#supagroflorac/cooptic/tree/master/contributions)
-* L'[association Cresol](http://dev.multibao.org/#RomainLalande/Cre-sol) permet d'approfondir la pratique d'outils numériques collaboratifs
-* Le collectif d'architectes Chiendent explore l'[urbanisme participatif et la manière de se réapproprier l'espace public](http://dev.multibao.org/#chiendent).
-* Le chercheur Lilian Ricaud, quant à lui, nous partage ses observations sur la [manière d'animer des événements participatifs, de générer des biens communs ou encore de travailler en réseau](http://dev.multibao.org/#chiendent). 
+### Ateliers collaboratifs et travail collaboratif à distance
 
-### Ils y présentent des initiatives collaboratives remarquables
+Côté [CPCOOP](http://multibao.org/#cpcoop), c'est la pratique des ateliers/réunions en présentiel qui est explorée. 
 
-* La communauté Démocratie Ouverte publie sur multiBàO des [retours d'expériences démocratiques dans des villes, régions, collectifs](http://dev.multibao.org/#alecoz/democratie_ouverte/tree/master/contributions)
-* Les journalistes du média citoyen nous présentent en vidéo [plusieurs dizaines d'initiatives citoyennes en matière d'habitat participation, démocratie, solidarité](http://http://dev.multibao.org/#onpassealacte)
+Le [collectif d'associations FR-BE-ES Coop-Tic](http://multibao.org/#supagroflorac/cooptic/tree/master/contributions) vous présente des ressources sur le travail collaboratif à distance et se focalise particulièrement sur l'utilisation d'outils numériques collaboratifs
+
+L'[association Cresol](http://multibao.org/#RomainLalande/Cre-sol) permet d'approfondir la pratique d'outils numériques collaboratifs
+
+Le chercheur [Lilian Ricaud](http://multibao.org/#lilianricaud/travail-en-reseau), quant à lui, nous partage ses observations sur la [manière d'animer des événements participatifs, de [générer des biens communs](http://multibao.org/#lilianricaud/minga) ou encore de [travailler en réseau](http://multibao.org/#lilianricaud/travail-en-reseau).
+
+### Préparer ensemble un monde post-énergie fossiles 
+
+L'[équipe de Réseau transition Belgique qui nous présente sa pratique](http://multibao.org/#reseautransitionwb)
+
+### Réappropriation de l'espace public 
+
+Le collectif d'architectes Chiendent explore l'[urbanisme participatif et la manière de se réapproprier l'espace public](http://multibao.org/#chiendent).
+
+### Démocratie participative et gouvernance 
+
+La communauté Démocratie Ouverte publie sur multiBàO des [retours d'expériences démocratiques dans des villes, régions, collectifs](http://dev.multibao.org/#alecoz/democratie_ouverte/tree/master/contributions)
+
+### Médias citoyens
+
+Les journalistes du média citoyen nous présentent en vidéo [plusieurs dizaines d'initiatives citoyennes en matière d'habitat participation, démocratie, solidarité](http://http://dev.multibao.org/#onpassealacte)
 
 ## Pourquoi multiBàO ?
 
