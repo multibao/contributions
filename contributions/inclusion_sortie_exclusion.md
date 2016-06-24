@@ -1,10 +1,10 @@
-#Inclusion sortie et exclusion dans un groupe
+# Inclusion sortie et exclusion dans un groupe
 
 ![Inclusion](http://farm9.staticflickr.com/8658/15838984763_9495a2a809_z.jpg)
 
 Une photo par [Build up vc](https://www.flickr.com/photos/124948989@N06/15838984763) sous Creative Commons BY-NC-SA
 
-##Préambule
+## Préambule
 
 La vie d’un groupe n’est guère un long fleuve tranquille, des vieilles têtes s’en vont, d’autres plus jeunes arrivent (ou l’inverse), et cela n’est pas une mince affaire à gérer ! 
 
@@ -14,7 +14,7 @@ On peut apparenter les inclusions, les sorties et les exclusions d'un groupe à 
 
 L’idée de cette fiche n’est pas de donner une recette de cuisine concernant l’inclusion, l’exclusion et les sorties dans un groupe. Cette fiche vise plutôt à donner une idée de ce qui peut être utilisé comme critères et procédures dans un groupe. Tout les critères et procédures ne peuvent  pas fonctionner partout, il vous appartien d’adapter/de construire vos propres critères et procédures en groupe, en fonction de votre contexte et cadre d’activité. 
 
-##Inclusion
+## Inclusion
 
 C’est quand un nouveau membre fait une tentative de rejoindre un groupe. 
 
@@ -50,7 +50,7 @@ C’est quand un nouveau membre fait une tentative de rejoindre un groupe.
 
 * l'inclusion peut aussi se faire en fonction de cycle des réunions. Par exemple : *une fois par mois, des personnes souhaitant rejoindre le groupe sont les bienvenues.* 
 
-##Les sorties : 
+## Les sorties : 
 
 C’est quand un membre du groupe décide de partir de lui-même du groupe. 
 
@@ -84,7 +84,7 @@ Attention : une sortie qui n'est pas gérer peut aboutir à plusieurs autres sor
 
 •	La sortie peut aussi être soumise à une période de test avant la sortie effective du participant et l’arrêt d’investissement dans les activités du groupe. Lors de cette période la personne continue de s’investir dans les activités du groupe, peut avoir la possibilité de réfléchir plus longuement son choix, et/ou de préparer la transmission de ses activités à une autre personne. 
 
-##L’exclusion : 
+## L’exclusion : 
 
 C’est quand les membres d’un groupe décident d’exclure un/des membre(s) du groupe. Il peut être dur pour les membres d’un groupe de poser des règles d’exclusion (le groupe étant une structure qui rassemble des gens, il peut y avoir des difficulté de gestion de l'exclusion car on peut être dans l'idée qu'*"on reste ensemble"*). Toutefois, il est très important que le groupe le fasse si il tient à la pérennité de ses projets, et au fait de ne pas avoir de personnes qui par leurs comportements nuisent aux groupe.
 
@@ -116,7 +116,7 @@ Il est important de garder à l'esprit qu'une exclusion ou le début d'une proc�
 
 •	Une période de test de la personne exclue peut prendre place (à son insu ou non, avec son consentement ou non). Cette période peut se compter en temps (jour, semaines, etc.) ou en nombre d’activité que la personne réalise. 
 
-##**Point de précaution pour les sorties et les exclusions** : 
+## **Point de précaution pour les sorties et les exclusions** : 
 
 Il est important de "célébrer" une sortie ou une exclusion. Il s'agit de marquer le changement, pouvoir parler des départs qui ont eu lieu et cela peut avoir lieu de différentes manières. Chacun est libre de partir mais l'idée essentielle est "bien" partir, pour la personne comme pour le groupe. Au moment du départ, on peut parler et se dire entre nous qui la personne était pour nous et pour le groupe. Il faut marquer la transformation. Cela peut se faire par une fête d'adieu, on dit merci à la personne pour ce qu'elle a fait et on boit un verre. 
 
