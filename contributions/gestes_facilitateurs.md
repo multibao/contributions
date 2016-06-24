@@ -3,11 +3,11 @@ author: Réseau transition Belgique
 description: Gestes pour une parole plus fluide et harmonieuse
 tags: 
   - Collaboration
-published: false
+published: true
 title: Gestes facilitateurs de discussion
 ---
 
-#Gestes facilitateurs de discussion : 
+# Gestes facilitateurs de discussion : 
 
 Ces gestes ont chacun leur signification et permettent une gestion de la parole plus fluide et harmonieuse. Leur utilisation est la bienvenue dans toutes réunions et dans les pratiques de parole au centre (vous pouvez en savoir plus sur la pratique de la parole au centre sur la fiche "gestion de parole"). Il est toujours préférable de rappeler ces gestes et la consigne qui va avec chacun d’eux au début d’une réunion quand on pose le cadre pour éviter une mauvaise utilisation. 
 
@@ -49,7 +49,7 @@ Il s’agit de la forme d’applaudissement qu’utilisent les personnes malente
 
 Lors d'une réunion skype, l'équivalent de ce signe est un "Y" en majuscule dans la barre de conversation. Dans la situation où le facilitateur de la réunion demande si il y a une objection, on peut répondre par la lettre "N" dans la barre de discussion pour signifier qu'il n'y en a pas. 
 
-##Le "je désapprouve et ne partage pas cette pensée : 
+## Le "je désapprouve et ne partage pas cette pensée : 
 
 Les mains sont de part et d’autres du torse, ventre ou cuisses. Les doigts sont étendus vers le bas et décollés les uns des autres. On effectue des petites rotations avec les mains dans cette position quand on désapprouve ce qu’une personne est en train d’exprimer et qu’on ne partage pas son avis.
 
@@ -86,7 +86,7 @@ On utilise ce geste quand on sent que les discussions se répètent ou tournent 
 **Précaution d'usage très importante** : l'utilisation de ce geste est à utiliser avec des pincettes et seulement dans des situations exceptionnelles, avec des participants qui ne chercheraient pas à nuire à d'autres participants. En effet, si lors d'une réunion, à chaque fois qu'un participants en particulier prend la parole et que plusieurs personnes effectuent ce geste systématiquement, au bout d'un certain temps, la personne ne s'exprimera plus du tout dû au feed back négatif constant. Donc, introduire l'utilisation de ce geste est risqué dans les pratiques d'intélligence collective (où idéalement la totalité des participants est amenée à s'exprimer).
 
 
-##Source : 
+## Source : 
 
 Modèle : François Wuidard. 
 
