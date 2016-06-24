@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Creation de charte
 description: La charte
 tags: 
@@ -9,7 +9,7 @@ author: Françoise Wuidard
 
 
 
-#Création d’une charte de groupe
+# Création d’une charte de groupe
 
 Dans le milieu associatif et citoyen, beaucoup de groupes doivent poser leur propre fonctionnement en tant qu’équipe. La constitution d’une charte peut aider à atteindre cet objectif. 
 
@@ -17,11 +17,11 @@ Les critères et procédures que reprend la charte peuvent et doivent être mis 
 
 Le but de cette fiche est de faire une liste de ce qui peut se retrouver dans une charte pour avoir une définition clair de  qui fait partie du groupe, ou non, l’inclusion de nouveau membres, les sorties possibles des membres du groupes, l’exclusion de certains membres. 
 
-##La raison d’être : 
+## La raison d’être : 
 
 La raison d’être du groupe peut être définie soit par le groupe lui-même, soit lui est donné par le cercle qui l’a créé. Voici un exemple de raison d’être (celle du réseau de transition Wallonie Bruxelles) : *« Inspirer et soutenir les initiatives de transition »*
 
-##Définir ensemble votre vision de groupe : 
+## Définir ensemble votre vision de groupe : 
 
 En outre de simple discussion pour déterminer cela, vous pouvez utiliser l’outil du Mandala holistique (disponible sur internet). D’autres exercices de visualisation peuvent aider, et ensuite préciser la vision par des propositions des membres. Nous vous suggérons, une fois qu’une proposition de vision fait sens pour beaucoup de participants, on peut proposer au groupe soit une gestion par consentement, soit une décision en démocratie profonde. 
 
@@ -39,7 +39,7 @@ Il est important que votre charte définisse plusieurs éléments de cadre :
 
 -	Si la présence est obligatoire ou non pour les membres à chaque réunion.
 
-##Les rôles et responsabilité : 
+## Les rôles et responsabilité : 
 
 Il est aussi important de définir les rôles dans le groupe. Un rôle ne doit pas être forcément assumer par une seule personne (du moins dans les grands groupe), sinon il risque d’y avoir une cristallisation des rôles qui peut scléroser le groupe. Il doit être précisé dans la charte par qui les rôles sont portés et si ceux-ci sont tournant ou non. 
 
@@ -62,7 +62,7 @@ Le cercle peut également se doter d’autres rôles nécessaires à la réalisa
 
 4)	Quelqu’un en charge de trouver le prochain local de réunion. 
 
-##Les critères et procédures d’inclusion, de sortie et d’exclusion des membres du groupe : 
+## Les critères et procédures d’inclusion, de sortie et d’exclusion des membres du groupe : 
 
 Il est primordial d’établir des critères et procédures pour votre groupe en fonction de son cadre et par rapport à votre ressenti de la situation (il n’y a pas de recettes directement prête à l’emploi pour votre groupe, c'est à vous de trouver les critères et procédures qui vous convienne). 
 
@@ -72,7 +72,7 @@ Pour vous faire une idée des critères et procédures vous pouvez utiliser alle
 
 [Inclusion sortie exclusion](http://www.multibao.org/contributions/multibao/contributions/inclusion_sortie_exclusion)
 
-##La prise de décision : 
+## La prise de décision : 
 
 Afin de prendre des décisions qui rendent comptent de l’avis du plus grand nombre, un cercle peut définir sa manière de prendre des décisions. Souvent dans le monde du travail, la manière de prendre des décisions est déjà définie à l’avance (par exemple : le supérieur hiérarchique décide). Au sein des mouvements citoyens, en général, c’est le cercle qui définira lui-même sa manière de prendre des décisions. 
 
@@ -88,13 +88,13 @@ Ensuite le groupe peut décider de procéder à un vote (à main levé, en tour 
 
 [Vote pondéré]( http://www.multibao.org/contributions/multibao/contributions/vote_pondere)
 
-##La gestion de la parole : 
+## La gestion de la parole : 
 
 La parole dans un groupe est à la fois une ressource commune, mais aussi un lieu de pouvoir. Afin d’obtenir des échanges productifs et harmonieux entre les membres du cercle, nous vous conseillons de mettre en place des pratiques de gestions de parole. Pour plus de détails, nous vous renvoyons vers cette fiche. 
 
 [Gestion de parole](http://www.multibao.org/contributions/multibao/contributions/gestion_parole)
 
-##Le cadre de sécurité :
+## Le cadre de sécurité :
 
 Il est important que des règles de sécurité soient explicitées dans la charte afin de ne pas laisser la porte ouverte à des évènements néfastes pour le groupe et ses membres. 
 
@@ -108,12 +108,12 @@ A un autre niveau (par exemple dans des groupes de transitions intérieures et d
 
 3)	 Temps : On démarre et termine à l'heure. En cas de dépassement probable de l'heure de fin, le facilitateur demande l'autorisation à chaque membre présent
 
-##La communication et les ressources partagées : 
+## La communication et les ressources partagées : 
 
 Le groupe précise via quel support il communique ; par mail, sur les réseaux sociaux, via un serveur pour stockage des infos et des données personnelles. Et comment il utilise ces supports, par exemple, au niveau de la gestion de mail, le groupe peut se dire qu’il n’utilise pas de mail groupé tout le temps et qu’il cible uniquement les personnes concernés dans un message. 
 
 Le groupe peut également avoir diverses ressources à sa disposition. Ces ressources, qu’elles soient financières, foncières, sociales, ou encore spirituelles peuvent être indiqués dans la charte du groupe. 
 
-##Source
+## Source
 
 * Publié par [François WUIDARD](mailto: francois.wuidard@student.ulg.ac.be) via [Réseau transition Belgique](http://www.reseautransition.be/) selon les termes de la licence Creative Commons BY-NC-SA.
