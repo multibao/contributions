@@ -1,3 +1,7 @@
+---
+published: false
+title: Contribution multiBàO
+---
 # Les FabLabs
 
 ![Fablab](http://farm8.staticflickr.com/7217/13532824703_2f030e104c_z.jpg)
@@ -6,7 +10,7 @@ Photo par [Muse Fablab](https://www.flickr.com/photos/musefablab/13532824703) so
 
 ## En une phrase  
 
-La notion de fab lab (contraction de l'anglais fabricationlaboratory, pouvant se traduire par laboratoire de fabrication) désigne un lieu ouvert à tous où il est mis à disposition du public toutes sortes d'outils pour la conception et la réalisation d'objets, notamment des machines-outils pilotées par ordinateur. **[1](#note)**
+La notion de fab lab (contraction de l'anglais fabrication laboratory, pouvant se traduire par laboratoire de fabrication) désigne un lieu ouvert à tous où il est mis à disposition du public toutes sortes d'outils pour la conception et la réalisation d'objets, notamment des machines-outils pilotées par ordinateur. **[1](#note)**
 
 ## A quoi ça sert ?
 
@@ -72,16 +76,22 @@ Voici les étapes simplifiées et résumées en français :
 
 ### VERS UNE APPROCHE PLUS INSTITUTIONNELLE 
 
+
+
+* Convaincre une mairie d’ouvrir un fablab : [méthodes et retour d’expériences](https://medium.com/@XavierCoadic/convaincre-une-mairie-douvrir-un-fablab-m%C3%A9thodes-et-retour-d-exp%C3%A9riences-f8dace92df3#.cec9m5bcd)
+
  
 
-Cette liste est issue d’une traduction d’une présentation de Peter Troxler. Il a ajouté que l’aspect durabilité (sustainibility) devrait en fait être adressé plus tôt dans le process.
+La liste qui suit est issue d’une traduction d’une présentation de Peter Troxler. Il a ajouté que l’aspect durabilité (sustainibility) devrait en fait être adressé plus tôt dans le process.
 
 Tout d’abord (de 1 à 5), ce qu’il appelle le ‘life planning process’:
 
 
-* recherche
+* Recherche
 
-les questions à se poser ici sont: Que savons-nous des FabLabs? Comment et où en savoir plus? Que savons-nous des besoins présents et futurs? Quelles ressources avons-nous à disposition? Lire le livre de Neil Gershenfeld ‘Fab’. Définie LE problème pour créer la vision. Documentation: MIT FabLab central,site & portail USFLN, fablab squared
+Les questions à se poser ici sont: Que savons-nous des FabLabs? Comment et où en savoir plus? Que savons-nous des besoins présents et futurs? Quelles ressources avons-nous à disposition? Lire le livre de Neil Gershenfeld ‘Fab’. Définie LE problème pour créer la vision. 
+
+Documentation: [MIT FabLab central](http://fab.cba.mit.edu/), site & portail [USFLN](http://usfln.org/) (United States Fab Lab Network), [fablab squared](http://fing.org/?FabLab-Squared,139)
 
 * Générer de l’intérêt.
 
@@ -231,7 +241,7 @@ total: 50k€
 
 Le MIT a aussi une liste de machines DIY:
 
-* mtm.cba.mit.edu/
+* [mtm.cba.mit.edu/](http://mtm.cba.mit.edu/)
 
  
 
@@ -275,13 +285,13 @@ Cette dernière partie reste aujourd’hui à développer, chaque FabLab utilisa
 
 Nous proposons de structurer le réseau autour de 2 axes principaux:
 
-* fablabsquared.org, qui pourrait rester la boite à outils (comment / combien / etc.)
+* [Le projet Fab Lab Squared](http://fing.org/?FabLab-Squared,139), qui pourrait rester la boite à outils (comment / combien / etc.)
 
 * fablab.fr ou fablab-fr.org, qui pourrait être la vitrine des FabLabs francophones et de ce qui s’y passe. On pourra y retrouver les projets en cours.
 
 Au Pays-Bas, les FabLabs sont regroupés dans une fondation. Les Fabmanagers des différents FabLabs se réunissent à intervalle régulier. Le principe d’attribution du nom ‘FabLab’ est déclaratif. C’est à dire que les responsables vont dire ‘je suis un FabLab, puis se donner des notes de A à D sur chacun des aspects de la charte du FabLab.
 
-PiNG travaille sur une cartographie des ateliers de fabrication numérique en France et dans les pays francophones, qui sera bientôt disponible. **[1](#note)**
+[PiNG](http://www.pingbase.net/) travaille sur une cartographie des ateliers de fabrication numérique en France et dans les pays francophones, qui sera bientôt disponible. **[1](#note)**
 
 ## Sources
 
