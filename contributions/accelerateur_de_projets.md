@@ -1,11 +1,3 @@
----
-contributors: "Outils Réseaux, Moustic, SupAgroFlorac"
-description: Un accélérateur de projet permet de bénéficier du soutien de ses pairs pour résoudre une problématique
-title: Accélérateur de projets
-image_url: http://placehold.it/350x150
-published: true
----
-
 # Accélérateur de projet
 
 ## En une phrase
