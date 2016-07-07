@@ -55,7 +55,7 @@ BàO c'est pour Boîte à Outils. Multi, c'est parce que c'est une technologie q
 Nous dédions multiBàO.org au domaine public. Le code est publié sous la licence [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr). Nous renonçons dans le monde entier aux droits sur l’œuvre selon les lois sur le droit d’auteur, droit voisin et connexes, dans la mesure permise par la loi. Vous pouvez copier, modifier, distribuer et représenter l’œuvre, même à des fins commerciales, sans avoir besoin de demander l’autorisation.
 
 Nous invitons librement toute réutilisation de la technologie à d'autres fins. 
-Et [on vous explique même comment le faire](http://github.com/multibao)
+Et [on vous explique même comment le faire](https://github.com/daktary-team/daktary)
 
 Bonne utilisation,
 
