@@ -34,11 +34,11 @@ Le [collectif d'architectes Chiendent](http://multibao.org/#chiendent) explore l
 
 ### Démocratie participative et gouvernance 
 
-La communauté [Démocratie Ouverte](http://dev.multibao.org/#alecoz/democratie_ouverte/tree/master/contributions) publie sur multiBàO des retours d'expériences démocratiques dans des villes, régions, collectifs
+La communauté [Démocratie Ouverte](http://multibao.org/#alecoz/democratie_ouverte/tree/master/contributions) publie sur multiBàO des retours d'expériences démocratiques dans des villes, régions, collectifs
 
 ### Médias citoyens
 
-Les journalistes du [média citoyen Onpassealacte](http://http://dev.multibao.org/#onpassealacte) nous présentent en vidéo plusieurs dizaines d'initiatives citoyennes en matière d'habitat participation, démocratie, solidarité
+Les journalistes du [média citoyen Onpassealacte](http://http://multibao.org/#onpassealacte) nous présentent en vidéo plusieurs dizaines d'initiatives citoyennes en matière d'habitat participation, démocratie, solidarité
 
 ## Pourquoi multiBàO ?
 
