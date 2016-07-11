@@ -241,7 +241,7 @@ Pour l'animation de multiBàO, il faut à minima un Bus Factor de 3. Un product 
 - Sont prêts à prendre le relai sur le développement web si Stéphane Langlois ne voulait plus l'assurer: François Olivier Devaux (Réseau Transition)
 - Sont animateurs sur le conseil et l'accompagnement des contributeurs: Louisse Berrotte (Université de Nantes), Hélène Laxenaire (SupAgroFlorac), Vincent Wattelet (Réseau Transition), Olivier Chaput (Ecores), Romain Vignes (Université du Nous), Nicolas Loubet (Cellabz), Armel Le Coz (Démocratie Ouverte), Romain Lalande (Cre-sol)
 
-La principale menace concerne le développement web d'un projet opensource. Les compétences nécessaires sont nombreuses. La menace peut être levée en trouvant des ressources financières.
+La principale menace concerne le développement web d'un projet opensource qui nécessite des compétences  nombreuses. Le risque peut être levé en trouvant des fonds de fonctionnement financiers.
 
 ## 2.4	Les bénéficiaires
 
@@ -249,17 +249,17 @@ La principale menace concerne le développement web d'un projet opensource. Les 
 
 * animateurs de réseaux publiants sur leurs sites webs des fiches expériences sur les approches participatives / travail collaboratif 
 * membres d'équipes impliqués ou intéressés pour s'impliquer dans la vie de leur équipe
-* individus facilitant ou intéressés pour faciliter des temps collaboratifs (enseignants, animateurs, enseignement populaire, organisateurs d'événements) 
+* individus facilitant ou intéressés pour faciliter des temps collaboratifs (enseignants, animateurs, enseignement populaire, organisateurs d'événements, porteurs de projets) 
 
 ### Où résident-ils majoritairement ? Comment ont-ils été repérés ou choisis ? 
 
 **Animateurs de réseaux publiants sur leurs sites webs des fiches expériences sur les approches participatives / travail collaboratif**
 
-Ils semblent être une 80aine en France a déjà publier des fiches expériences et ont été repérés par une quarantaine d'interview auprès d'animateurs de réseaux. Ils résident autant dans les villes que les campagnes. 
+Ils semblent être une 80aine en France a déjà publier des fiches expériences et ont été repérés par une quarantaine d'interview auprès d'animateurs de réseaux. Ils résident autant en milieu urbain qu'en milieu rural. 
 
 **Membres d'équipes impliqués ou intéressés pour s'impliquer dans la vie de leur équipe**
 
-Un public large que nous avons rencontré autant dans les villes que les campagnes. Impliqués dans la vie dans leur équipe sous-entend qu'ils sont impliqués dans une pratique qui bénéficie aux membres de l'équipe. 
+Un public large que nous avons rencontré autant dans les villes que dans les campagnes. Impliqués dans la vie dans leur équipe sous-entend qu'ils sont impliqués dans une pratique qui bénéficie aux membres de l'équipe. 
 
 **Individus facilitant ou intéressés pour faciliter des temps collaboratifs (enseignants, animateurs, enseignement populaire, organisateurs d'événements)** 
 
@@ -322,7 +322,7 @@ Avez-vous identifié des besoins spécifiques pour vous aider dans la réalisati
 Oui. 
 * De soutien technique: en développement web, intégration, revue de code, graphisme, ergonomie. 
 * De soutien financier pour nous aider à stabiliser la plateforme et être autonomes; et ceci par le
-financement d'1 des 3 sprints de développement technologique que nous comptons réaliser par trimestre.
+financement d'1 des 3 sprints de développement technologique en présentiel que nous comptons réaliser par trimestre.
 
 ## Parmi ces besoins, lesquels vous sembleraient mutualisables ?
 
