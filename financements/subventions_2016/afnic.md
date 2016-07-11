@@ -239,3 +239,140 @@ Pour l'animation de multiBàO, il faut à minima un Bus Factor de 3. Un product 
 - Sont animateurs sur le conseil et l'accompagnement des contributeurs: Louisse Berrotte (Université de Nantes), Hélène Laxenaire (SupAgroFlorac), Vincent Wattelet (Réseau Transition), Olivier Chaput (Ecores), Romain Vignes (Université du Nous), Nicolas Loubet (Cellabz), Armel Le Coz (Démocratie Ouverte), Romain Lalande (Cre-sol)
 
 La principale menace concerne le développement web d'un projet opensource. Les compétences nécessaires sont nombreuses. La menace peut être levée en trouvant des ressources financières.
+
+## 2.4	Les bénéficiaires
+
+### Quels sont les bénéficiaires ciblés par le projet ? 
+
+* animateurs de réseaux publiants sur leurs sites webs des fiches expériences sur les approches participatives / travail collaboratif 
+* membres d'équipes impliqués ou intéressés pour s'impliquer dans la vie de leur équipe
+* individus facilitant ou intéressés pour faciliter des temps collaboratifs (enseignants, animateurs, enseignement populaire, organisateurs d'événements) 
+
+### Où résident-ils majoritairement ? Comment ont-ils été repérés ou choisis ? 
+
+**Animateurs de réseaux publiants sur leurs sites webs des fiches expériences sur les approches participatives / travail collaboratif**
+
+Ils semblent être une 80aine en France a déjà publier des fiches expériences et ont été repérés par une quarantaine d'interview auprès d'animateurs de réseaux. Ils résident autant dans les villes que les campagnes. 
+
+**Membres d'équipes impliqués ou intéressés pour s'impliquer dans la vie de leur équipe**
+
+Un public large que nous avons rencontré autant dans les villes que les campagnes. Impliqués dans la vie dans leur équipe sous-entend qu'ils sont impliqués dans une pratique qui bénéficie aux membres de l'équipe. 
+
+**Individus facilitant ou intéressés pour faciliter des temps collaboratifs (enseignants, animateurs, enseignement populaire, organisateurs d'événements)** 
+
+Un autre public large que nous avons autant rencontré dans les villes ou les campagnes. Nous les avons autant rencontré dans les réseaux de la permaculture que l'agilité en développement web, que la médiation numérique que dans des universités. 
+
+Ce public s'intéresse à ces approches la plupart du temps pour résoudre des problèmes de manière créative ou pour raisons pédagogiques. 
+
+### Combien de personnes devraient bénéficier de ces actions (spécifier par tranche d’âge le cas échéant)? 
+
+### Comment faites-vous pour associer les bénéficiaires visés au fonctionnement du projet ? 
+
+Les bénéficiaires sont impliqués dès la conception, sur la base des interviews que nous réalisons avec eux. S'ils sont intéressés, ils restent en lien. 
+
+Les contributeurs sont quant à eux les meilleurs ambassadeurs. Ils expliquent dans leur réseau le pourquoi et le comment du partage d'information, et accompagnent leurs membres intéressés dans leurs premiers pas. 
+
+Les visiteurs de multiBàO peuvent à tout moment, en plus de bénéficier d'un patrimoine commun:
+* envoyer des propositions de modification d'une fiche à une autre équipe: cette équipe recevra alors un mail lui proposant la modification. Si elle accepte, tous les sites webs connectés à la fiche seront actualisés. Le bien commun est alors enrichi
+* connecter des fiches multibào à leur blog. En cas de modification, la fiche sera alors mise à jour sur leur blog. 
+* s'orientier grâce à une documentation que nous tentons de rendre simple, claire et minimaliste
+* demander à participer à une session skype d'accompagnement et de prise en main de multibao
+
+Les contributeurs actifs de multiBàO sont invités à rejoindre la gouvernance du projet. Le principe est simple: nous rendons toutes les tâches visibles, soit via un tableau web nommé "backlog web" - où toutes les opérations de développement en réflexion, considérées, en cours et réalisées sont spécifiées - soit via une liste de discussion slack. Le projet avance en absence d'objection.
+
+Ce mode de prise de décision a été acté par les contributeurs en septembre dernier. Jusqu'à la, pas d'objection sur la prise de décision par objection. 
+
+## 2.5	Quels sont les moyens nécessaires à la réalisation du projet ?
+
+### Quelles sont les moyens humains nécessaires à la mise en œuvre du projet ? Précisez leur statut (permanent, sous-traitant, bénévole) et leurs compétences 
+
+A minima, il faut: 
+* 1 product owner: en lien avec l'ensemble de la communauté des utilisateurs, il est là pour comprendre leurs problématiques, leurs usages et voir si les solutions imaginées leurs conviennent. Il priorise les opérations de développement. 
+* 1 développeur web: il négocie avec le product owner, sur la base des problématiques que ce dernier a fait remonter, des solutions technologiques potentielles. Une fois qu'ils sont d'accord, l'opération est actée. Une fois qu'elle est réalisée, un testeur (le product owner au besoin) vérifie le côté fonctionnel de l'opération de développement. 
+* 1 animateur: il conseille et accompagnement les contributeurs dans l'écriture de leurs savoir-faire. 
+
+Actuellement le projet avance de manière irrégulière, du fait non disponibilité au même
+moment des uns et des autres. Nous parvenons tout de même à organiser un sprint de
+développement web par trimestre, avec une animation du projet complémentaire à raison de
+10 jours pleins par mois. 
+
+Pour produire avec qualité les actions présentées dans ce dossier de subvention, il nous faudrait à minima, par trimestre:
+
+* 4 jours de compétences de product owner 
+* 10 jours de compétences en développement web ou 2 x 5 jours de 2 développeurs web 
+* et de manière occasionnelle, en équivalence de 1 jour par mois, des intégrateurs web et/ou des graphistes. 
+
+Pour financer de telles opérations, il faudrait 4+2x5+1=15 jours financés, ce qui à hauteur de 600€ HT/j nous donne 10 800€ TTC de coût de développement technologique. Nous souhaiterions organiser un sprint de développement par trimestre et avons comme ambition que le financement de la plateforme soit autonome. 
+
+Aussi, nous sommes prêts à financer entre contributeurs 1 sprint par trimestre. 
+
+## Moyens matériels 
+
+### Quels sont les moyens matériels disponibles (locaux, équipements matériels et logiciels…) engagés pour la réalisation du projet ?
+
+Les locaux sont gracieusement mis à disposition par les partenaires en cas de nécessité d'animation.
+
+## Besoin d’accompagnement
+
+Avez-vous identifié des besoins spécifiques pour vous aider dans la réalisation de tout ou partie du projet ? Lesquels ? Combien de temps ? (merci de bien préciser et de justifier sur quelle base vous avez estimé vos besoins)
+
+Oui. 
+* De soutien technique: en développement web, intégration, revue de code, graphisme, ergonomie. 
+* De soutien financier pour nous aider à stabiliser la plateforme et être autonomes; et ceci par le
+financement d'1 des 3 sprints de développement technologique que nous comptons réaliser par trimestre.
+
+## Parmi ces besoins, lesquels vous sembleraient mutualisables ?
+
+Conseil en graphisme, ergonomie, revue de code.
+La plupart des contributeurs multiBàO sont compétents en animation de réseau, organisation collective, accompagnement de projets collaboratifs, ... Il est possible d'imaginer des "trocs" de compétences. Nous recherchons les compétences spécifiées plus haut.
+
+## Aspects innovants du projet
+
+* Innovant car construit avec les utilisateurs et uniquement pour répondre à des
+problématiques Chaque nouvelle version de multiBàO est construite en interaction directe
+avec les utilisateurs. La méthode utilisée n'est autre que celle des Lean startups et leur
+application opérationnelle : la méthode Running Lean. Cette approche agile fonctionne par
+itérations. On teste de manière pragmatique chaque étape du produit. Par exemple, on ne
+définit pas de solutions sans avoir vérifié s'il n'y a pas de problématiques pénibles sans
+alternatives satisfaisantes qui justifieraient une action. On teste chaque partie. A chaque
+nouvelle version (0.1, 0.2, 0.3), on enrichit et on épure. On vérifie si les indicateurs de
+validation de la version sont tenus. Si non, on apprend et on enrichit. 
+* Innovant car facilite la mixité culturelle et la curiosité Lorsque le Conseil Départemental d'Aquitaine publie des ressources à côté du dépôt de fiches du groupement d'associations Coop-Tic, ça facilite la
+curiosité. Surtout quand on a la possibilité de rentrer en relation avec les autres
+contributeurs et de leur proposer des modifications de ressources. Saviez-vous que la
+méthode du Forum Ouvert, utilisée pour explorer collectivement des thématiques proposées
+par un groupe, est employée de 4 manières différentes en fonction de s'il s'agit d'un forum
+en éducation populaire, en démocratie participative ou en agilité ? Sur multiBàO se côtoient
+les ressources de 12 communautés de pratiques : libristes, agilistes, facilitateurs, médiateurs
+territoriaux, animateurs d'éducation populaire, commoners, etc. Une occasion unique de
+favoriser des rencontres. 
+* Innovant car facilite la prise en main du numérique multiBàO a
+comme vocation d'être simple à l'utilisation. Très simple même. D'un point de vue d'un
+habitué du numérique multiBàO est synchronisé avec github.com, qui ouvre les possibilités
+de la technologie .git et du travail collaboratif. On peut créer des « repository » d' «
+organisations », on peut « pusher » et « puller », envoyer des « pull request », et avec le «
+script » on synchronise les ressources avec des sites web distants. Du point de vue d'un
+utilisateur non spécialement habitué au numérique, il y a multibao. Pour y naviguer, on peut
+se référer à la documentation et interagir avec les autres contributeurs. On peut créer des
+dépôts de fiches en équipe, extraire les données, envoyer des propositions de modification
+aux autres réseaux, et même faire apparaître n'importe quelle ressource sur notre site web –
+ressource qui prendra automatiquement la mise en page de notre site. En utilisant multiBàO,
+l'utilisateur apprend à se servir du numérique avec pédagogie... et à en être acteur.
+
+## 2.7	Valorisation du projet
+
+Comment allez-vous valoriser votre projet ? Communication sur site internet ou via les médias, publication, mutualisation dans un réseau, production d’outils... ? 
+
+## 2.8	Partage de l’expérience
+
+### Comment envisagez-vous de mutualiser les effets de votre projet : documentations ? Productions d’aide ?
+
+### Quelles parties de votre projet envisagez-vous envie de partager ?
+
+* code source
+* contenus
+
+
+
+
+
