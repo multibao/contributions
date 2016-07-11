@@ -112,27 +112,54 @@ Objectif 4 : Le numérique au service des mutations sociétales
 
 A l’aide des sous catégories de chacun des objectifs dans l’Appel à Projets, décrivez concrètement toutes les actions qui seront réalisées ?
 
+**Glossaire pour faciliter la compréhension des objectifs / actions**
+
+* **Bien commun:** patrimoine bénéficiant à une ou plusieurs communautés
+* **Réseaux:** structures associatives, entreprenariales, institutionnelles ou collectifs de structures. Sur multiBàO se côtoient des structures à la fois institutionnelles (ex: Université de Bordeaux), associatives (ex: Réseau transition Belgique) et entreprenariales (ex: Scopyleft). Des communautés de pratiques (ex: AnimFr) sont aussi impliquées.
+* **Ressources:** ressources numériques ou papier, publiées sous la forme de documentations écrites ou de vidéos. La plateforme multiBàO.org est composée de ressources numériques présentées sous la forme de fiches méthodologiques et de témoignages (retours d'expériences, interviews filmés)
+
 ### Le numérique au coeur de la transformation des mécanismes de solidarité
 
-Rappel: 
-* Inventer ou transformer de nouveaux dispositifs de solidarité pour lesquels l'usage du numérique
-serait déterminant
-* Favoriser les projets visant à l'autonomie des personnes bénéficiaires et leur implication dans le
-pilotage du projet
-* Inventer de nouvelles formes de collaboration entre les utilisateurs, les acteurs de l’insertion et les
-acteurs du numérique.
+#### Inventer ou transformer de nouveaux dispositifs de solidarité pour lesquels l'usage du numérique serait déterminant
+
+* conseiller et accompagner les contributeurs dans le partage numérique de leurs savoir-faire (2015-2018)
+* consolider la technologie multiBàO.org dans ses capacités à favoriser la documentation inter-réseaux (2016) 
+* consolider la technologie multiBàO dans sa capacité à se connecter à d'autres supports (2017) 
+
+#### Favoriser les projets visant à l'autonomie des personnes bénéficiaires et leur implication dans le pilotage du projet
+
+* conseiller et accompagner les contributeurs dans le partage numérique de leurs savoir-faire (2015-2018)
+* impliquer les organisations contributrices à co-piloter le projet
+
+####  Inventer de nouvelles formes de collaboration entre les utilisateurs, les acteurs de l’insertion et les acteurs du numérique
+
+* favoriser des rencontres entre acteurs du numérique et du non-numérique
+* favoriser l'enrichissement mutuel des ressources
 
 ### Formation pour le développement d’un internet solidaire
 
-* Former et sensibiliser aux usages du numérique les individus et les réseaux d’acteurs
-* Elaborer des dispositifs pédagogiques au bénéfice d’enfants et d’adultes
-* Faciliter les appropriations par des approches ludiques
-* Faciliter une meilleure prise en main en proposant une adaptation des outils et services numériques
+#### Former et sensibiliser aux usages du numérique les individus et les réseaux d’acteurs
+
+* conseiller et accompagner les contributeurs dans le partage numérique de leurs savoir-faire (2015-2018)
+* réaliser des tutoriels
+
+#### Elaborer des dispositifs pédagogiques au bénéfice d’enfants et d’adultes
+
+* réinventer entre réseaux l'utilité des ressources
+
+#### Faciliter une meilleure prise en main en proposant une adaptation des outils et services numériques
+
+* médiation
 
 ### Le numérique au service des mutations sociétales
 
-* Mettre le numérique au service du bien vivre (identité numérique, adaptation des outils et services, ...)
-* Développer la participation citoyenne dans les territoires
+#### Mettre le numérique au service du bien vivre (identité numérique, adaptation des outils et services, ...)
+
+* les fiches outils
+
+#### Développer la participation citoyenne dans les territoires
+
+* les fiches outils-méthodes 
 
 ## Comment allez-vous les mettre en œuvre ? 
 
