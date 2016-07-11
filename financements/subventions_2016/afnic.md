@@ -58,8 +58,35 @@ Pour les publics cibles de multiBàO 1.0, les problématiques sont:
 
 ### D’autres organismes se sont-ils impliqués localement sur cette même problématique ? Lesquels ? 
 
-Poursuivent-ils toujours leur action en ce sens ? Si non, pourquoi ? Si oui, en quoi votre intervention est-elle complémentaire ? Comment est-elle complémentaire, le cas échéant, des dispositifs déjà en place ?
+Oui. Nous vous renseignons les acteurs avec lesquels nous sommes en relation: 
 
+* pour le partage d'information en un seul endroit, avec gestion de droits de modification, il y a les équipes wiki (MediaWiki, YesWiki) qui sont populaires
+* pour le partage d'informations en plusieurs endroits à la fois (sur plusieurs sites en simultanés, connection à des sites distants plutôt que de centraliser toute l'information à un seul endroit), les équipes de notre réseau qui travaillent dessus sont Communecter, HappyDev, Cellabs, Unisson, Assemblée Virtuelle. 
+
+### Poursuivent-ils toujours leur action en ce sens ? Si non, pourquoi ? Si oui, en quoi votre intervention est-elle complémentaire ? Comment est-elle complémentaire, le cas échéant, des dispositifs déjà en place ?
+
+Ils continent leur action en ce sens, et nous sommes en lien pour éviter les doublons.
+D'ailleurs, nous partageons notre liste de discussion aux côtés des es équipes de HappyDev, Cellabs et Yeswiki. 
+
+**multiBàO pousse le partage de fiches pour un public non initié au numérique**
+
+multiBàO ne plait ni complément aux développeurs web, ni complément aux utilisateurs qui découvrent le numérique. C'est un intermédiaire faisant le lien entre le monde du numérique et le monde du non numérique. En pratiquant multiBàO, un utilisateur pratique de manière plutôt naturelle l'interoperabilite, les "pull request", la gestion des droits d'utilisateurs, un format générique et les licences libres. Les utilisateurs acquièrent de nouvelles compétences.
+
+**multiBàO est une démonstration dont toutes les ressources sont accessibles et réutilisables**
+
+Toutes les ressources de multiBàO sont pleinement accessibles et réutilisables par les autres réseaux.
+On peut les télécharger, les connecter à notre site web, et envoyer des propositions de modifications aux équipes. 
+
+Les autres technologies / équipes peuvent s'y connecter. 
+
+**multiBàO est une démonstration d'un commun**
+
+Absence de logo, absence de compte twitter.
+L'accent est mis sur la construction d'un commun partagé entre les différentes équipes contributrices. 
+
+### 1.2	Genèse du projet
+
+Comment le projet est-il né ? Y-a-t-il (eu) d’autres acteurs associés ?
 
 
 
