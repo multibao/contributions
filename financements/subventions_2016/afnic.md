@@ -8,7 +8,6 @@ MultiBàO, une technologie web
 
 MultiBàO (ou multi Boîte à Outils) est une technologie web permettant à différentes communautés de pratiques de présenter, partager et de gouverner leurs ressources web sur un espace commun. 
 
-Je m'appelle Thomas. Il y a 2 ans, passionné par les approches collaboratives, j'ai publié 5 méthodes, sous licences libres, dans un dossier Dropbox. Suites aux nombreuses demandes d'y accéder, j'ai ouvert les invitations. Après 1 an, ce dossier Dropbox comptabilisait près de 150 membres et plus de 250 fiches outils-méthodes partagées, toutes publiées sous licences libres. 
 
 La première expérience de multibao.org a débuté il y a un an et demi, aux côtés de Stéphane Langlois (dev. agiliste chez Scopyleft), Fanny Monod (Cpcoop) et Vincent Wattelet (Réseau transition BE); cette expérience porte sur la mutualisation de fiches expériences sur les démarches participatives / travail collaboratif / organisation en réseau. Une expérience acentralisée qui s'appuie sur la force de dissémination des savoirs par le numérique.
 
