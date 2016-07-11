@@ -14,9 +14,9 @@ La première expérience de multibao.org a débuté il y a un an et demi, aux c�
 
 Plutôt que d'imaginer un site web en plus, nous avons construit multiBàO en interaction permanente avec celles et ceux qui publiaient des ressources. La première multi Boîte à Outil est arrivée en version 0.7 en novembre 2015. Elle permettait à des animateurs de réseaux d'avoir une gouvernance totale sur leurs données (non centralisé), présenter leurs données, et bénéficier d'une technologie permettant de présenter les ressources à plusieurs endroits à la fois (ex: sur le site web et sur un autre blog, chaque présentation prenant automatiquement la mise en page du site sur lequel elle apparaît et étant automatiquement mise à jour en cas de modification). Les acteurs Démocratie Ouverte, Outils Réseaux, SupAgro, Réseau Transition Belgique, Lilian Ricaud, Onpassealacte, Université de Bordeaux, Agile Games, Holacraty étaient les premiers contributeurs. Autant d'acteurs qui ont joué le jeu du commun et ont accepté de rendre pleinement disponibles leurs ressources.
 
-En ce mois de juin 2015, nous avons publié multiBàO 1.0, première version stable. Cette fois çi conçue pour des lecteurs, elle permet d'explorer les ressources mises à disposition. La communauté de contributeurs à été rejoint par des équipes et s'enrichit continuellement (Cre-Sol, MuseoMix, Chiendent, Tiers-Truck, Université du Nous, Le Biome...). 
+En ce mois de juin 2016, nous avons publié multiBàO 1.0, première version stable. Cette fois çi conçue pour des lecteurs, elle permet d'explorer les ressources mises à disposition. La communauté de contributeurs à été rejoint par des équipes et s'enrichit continuellement (Cre-Sol, MuseoMix, Chiendent, Tiers-Truck, Université du Nous, Le Biome...). 
 
-multiBàO est l'un des espaces de mutualisation on l'en prend le temps de réfléchir collectivement comment rendre nos ressources utilisables numériquement mais aussi pédagogiquement. Pratiquer multiBàO - pour des associations et des acteurs qui parfois découvrent le numériquement - c'est pratiquer un système de partage d'information sain et se l'approprier. 
+MultiBàO est l'un des espaces de mutualisation on l'en prend le temps de réfléchir collectivement comment rendre nos ressources utilisables numériquement mais aussi pédagogiquement. Pratiquer multiBàO - pour des associations et des acteurs qui parfois découvrent le numériquement - c'est pratiquer un système de partage d'information sain et se l'approprier. 
 
 Collectivement, on réfléchit à comment rendre nos ressources utilisables numériquement mais aussi pédagogiquement. multiBàO est un commun partagé par les différentes organisations qui y contribuent. 
 
@@ -238,10 +238,4 @@ Pour l'animation de multiBàO, il faut à minima un Bus Factor de 3. Un product 
 - Sont prêts à prendre le relai sur le développement web si Stéphane Langlois ne voulait plus l'assurer: François Olivier Devaux (Réseau Transition)
 - Sont animateurs sur le conseil et l'accompagnement des contributeurs: Louisse Berrotte (Université de Nantes), Hélène Laxenaire (SupAgroFlorac), Vincent Wattelet (Réseau Transition), Olivier Chaput (Ecores), Romain Vignes (Université du Nous), Nicolas Loubet (Cellabz), Armel Le Coz (Démocratie Ouverte), Romain Lalande (Cre-sol)
 
-La principale menace concerne le développement web d'un projet opensource. Les compétences nécessaires sont nombreuses. La menace peut être levée en trouvant des ressources financières. 
-
-
-
-
-
-
+La principale menace concerne le développement web d'un projet opensource. Les compétences nécessaires sont nombreuses. La menace peut être levée en trouvant des ressources financières.
