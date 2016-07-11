@@ -98,6 +98,56 @@ Très vite, l'association Réseau Transition et l'association Démocratie Ouvert
 
 A chaque conception (sensée répondre à des problématiques pénibles sans alternatives pour l'utilisateur), nous la testons, la validons auprès des intéressés/impliqués. Les contributeurs sont progressivement impliqués. Les plus concernés deviennent membres de l'équipe de portage de multibao. L'idée de faire ensemble, sans appropriation par une organisation ou une autre, est assez agréable. 
 
+# 2.	Présentation détaillée du projet
+
+## 2.1	Objectifs du projet
+
+Précisez concrètement le ou les objectifs du projet (numéroter par ordre de priorité)
+
+Objectif 5 : Le numérique au coeur de la transformation des mécanismes de solidarité
+Objectif 2 : Formation pour le développement d’un internet solidaire
+Objectif 4 : Le numérique au service des mutations sociétales
+
+## 2.2	Actions mises en œuvre 
+
+A l’aide des sous catégories de chacun des objectifs dans l’Appel à Projets, décrivez concrètement toutes les actions qui seront réalisées ?
+
+### Le numérique au coeur de la transformation des mécanismes de solidarité
+
+Rappel: 
+* Inventer ou transformer de nouveaux dispositifs de solidarité pour lesquels l'usage du numérique
+serait déterminant
+* Favoriser les projets visant à l'autonomie des personnes bénéficiaires et leur implication dans le
+pilotage du projet
+* Inventer de nouvelles formes de collaboration entre les utilisateurs, les acteurs de l’insertion et les
+acteurs du numérique.
+
+### Formation pour le développement d’un internet solidaire
+
+* Former et sensibiliser aux usages du numérique les individus et les réseaux d’acteurs
+* Elaborer des dispositifs pédagogiques au bénéfice d’enfants et d’adultes
+* Faciliter les appropriations par des approches ludiques
+* Faciliter une meilleure prise en main en proposant une adaptation des outils et services numériques
+
+### Le numérique au service des mutations sociétales
+
+* Mettre le numérique au service du bien vivre (identité numérique, adaptation des outils et services, ...)
+* Développer la participation citoyenne dans les territoires
+
+## Comment allez-vous les mettre en œuvre ? 
+
+## Comment coordonnez-vous votre action avec celle des éventuels autres acteurs locaux ? 
+
+S’il y en a :
+Qui sont-ils (publics, association, clubs, fédérations) ?
+Quels partenariats sont mis en place concernant ce projet ? 
+De quels autres co-financements et partenariats disposent le projet ? 
+Quelle articulation avec les dispositifs locaux est faite 
+
+Quelles sont les principales menaces et opportunités qui pourraient impacter le projet ? 
+Qu’avez-vous pensé mettre en œuvre pour limiter ces difficultés ou saisir ces opportunités? 
+
+
 
 
 
