@@ -68,18 +68,18 @@ Oui. Nous vous renseignons les acteurs avec lesquels nous sommes en relation:
 Ils continent leur action en ce sens, et nous sommes en lien pour éviter les doublons.
 D'ailleurs, nous partageons notre liste de discussion aux côtés des es équipes de HappyDev, Cellabs et Yeswiki. 
 
-**multiBàO pousse le partage de fiches pour un public non initié au numérique**
+**MultiBàO pousse le partage de fiches pour un public non initié au numérique**
 
-multiBàO ne plait ni complément aux développeurs web, ni complément aux utilisateurs qui découvrent le numérique. C'est un intermédiaire faisant le lien entre le monde du numérique et le monde du non numérique. En pratiquant multiBàO, un utilisateur pratique de manière plutôt naturelle l'interoperabilite, les "pull request", la gestion des droits d'utilisateurs, un format générique et les licences libres. Les utilisateurs acquièrent de nouvelles compétences.
+MultiBàO ne plait ni complément aux développeurs web, ni complément aux utilisateurs qui découvrent le numérique. C'est un intermédiaire faisant le lien entre le monde du numérique et le monde du non numérique. En pratiquant multiBàO, un utilisateur pratique de manière plutôt naturelle l'interoperabilite, les "pull request", la gestion des droits d'utilisateurs, un format générique et les licences libres. Les utilisateurs acquièrent de nouvelles compétences.
 
-**multiBàO est une démonstration dont toutes les ressources sont accessibles et réutilisables**
+**MultiBàO est une démonstration dont toutes les ressources sont accessibles et réutilisables**
 
 Toutes les ressources de multiBàO sont pleinement accessibles et réutilisables par les autres réseaux.
 On peut les télécharger, les connecter à notre site web, et envoyer des propositions de modifications aux équipes. 
 
 Les autres technologies / équipes peuvent s'y connecter. 
 
-**multiBàO est une démonstration d'un commun**
+**MultiBàO est une démonstration d'un commun**
 
 Absence de logo, absence de compte twitter.
 L'accent est mis sur la construction d'un commun partagé entre les différentes équipes contributrices. 
