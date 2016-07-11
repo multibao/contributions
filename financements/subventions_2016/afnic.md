@@ -226,7 +226,7 @@ Relatif au manque de disponibilités des différents partenaires:
 * besoins financiers - actuellement 1000€/mois déjà financés. 
 
 Relatif à la privatisation de github.com: 
-* passer sous gitlab.com, avec l'aide de la communauté de Framasoft. Cette solution libre serait soutenue par Framasoft (interlocuteur: Pouhio)
+* passer sous gitlab.com, avec l'aide de la communauté de Framasoft. Cette solution libre serait soutenue par Framasoft (interlocuteur: Pouhiou)
 
 ## En cas de désistement de l’instigateur du projet quelles alternatives ont été envisagées ?
 
@@ -234,9 +234,9 @@ Nous avons découvert que dans le monde du logiciel, on nommait "Bus Factor" le 
 
 Pour l'animation de multiBàO, il faut à minima un Bus Factor de 3. Un product owner, pour la relation avec les contributeurs. Un animateur, pour conseiller et accompagner les contributeurs. Un développeur web, en lien avec le product owner, pour concevoir la technologie. 
 
-Sont prêts à prendre le relai sur le rôle de Product Owner si Thomas Wolff ne voulait plus l'assurer: Xavier Coadic (Fablab Le Biome), Lilian Ricaud (Open Cooperation Specialist)
-Sont prêts à prendre le relai sur le développement web si Stéphane Langlois ne voulait plus l'assurer: François Olivier Devaux (Réseau Transition)
-Sont animateurs sur le conseil et l'accompagnement des contributeurs: Louisse Berrotte (Université de Nantes), Hélène Laxenaire (SupAgroFlorac), Vincent Wattelet (Réseau Transition), Olivier Chaput (Ecores), Romain Vignes (Université du Nous), Nicolas Loubet (Cellabz), Armel Le Coz (Démocratie Ouverte), Romain Lalande (Cre-sol)
+- Sont prêts à prendre le relai sur le rôle de Product Owner si Thomas Wolff ne voulait plus l'assurer: Xavier Coadic (Fablab Le Biome), Lilian Ricaud (Open Cooperation Specialist)
+- Sont prêts à prendre le relai sur le développement web si Stéphane Langlois ne voulait plus l'assurer: François Olivier Devaux (Réseau Transition)
+- Sont animateurs sur le conseil et l'accompagnement des contributeurs: Louisse Berrotte (Université de Nantes), Hélène Laxenaire (SupAgroFlorac), Vincent Wattelet (Réseau Transition), Olivier Chaput (Ecores), Romain Vignes (Université du Nous), Nicolas Loubet (Cellabz), Armel Le Coz (Démocratie Ouverte), Romain Lalande (Cre-sol)
 
 La principale menace concerne le développement web d'un projet opensource. Les compétences nécessaires sont nombreuses. La menace peut être levée en trouvant des ressources financières. 
 
