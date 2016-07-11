@@ -122,26 +122,27 @@ A l’aide des sous catégories de chacun des objectifs dans l’Appel à Projet
 
 #### Inventer ou transformer de nouveaux dispositifs de solidarité pour lesquels l'usage du numérique serait déterminant
 
-* conseiller et accompagner les contributeurs dans le partage numérique de leurs savoir-faire (2015-2018)
-* consolider la technologie multiBàO.org dans ses capacités à favoriser la documentation inter-réseaux (2016) 
-* consolider la technologie multiBàO dans sa capacité à se connecter à d'autres supports (2017) 
+* consolider la technologie multiBàO.org dans ses capacités à favoriser la mutualisation inter-réseaux 
+* conseiller et accompagner les contributeurs dans le partage numérique de leurs savoir-faire 
+* faciliter la capacité de la technologie multiBàO à se connecter à d'autres supports 
 
 #### Favoriser les projets visant à l'autonomie des personnes bénéficiaires et leur implication dans le pilotage du projet
 
-* conseiller et accompagner les contributeurs dans le partage numérique de leurs savoir-faire (2015-2018)
-* impliquer les organisations contributrices à co-piloter le projet
+* conseiller et accompagner les contributeurs dans le partage numérique de leurs savoir-faire
+* impliquer les organisations contributrices à co-entretenir le projet
 
 ####  Inventer de nouvelles formes de collaboration entre les utilisateurs, les acteurs de l’insertion et les acteurs du numérique
 
-* favoriser des rencontres entre acteurs du numérique et du non-numérique
-* favoriser l'enrichissement mutuel des ressources
+* conseiller et accompagner les contributeurs dans le partage numérique de leurs savoir-faire 
+* rendre visible les pratiques et les cultures caracteristiques des différentes organisations
+* favoriser la mise en relation des acteurs
 
 ### Formation pour le développement d’un internet solidaire
 
 #### Former et sensibiliser aux usages du numérique les individus et les réseaux d’acteurs
 
-* conseiller et accompagner les contributeurs dans le partage numérique de leurs savoir-faire (2015-2018)
-* réaliser des tutoriels
+* conseiller et accompagner les contributeurs dans le partage numérique de leurs savoir-faire 
+* animation de conférences, de démonstrations et de sensibilisations
 
 #### Elaborer des dispositifs pédagogiques au bénéfice d’enfants et d’adultes
 
@@ -149,13 +150,14 @@ A l’aide des sous catégories de chacun des objectifs dans l’Appel à Projet
 
 #### Faciliter une meilleure prise en main en proposant une adaptation des outils et services numériques
 
-* médiation
+* conseiller et accompagner les contributeurs dans le partage numérique de leurs savoir-faire 
 
 ### Le numérique au service des mutations sociétales
 
 #### Mettre le numérique au service du bien vivre (identité numérique, adaptation des outils et services, ...)
 
-* les fiches outils
+* conseiller et accompagner les contributeurs dans le partage numérique de leurs savoir-faire 
+* réinventer entre réseaux l'utilité des ressources
 
 ## Comment allez-vous les mettre en œuvre ? 
 
@@ -165,24 +167,37 @@ S’il y en a :
 Qui sont-ils (publics, association, clubs, fédérations) ?
 Quels partenariats sont mis en place concernant ce projet ? 
 De quels autres co-financements et partenariats disposent le projet ? 
-Quelle articulation avec les dispositifs locaux est faite 
+Quelle articulation avec les dispositifs locaux est faite ?
 
 ## Quelles sont les principales menaces et opportunités qui pourraient impacter le projet ? 
 
+Les principales menaces: 
+
+* manque de disponibilités des différents partenaires. Faire évoluer collectivement les ressources, animer, coder, ça demande du temps et souvent des moyens financiers pour soutenir l'action. 
+* privatisation de github.com. Les ressources des différentes organisations sont herbergées sous Github.com, un service mondialement utilisé pour héberger et entretenir des projets opensource. 
+
+Les principales opportunités:
+
+* continuer à faire ensemble, entre différents réseaux solides, et porter en commun multibao.org
+* utiliser la technologie pour d'autres usages
+
 ## Qu’avez-vous pensé mettre en œuvre pour limiter ces difficultés ou saisir ces opportunités? 
+
+Relatif au manque de disponibilités des différents partenaires:
+* nous nous engagons avec eux dans un projet sur le long terme. L'idée est de produire de la qualité et non de la quantité. Sous 1 mois, on trouve difficilement un créneau pour collaborer ensemble. Sous 6 mois, on trouve facilement 1 ou 2 journées pour collaborer ensemble - et avec plusieurs contributeurs en plus! 
+* besoins financiers - actuellement 1000€/mois déjà financés. 
 
 ## En cas de désistement de l’instigateur du projet quelles alternatives ont été envisagées ?
 
+Nous avons découvert que dans le monde du logiciel, on nommait "Bus Factor" le nombre de personnes en deçà duquel un projet ne peut se poursuivre de manière viable.
 
+Pour l'animation de multiBàO, il faut à minima un Bus Factor de 3. Un product owner, pour la relation avec les contributeurs. Un animateur, pour conseiller et accompagner les contributeurs. Un développeur web, en lien avec le product owner, pour concevoir la technologie. 
 
+Sont prêts à prendre le relai sur le rôle de Product Owner si Thomas Wolff ne voulait plus l'assurer: Xavier Coadic (Fablab Le Biome), Lilian Ricaud (Open Cooperation Specialist)
+Sont prêts à prendre le relai sur le développement web si Stéphane Langlois ne voulait plus l'assurer: François Olivier Devaux (Réseau Transition)
+Sont animateurs sur le conseil et l'accompagnement des contributeurs: Louisse Berrotte (Université de Nantes), Hélène Laxenaire (SupAgroFlorac), Vincent Wattelet (Réseau Transition), Olivier Chaput (Ecores), Romain Vignes (Université du Nous), Nicolas Loubet (Cellabz), Armel Le Coz (Démocratie Ouverte), Romain Lalande (Cre-sol)
 
-
-
-
-
-
-
-
+La principale menace concerne le développement web d'un projet opensource. Les compétences nécessaires sont nombreuses. La menace peut être levée en trouvant des ressources financières. 
 
 
 
