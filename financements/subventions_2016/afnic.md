@@ -43,9 +43,9 @@ En juin 2016, les publics cibles de multiBàO arrivé à sa version 1.0 sont:
 Dans la démarche de conception de multiBàO, tout se construit en lien direct avec les intéressés / impliqués, et ceci à travers des interviews. Le but de ces interviews est de comprendre les problématiques pénibles sans alternatives et les usages web actuels. 
 
 Pour les animateurs de réseaux publiant régulièrement sur leurs sites webs des fiches sur les démarches participatives, les problématiques sont: 
-- la plupart du temps, bien que nos boîtes à outils sont affilées à des collectifs, nous ne sommes la plupart du temps qu'un ou deux à entretenir le site / wiki. Avec le temps, les ressources meurent.
-- on veut bien partager avec les autres réseaux, mutualiser nos ressources. Le problème c'est qu'on ne peut pas avoir nos ressources à la fois sur notre site web et sur un autre site et encore sur un autre, et que tout soit connecté.
-- on n'est pas sûr que les ressources soient vraiment utiles, à vrai dire on est plutôt aveugle sur l'utilisation des fiches qu'on met à disposition. 
+- la plupart du temps, bien que nos boîtes à outils sont affilées à des collectifs, nous ne sommes qu'un ou deux à entretenir le site / wiki. Avec le temps, les ressources meurent.
+- on veut bien partager avec les autres réseaux, mutualiser nos ressources. Le problème c'est qu'on ne peut pas avoir nos ressources à la fois sur notre site web et sur un autre site et encore sur un autre, et que tout soit connecté. Du coup on met à un seul endroit.
+- on n'est pas sûr que les ressources soient vraiment utiles, à vrai dire on est plutôt aveugle sur l'utilisation/utilité des fiches qu'on met à disposition. 
 
 multiBàO 0.7 répondait spécifiquement à ses besoins.
 
