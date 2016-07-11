@@ -8,7 +8,6 @@ MultiBàO, une technologie web
 
 MultiBàO (ou multi Boîte à Outils) est une technologie web permettant à différentes communautés de pratiques de présenter, partager et de gouverner leurs ressources web sur un espace commun. 
 
-
 La première expérience de multibao.org a débuté il y a un an et demi, aux côtés de Stéphane Langlois (dev. agiliste chez Scopyleft), Fanny Monod (Cpcoop) et Vincent Wattelet (Réseau transition BE); cette expérience porte sur la mutualisation de fiches expériences sur les démarches participatives / travail collaboratif / organisation en réseau. Une expérience acentralisée qui s'appuie sur la force de dissémination des savoirs par le numérique.
 
 Plutôt que d'imaginer un site web en plus, nous avons construit multiBàO en interaction permanente avec celles et ceux qui publiaient des ressources. c'était la naissance d'une communauté d'une gouvernance et d'une ressource autour d'une plateforme. La première multi Boîte à Outil est arrivée en version 0.7 en novembre 2015. Elle permettait à des animateurs de réseaux d'avoir une gouvernance totale sur leurs données (non centralisée), de présenter leurs données, et de bénéficier d'une technologie permettant de présenter les ressources à plusieurs endroits à la fois (ex: sur le site web et sur un autre blog, chaque présentation prenant automatiquement la mise en page du site sur lequel elle apparaît et étant automatiquement mise à jour en cas de modification). Les acteurs Démocratie Ouverte, Outils Réseaux, SupAgro, Réseau Transition Belgique, Lilian Ricaud, Onpassealacte, Université de Bordeaux, Agile Games, Holacraty, étaient les premiers contributeurs. Autant d'acteurs qui ont joué le jeu du commun et ont accepté de rendre pleinement disponibles leurs ressources.
@@ -90,17 +89,17 @@ Multibao est une ressource cultivée par une communauté plurielle et animée pa
 
 ### 1.2	Genèse du projet. Comment le projet est-il né ? Y-a-t-il (eu) d’autres acteurs associés ?
 
-Ici Thomas Wolff. Il y a 2 ans, passionné par les approches collaboratives, j'ai publié 5 méthodes, sous licences libres, sur un dossier Dropbox. Aux nombreuses demandes d'y accéder, j'ai ouvert les invitations. Après 1 an, ce dossier Dropbox comptabilisait près de 150 membres et plus de 250 fiches outils-méthodes, toutes publiées sous licences libres. 
+Il y a 2 ans, Thomas Wolff, passionné par les approches collaboratives, publiait 5 fiches méthodes, sous licences libres, dans un dossier Dropbox. Aux nombreuses demandes d'y accéder, il a rapidement ouvert les invitations à ce dossier. Après 1 an, ce Dropbox comptabilisait près de 150 membres et plus de 250 fiches outils-méthodes, toutes publiées sous licences libres. 
 
-Seulement, un dossier dropbox avec 250 fiches outils-méthodes, c'est non utilisable. 
+Seulement, un dossier dropbox avec 250 fiches outils-méthodes, c'est uniquement utilisbale par les personnes ayant accès à cet espace numérique fermé. Cela n'a pas d'impact et pas d'utilité large.
 
-Fanny Monod m'a mis en relation avec Stéphane Langlois, un développeur qui pratique les approches agiles (Scopyleft). Ce dernier nous a initié aux approches Lean Startup, ou comment propulser un produit innovant avec peu de ressources. 
+Fanny Monod a mis en relation Thomas avec Stéphane Langlois, un développeur qui pratique les approches agiles (Scopyleft). Ce dernier nous a initié aux approches Lean Startup, ou comment propulser un produit innovant avec peu de ressources. 
 
-Plutôt que de partir sur une solution toute faite comme un site web qui présenterait les 250 fiches outils-méthodes avec une classification que nous aurions créée, nous nous sommes intéressés à une quarantaine d'animateurs de réseaux qui publiait des ressources sur les approches participatives. Nous les avons interrogé sur leurs problématiques en matière de publication et mutualisation de ressources, et comment ils faisaient. 
+Plutôt que de partir sur une solution satndard comme un site web qui présenterait les 250 fiches outils-méthodes avec une classification que nous aurions créée, nous nous sommes intéressés à une quarantaine d'animateurs de réseaux qui publiaient des ressources sur les approches participatives. Nous les avons interrogé sur leurs problématiques en matière de publication et mutualisation de ressources, et écouté sur le "comment ils faisaient". 
 
-Très vite, l'association Réseau Transition et l'association Démocratie Ouverte ont rejoint le CPCOOP pour tenter l'expérience. Le développeur agiliste Stéphane Langlois a développé les premières versions de multibao.org. 
+Très vite, l'association Réseau Transition et l'association Démocratie Ouverte ont rejoint le CPCOOP pour tenter l'expérience. Stéphane Langlois a développé les premières versions de multibao.org. 
 
-A chaque conception (sensée répondre à des problématiques pénibles sans alternatives pour l'utilisateur), nous la testons, la validons auprès des intéressés/impliqués. Les contributeurs sont progressivement impliqués. Les plus concernés deviennent membres de l'équipe de portage de multibao. L'idée de faire ensemble, sans appropriation par une organisation ou une autre, est assez agréable. 
+A chaque conception (sensée répondre à des problématiques pénibles sans alternatives pour l'utilisateur), nous la testons, la validons auprès des intéressés/impliqués. Les contributeurs sont progressivement impliqués. Les plus concernés deviennent membres de l'équipe de portage de multibao. L'idée de faire ensemble, sans appropriation par telle organisation ou une autre, est assez agréable et elle correspond à n besoin grandissant dans les différentes communautés collaboratives. 
 
 # 2.	Présentation détaillée du projet
 
