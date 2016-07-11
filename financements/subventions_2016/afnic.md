@@ -163,17 +163,55 @@ A l’aide des sous catégories de chacun des objectifs dans l’Appel à Projet
 
 ## Comment coordonnez-vous votre action avec celle des éventuels autres acteurs locaux ? 
 
-S’il y en a :
-Qui sont-ils (publics, association, clubs, fédérations) ?
-Quels partenariats sont mis en place concernant ce projet ? 
-De quels autres co-financements et partenariats disposent le projet ? 
-Quelle articulation avec les dispositifs locaux est faite ?
+Nous restons en lien, rendons visibles nos avancées, et faisons ensemble en fonction de nos disponibilités. 
+
+S’il y en a :
+
+### Qui sont-ils (publics, association, clubs, fédérations) ?
+
+Liste des contributeurs acteurs et leurs abbréviations:
+Démocratie Ouverte (DO), Territoires Hautement Citoyens (THC), Outils Réseau / Crie Mouscron / SupAgro Florac à travers la fédération Coop-tic (CoTic), l'association Centre des pratiques de la coopération (CPC), l'association Reseau Transition (RT) avec la contribution du Transition Network (TN), l'association Cre-Sol (CS), le collectif Chiendent (Ch), la fédération Traducteurs Agiles (TA), des groupes d'étudiants de Université de Nantes (UN), Université de Bordeaux (UB), l'association D-SSID (DS), l'association Onpassealacte (OPA). 
+
+Bientôt, la fédération MuseoMix (MM), l'association Université du Nous (UdN), le collectif DevOpenSud (DO), la laboratoire pédagogique de l'Université d'Angers (LabUA), la SCOP Scopyleft (Sco), la SCOP UT7 (UT), la fédération Temps des Communs (TdC), l'association Tiers Truck (TT), YesWiki (YW), Cellabz (Ce), Le Biome (LB), Happy Devs (HD), Communecter (Com), Framasoft (FS)
+
+### Quels partenariats sont mis en place concernant ce projet ? 
+
+#### Mutualisation de ressources web: DO-THC, CoTic, CPC, RT-TN-CS, Ch, TA, UN, UB, DS, OPA
+
+La plupart des organisations citées sont soit visibles sur multiBàO, soit accessibles via le "commencer ici" car elles n'ont pas encore revues leurs fiches avec la pédagogie nécessaire pour apparaître sur la page d'accueil multiBàO 1.0. 
+
+Plusieurs contributeurs à l'appel à projet de la fondation AFNIC sont (Cre-Sol) ou se proposent de partager leurs fiches d'expériences sur multiBàO (Communecter, Tiers-Truck)
+
+#### Conseiller et accompagner les contributeurs dans le partage numérique de leurs savoir-faire: DO-THC, Co-TIC, CPC, RT, Ch
+
+#### Développer une technologie web Opensource: Sco, DoS, Frama
+
+#### Favoriser la capacité de multiBàO à se connecter à d'autres supports: YW, MW, Com
+
+Les équipes de YesWiki ont débuté à construire la connexion entre les yeswiki et multibao. Ainsi, des ressources mises à jour sur un yeswiki pourraient être présentées et actualisées sur multibao.
+
+Les connexions entre les mediawiki et multibao est explorée par Simon Sarrazin (Unisson, La Coroutine). Pour l'instant en veille.
+
+Cette fonctionnalité intéresse aussi des acteurs de Framasoft, à creuser. Nous explorerons alors ces possibilités lorsque nous passerons de github.com à gitlab. 
+
+### De quels autres co-financements et partenariats disposent le projet ? 
+
+Chaque organisation partenaire porte le projet relativement à ses moyens. 
+Dans la majorité du temps, il s'agit de temps salarié mis à disposition par l'organisation. 
+
+Cas particuliers: 
+* l'association Réseau Transition va déposer un dossier de subvention à la Fondation Lunt
+* l'association CPCOOP dépose ce présent appel à projet
+
+### Quelle articulation avec les dispositifs locaux est faite ?
+
+Nous restons en lien, que ce soit via les listes de discussion ou des temps de réseaux. Nous essayons à tout prix d'éviter des doublons chronophages. 
 
 ## Quelles sont les principales menaces et opportunités qui pourraient impacter le projet ? 
 
 Les principales menaces: 
 
-* manque de disponibilités des différents partenaires. Faire évoluer collectivement les ressources, animer, coder, ça demande du temps et souvent des moyens financiers pour soutenir l'action. 
+* manque de disponibilité des différents partenaires. Faire évoluer collectivement les ressources, animer, coder, ça demande du temps et souvent des moyens financiers pour soutenir l'action. 
 * privatisation de github.com. Les ressources des différentes organisations sont herbergées sous Github.com, un service mondialement utilisé pour héberger et entretenir des projets opensource. 
 
 Les principales opportunités:
@@ -187,6 +225,9 @@ Relatif au manque de disponibilités des différents partenaires:
 * nous nous engagons avec eux dans un projet sur le long terme. L'idée est de produire de la qualité et non de la quantité. Sous 1 mois, on trouve difficilement un créneau pour collaborer ensemble. Sous 6 mois, on trouve facilement 1 ou 2 journées pour collaborer ensemble - et avec plusieurs contributeurs en plus! 
 * besoins financiers - actuellement 1000€/mois déjà financés. 
 
+Relatif à la privatisation de github.com: 
+* passer sous gitlab.com, avec l'aide de la communauté de Framasoft. Cette solution libre serait soutenue par Framasoft (interlocuteur: Pouhio)
+
 ## En cas de désistement de l’instigateur du projet quelles alternatives ont été envisagées ?
 
 Nous avons découvert que dans le monde du logiciel, on nommait "Bus Factor" le nombre de personnes en deçà duquel un projet ne peut se poursuivre de manière viable.
@@ -198,6 +239,7 @@ Sont prêts à prendre le relai sur le développement web si Stéphane Langlois 
 Sont animateurs sur le conseil et l'accompagnement des contributeurs: Louisse Berrotte (Université de Nantes), Hélène Laxenaire (SupAgroFlorac), Vincent Wattelet (Réseau Transition), Olivier Chaput (Ecores), Romain Vignes (Université du Nous), Nicolas Loubet (Cellabz), Armel Le Coz (Démocratie Ouverte), Romain Lalande (Cre-sol)
 
 La principale menace concerne le développement web d'un projet opensource. Les compétences nécessaires sont nombreuses. La menace peut être levée en trouvant des ressources financières. 
+
 
 
 
