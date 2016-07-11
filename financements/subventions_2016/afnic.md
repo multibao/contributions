@@ -157,10 +157,6 @@ A l’aide des sous catégories de chacun des objectifs dans l’Appel à Projet
 
 * les fiches outils
 
-#### Développer la participation citoyenne dans les territoires
-
-* les fiches outils-méthodes 
-
 ## Comment allez-vous les mettre en œuvre ? 
 
 ## Comment coordonnez-vous votre action avec celle des éventuels autres acteurs locaux ? 
@@ -171,8 +167,11 @@ Quels partenariats sont mis en place concernant ce projet ?
 De quels autres co-financements et partenariats disposent le projet ? 
 Quelle articulation avec les dispositifs locaux est faite 
 
-Quelles sont les principales menaces et opportunités qui pourraient impacter le projet ? 
-Qu’avez-vous pensé mettre en œuvre pour limiter ces difficultés ou saisir ces opportunités? 
+## Quelles sont les principales menaces et opportunités qui pourraient impacter le projet ? 
+
+## Qu’avez-vous pensé mettre en œuvre pour limiter ces difficultés ou saisir ces opportunités? 
+
+## En cas de désistement de l’instigateur du projet quelles alternatives ont été envisagées ?
 
 
 
