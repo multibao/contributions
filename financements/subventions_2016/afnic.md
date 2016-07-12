@@ -2,7 +2,7 @@
 
 # Titre du projet (maximum 1 ligne)
 
-MultiBàO, une technologie web 
+MultiBàO
 
 ## Résumé du projet (maximum 10-15 lignes)
 
@@ -537,9 +537,15 @@ La technologie de multiBàO est:
 * Comme précisé dans les actions 1, nous souhaitons favoriser de nouvelles utilisations de multiBàO
 * Aussi, nous travaillons sur la documentation pour expliciter comment le faire
 
+## 2.9	Informations complémentaires que vous souhaitez apporter sur le projet
 
+Dans le cas où la Fondation AFNIC se porterait patenaire financier et/ou technique du projet, vous seriez invité à prendre part à la gouvernance du projet, comme toute organisation contributrice. 
 
+Des partenariats de soutien de la Fondation AFNIC seraient aussi possible. Nous avons des compétences précises sur le partage de fiches d'expériences - tant du point de vue numérique que pédagogique. 
 
+Nous pourrions accompagner des porteurs de projets soutenus par la fondation AFNIC dans l'écriture de leurs fiches expériences et leur valorisation. 
+
+N'hésitez pas à revenir vers nous - que nous soyons retenus dans le cadre de cet appel à projets ou non - pour échanger sur de tels partenariats. 
 
 
 
