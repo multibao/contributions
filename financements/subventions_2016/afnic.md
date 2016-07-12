@@ -131,13 +131,13 @@ A l’aide des sous catégories de chacun des objectifs dans l’Appel à Projet
 * **Réseaux:** structures associatives, entreprenariales, institutionnelles ou collectifs de structures. Sur multiBàO se côtoient des structures à la fois institutionnelles (ex: Université de Bordeaux), associatives (ex: Réseau transition Belgique) et entreprenariales (ex: Scopyleft). Des communautés de pratiques (ex: AnimFr) sont aussi impliquées.
 * **Ressources:** ressources numériques ou papier, publiées sous la forme de documentations écrites ou de vidéos. La plateforme multiBàO.org est composée de ressources numériques présentées sous la forme de fiches méthodologiques et de témoignages (retours d'expériences, interviews filmés)
 
-### Objectif 1 : Le numérique au coeur de la transformation des mécanismes de solidarité
+## Objectif 1 : Le numérique au coeur de la transformation des mécanismes de solidarité
 
-#### Objectif 1.1 : Inventer ou transformer de nouveaux dispositifs de solidarité pour lesquels l'usage du numérique serait déterminant
+### Inventer ou transformer de nouveaux dispositifs de solidarité pour lesquels l'usage du numérique serait déterminant
 
-##### Action 1: rendre utilisables des fonctionnalités technologiques favorisant la mutualisation de ressources entre différentes organisations
+#### Action 1: rendre utilisables des fonctionnalités technologiques favorisant la mutualisation de ressources entre différentes organisations
 
-###### Action 1.1: Consolider la capacité pour un contributeur de connecter la même ressource numérique à plusieurs endroits 
+##### Action 1.1: Consolider la capacité pour un contributeur de connecter la même ressource numérique à plusieurs endroits 
 
 Avec multiBàO, et c'est déjà le cas, la même ressource peut être publiée sur 3 ou 4 blogs en simultané, et est automatiquement actualisée en cas de modification. La modification est automatique s'il s'agit d'un contributeur autorisé à modifier la ressource numérique. Si le contributeur n'est pas autorisé, l'équipe qui entretient la ressource recevra par mail une proposition de modification. Si elle accepte, la ressource, ainsi que tous les sites webs présentant la ressource, seront actualisés. La fiche prend la mise en page du blog sur lequel elle apparaît. 
 
@@ -147,7 +147,7 @@ Actions nécessaires:
 * faciliter l'utilisation d'un code d'intégration
 * réaliser un tutoriel pédagogique et ludique pour expliciter aux visiteurs les mécanismes numériques en jeu (Application Programming Interface, format générique, licence libre)
 
-###### Action 1.2: Consolider la capacité pour une organisation d'entretenir un dépôt de ressources
+##### Action 1.2: Consolider la capacité pour une organisation d'entretenir un dépôt de ressources
 
 Actions nécessaires: 
 * faciliter l'utilisation d'un éditeur simplifié: prose.io
@@ -157,7 +157,7 @@ Cas d'usage:
 
 Deux contributeurs de l'association Cre-Sol demandent à Romain (un contributeur actif de l'organisation Cre-Sol) comment mettre à jour une fiche multiBàO pour y corriger des fautes d'orthographes. Afin de faciliter leur contribution, Romain doit à ce jour soit fournir ses identifiants de contributeur, soit créer un nouveau compte qu'il leur fournira. A ce moment là, avant de modifier, ces contributeurs occasionnels devront s'authentifier. Nous imagions une solution plus simple: un utilisateur anonyme. Cet utilisateur anonyme ne pourrait pas modifier automatiquement des dépôts de fiches, mais ne qu'envoyer des propositions de modification de fiches. 
 
-###### Action 1.3: Consolider la capacité de multiBàO à se connecter à d'autres technologies
+##### Action 1.3: Consolider la capacité de multiBàO à se connecter à d'autres technologies
 
 Cas d'usage: 
 
@@ -168,7 +168,7 @@ Actions nécessaires:
 * permettre à des organisations de présenter sur multiBàO des ressources depuis des Yeswiki: Colibris, Outils Réseaux, Tiriad, ... sont notamment concernés. L'équipe de Yeswiki - avec comme référent Florestan Bedrow - est motivée pour coder une solution opérationnelle. 
 * permettre à des organisations de présenter sur multiBàO des ressources depuis des Mediawiki: Movilab.org, Wiki Brest, ... sont notamment concernés. Simon Sarrazin de l'équipe Unisson serait intéressé pour creuser ce chantier. Pour l'instant en veille. 
 
-###### Action 1.4: Faciliter le détournement de l'utilisation actuelle de multiBàO 
+##### Action 1.4: Faciliter le détournement de l'utilisation actuelle de multiBàO 
 
 Si multiBàO permet d'interconnecter des ressources, d'autes usages sont possibles. Actuellement, les équipes de multiBàO mutualisent des ressources sur les approches collaboratives / gestion de produit innovant / démocratie participative, ... 
 Des équipes de développeurs tout comme des documentalistes nous ont demandé comment réutiliser multiBàO pour d'autres usages.
@@ -216,7 +216,7 @@ Actions:
 * réaliser une à deux sessions de documentation croisée
 * réaliser des tests utilisateurs sur la documentation et l'enrichir au besoin
 
-####  Objectif 1.2 Favoriser les projets visant à l'autonomie des personnes bénéficiaires et leur implication dans le pilotage du projet
+###  Favoriser les projets visant à l'autonomie des personnes bénéficiaires et leur implication dans le pilotage du projet
 
 * Toutes les sous-actions de l'action 2: "conseiller et accompagner les contributeurs dans le partage de leurs savoir-faire" sont concernées. 
 * Toutes les sous-actions de l'action 1: "rendre utilisables des fonctionnalités technologiques favorisant la mutualisation de ressources entre différentes organisations" sont concernées. 
@@ -225,14 +225,14 @@ Avec en plus comme actions :
 
 * Inviter les contributeurs actifs à rejoindre le comité de pilotage du projet et à se former aux rôles phares pour gérer le projet 
 
-### Objectif 1.3   : Inventer de nouvelles formes de collaboration entre les utilisateurs, les acteurs de l’insertion et les acteurs du numérique
+### Inventer de nouvelles formes de collaboration entre les utilisateurs, les acteurs de l’insertion et les acteurs du numérique
 
 * Toutes les sous-actions de l'action 2: "conseiller et accompagner les contributeurs dans le partage de leurs savoir-faire" sont concernées.  
 * Toutes les sous-actions pédagogiques  de l'action 1: "rendre utilisables des fonctionnalités technologiques favorisant la mutualisation de ressources entre différentes organisations" sont concernées. 
 
 Avec en supplément: 
 
-##### Action 3: rendre visible les pratiques et les cultures caracteristiques des différentes organisations
+#### Action 3: rendre visible les pratiques et les cultures caracteristiques des différentes organisations
 
 Sur multiBàO se cotoient des practiciens des approches agiles (organisation collective et gestion de produits innovants), de la médiation territoriale, de la médiation scientifique, des bibliothécaires, des animateurs d'éducation populaire, des membres d'équipes qui souhaiteraient voir les réunions se passer autrement, ... Bref plein de publics qui s'intéressent aux approches collaboratives. 
 
@@ -247,15 +247,15 @@ Actions:
 * rencontrer des organisations / équipes et les inviter à contribuer à un commun (action 2.2)
 * rendre utilisables des fonctionnalités technologiques favorisant la mutualisation de ressources entre différentes organisations
 
-### Objectif 2 : Formation pour le développement d’un internet solidaire
+### Formation pour le développement d’un internet solidaire
 
-#### Objectif 2.1 : Former et sensibiliser aux usages du numérique les individus et les réseaux d’acteurs
+#### Former et sensibiliser aux usages du numérique les individus et les réseaux d’acteurs
 
 * Toutes les sous-actions de l'action 2: "conseiller et accompagner les contributeurs dans le partage de leurs savoir-faire" sont concernées.  
 * Toutes les sous-actions pédagogiques  de l'action 1: "rendre utilisables des fonctionnalités technologiques favorisant la mutualisation de ressources entre différentes organisations" sont concernées.
 * Toutes les sous-actions de l'action 3: "Inventer de nouvelles formes de collaboration entre les utilisateurs, les acteurs de l’insertion et les acteurs du numérique" sont concernées
 
-#### Objectif 2.3 Elaborer des dispositifs pédagogiques au bénéfice d’enfants et d’adultes
+#### Elaborer des dispositifs pédagogiques au bénéfice d’enfants et d’adultes
 
 Une des plue-value de multiBàO est sa communauté, constituée de contributeurs qui entretiennent des fiches d'expériences sur les pratiques pédagogiques. 
 
@@ -275,16 +275,16 @@ La pédagogie en usage web peut être suprenante. A la version 1.0 de multiBàO,
 Actions nécessaires: 
 
 * Lancer une liste de discussion thématique à cet effet entre contributeurs d'organisations de multiBàO et en invitant d'autres équipes (YesWiki, MediaWiki, ...) et des ergonomes. 
-* Proposer une rencontre
+* Organiser une rencontre annuelle d'un ou deux jours - un camp multiBàO - pour faire évoluer collectivement les ressources
 
-### Objectifs 2.4 Faciliter une meilleure prise en main en proposant une adaptation des outils et services numériques
+#### Faciliter une meilleure prise en main en proposant une adaptation des outils et services numériques
 
 * Toutes les sous-actions de l'action 2: "conseiller et accompagner les contributeurs dans le partage de leurs savoir-faire" sont concernées.  
 * Toutes les sous-actions de l'action 1: "rendre utilisables des fonctionnalités technologiques favorisant la mutualisation de ressources entre différentes organisations" sont concernées.
 
-###  Objectif 3  Le numérique au service des mutations sociétales
+###  Le numérique au service des mutations sociétales
 
-#### Objectif 3.1 Mettre le numérique au service du bien vivre (identité numérique, adaptation des outils et services, ...)
+#### Mettre le numérique au service du bien vivre (identité numérique, adaptation des outils et services, ...)
 
 MultiBàO permet à des organisations de présenter ce qu'elles pratiquent et qui a de la valeur pour eux, pour que d'autres (organisations, individus) puissent s'en inspirer. 
 
