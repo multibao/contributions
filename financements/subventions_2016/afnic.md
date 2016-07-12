@@ -26,7 +26,7 @@ Un de nos grands plaisirs dans ce projet est de voir l'entre-nous s'élargir. Ce
 
 Le territoire d'action de multiBàO est francophone, bien que la grande majorité des contributeurs et visiteurs de multibao.org soient localisés en France métropolitaine.  
 
-En novembre 2015, les publics cibles, toujours visibles, de multiBàO version 0.7 étaient: 
+En novembre 2015, le public cibles de multiBàO version 0.7 étaient: 
 
 * animateurs de réseaux publiants sur leurs sites webs des fiches expériences sur les approches participatives / travail collaboratif 
 
