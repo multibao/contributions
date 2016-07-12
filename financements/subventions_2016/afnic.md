@@ -477,36 +477,13 @@ La plupart des contributeurs multiBàO sont compétents en animation de réseau,
 
 ## Aspects innovants du projet
 
-* Innovant car construit avec les utilisateurs et uniquement pour répondre à des
-problématiques Chaque nouvelle version de multiBàO est construite en interaction directe
-avec les utilisateurs. La méthode utilisée n'est autre que celle des Lean startups et leur
-application opérationnelle : la méthode Running Lean. Cette approche agile fonctionne par
-itérations. On teste de manière pragmatique chaque étape du produit. Par exemple, on ne
-définit pas de solutions sans avoir vérifié s'il n'y a pas de problématiques pénibles sans
-alternatives satisfaisantes qui justifieraient une action. On teste chaque partie. A chaque
-nouvelle version (0.1, 0.2, 0.3), on enrichit et on épure. On vérifie si les indicateurs de
-validation de la version sont tenus. Si non, on apprend et on enrichit. 
-* Innovant car facilite la mixité culturelle et la curiosité Lorsque le Conseil Départemental d'Aquitaine publie des ressources à côté du dépôt de fiches du groupement d'associations Coop-Tic, ça facilite la
-curiosité. Surtout quand on a la possibilité de rentrer en relation avec les autres
-contributeurs et de leur proposer des modifications de ressources. Saviez-vous que la
-méthode du Forum Ouvert, utilisée pour explorer collectivement des thématiques proposées
-par un groupe, est employée de 4 manières différentes en fonction de s'il s'agit d'un forum
-en éducation populaire, en démocratie participative ou en agilité ? Sur multiBàO se côtoient
-les ressources de 12 communautés de pratiques : libristes, agilistes, facilitateurs, médiateurs
-territoriaux, animateurs d'éducation populaire, commoners, etc. Une occasion unique de
-favoriser des rencontres. 
-* Innovant car facilite la prise en main du numérique multiBàO a
-comme vocation d'être simple à l'utilisation. Très simple même. D'un point de vue d'un
-habitué du numérique multiBàO est synchronisé avec github.com, qui ouvre les possibilités
-de la technologie .git et du travail collaboratif. On peut créer des « repository » d' «
-organisations », on peut « pusher » et « puller », envoyer des « pull request », et avec le «
-script » on synchronise les ressources avec des sites web distants. Du point de vue d'un
-utilisateur non spécialement habitué au numérique, il y a multibao. Pour y naviguer, on peut
-se référer à la documentation et interagir avec les autres contributeurs. On peut créer des
-dépôts de fiches en équipe, extraire les données, envoyer des propositions de modification
-aux autres réseaux, et même faire apparaître n'importe quelle ressource sur notre site web –
-ressource qui prendra automatiquement la mise en page de notre site. En utilisant multiBàO,
-l'utilisateur apprend à se servir du numérique avec pédagogie... et à en être acteur.
+* Innovant par sa dimension partenariale
+* Innovant par la méthode de co-construction mise en place: on avance par petites itérations avec et non pour les bénéficiaires, on teste, on consolide ou on épure, on élargit le public cible progressivement
+* Innovant car facilite la mixité culturelle, la découverte de nouvelles pratiques et incite à sortir de "l'entre-nous", propre des communautés
+* Innovant par sa dimension pluridisciplinaire: les contributeurs au projet ont des compétences techniques aussi variées qu'utiles: développement web, ergonomie, gouvernance partagée, animation de réseau, juridique... 
+* Innovant car un interface d'appropriation des usages numériques
+* Innovant car les animateurs du projets annoncent que c'est un projet qu'ils sont prêts à animer sur 10 - 15 ans, avec ou sans soutien. S'il y a du soutien, ça avancera plus vite et sera enrichi par l'ingéniosité collective des contributeurs. Sinon, nous continuerons d'avancer. 
+
 
 ## 2.7	Valorisation du projet
 
