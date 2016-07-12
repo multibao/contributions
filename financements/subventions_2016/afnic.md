@@ -113,9 +113,17 @@ Précisez concrètement le ou les objectifs du projet (numéroter par ordre de 
 2) Formation pour le développement d’un internet solidaire
 3) Le numérique au service des mutations sociétales
 
+## 2.1	Objectifs du projet
+
+Précisez concrètement le ou les objectifs du projet (numéroter par ordre de priorité)
+
+Objectif 1 : Le numérique au coeur de la transformation des mécanismes de solidarité
+Objectif 2 :  Formation pour le développement d’un internet solidaire
+Objectif 3 : Le numérique au service des mutations sociétales
+
 ## 2.2	Actions mises en œuvre 
 
-A l’aide des sous catégories de chacun des objectifs dans l’Appel à Projets, décrivez concrètement toutes les actions qui seront réalisées ?
+A l’aide des sous catégories de chacun des objectifs dans l’Appel à Projets, décrivez concrètement toutes les actions qui seront réalisées ?
 
 **Glossaire pour faciliter la compréhension des objectifs / actions**
 
@@ -123,9 +131,9 @@ A l’aide des sous catégories de chacun des objectifs dans l’Appel à Projet
 * **Réseaux:** structures associatives, entreprenariales, institutionnelles ou collectifs de structures. Sur multiBàO se côtoient des structures à la fois institutionnelles (ex: Université de Bordeaux), associatives (ex: Réseau transition Belgique) et entreprenariales (ex: Scopyleft). Des communautés de pratiques (ex: AnimFr) sont aussi impliquées.
 * **Ressources:** ressources numériques ou papier, publiées sous la forme de documentations écrites ou de vidéos. La plateforme multiBàO.org est composée de ressources numériques présentées sous la forme de fiches méthodologiques et de témoignages (retours d'expériences, interviews filmés)
 
-### Le numérique au coeur de la transformation des mécanismes de solidarité
+### Objectif 1 : Le numérique au coeur de la transformation des mécanismes de solidarité
 
-#### Inventer ou transformer de nouveaux dispositifs de solidarité pour lesquels l'usage du numérique serait déterminant
+#### Objectif 1.1 : Inventer ou transformer de nouveaux dispositifs de solidarité pour lesquels l'usage du numérique serait déterminant
 
 ##### Action 1: rendre utilisables des fonctionnalités technologiques favorisant la mutualisation de ressources entre différentes organisations
 
@@ -176,54 +184,122 @@ Actions nécessaires:
 
 #### Action 2: conseiller et accompagner les contributeurs dans le partage de leurs savoir-faire
 
+##### Action 2.2 Rencontrer des organisations / équipes et les inviter à contribuer à un commun
 
+Une des actions qui nous intéresse particulièrement est d'inciter des réseaux de cultures différentes à présenter leurs ressources sur multiBàO. Ainsi, des équipes aux pratiquent différentes rendent visibles des ressources qui ont de la valeur pour eux. Nous appelons cette pratique "élargir l'entre-nous". 
 
-Organiser dans les réseaux contributeurs des temps collectifs de formation 
+Actions: 
 
-Co-écrire avec les contributeurs une documentation pédagogique et fonctionnelle 
+* présence à des temps collectifs de réseaux: rencontres Moustic.info, Forum des usages coopératif de Brest, Agile Games Fr, Rencontre des médiateurs numériques, Rencontres des médiateurs scientifiques, Rencontres de l'Institut de la concertation, ... 
+* inciter les différentes parties prenantes de multiBàO à conseiller et accompagner de nouveaux acteurs dans le partage de leurs savoir-faire
+* réaliser des conférences à plusieurs voix - sensibilisation
+* se déplacer à la rencontre d'équipes qui présentent des pratiques qui apporteraient une plue-value au commun
 
+##### Action 2.3: Animer dans les réseaux contributeurs des temps collectifs de formation 
 
+Plutôt que de former, autant former des contributeurs qui sauront expliciter le pourquoi et le comment du partage. 
 
+Ces formations d'une demi-journée permettraient à des contributeurs intéressés de prendre en main l'outil et d'en comprendre les subtilités. 
 
+Actions: 
 
+* réaliser des formations internes aux réseaux contributeurs
+* organiser durant les événements inter-réseaux des formations gratuites d'1 à 2 heures
 
+##### 2.4 Démontrer par l'usage une documentation pédagogique et fonctionnelle 
 
- * co-écrire avec eux une documentation pédagogique
- * mettre en place des sessions de visioconférences avec apprentissage pair à pair
- * former des contributeurs déjà actifs et animateurs de réseau
+Dans beaucoup de projets, ce qui fait défault, c'est la documentation. 
+Sur multiBàO, nous mettons l'accent sur cette documentation. 
 
-#### Favoriser les projets visant à l'autonomie des personnes bénéficiaires et leur implication dans le pilotage du projet
+Actions: 
 
-* conseiller et accompagner les contributeurs dans le partage numérique de leurs savoir-faire
-* impliquer les organisations contributrices à co-entretenir le projet
+* réaliser une à deux sessions de documentation croisée
+* réaliser des tests utilisateurs sur la documentation et l'enrichir au besoin
 
-####  Inventer de nouvelles formes de collaboration entre les utilisateurs, les acteurs de l’insertion et les acteurs du numérique
+####  Objectif 1.2 Favoriser les projets visant à l'autonomie des personnes bénéficiaires et leur implication dans le pilotage du projet
 
-* conseiller et accompagner les contributeurs dans le partage numérique de leurs savoir-faire 
-* rendre visible les pratiques et les cultures caracteristiques des différentes organisations
-* favoriser la mise en relation des acteurs
+* Toutes les sous-actions de l'action 2: "conseiller et accompagner les contributeurs dans le partage de leurs savoir-faire" sont concernées. 
+* Toutes les sous-actions de l'action 1: "rendre utilisables des fonctionnalités technologiques favorisant la mutualisation de ressources entre différentes organisations" sont concernées. 
 
-### Formation pour le développement d’un internet solidaire
+Avec en plus comme actions : 
 
-#### Former et sensibiliser aux usages du numérique les individus et les réseaux d’acteurs
+* Inviter les contributeurs actifs à rejoindre le comité de pilotage du projet et à se former aux rôles phares pour gérer le projet 
 
-* conseiller et accompagner les contributeurs dans le partage numérique de leurs savoir-faire 
-* animation de conférences, de démonstrations et de sensibilisations
+### Objectif 1.3   : Inventer de nouvelles formes de collaboration entre les utilisateurs, les acteurs de l’insertion et les acteurs du numérique
 
-#### Elaborer des dispositifs pédagogiques au bénéfice d’enfants et d’adultes
+* Toutes les sous-actions de l'action 2: "conseiller et accompagner les contributeurs dans le partage de leurs savoir-faire" sont concernées.  
+* Toutes les sous-actions pédagogiques  de l'action 1: "rendre utilisables des fonctionnalités technologiques favorisant la mutualisation de ressources entre différentes organisations" sont concernées. 
 
-* réinventer entre réseaux l'utilité des ressources
+Avec en supplément: 
 
-#### Faciliter une meilleure prise en main en proposant une adaptation des outils et services numériques
+##### Action 3: rendre visible les pratiques et les cultures caracteristiques des différentes organisations
 
-* conseiller et accompagner les contributeurs dans le partage numérique de leurs savoir-faire 
+Sur multiBàO se cotoient des practiciens des approches agiles (organisation collective et gestion de produits innovants), de la médiation territoriale, de la médiation scientifique, des bibliothécaires, des animateurs d'éducation populaire, des membres d'équipes qui souhaiteraient voir les réunions se passer autrement, ... Bref plein de publics qui s'intéressent aux approches collaboratives. 
 
-### Le numérique au service des mutations sociétales
+Saviez vous que les praticiens des approches de la concertation territoriale connaissent peu les approches "libristes"? Que les praticiens des approches dites "agiles" rejette parfois le monde associatif de part ses difficultés à s'organiser et à se focaliser? 
 
-#### Mettre le numérique au service du bien vivre (identité numérique, adaptation des outils et services, ...)
+Il est commun que différentes organisations ne se connaissent pas, ou ne se parlent pas. 
 
-* conseiller et accompagner les contributeurs dans le partage numérique de leurs savoir-faire 
-* réinventer entre réseaux l'utilité des ressources
+MultiBàO est une rare opportunité de construire un commun avec des individus, organisations qui habituellement ne se cotoient pas et qui pourtant auraient sûrement beaucoup à apprendre les uns des autres. 
+
+Actions: 
+
+* rencontrer des organisations / équipes et les inviter à contribuer à un commun (action 2.2)
+* rendre utilisables des fonctionnalités technologiques favorisant la mutualisation de ressources entre différentes organisations
+
+### Objectif 2 : Formation pour le développement d’un internet solidaire
+
+#### Objectif 2.1 : Former et sensibiliser aux usages du numérique les individus et les réseaux d’acteurs
+
+* Toutes les sous-actions de l'action 2: "conseiller et accompagner les contributeurs dans le partage de leurs savoir-faire" sont concernées.  
+* Toutes les sous-actions pédagogiques  de l'action 1: "rendre utilisables des fonctionnalités technologiques favorisant la mutualisation de ressources entre différentes organisations" sont concernées.
+* Toutes les sous-actions de l'action 3: "Inventer de nouvelles formes de collaboration entre les utilisateurs, les acteurs de l’insertion et les acteurs du numérique" sont concernées
+
+#### Objectif 2.3 Elaborer des dispositifs pédagogiques au bénéfice d’enfants et d’adultes
+
+Une des plue-value de multiBàO est sa communauté, constituée de contributeurs qui entretiennent des fiches d'expériences sur les pratiques pédagogiques. 
+
+Cette communauté est intéressée pour faire évoluer ses ressources. 
+
+Pour qu'une fiche soit utile, il faut qu'elle soit utilisable - tant numériquement que pédagogiquement. L'ensemble des contributeurs sont intéressés pour faire évoluer leurs données selon les critères - utilisable numériquement + utilisables pédagogiquement. 
+
+La pédagogie en usage web peut être suprenante. A la version 1.0 de multiBàO, les contributeurs ont appris, sur la base de tests utilisateurs: 
+
+* que des grands dépôts de fiches (ex: 50 fiches) étaient inexploitables
+* que les utilisateurs avaient besoin de contextualiser les fiches, c'est à dire pouvoir s'identifier ou non au contexte dans lequel est pratiquée une fiche d'expérience
+* que l'utilisation d'un vocabulaire spécialisé est possible lorsque la fiche est contextualisée à une organisation (ex: on s'attendra à ce qu'une fiche écrite par un chercheur sociologue soit naturellement écrite avec un vocabulaire technique)
+* que les lecteurs cherchaient la plupart du temps à s'inspirer de ressources
+* que les moteurs de recherche avancée sont peu utilisés
+* ...
+
+Actions nécessaires: 
+
+* Lancer une liste de discussion thématique à cet effet entre contributeurs d'organisations de multiBàO et en invitant d'autres équipes (YesWiki, MediaWiki, ...) et des ergonomes. 
+* Proposer une rencontre
+
+### Objectifs 2.4 Faciliter une meilleure prise en main en proposant une adaptation des outils et services numériques
+
+* Toutes les sous-actions de l'action 2: "conseiller et accompagner les contributeurs dans le partage de leurs savoir-faire" sont concernées.  
+* Toutes les sous-actions de l'action 1: "rendre utilisables des fonctionnalités technologiques favorisant la mutualisation de ressources entre différentes organisations" sont concernées.
+
+###  Objectif 3  Le numérique au service des mutations sociétales
+
+#### Objectif 3.1 Mettre le numérique au service du bien vivre (identité numérique, adaptation des outils et services, ...)
+
+MultiBàO permet à des organisations de présenter ce qu'elles pratiquent et qui a de la valeur pour eux, pour que d'autres (organisations, individus) puissent s'en inspirer. 
+
+Un réseau de tiers-lieux comme Tilios nous présentera comment on gère un Tiers-Lieux. 
+Le Cpcoop nous expliquera comment ils animent des ateliers collaboratifs, leur spécialité.
+Un réseau de colocataire comment ils prennent les décisions. 
+La SCOP UT7 l'ingéniosité avec laquelle ils prennent des décisions en équipe et impliquent les bénéficiaires
+... 
+
+Ce qui peut être précieux, c'est que des équipes rendent compte de ce qu'ils pratiquent déjà et qui a de la valeur pour eux, et dont d'autres pourraient s'inspirer. 
+
+Actions: 
+
+* Toutes les sous-actions de l'action 2: "conseiller et accompagner les contributeurs dans le partage de leurs savoir-faire" sont concernées.  
+* Toutes les sous-actions de l'action 1: "rendre utilisables des fonctionnalités technologiques favorisant la mutualisation de ressources entre différentes organisations" sont concernées.
 
 ## Comment allez-vous les mettre en œuvre ? 
 
