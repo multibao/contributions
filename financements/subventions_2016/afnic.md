@@ -1,16 +1,14 @@
 > A déposer le 13 juillet 2016, midi max. 
 
-# Titre du projet (maximum 1 ligne)
-
-MultiBàO
+# multiBàO
 
 ## Résumé du projet (maximum 10-15 lignes)
 
 MultiBàO (ou multi Boîte à Outils) est une technologie collaborative web permettant à différentes organisations/équipes de présenter, partager et de gouverner leurs ressources web sur un espace commun. 
 
-La première expérience de multibao.org a débuté il y a un an et demi, aux côtés de Stéphane Langlois (dev. agiliste chez Scopyleft), Fanny Monod (Cpcoop) et Vincent Wattelet (Réseau transition BE); cette expérience porte sur la mutualisation de fiches expériences sur les démarches participatives / travail collaboratif / organisation en réseau. Une expérience acentralisée qui s'appuie sur la force de dissémination des savoirs par le numérique.
+La première expérience de multibao.org a débuté il y a un an et demi sur les démarches participatives / travail collaboratif / organisation en réseau. Une expérience acentralisée qui s'appuie sur la force de dissémination des savoirs par le numérique.
 
-Plutôt que d'imaginer un site web en plus, nous avons construit multiBàO en interaction permanente avec celles et ceux qui publiaient des ressources. c'était la naissance d'une communauté d'une gouvernance et d'une ressource autour d'une plateforme. La première multi Boîte à Outil est arrivée en version 0.7 en novembre 2015. Elle permettait à des animateurs de réseaux d'avoir une gouvernance totale sur leurs données (non centralisée), de présenter leurs données, et de bénéficier d'une technologie permettant de présenter les ressources à plusieurs endroits à la fois (ex: sur le site web et sur un autre blog, chaque présentation prenant automatiquement la mise en page du site sur lequel elle apparaît et étant automatiquement mise à jour en cas de modification). Les acteurs Démocratie Ouverte, Outils Réseaux, SupAgro, Réseau Transition Belgique, Lilian Ricaud, Onpassealacte, Université de Bordeaux, Agile Games, Holacraty, étaient les premiers contributeurs. Autant d'acteurs qui ont joué le jeu du commun et ont accepté de rendre pleinement disponibles leurs ressources.
+Plutôt que d'imaginer un site web en plus, nous avons construit multiBàO en interaction permanente avec celles et ceux qui publiaient des ressources. C'était la naissance d'une communauté d'une gouvernance et d'une ressource autour d'une plateforme. La première multi Boîte à Outil est arrivée en version 0.7 en novembre 2015. Elle permettait à des animateurs de réseaux d'avoir une gouvernance totale sur leurs données (non centralisée), de présenter leurs données, et de bénéficier d'une technologie permettant de présenter les ressources à plusieurs endroits à la fois (ex: sur le site web et sur un autre blog, chaque présentation prenant automatiquement la mise en page du site sur lequel elle apparaît et étant automatiquement mise à jour en cas de modification). Les acteurs Démocratie Ouverte, Outils Réseaux, SupAgro, Réseau Transition Belgique, Lilian Ricaud, Onpassealacte, Université de Bordeaux, Agile Games, Holacraty, étaient les premiers contributeurs. Autant d'acteurs qui ont joué le jeu du commun et ont accepté de rendre pleinement disponibles leurs ressources.
 
 En ce mois de juin 2016, nous avons publié multiBàO 1.0, première version stable. Cette fois çi la plateforme est conçue pour intégrer des lecteurs au processus de partage interculturel. Elle permet d'explorer les ressources mises à disposition. La communauté de contributeurs à été rejoint par de nouvelles équipes équipes et elle s'enrichit continuellement (Cre-Sol, MuseoMix, Chiendent, Tiers-Truck, Université du Nous, Le Biome...). 
 
@@ -29,11 +27,12 @@ Un de nos grands plaisirs dans ce projet est de voir l'entre-nous s'élargir. Ce
 Le territoire d'action de multiBàO est francophone, bien que la grande majorité des contributeurs et visiteurs de multibao.org soient localisés en France métropolitaine.  
 
 En novembre 2015, les publics cibles, toujours visibles, de multiBàO version 0.7 étaient: 
+
 * animateurs de réseaux publiants sur leurs sites webs des fiches expériences sur les approches participatives / travail collaboratif 
 
 En juin 2016, les publics cibles de multiBàO arrivée à sa version 1.0 sont: 
 
-* membres d'équipes impliqués dans la vie de leur communauté de pratiques
+* membres d'équipes impliqués dans la vie de leur équipes (ex: SCOP, SCIC, startups, bénévoles d'associations, ...)
 * individus facilitant régulièrement des temps collaboratifs (enseignants, animateurs, enseignement populaires, organisateurs d'événements)
 
 ### Quels sont les besoins auxquels votre projet entend répondre ? 
@@ -58,7 +57,7 @@ multibao 1.0 tend à répondre à ses besoins
 
 ### D’autres organismes se sont-ils impliqués localement sur cette même problématique ? Lesquels ? 
 
-Oui. Nous vous renseignons les acteurs avec lesquels nous sommes en relation et collaboration: 
+Oui. Nous vous renseignons les acteurs avec lesquels nous sommes en relation et collaborons pour éviter les doublons: 
 
 * pour le partage d'information en un seul endroit, avec gestion de droits de modification, il y a les équipes wiki (MediaWiki, YesWiki) qui sont notoirement reconnus pour leurs utilités et leurs savoir-faire
 * pour le partage d'informations en plusieurs endroits à la fois (sur plusieurs sites en simultanés, connection à des sites distants plutôt que de centraliser toute l'information à un seul endroit), les équipes de notre réseau qui travaillent dessus sont Communecter, HappyDev, Cellabz, Unisson, Assemblée Virtuelle. 
@@ -66,17 +65,19 @@ Oui. Nous vous renseignons les acteurs avec lesquels nous sommes en relation et 
 ### Poursuivent-ils toujours leur action en ce sens ? Si non, pourquoi ? Si oui, en quoi votre intervention est-elle complémentaire ? Comment est-elle complémentaire, le cas échéant, des dispositifs déjà en place ?
 
 Ils continent leur action en ce sens et nous sommes en lien pour éviter les doublons.
+
 D'ailleurs, nous partageons notre liste de discussion aux côtés des  équipes de HappyDev, Cellabz et Yeswiki. Notre intervention est complémentaire aux actions des autres acteurs car elle est transversale, acentralisée et interculturelle.
 
 Nous observons cette complémentarité par la croissance des dépots de ressrouces effectués sur multibao.org et le nombre croissant de communauté de pratiques autour de la plateforme. Nous améliorons notre dispositif en même temps que nous aidons à l'amélioration des dispositifs existants par mutualisations des ressources et des savoir-faire et par itérations permanentes entre usagers et contributeurs.
 
 **MultiBàO pousse le partage de fiches pour un public non initié au numérique**
 
-MultiBàO ne plait ni complétement aux développeurs web qui maîtrise la technologie, ni complétement aux utilisateurs qui découvrent le numérique. C'est un intermédiaire faisant le lien entre le monde du numérique et le monde du non numérique. En pratiquant multiBàO, un utilisateur pratique de manière plutôt naturelle l'interoperabilité, les "pull request", la gestion des droits d'utilisateurs, un format générique et les licences libres. Les utilisateurs acquièrent de nouvelles compétences. Les développeurs s'acculturent aux réseaux d'animareurs.
+MultiBàO ne plait ni complétement aux développeurs web qui maîtrisent la technologie, ni complétement aux utilisateurs qui découvrent le numérique. C'est un intermédiaire faisant le lien entre le monde du numérique et le monde du non numérique. En pratiquant multiBàO, un utilisateur pratique de manière plutôt naturelle l'interoperabilité, les "pull request", la gestion des droits d'utilisateurs, un format générique et les licences libres. Les utilisateurs acquièrent de nouvelles compétences. Les développeurs s'acculturent aux réseaux d'animateurs.
 
 **MultiBàO est une plateforme demonstrative dont toutes les ressources sont accessibles et réutilisables**
 
 Toutes les ressources de multiBàO sont pleinement accessibles et réutilisables par d'autres réseaux.
+
 On peut les télécharger, les connecter à un site web et envoyer des propositions de modifications des ressources à différentes équipes. 
 
 Les autres technologies / équipes peuvent s'y connecter. 
@@ -85,7 +86,8 @@ Les autres technologies / équipes peuvent s'y connecter.
 
 Absence de logo, absence de compte twitter.
 L'accent est mis sur la construction d'un commun partagé entre les différentes équipes contributrices. 
-Multibao est une ressource cultivée par une communauté plurielle et animée par une gouvernance distribuée.
+Multibao est une ressource cultivée par une communauté plurielle et animée par une gouvernance distribuée. 
+Au fur et à mesure de l'évolution du projet, la mixité culturelle et la variabilité des profils s'élargit.
 
 ### 1.2	Genèse du projet. Comment le projet est-il né ? Y-a-t-il (eu) d’autres acteurs associés ?
 
@@ -190,7 +192,7 @@ Une des actions qui nous intéresse particulièrement est d'inciter des réseaux
 
 Actions: 
 
-* présence à des temps collectifs de réseaux: rencontres Moustic.info, Forum des usages coopératif de Brest, Agile Games Fr, Rencontre des médiateurs numériques, Rencontres des médiateurs scientifiques, Rencontres de l'Institut de la concertation, ... 
+* présence à des temps collectifs de réseaux: rencontres Moustic.info, Forum des usages coopératif de Brest, Agile Games Fr, Rencontre des médiateurs numériques, assises de la médiation territoriales, rencontres des médiateurs scientifiques, rencontres de l'Institut de la concertation, ... 
 * inciter les différentes parties prenantes de multiBàO à conseiller et accompagner de nouveaux acteurs dans le partage de leurs savoir-faire
 * réaliser des conférences à plusieurs voix - sensibilisation
 * se déplacer à la rencontre d'équipes qui présentent des pratiques qui apporteraient une plue-value au commun
@@ -224,13 +226,14 @@ Actions:
 Avec en plus comme actions : 
 
 * Inviter les contributeurs actifs à rejoindre le comité de pilotage du projet et à se former aux rôles phares pour gérer le projet 
+* Inviter les potentiels financeurs - comme la fondation AFNIC - à rejoindre le pilotage du projet et à prendre part à la gouvernance
 
 ### Inventer de nouvelles formes de collaboration entre les utilisateurs, les acteurs de l’insertion et les acteurs du numérique
 
+MultiBàO est une technologie plutôt insolite pour favoriser la montée en compétence sur le numérique. Cette compréhension du numérique, de ses codes, de son vocabulaire est la première petite étape pour entrer facilement en lien avec les acteurs du numérique. 
+
 * Toutes les sous-actions de l'action 2: "conseiller et accompagner les contributeurs dans le partage de leurs savoir-faire" sont concernées.  
 * Toutes les sous-actions pédagogiques  de l'action 1: "rendre utilisables des fonctionnalités technologiques favorisant la mutualisation de ressources entre différentes organisations" sont concernées. 
-
-Avec en supplément: 
 
 #### Action 3: rendre visible les pratiques et les cultures caracteristiques des différentes organisations
 
@@ -545,9 +548,4 @@ Des partenariats de soutien de la Fondation AFNIC seraient aussi possible. Nous 
 
 Nous pourrions accompagner des porteurs de projets soutenus par la fondation AFNIC dans l'écriture de leurs fiches expériences et leur valorisation. 
 
-N'hésitez pas à revenir vers nous - que nous soyons retenus dans le cadre de cet appel à projets ou non - pour échanger sur de tels partenariats. 
-
-
-
-
-
+N'hésitez pas à revenir vers nous - que nous soyons retenus dans le cadre de cet appel à projets ou non - pour échanger sur de tels partenariats.
