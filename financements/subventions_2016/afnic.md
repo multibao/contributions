@@ -6,7 +6,7 @@ MultiBàO, une technologie web
 
 ## Résumé du projet (maximum 10-15 lignes)
 
-MultiBàO (ou multi Boîte à Outils) est une technologie web permettant à différentes communautés de pratiques de présenter, partager et de gouverner leurs ressources web sur un espace commun. 
+MultiBàO (ou multi Boîte à Outils) est une technologie collaborative web permettant à différentes organisations/équipes de présenter, partager et de gouverner leurs ressources web sur un espace commun. 
 
 La première expérience de multibao.org a débuté il y a un an et demi, aux côtés de Stéphane Langlois (dev. agiliste chez Scopyleft), Fanny Monod (Cpcoop) et Vincent Wattelet (Réseau transition BE); cette expérience porte sur la mutualisation de fiches expériences sur les démarches participatives / travail collaboratif / organisation en réseau. Une expérience acentralisée qui s'appuie sur la force de dissémination des savoirs par le numérique.
 
@@ -26,7 +26,7 @@ Un de nos grands plaisirs dans ce projet est de voir l'entre-nous s'élargir. Ce
 
 ### Quel est le territoire du projet ? 
 
-Le territoire d'action de multiBàO est Français (france métropolitaine + Dom-Tom)et Belge.
+Le territoire d'action de multiBàO est francophone, bien que la grande majorité des contributeurs et visiteurs de multibao.org soient localisés en France métropolitaine.  
 
 En novembre 2015, les publics cibles, toujours visibles, de multiBàO version 0.7 étaient: 
 * animateurs de réseaux publiants sur leurs sites webs des fiches expériences sur les approches participatives / travail collaboratif 
@@ -38,14 +38,14 @@ En juin 2016, les publics cibles de multiBàO arrivée à sa version 1.0 sont:
 
 ### Quels sont les besoins auxquels votre projet entend répondre ? 
 
-Dans la démarche de conception de multiBàO, tout se construit en lien direct avec les intéressés / impliqués, et ceci à travers des interviews. Le but de ces interviews est de comprendre les problématiques pénibles sans alternatives satisfaisantes trouvées ainsi les usages web actuels. Nous répondons à une demande de partage en pair à pair et à un besoin d'accompagnement dans la montée en compétence des usages numériques.
+Dans la démarche de conception de multiBàO, tout se construit en lien direct avec les intéressés / impliqués, et ceci à travers des interviews. Le but de ces interviews est de comprendre les problématiques pénibles sans alternatives satisfaisantes trouvées ainsi les usages web actuels.
 
 Pour les animateurs de réseaux publiant régulièrement sur leurs sites webs des fiches sur les démarches participatives, les problématiques exprimées sont: 
-- la plupart du temps, bien que nos boîtes à outils sont affilées à des collectifs, nous ne sommes qu'un ou deux à entretenir le site / wiki. Avec le temps, les ressources meurent.
-- on veut bien partager avec les autres réseaux, mutualiser nos ressources. Le problème c'est qu'on ne peut pas avoir nos ressources à la fois sur notre site web plus un blog et encore sur un site partenaire ou de référencement, puis que tout soit interconnecté. Du coup on met notre ressource à un seul endroit.
-- on n'est pas sûr que les ressources soient vraiment utiles, à vrai dire on est plutôt aveugle sur l'utilisation/utilité des fiches qu'on met à disposition. 
+- nos ressources ne sont pas entretenues: même lorsque nous mutualisons à 30 ou 40 nos ressources sur un wiki ou un site comme un wordpress, nous ne sommes la plupart du temps qu'un ou deux à entretenir les ressources. Avec le temps, les ressources meurent. 
+- partager les ressources numériques à plusieurs endroits, on veut bien. Mais les partager sur deux ou trois sites webs différents (ex: 2 blog et 1 wiki), ça veut dire qu'on doit les tenir manuellement à jour si on fait une modification. Du coup on met notre ressource à un seul endroit.
+- on n'est pas sûr que les ressources soient vraiment utiles, à vrai dire on est plutôt aveugle sur l'utilisation/utilité des fiches qu'on met à disposition. On espère que le fait de les publier sous licence libre est suffisant mais on en est pas trop sûr.
 
-multiBàO 0.7 répondait spécifiquement à ses 3 besoins exprimés par les publics.
+multiBàO 0.7 répondait spécifiquement à ses 3 besoins exprimés par les publics. La multiBàO 1.0 (version actuelle) conserve ses fonctionnalités.
 
 Pour les publics cibles de multiBàO 1.0, les problématiques exprimées sont:
 
@@ -66,8 +66,8 @@ Oui. Nous vous renseignons les acteurs avec lesquels nous sommes en relation et 
 ### Poursuivent-ils toujours leur action en ce sens ? Si non, pourquoi ? Si oui, en quoi votre intervention est-elle complémentaire ? Comment est-elle complémentaire, le cas échéant, des dispositifs déjà en place ?
 
 Ils continent leur action en ce sens et nous sommes en lien pour éviter les doublons.
-D'ailleurs, nous partageons notre liste de discussion aux côtés des  équipes de HappyDev, Cellabz et Yeswiki.
-Notre intervention est complémentaire aux actions des autres acteurs car elle est transversale, acentralisée et interculturelle.
+D'ailleurs, nous partageons notre liste de discussion aux côtés des  équipes de HappyDev, Cellabz et Yeswiki. Notre intervention est complémentaire aux actions des autres acteurs car elle est transversale, acentralisée et interculturelle.
+
 Nous observons cette complémentarité par la croissance des dépots de ressrouces effectués sur multibao.org et le nombre croissant de communauté de pratiques autour de la plateforme. Nous améliorons notre dispositif en même temps que nous aidons à l'amélioration des dispositifs existants par mutualisations des ressources et des savoir-faire et par itérations permanentes entre usagers et contributeurs.
 
 **MultiBàO pousse le partage de fiches pour un public non initié au numérique**
@@ -89,17 +89,19 @@ Multibao est une ressource cultivée par une communauté plurielle et animée pa
 
 ### 1.2	Genèse du projet. Comment le projet est-il né ? Y-a-t-il (eu) d’autres acteurs associés ?
 
-Il y a 2 ans, Thomas Wolff, passionné par les approches collaboratives, publiait 5 fiches méthodes, sous licences libres, dans un dossier Dropbox. Aux nombreuses demandes d'y accéder, il a rapidement ouvert les invitations à ce dossier. Après 1 an, ce Dropbox comptabilisait près de 150 membres et plus de 250 fiches outils-méthodes, toutes publiées sous licences libres. 
+Il y a 2 ans, Thomas Wolff, intéressé par les approches collaboratives, publiait 5 fiches méthodes, sous licences libres, dans un dossier Dropbox. Aux nombreuses demandes d'y accéder, il a rapidement ouvert les invitations à ce dossier. Après 1 an, ce Dropbox comptabilisait près de 150 membres et plus de 250 fiches outils-méthodes, toutes publiées sous licences libres, avec une mutualisation de 35 contributeurs. 
 
-Seulement, un dossier dropbox avec 250 fiches outils-méthodes, c'est uniquement utilisbale par les personnes ayant accès à cet espace numérique fermé. Cela n'a pas d'impact et pas d'utilité large.
+Seulement, un dossier dropbox avec 250 fiches outils-méthodes, c'est uniquement utilisable par les personnes ayant accès à cet espace numérique fermé. Cela n'a pas d'impact et pas d'utilité large.
 
 Fanny Monod a mis en relation Thomas avec Stéphane Langlois, un développeur qui pratique les approches agiles (Scopyleft). Ce dernier nous a initié aux approches Lean Startup, ou comment propulser un produit innovant avec peu de ressources. 
 
-Plutôt que de partir sur une solution satndard comme un site web qui présenterait les 250 fiches outils-méthodes avec une classification que nous aurions créée, nous nous sommes intéressés à une quarantaine d'animateurs de réseaux qui publiaient des ressources sur les approches participatives. Nous les avons interrogé sur leurs problématiques en matière de publication et mutualisation de ressources, et écouté sur le "comment ils faisaient". 
+Plutôt que de partir sur une solution standard comme un site web qui présenterait les 250 fiches outils-méthodes avec une classification que nous aurions créée, nous nous sommes intéressés à une quarantaine d'animateurs de réseaux qui publiaient des ressources sur les approches participatives. Nous les avons interrogé par téléphone ou en live sur leurs problématiques en matière de publication et mutualisation de ressources, et écouté sur le "comment ils faisaient". 
 
-Très vite, l'association Réseau Transition et l'association Démocratie Ouverte ont rejoint le CPCOOP pour tenter l'expérience. Stéphane Langlois a développé les premières versions de multibao.org. 
+Très vite, l'association Réseau Transition et l'association Démocratie Ouverte ont rejoint le CPCOOP pour tenter l'expérience. Stéphane Langlois a développé les premières versions de multibao.org sur la base d'une subvention de 6200€ accordée par l'Union Européenne.
 
-A chaque conception (sensée répondre à des problématiques pénibles sans alternatives pour l'utilisateur), nous la testons, la validons auprès des intéressés/impliqués. Les contributeurs sont progressivement impliqués. Les plus concernés deviennent membres de l'équipe de portage de multibao. L'idée de faire ensemble, sans appropriation par telle organisation ou une autre, est assez agréable et elle correspond à n besoin grandissant dans les différentes communautés collaboratives. 
+A chaque conception (sensée répondre à des problématiques pénibles sans alternatives pour l'utilisateur), nous la testons, la validons auprès des intéressés/impliqués. Les contributeurs sont progressivement impliqués. Les plus concernés deviennent membres de l'équipe de portage de multibao. 
+
+L'idée de faire ensemble, sans appropriation par telle organisation ou une autre, est assez agréable et elle correspond à un besoin grandissant dans les différentes communautés collaboratives. 
 
 # 2.	Présentation détaillée du projet
 
@@ -107,9 +109,9 @@ A chaque conception (sensée répondre à des problématiques pénibles sans alt
 
 Précisez concrètement le ou les objectifs du projet (numéroter par ordre de priorité)
 
-Objectif 5 : Le numérique au coeur de la transformation des mécanismes de solidarité
-Objectif 2 : Formation pour le développement d’un internet solidaire
-Objectif 4 : Le numérique au service des mutations sociétales
+1) Le numérique au coeur de la transformation des mécanismes de solidarité
+2) Formation pour le développement d’un internet solidaire
+3) Le numérique au service des mutations sociétales
 
 ## 2.2	Actions mises en œuvre 
 
@@ -125,9 +127,56 @@ A l’aide des sous catégories de chacun des objectifs dans l’Appel à Projet
 
 #### Inventer ou transformer de nouveaux dispositifs de solidarité pour lesquels l'usage du numérique serait déterminant
 
-* consolider la technologie multiBàO.org dans ses capacités à favoriser la mutualisation inter-réseaux 
-* conseiller et accompagner les contributeurs dans le partage numérique de leurs savoir-faire 
-* faciliter la capacité de la technologie multiBàO à se connecter à d'autres supports 
+##### Action 1: rendre utilisables des fonctionnalités technologiques favorisant la mutualisation de ressources entre différentes organisations
+
+###### Action 1.1: Consolider la capacité pour un contributeur de connecter la même ressource numérique à plusieurs endroits 
+
+Avec multiBàO, et c'est déjà le cas, la même ressource peut être publiée sur 3 ou 4 blogs en simultané, et est automatiquement actualisée en cas de modification. La modification est automatique s'il s'agit d'un contributeur autorisé à modifier la ressource numérique. Si le contributeur n'est pas autorisé, l'équipe qui entretient la ressource recevra par mail une proposition de modification. Si elle accepte, la ressource, ainsi que tous les sites webs présentant la ressource, seront actualisés. La fiche prend la mise en page du blog sur lequel elle apparaît. 
+
+Cas d'usage: CiviTech, Communecter, et l'association Territoires Hautement Citoyens partagent sur leur blog des fiches d'expérience du dépôt multiBàO de Démocratie Ouverte. Les 3 sites sont liés au dépôts multiBàO de Démocratie Ouverte. 
+
+Actions nécessaires: 
+* faciliter l'utilisation d'un code d'intégration
+* réaliser un tutoriel pédagogique et ludique pour expliciter aux visiteurs les mécanismes numériques en jeu (Application Programming Interface, format générique, licence libre)
+
+###### Action 1.2: Consolider la capacité pour une organisation d'entretenir un dépôt de ressources
+
+Actions nécessaires: 
+* faciliter l'utilisation d'un éditeur simplifié: prose.io
+* permettre à des visiteurs qui souhaitent envoyer une proposition de modification de fiche de le faire, sans compte contributeur
+
+Cas d'usage: 
+
+Deux contributeurs de l'association Cre-Sol demandent à Romain (un contributeur actif de l'organisation Cre-Sol) comment mettre à jour une fiche multiBàO pour y corriger des fautes d'orthographes. Afin de faciliter leur contribution, Romain doit à ce jour soit fournir ses identifiants de contributeur, soit créer un nouveau compte qu'il leur fournira. A ce moment là, avant de modifier, ces contributeurs occasionnels devront s'authentifier. Nous imagions une solution plus simple: un utilisateur anonyme. Cet utilisateur anonyme ne pourrait pas modifier automatiquement des dépôts de fiches, mais ne qu'envoyer des propositions de modification de fiches. 
+
+###### Action 1.3: Consolider la capacité de multiBàO à se connecter à d'autres technologies
+
+Cas d'usage: 
+
+Le collectif qui travaille sur les Tiers-Lieux Movilab.org publie des ressources de qualité sur movilab.org, et souhaiterait partager des ressources de movilab.org sur multiBàO. Movilab.org utilise un mediawiki. Les Colibris, quant à eux, souhaiteraient présenter les Oasis en Tous Lieux sur multibao.org pour inspirer de nouveaux usages. La technologie qu'ils utilisent est un yeswiki. La communauté de contributeurs utilise un yeswiki. Il en est par exemple de même pour l'association Tiriad. 
+
+Actions nécessaires: 
+
+* permettre à des organisations de présenter sur multiBàO des ressources depuis des Yeswiki: Colibris, Outils Réseaux, Tiriad, ... sont notamment concernés. L'équipe de Yeswiki - avec comme référent Florestan Bedrow - est motivée pour coder une solution opérationnelle. 
+* permettre à des organisations de présenter sur multiBàO des ressources depuis des Mediawiki: Movilab.org, Wiki Brest, ... sont notamment concernés. Simon Sarrazin de l'équipe Unisson serait intéressé pour creuser ce chantier. Pour l'instant en veille. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ * faciliter la capacité de visiteurs à extraire les données de multiBàO sous tous types de format pour réutilisation
+* conseiller et accompagner les contributeurs dans le partage de leurs savoir-faire
+ * co-écrire avec eux une documentation pédagogique
+ * mettre en place des sessions de visioconférences avec apprentissage pair à pair
+ * former des contributeurs déjà actifs et animateurs de réseau
 
 #### Favoriser les projets visant à l'autonomie des personnes bénéficiaires et leur implication dans le pilotage du projet
 
