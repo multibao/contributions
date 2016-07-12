@@ -489,9 +489,18 @@ La plupart des contributeurs multiBàO sont compétents en animation de réseau,
 
 Comment allez-vous valoriser votre projet ? Communication sur site internet ou via les médias, publication, mutualisation dans un réseau, production d’outils... ? 
 
+* présenter http://multibao.org comme une des seules plateforme Do-It-Together. C'est un peu comme une plateforme web Do-It-Yourself où l'on peut trouver comment fabriquer une chaise avec des matériaux de récupération. Sur multiBàO c'est si tu veux construire quelque chose en groupe. C'est des équipes qui te racontent comment elles font.
+* s'assurer que la plateforme http://multibao.org présente une réelle valeur pour les bénéficiaires - tant du point de vue usage numérique que de la pédagogie
+* assurer un référencement web minimal pour que des utilisateurs des moteurs de recherche retrouvent l'information
+* laisser les blogeurs et animateurs de sites web connecter leurs sites webs aux ressources multiBàO - favoriser un archipel de ressources éclatées sur internet
+* réaliser des conférences et animer des ateliers lors de rencontres - inciter les contributeurs actifs à faire de même
+* informer de manière régulière les communautés de pratiques si une nouvelle organisation présente un dépôt qui pourrait leur apporter de la valeur
+
 ## 2.8	Partage de l’expérience
 
 ### Comment envisagez-vous de mutualiser les effets de votre projet : documentations ? Productions d’aide ?
+
+
 
 ### Quelles parties de votre projet envisagez-vous envie de partager ?
 
