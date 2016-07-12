@@ -32,7 +32,7 @@ En novembre 2015, le public cibles de multiBàO version 0.7 étaient:
 
 En juin 2016, les publics cibles de multiBàO arrivée à sa version 1.0 sont: 
 
-* membres d'équipes impliqués dans la vie de leur équipes (ex: SCOP, SCIC, startups, bénévoles d'associations, ...)
+* membres d'équipes impliqués dans la vie de leur équipes (ex: SCOP, SCIC, startups, bénévoles d'associations, colocataires ...)
 * individus facilitant régulièrement des temps collaboratifs (enseignants, animateurs, enseignement populaires, organisateurs d'événements)
 
 ### Quels sont les besoins auxquels votre projet entend répondre ? 
