@@ -467,12 +467,14 @@ Avez-vous identifié des besoins spécifiques pour vous aider dans la réalisati
 
 Oui. 
 * De soutien technique: en développement web, intégration, revue de code, graphisme, ergonomie. 
-* De soutien financier pour nous aider à stabiliser la plateforme et être autonomes; et ceci par le
-financement d'1 des 3 sprints de développement technologique en présentiel que nous comptons réaliser par trimestre.
+* De soutien en animation pour la réalisation d'une évaluation de l'utilité sociale (exemple: telle que pratiquée par Hélène Duclos)
+* De soutien financier pour nous aider à stabiliser la plateforme et être autonomes; et ceci par le financement d'1 des 3 sprints de développement technologique en présentiel que nous comptons réaliser par trimestre.
 
 ## Parmi ces besoins, lesquels vous sembleraient mutualisables ?
 
 Conseil en graphisme, ergonomie, revue de code.
+Une formation à l'évaluation de l'utilité sociale. 
+
 La plupart des contributeurs multiBàO sont compétents en animation de réseau, organisation collective, accompagnement de projets collaboratifs, ... Il est possible d'imaginer des "trocs" de compétences. Nous recherchons les compétences spécifiées plus haut.
 
 ## Aspects innovants du projet
@@ -500,9 +502,46 @@ Comment allez-vous valoriser votre projet ? Communication sur site internet ou v
 
 ### Comment envisagez-vous de mutualiser les effets de votre projet : documentations ? Productions d’aide ?
 
-
+Oui.
 
 ### Quelles parties de votre projet envisagez-vous envie de partager ?
 
-* code source
-* contenus
+Toutes. Avec la mise en avant de celles qui pourraient apporter de la valeur aux utilisateurs. 
+
+Les fiches, de tous les contributeurs sont:
+
+### Utilisables numériquement
+
+* placées sous une licence libre
+* rédigées dans un format générique (actuellement le format markdown)
+* accessibles par une Application Programming Interface
+* intégrables à des sites webs
+* téléchargeables sous tous types de formats (.doc, .pdf, .mediawiki, ...)
+
+### Utilisables pédagogiquement
+
+* ont fait l'effort d'une relecture par au moins 1 personne autre que l'auteur
+* sont en majorité co-écrite par au moins 2 auteurs
+* sont contextualisées: on comprend qui a écrit la fiche et dans quel cadre elle est utilisée
+
+La technologie de multiBàO est: 
+
+### Un opensource documenté
+
+* nous l'avons dédié au Domaine Public (Creative Commons 0) - cette information est visible depuis toute fiche de multiBàO
+* téléchargeable sur http://github.com/multibao 
+* un effort particulier à été fait pour écrire un code propre, réutilisable. Plusieurs acteurs externes (développeurs webs et intégrateurs) ont été sollicités pour des "code reviews" 
+
+### Un opensource à détourner
+
+* Comme précisé dans les actions 1, nous souhaitons favoriser de nouvelles utilisations de multiBàO
+* Aussi, nous travaillons sur la documentation pour expliciter comment le faire
+
+
+
+
+
+
+
+
+
