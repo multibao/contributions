@@ -322,31 +322,38 @@ Ils semblent être une 80aine en France a déjà publier des fiches expériences
 
 **Membres d'équipes impliqués ou intéressés pour s'impliquer dans la vie de leur équipe**
 
-Un public large que nous avons rencontré autant dans les villes que dans les campagnes. Impliqués dans la vie dans leur équipe sous-entend qu'ils sont impliqués dans une pratique qui bénéficie aux membres de l'équipe. 
+Un public large que nous avons rencontré autant dans les villes que dans les campagnes. Il s'agit de personnes impliquées dans la vie dans leur équipe ce qui sous-entend qu'ils sont moteurs de pratiques qui bénéficient aux autres membres de l'équipe. 
 
 **Individus facilitant ou intéressés pour faciliter des temps collaboratifs (enseignants, animateurs, enseignement populaire, organisateurs d'événements)** 
 
-Un autre public large que nous avons autant rencontré dans les villes ou les campagnes. Nous les avons autant rencontré dans les réseaux de la permaculture que l'agilité en développement web, que la médiation numérique que dans des universités. 
+Cela compose un autre public large que nous avons  rencontré sur différents territoires. Multibao a permis de rencontrer ces personnes dans les réseaux de la permaculture, de l'agilité en développement web, de la médiation numérique ou encore dans les universités, à titre d'exemple non exhaustif.   
 
-Ce public s'intéresse à ces approches la plupart du temps pour résoudre des problèmes de manière créative ou pour raisons pédagogiques. 
+Ce public s'intéresse aux approches que nous rendons mutualisables pour résoudre des problèmes de manière créative ou pour raisons pédagogiques
 
 ### Combien de personnes devraient bénéficier de ces actions (spécifier par tranche d’âge le cas échéant)? 
 
 ### Comment faites-vous pour associer les bénéficiaires visés au fonctionnement du projet ? 
 
-Les bénéficiaires sont impliqués dès la conception, sur la base des interviews que nous réalisons avec eux. S'ils sont intéressés, ils restent en lien. 
+Les bénéficiaires sont impliqués dès la conception, sur la base des interviews que nous réalisons avec eux ainsi que sur la mise en oeuvre du faire par soi-même / faire ensmeble. 
+S'ils sont intéressés, ils restent en lien.   
 
-Les contributeurs sont quant à eux les meilleurs ambassadeurs. Ils expliquent dans leur réseau le pourquoi et le comment du partage d'information, et accompagnent leurs membres intéressés dans leurs premiers pas. 
+Les contributeurs sont quant à eux les meilleurs ambassadeurs. Ils expliquent dans leur réseau le pourquoi et le comment du partage d'information, et ils accompagnent leurs membres intéressés dans leurs premiers pas.   
 
-Les visiteurs de multiBàO peuvent à tout moment, en plus de bénéficier d'un patrimoine commun:
-* envoyer des propositions de modification d'une fiche à une autre équipe: cette équipe recevra alors un mail lui proposant la modification. Si elle accepte, tous les sites webs connectés à la fiche seront actualisés. Le bien commun est alors enrichi
-* connecter des fiches multibào à leur blog. En cas de modification, la fiche sera alors mise à jour sur leur blog. 
-* s'orientier grâce à une documentation que nous tentons de rendre simple, claire et minimaliste
-* demander à participer à une session skype d'accompagnement et de prise en main de multibao
+Les visiteurs de multiBàO peuvent à tout moment, en plus de bénéficier d'un patrimoine commun: 
 
-Les contributeurs actifs de multiBàO sont invités à rejoindre la gouvernance du projet. Le principe est simple: nous rendons toutes les tâches visibles, soit via un tableau web nommé "backlog web" - où toutes les opérations de développement en réflexion, considérées, en cours et réalisées sont spécifiées - soit via une liste de discussion slack. Le projet avance en absence d'objection.
+* envoyer des propositions de modification d'une fiche à une autre équipe: cette équipe recevra alors un mail lui proposant la modification. Si elle accepte, tous les sites webs connectés à la fiche seront actualisés. Le bien commun est alors enrichi 
 
-Ce mode de prise de décision a été acté par les contributeurs en septembre dernier. Jusqu'à la, pas d'objection sur la prise de décision par objection. 
+* connecter des fiches multibào à leur blog. En cas de modification, la fiche sera alors mise à jour sur leur blog.  * s’orienter grâce à une documentation que nous tentons de rendre simple, claire et minimaliste 
+
+* demander à participer à une session skype d'accompagnement et de prise en main de multibao pous se fromer et monter en compétences.  
+
+Les contributeurs actifs de multiBàO sont invités à rejoindre la gouvernance du projet. 
+
+Le principe est simple: nous rendons toutes les tâches visibles, soit via un tableau web nommé "backlog web" - où toutes les opérations de développement en réflexion, considérées, en cours et réalisées sont spécifiées - soit via une liste de discussion slack. Le projet avance en absence d'objection. 
+
+L'apprentissage de la gouvernance d'un commun fait également partie des points d'association des bénéficiaires à la démarche.  
+
+Ce mode de prise de décision a été acté par les contributeurs en septembre dernier.  
 
 ## 2.5	Quels sont les moyens nécessaires à la réalisation du projet ?
 
