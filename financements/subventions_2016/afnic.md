@@ -160,7 +160,7 @@ Actions nécessaires:
 * permettre à des organisations de présenter sur multiBàO des ressources depuis des Yeswiki: Colibris, Outils Réseaux, Tiriad, ... sont notamment concernés. L'équipe de Yeswiki - avec comme référent Florestan Bedrow - est motivée pour coder une solution opérationnelle. 
 * permettre à des organisations de présenter sur multiBàO des ressources depuis des Mediawiki: Movilab.org, Wiki Brest, ... sont notamment concernés. Simon Sarrazin de l'équipe Unisson serait intéressé pour creuser ce chantier. Pour l'instant en veille. 
 
-###### Action 1.4: Détourner l'utilisation actuelle de multiBàO 
+###### Action 1.4: Faciliter le détournement de l'utilisation actuelle de multiBàO 
 
 Si multiBàO permet d'interconnecter des ressources, d'autes usages sont possibles. Actuellement, les équipes de multiBàO mutualisent des ressources sur les approches collaboratives / gestion de produit innovant / démocratie participative, ... 
 Des équipes de développeurs tout comme des documentalistes nous ont demandé comment réutiliser multiBàO pour d'autres usages.
@@ -175,6 +175,17 @@ Actions nécessaires:
 * faciliter la prise en main de ces sites à travers une documentation fonctionnelle et des formations
 
 #### Action 2: conseiller et accompagner les contributeurs dans le partage de leurs savoir-faire
+
+
+
+Organiser dans les réseaux contributeurs des temps collectifs de formation 
+
+Co-écrire avec les contributeurs une documentation pédagogique et fonctionnelle 
+
+
+
+
+
 
 
  * co-écrire avec eux une documentation pédagogique
