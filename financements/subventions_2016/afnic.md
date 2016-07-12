@@ -160,20 +160,23 @@ Actions nécessaires:
 * permettre à des organisations de présenter sur multiBàO des ressources depuis des Yeswiki: Colibris, Outils Réseaux, Tiriad, ... sont notamment concernés. L'équipe de Yeswiki - avec comme référent Florestan Bedrow - est motivée pour coder une solution opérationnelle. 
 * permettre à des organisations de présenter sur multiBàO des ressources depuis des Mediawiki: Movilab.org, Wiki Brest, ... sont notamment concernés. Simon Sarrazin de l'équipe Unisson serait intéressé pour creuser ce chantier. Pour l'instant en veille. 
 
+###### Action 1.4: Détourner l'utilisation actuelle de multiBàO 
+
+Si multiBàO permet d'interconnecter des ressources, d'autes usages sont possibles. Actuellement, les équipes de multiBàO mutualisent des ressources sur les approches collaboratives / gestion de produit innovant / démocratie participative, ... 
+Des équipes de développeurs tout comme des documentalistes nous ont demandé comment réutiliser multiBàO pour d'autres usages.
+
+Déjà actuellement, la majorité des contributeurs utilise multiBàO pour présenter des supports de cours, présenter des partitions de guitare. Ce présent document (appel à projet fonction AFNIC) est visible sur http://multibao.org/#multibao/contributions/blob/master/financements/subventions_2016/afnic.md est nous l'avons modifié à plusieurs via l'éditeur de multibào. 
+
+A savoir: multiBàO est un opensource publiée sous licence Creative Commons 0 - soit dédié au Domaine Public. 
+
+Actions nécessaires: 
+
+* permettre à des visiteurs de créer des sites multiBàO personnalités
+* faciliter la prise en main de ces sites à travers une documentation fonctionnelle et des formations
+
+#### Action 2: conseiller et accompagner les contributeurs dans le partage de leurs savoir-faire
 
 
-
-
-
-
-
-
-
-
-
-
- * faciliter la capacité de visiteurs à extraire les données de multiBàO sous tous types de format pour réutilisation
-* conseiller et accompagner les contributeurs dans le partage de leurs savoir-faire
  * co-écrire avec eux une documentation pédagogique
  * mettre en place des sessions de visioconférences avec apprentissage pair à pair
  * former des contributeurs déjà actifs et animateurs de réseau
