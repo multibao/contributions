@@ -21,16 +21,13 @@ Quand tu es sur la page d'accueil de multiBàO, tu vois apparaître des équipes
 
 Côté [CPCOOP](http://multibao.org/#cpcoop), c'est la pratique des ateliers/réunions en présentiel qui est explorée. 
 
- 
 Le [collectif d'associations FR-BE-ES Coop-Tic](http://multibao.org/#supagroflorac/cooptic/tree/master/contributions) vous présente des ressources sur le travail collaboratif à distance et se focalise particulièrement sur l'utilisation d'outils numériques collaboratifs
 
- 
 L'[association Cresol](http://multibao.org/#RomainLalande/Cre-sol) permet d'approfondir la pratique d'outils numériques collaboratifs
  
 Le chercheur [Lilian Ricaud](http://multibao.org/#lilianricaud/travail-en-reseau), quant à lui, nous partage ses observations sur la [manière d'animer des événements participatifs, de [générer des biens communs](http://multibao.org/#lilianricaud/minga) ou encore de [travailler en réseau](http://multibao.org/#lilianricaud/travail-en-reseau).
-
  
--### Préparer ensemble un monde post-énergie fossiles 
+### Préparer ensemble un monde post-énergie fossiles 
  
 -L'[équipe de Réseau transition Belgique](http://multibao.org/#reseautransitionwb) qui nous présente ses pratiques collaboratives
 
