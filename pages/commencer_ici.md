@@ -44,7 +44,7 @@ La communauté [Démocratie Ouverte](http://multibao.org/#alecoz/democratie_ouve
  
 ### Médias citoyens
  
--Les journalistes du [média citoyen Onpassealacte](http://http://multibao.org/#onpassealacte) nous présentent en vidéo plusieurs dizaines d'initiatives citoyennes en matière d'habitat participation, démocratie, solidarité
+-Les journalistes du [média citoyen Onpassealacte](http://multibao.org/#onpassealacte) nous présentent en vidéo plusieurs dizaines d'initiatives citoyennes en matière d'habitat participation, démocratie, solidarité
 
  
 ## Pourquoi multiBàO ?
