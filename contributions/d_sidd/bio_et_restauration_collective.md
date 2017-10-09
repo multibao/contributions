@@ -6,7 +6,7 @@ published: false
 title: Contribution multibao
 ---
 
-#Des produits biologiques locaux en restauration collective
+# Des produits biologiques locaux en restauration collective
 
 **Fiche réalisée par la Fédération Nationale d'Agriculture Biologique (FNAB)** **[1](#note)** **[2](#note)**
 
